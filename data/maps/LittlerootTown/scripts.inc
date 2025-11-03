@@ -156,7 +156,7 @@ LittlerootTown_EventScript_GoInsideWithMom::
 	waitmovement 0
 	setflag FLAG_HIDE_LITTLEROOT_TOWN_MOM_OUTSIDE
 	setvar VAR_LITTLEROOT_INTRO_STATE, 3
-	hideobjectat LOCALID_PLAYER, 0
+	hideplayer
 	closedoor VAR_0x8004, VAR_0x8005
 	waitdooranim
 	clearflag FLAG_HIDE_LITTLEROOT_TOWN_FAT_MAN
@@ -1011,4 +1011,3 @@ LittlerootTown_Text_BirchSomethingToShowYouAtLab:
 	.string "yang kuberikan?\p"
 	.string "Ada yang ingin kutunjukkan padamu.\n"
 	.string "Ayo ke LAB-ku.$"
-
