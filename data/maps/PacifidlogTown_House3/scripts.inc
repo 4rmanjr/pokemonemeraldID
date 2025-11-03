@@ -51,39 +51,39 @@ PacifidlogTown_House3_EventScript_Girl::
 	end
 
 PacifidlogTown_House3_Text_WillingToTradeIt:
-	.string "Check out this {STR_VAR_2}!\p"
-	.string "It's the {STR_VAR_2} that I caught\n"
-	.string "yesterday to celebrate my birthday!\p"
-	.string "Oh, I can see that you want it!\n"
-	.string "After all, it's priceless!\p"
-	.string "I'll tell you what. I might be willing\n"
-	.string "to trade it for a {STR_VAR_1}.$"
+	.string "Lihatlah {STR_VAR_2} ini!\p"
+	.string "Ini adalah {STR_VAR_2} yang Aku tangkap\n"
+	.string "kemarin untuk merayakan ulang tahunku!\p"
+	.string "Oh, Aku bisa melihat kamu menginginkannya!\n"
+	.string "Bagaimanapun, itu tak ternilai harganya!\p"
+	.string "Aku akan memberitahumu. Aku mungkin bersedia\n"
+	.string "menukarkannya dengan {STR_VAR_1}.$"
 
 PacifidlogTown_House3_Text_ItsSubtlyDifferentThankYou:
-	.string "Oh, so this is a {STR_VAR_1}?\p"
-	.string "It's sort of like a {STR_VAR_2},\n"
-	.string "and yet it's subtly different.\p"
-	.string "Thank you!$"
+	.string "Oh, jadi ini {STR_VAR_1}?\p"
+	.string "Agak mirip {STR_VAR_2},\n"
+	.string "namun sedikit berbeda.\p"
+	.string "Terima kasih!$"
 
 PacifidlogTown_House3_Text_WontAcceptAnyLessThanRealMon:
-	.string "No, no, no! I won't accept any\n"
-	.string "less than a real {STR_VAR_1}!$"
+	.string "Tidak, tidak, tidak! Aku tidak akan menerima\n"
+	.string "yang kurang dari {STR_VAR_1} yang asli!$"
 
 PacifidlogTown_House3_Text_NotDesperateOrAnything:
-	.string "Oh, so you're not going to go through\n"
-	.string "with this?\p"
-	.string "That's cool. I'm not desperate to make\n"
-	.string "a trade or anything.$"
+	.string "Oh, jadi kamu tidak akan\n"
+	.string "melanjutkan ini?\p"
+	.string "Tidak apa-apa. Aku tidak putus asa untuk\n"
+	.string "melakukan pertukaran atau semacamnya.$"
 
 PacifidlogTown_House3_Text_ReallyWantedToGetBagon:
-	.string "I know I could go looking for one\n"
-	.string "on my own, but…\p"
-	.string "But I really wanted to get a BAGON\n"
-	.string "that another TRAINER caught…$"
+	.string "Aku tahu Aku bisa mencarinya\n"
+	.string "sendiri, tapi…\p"
+	.string "Tapi Aku sangat ingin mendapatkan BAGON\n"
+	.string "yang ditangkap TRAINER lain…$"
 
 PacifidlogTown_House3_Text_IsThatAPokedex:
-	.string "Is that a POKéDEX?\p"
-	.string "Did you get to meet a lot of different\n"
-	.string "POKéMON?\p"
-	.string "I wish I was like you.$"
+	.string "Apakah itu POKéDEX?\p"
+	.string "Apakah kamu bertemu banyak POKéMON\n"
+	.string "berbeda?\p"
+	.string "Aku berharap Aku sepertimu.$"
 

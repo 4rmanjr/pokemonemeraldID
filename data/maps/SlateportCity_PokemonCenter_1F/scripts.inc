@@ -1,3 +1,4 @@
+//gemini
 SlateportCity_PokemonCenter_1F_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, SlateportCity_PokemonCenter_1F_OnTransition
 	map_script MAP_SCRIPT_ON_RESUME, CableClub_OnResume
@@ -25,16 +26,18 @@ SlateportCity_PokemonCenter_1F_EventScript_Woman::
 	end
 
 SlateportCity_PokemonCenter_1F_Text_RaiseDifferentTypesOfPokemon:
-	.string "Want a tip for battling?\p"
-	.string "I'd say it's raising different kinds\n"
-	.string "of POKéMON in a balanced manner.\p"
-	.string "It's no good to make just one\n"
-	.string "POKéMON strong.\p"
-	.string "If it has a type disadvantage,\n"
-	.string "it might not stand a chance.$"
+	.string "Mau kiat untuk bertarung?\p"
+	.string "Aku akan bilang, itu adalah\n"
+	.string "membesarkan berbagai jenis POKéMON\l"
+	.string "dengan cara yang seimbang.\p"
+	.string "Tidak bagus jika hanya membuat satu\n"
+	.string "POKéMON menjadi kuat.\p"
+	.string "Jika memiliki kelemahan tipe,\n"
+	.string "mungkin tidak akan punya peluang.$"
 
 SlateportCity_PokemonCenter_1F_Text_TradedMonWithFriend:
-	.string "I trade POKéMON with my friends.\p"
-	.string "If a traded POKéMON is holding an\n"
-	.string "item, it makes me twice as happy!$"
-
+	.string "Aku menukar POKéMON dengan\n"
+	.string "teman-temanku.\p"
+	.string "Jika POKéMON yang ditukar membawa\n"
+	.string "item, itu membuatku dua kali lebih\l"
+	.string "senang!$"

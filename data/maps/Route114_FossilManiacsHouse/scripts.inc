@@ -1,3 +1,4 @@
+//gemini
 Route114_FossilManiacsHouse_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, Route114_FossilManiacsHouse_OnTransition
 	.byte 0
@@ -31,24 +32,24 @@ Route114_FossilManiacsHouse_EventScript_Bookshelf::
 	end
 
 Route114_FossilManiacsHouse_Text_HaveThisToDigLikeMyBrother:
-	.string "My big brother's the FOSSIL MANIAC…\n"
-	.string "He's a nice guy who loves FOSSILS…\p"
-	.string "He loves digging holes, too…\n"
-	.string "He dug this hole by himself…\p"
-	.string "You can have this, so you can DIG\n"
-	.string "holes just like my big brother…$"
+	.string "Kakakku adalah FOSSIL MANIAC… Dia\n"
+	.string "orang baik yang menyukai FOSSILS…\p"
+	.string "Dia juga suka menggali lubang… Dia\n"
+	.string "menggali lubang ini sendirian…\p"
+	.string "Kamu boleh ambil ini, agar Kamu bisa\n"
+	.string "DIG lubang persis seperti kakakku…$"
 
 Route114_FossilManiacsHouse_Text_DigReturnsYouToEntrance:
-	.string "If you make a POKéMON DIG inside a\n"
-	.string "cave, you're returned to the entrance…$"
+	.string "Jika Kamu membuat POKéMON melakukan\n"
+	.string "DIG di dalam gua, Kamu akan\l"
+	.string "dikembalikan ke pintu masuk…$"
 
 Route114_FossilManiacsHouse_Text_RocksFillDisplayCase:
-	.string "Rocks in peculiar shapes fill\n"
-	.string "the display case…$"
+	.string "Batu-batu dengan bentuk aneh memenuhi\n"
+	.string "kotak pajangan…$"
 
 Route114_FossilManiacsHouse_Text_CrammedWithBooks:
-	.string "THE COMPOSITION OF STRATA…\n"
-	.string "HOW RAIN SHAPES THE LAND…\l"
-	.string "STONES, SOIL, AND ROCK…\p"
-	.string "It's crammed with books.$"
-
+	.string "KOMPOSISI LAPISAN TANAH… BAGAIMANA\n"
+	.string "HUJAN MEMBENTUK DARATAN… BATU, TANAH,\l"
+	.string "DAN BEBATUAN…\p"
+	.string "Penuh sesak dengan buku.$"

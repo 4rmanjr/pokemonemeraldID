@@ -342,151 +342,151 @@ MossdeepCity_SpaceCenter_2F_EventScript_BrendanRayquazaCall::
 	return
 
 MossdeepCity_SpaceCenter_2F_Text_MossdeepIdealForRockets:
-	.string "MOSSDEEP has mainly sunny weather,\n"
-	.string "and its winds are stable.\p"
-	.string "It's an ideal location for launching\n"
-	.string "rockets.$"
+	.string "MOSSDEEP memiliki cuaca yang dominan cerah,\n"
+	.string "dan anginnya stabil.\p"
+	.string "Ini adalah lokasi yang ideal untuk\n"
+	.string "meluncurkan roket.$"
 
 MossdeepCity_SpaceCenter_2F_Text_WhyWouldMagmaStealRocketFuel:
-	.string "Why would TEAM MAGMA want to steal\n"
-	.string "our rocket fuel in the first place?$"
+	.string "Mengapa TEAM MAGMA ingin mencuri\n"
+	.string "bahan bakar roket kami?$"
 
 MossdeepCity_SpaceCenter_2F_Text_WouldveLikedToBeAstronaut:
-	.string "If only I was a little younger, I would\n"
-	.string "have liked being an astronaut…\p"
-	.string "No… It's not too late!\n"
-	.string "I can and will try!$"
+	.string "Andai saja Aku sedikit lebih muda, Aku pasti\n"
+	.string "akan senang menjadi seorang astronot…\p"
+	.string "Tidak… Belum terlambat!\n"
+	.string "Aku bisa dan akan mencoba!$"
 
 MossdeepCity_SpaceCenter_2F_Text_MagmaCantGetAwayWithThis:
-	.string "If TEAM MAGMA takes the rocket fuel,\n"
-	.string "I won't be able to go to space!\p"
-	.string "They can't be allowed to get away\n"
-	.string "with such an outrage!$"
+	.string "Jika TEAM MAGMA mengambil bahan bakar roket,\n"
+	.string "Aku tidak akan bisa pergi ke luar angkasa!\p"
+	.string "Mereka tidak boleh dibiarkan lolos\n"
+	.string "dengan perbuatan keji seperti itu!$"
 
 MossdeepCity_SpaceCenter_2F_Text_WishOrdinaryPeopleCouldGoIntoSpace:
-	.string "I wish ordinary people could go into\n"
-	.string "space one day…$"
+	.string "Aku berharap suatu hari nanti orang biasa\n"
+	.string "bisa pergi ke luar angkasa…$"
 
 MossdeepCity_SpaceCenter_2F_Text_DoesMagmaWantToGoToSpace:
 	.string "TEAM MAGMA…\n"
-	.string "Do they want to go to space, too?$"
+	.string "Apakah mereka juga ingin pergi ke luar angkasa?$"
 
 MossdeepCity_SpaceCenter_2F_Text_YoureOutnumberedTakeUsOn:
-	.string "What's wrong with you?\p"
-	.string "You're outnumbered three to one,\n"
-	.string "but you still want to take us on?$"
+	.string "Ada apa denganmu?\p"
+	.string "Kamu kalah jumlah tiga lawan satu,\n"
+	.string "tapi kamu masih ingin melawan kami?$"
 
 MossdeepCity_SpaceCenter_2F_Text_GoodAnswer:
-	.string "Good answer!\n"
-	.string "That's what a smart person'll do!$"
+	.string "Jawaban bagus!\n"
+	.string "Itu yang akan dilakukan orang cerdas!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt5Intro:
-	.string "A reckless go-getter, are you?\n"
-	.string "Okay, I'll go first!$"
+	.string "Kamu orang yang nekat, ya?\n"
+	.string "Baiklah, Aku duluan!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt5Defeat:
-	.string "I lost!\n"
-	.string "But!$"
+	.string "Aku kalah!\n"
+	.string "Tapi!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt6Intro:
-	.string "It's too soon to be relieved!\n"
-	.string "I'm up next!$"
+	.string "Terlalu cepat untuk merasa lega!\n"
+	.string "Sekarang giliranku!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt6Defeat:
-	.string "I lost, too!\n"
-	.string "But!$"
+	.string "Aku juga kalah!\n"
+	.string "Tapi!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt7Intro:
-	.string "I bet you want to take a break.\n"
-	.string "But I'm not about to let you do that!$"
+	.string "Aku yakin kamu ingin istirahat.\n"
+	.string "Tapi Aku tidak akan membiarkanmu melakukannya!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt7Defeat:
-	.string "We should've taken a break…\n"
-	.string "That's what we should've done…$"
+	.string "Seharusnya kami istirahat…\n"
+	.string "Itulah yang seharusnya kami lakukan…$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt6PostBattle:
-	.string "Three of us here, and look at the sorry\n"
-	.string "mess we got ourselves into.$"
+	.string "Tiga dari kami di sini, dan lihatlah\n"
+	.string "kekacauan yang kami alami.$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt7PostBattle:
-	.string "We three losing like this…\n"
-	.string "We look worse than usual by triple!$"
+	.string "Kami bertiga kalah seperti ini…\n"
+	.string "Kami terlihat tiga kali lebih buruk dari biasanya!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt5PostBattle:
-	.string "Are we being useful to our leader\n"
-	.string "at all?$"
+	.string "Apakah kami berguna bagi pemimpin kami\n"
+	.string "sama sekali?$"
 
 MossdeepCity_SpaceCenter_2F_Text_WellTakeCareOfYou:
 	.string "Hehehe!\p"
-	.string "We come all the way here to get some\n"
-	.string "fuel, and we're interfered with again!\p"
-	.string "If you're going to mess with us too,\n"
-	.string "we'll take care of you at the same time!$"
+	.string "Kami datang jauh-jauh ke sini untuk mendapatkan\n"
+	.string "bahan bakar, dan kami diganggu lagi!\p"
+	.string "Jika kamu juga akan mengganggu kami,\n"
+	.string "kami akan mengurusmu sekaligus!$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieDontInterfere:
-	.string "MAXIE: Clear out of the way!\n"
-	.string "Don't you dare interfere!$"
+	.string "MAXIE: Minggir!\n"
+	.string "Jangan berani-berani ikut campur!$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenWhyStealRocketFuel:
 	.string "STEVEN: TEAM MAGMA…\p"
-	.string "What's the point of stealing rocket\n"
-	.string "fuel?$"
+	.string "Apa gunanya mencuri bahan bakar\n"
+	.string "roket?$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieUseFuelToEruptVolcano:
-	.string "MAXIE: Fufufu… Since you're so\n"
-	.string "curious, you deserve an explanation.\p"
-	.string "We're going to jettison the entire\n"
-	.string "load into MT. CHIMNEY!\p"
-	.string "With GROUDON gone, we have no need\n"
-	.string "for that slag heap of a mountain!\p"
-	.string "So we'll use the fuel's power to make\n"
-	.string "the volcano erupt!\p"
-	.string "It will be savage!$"
+	.string "MAXIE: Fufufu… Karena kamu begitu\n"
+	.string "penasaran, kamu pantas mendapatkan penjelasan.\p"
+	.string "Kami akan membuang seluruh\n"
+	.string "muatan ke GUNUNG CHIMNEY!\p"
+	.string "Dengan GROUDON yang pergi, kami tidak membutuhkan\n"
+	.string "gunung sampah itu!\p"
+	.string "Jadi kami akan menggunakan kekuatan bahan bakar untuk membuat\n"
+	.string "gunung berapi meletus!\p"
+	.string "Ini akan menjadi buas!$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenAreYouReadyToBattle:
 	.string "STEVEN: {PLAYER}{KUN}!\n"
-	.string "You're going to help me?\p"
-	.string "Let's go into battle together!\n"
-	.string "Are you ready?$"
+	.string "Kamu akan membantuku?\p"
+	.string "Ayo bertarung bersama!\n"
+	.string "Apakah kamu siap?$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenHurryGetReadyQuickly:
-	.string "STEVEN: Then, hurry!\n"
-	.string "Get ready quickly!$"
+	.string "STEVEN: Kalau begitu, cepatlah!\n"
+	.string "Bersiaplah dengan cepat!$"
 
 MossdeepCity_SpaceCenter_2F_Text_JustWantToExpandLand:
-	.string "All I want…\n"
-	.string "I just want to expand the land mass…$"
+	.string "Yang Aku inginkan hanyalah…\n"
+	.string "Aku hanya ingin memperluas daratan…$"
 
 MossdeepCity_SpaceCenter_Text_TabithaDefeat:
-	.string "I'm with our leader…$"
+	.string "Aku bersama pemimpin kami…$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieWeFailedIsAquaAlsoMisguided:
-	.string "MAXIE: We failed to make the volcano\n"
-	.string "erupt…\p"
-	.string "We failed to control GROUDON after\n"
-	.string "we had awoken it…\p"
-	.string "Is our goal to expand the land\n"
-	.string "misguided?\p"
+	.string "MAXIE: Kami gagal membuat gunung berapi\n"
+	.string "meletus…\p"
+	.string "Kami gagal mengendalikan GROUDON setelah\n"
+	.string "kami membangunkannya…\p"
+	.string "Apakah tujuan kami untuk memperluas daratan\n"
+	.string "itu salah arah?\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
-	.string "If…\n"
-	.string "If we, TEAM MAGMA, are wrong…\l"
+	.string "Jika…\n"
+	.string "Jika kami, TEAM MAGMA, salah…\l"
 	.string "… … … … … …\p"
-	.string "Then might TEAM AQUA's goal to expand\n"
-	.string "the sea also be equally misguided?$"
+	.string "Maka mungkinkah tujuan TEAM AQUA untuk memperluas\n"
+	.string "lautan juga sama salah arahnya?$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieWeWillGiveUp:
-	.string "MAXIE: All right…\n"
-	.string "We will give up on the fuel…\p"
-	.string "There appear to be more important\n"
-	.string "matters that I must examine…$"
+	.string "MAXIE: Baiklah…\n"
+	.string "Kami akan menyerah pada bahan bakar itu…\p"
+	.string "Tampaknya ada hal yang lebih penting\n"
+	.string "yang harus Aku periksa…$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenThankYouComeSeeMeAtHome:
-	.string "STEVEN: Whew, that was too tense.\n"
-	.string "{PLAYER}{KUN}, thank you.\p"
-	.string "I have something to give you as\n"
-	.string "thanks for your support.\p"
-	.string "Please come see me at home\n"
-	.string "after this.\p"
-	.string "Oh, yes, I don't live in RUSTBORO CITY.\n"
-	.string "I live right here on this island.$"
+	.string "STEVEN: Wah, itu terlalu menegangkan.\n"
+	.string "{PLAYER}{KUN}, terima kasih.\p"
+	.string "Aku punya sesuatu untuk diberikan kepadamu sebagai\n"
+	.string "ucapan terima kasih atas dukunganmu.\p"
+	.string "Tolong temui Aku di rumah\n"
+	.string "setelah ini.\p"
+	.string "Oh, ya, Aku tidak tinggal di KOTA RUSTBORO.\n"
+	.string "Aku tinggal di pulau ini.$"

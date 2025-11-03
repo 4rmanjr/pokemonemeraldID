@@ -119,100 +119,112 @@ VictoryRoad_1F_EventScript_Katelynn::
 	end
 
 VictoryRoad_1F_Text_WallyNotGoingToLoseAnymore:
-	.string "WALLY: Hi! {PLAYER}!\p"
-	.string "I bet you're surprised to see me here!\p"
-	.string "I made it all the way here, and it's\n"
-	.string "all thanks to you!\p"
-	.string "{PLAYER}, losing to you that time\n"
-	.string "made me stronger!\p"
-	.string "But I'm not going to lose anymore!\p"
-	.string "I'm going to win! For the POKéMON who\n"
-	.string "gave me courage and strength!\p"
-	.string "Okay… Here I come!$"
+	.string "WALLY: Hai! {PLAYER}!\p"
+	.string "Aku yakin kamu terkejut\n"
+	.string "melihatku di sini!\p"
+	.string "Aku berhasil sampai sejauh ini,\n"
+	.string "& itu semua berkat kamu!\p"
+	.string "{PLAYER}, kalah darimu waktu itu\n"
+	.string "membuatku lebih kuat!\p"
+	.string "Tapi aku tidak akan kalah lagi!\p"
+	.string "Aku akan menang! Demi POKéMON\n"
+	.string "yang memberiku keberanian & kekuatan!\p"
+	.string "Oke… Aku datang!$"
 
 VictoryRoad_1F_Text_WallyEntranceDefeat:
 	.string "Wow!\n"
-	.string "{PLAYER}, you are strong, after all!$"
+	.string "{PLAYER}, kamu memang kuat!$"
 
 VictoryRoad_1F_Text_WallyPostEntranceBattle:
-	.string "WALLY: I couldn't beat you today,\n"
-	.string "{PLAYER}, but one of these days, I'll\l"
-	.string "catch up to you!$"
+	.string "WALLY: Aku tidak bisa mengalahkanmu\n"
+	.string "hari ini, {PLAYER}, tapi suatu hari\l"
+	.string "nanti, aku akan menyusulmu!$"
 
 VictoryRoad_1F_Text_WallyIntro:
-	.string "WALLY: Hi! {PLAYER}!\p"
-	.string "I've gotten stronger since that last\n"
-	.string "time! I wanted to show you, {PLAYER}!\p"
-	.string "Okay… Here I come!$"
+	.string "WALLY: Hai! {PLAYER}!\p"
+	.string "Aku sudah lebih kuat sejak\n"
+	.string "terakhir kali! Aku ingin\l"
+	.string "menunjukkannya padamu, {PLAYER}!\p"
+	.string "Oke… Aku datang!$"
 
 VictoryRoad_1F_Text_WallyDefeat:
 	.string "Wow!\n"
-	.string "{PLAYER}, you are strong, after all!$"
+	.string "{PLAYER}, kamu memang kuat!$"
 
 VictoryRoad_1F_Text_WallyPostBattle:
-	.string "WALLY: I couldn't beat you this time,\n"
-	.string "too… But one of these days, {PLAYER},\l"
-	.string "I'm going to catch up to you…\p"
-	.string "And challenge the POKéMON LEAGUE!$"
+	.string "WALLY: Aku tidak bisa mengalahkanmu\n"
+	.string "kali ini juga… Tapi suatu hari\l"
+	.string "nanti, {PLAYER}, aku akan\l"
+	.string "menyusulmu… & menantang POKéMON\l"
+	.string "LEAGUE!$"
 
 VictoryRoad_1F_Text_EdgarIntro:
-	.string "I've made it this far a couple times,\n"
-	.string "but the last stretch is so long…$"
+	.string "Aku sudah sampai sejauh ini\n"
+	.string "beberapa kali, tapi bagian\l"
+	.string "terakhirnya sangat panjang…$"
 
 VictoryRoad_1F_Text_EdgarDefeat:
-	.string "My dream ends here again…$"
+	.string "Mimpiku berakhir di sini lagi…$"
 
 VictoryRoad_1F_Text_EdgarPostBattle:
-	.string "You've made it this far. Keep the\n"
-	.string "momentum going and become the\l"
-	.string "CHAMPION! If anyone can, it's you!$"
+	.string "Kamu sudah sampai sejauh ini.\n"
+	.string "Pertahankan momentum & jadilah\l"
+	.string "JUARA! Jika ada yang bisa,\l"
+	.string "itu kamu!$"
 
 VictoryRoad_1F_Text_AlbertIntro:
-	.string "I didn't come all this way to lose now.\n"
-	.string "That possibility doesn't exist!$"
+	.string "Aku tidak datang sejauh ini\n"
+	.string "untuk kalah sekarang.\l"
+	.string "Kemungkinan itu tidak ada!$"
 
 VictoryRoad_1F_Text_AlbertDefeat:
-	.string "Impossible…\n"
-	.string "I lost?$"
+	.string "Mustahil…\n"
+	.string "Aku kalah?$"
 
 VictoryRoad_1F_Text_AlbertPostBattle:
-	.string "I lost here…\p"
-	.string "That means I lack the qualifications\n"
-	.string "to become the CHAMPION…$"
+	.string "Aku kalah di sini…\p"
+	.string "Itu berarti aku tidak memiliki\n"
+	.string "kualifikasi untuk menjadi\l"
+	.string "JUARA…$"
 
 VictoryRoad_1F_Text_HopeIntro:
-	.string "This seemingly infinite and harsh road\n"
-	.string "lives up to its name of VICTORY.$"
+	.string "Jalan yang tampaknya tak terbatas\n"
+	.string "& berat ini sesuai dengan\l"
+	.string "namanya, JALAN KEMENANGAN.$"
 
 VictoryRoad_1F_Text_HopeDefeat:
-	.string "Your battle style is fantastic…$"
+	.string "Gaya bertarungmu luar biasa…$"
 
 VictoryRoad_1F_Text_HopePostBattle:
-	.string "You seem to have the potential for\n"
-	.string "becoming the CHAMPION.$"
+	.string "Kamu tampaknya memiliki potensi\n"
+	.string "untuk menjadi JUARA.$"
 
 VictoryRoad_1F_Text_QuincyIntro:
-	.string "What is the VICTORY ROAD?\n"
-	.string "I'll tell you if you win!$"
+	.string "Apa itu JALAN KEMENANGAN?\n"
+	.string "Aku akan memberitahumu jika\l"
+	.string "kamu menang!$"
 
 VictoryRoad_1F_Text_QuincyDefeat:
-	.string "Okay!\n"
-	.string "Well done!$"
+	.string "Oke!\n"
+	.string "Bagus sekali!$"
 
 VictoryRoad_1F_Text_QuincyPostBattle:
-	.string "Getting through here safely--that's\n"
-	.string "the final test for any TRAINER aiming\l"
-	.string "to become the POKéMON CHAMPION.\p"
-	.string "That's why it's called the VICTORY\n"
-	.string "ROAD.$"
+	.string "Melewati sini dengan aman-\n"
+	.string "itu adalah ujian terakhir bagi\l"
+	.string "setiap TRAINER yang bertujuan\l"
+	.string "menjadi JUARA POKéMON.\p"
+	.string "Itulah mengapa disebut JALAN\n"
+	.string "KEMENANGAN.$"
 
 VictoryRoad_1F_Text_KatelynnIntro:
-	.string "I have nothing to say to anyone\n"
-	.string "that's come this far. Come on!$"
+	.string "Aku tidak punya apa-apa untuk\n"
+	.string "dikatakan kepada siapa pun\l"
+	.string "yang sudah sampai sejauh ini.\l"
+	.string "Ayo!$"
 
 VictoryRoad_1F_Text_KatelynnDefeat:
-	.string "This is a disgrace…$"
+	.string "Ini memalukan…$"
 
 VictoryRoad_1F_Text_KatelynnPostBattle:
-	.string "Humph, go right on ahead.\n"
-	.string "See if I care.$"
+	.string "Cih, silakan saja.\n"
+	.string "Lihat saja kalau aku peduli.$"

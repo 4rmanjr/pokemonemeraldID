@@ -60,25 +60,26 @@ EverGrandeCity_PhoebesRoom_EventScript_Defeated::
 
 EverGrandeCity_PhoebesRoom_Text_IntroSpeech:
 	.string "Ahahaha!\p"
-	.string "I'm PHOEBE of the ELITE FOUR.\n"
-	.string "I did my training on MT. PYRE.\p"
-	.string "While I trained, I gained the ability\n"
-	.string "to commune with GHOST-type POKéMON.\p"
-	.string "Yes, the bond I developed with POKéMON\n"
-	.string "is extremely tight.\p"
-	.string "So, come on, just try and see if you can\n"
-	.string "even inflict damage on my POKéMON!$"
+	.string "Aku PHOEBE dari ELITE FOUR.\n"
+	.string "Aku berlatih di MT. PYRE.\p"
+	.string "Selama berlatih, aku mendapatkan kemampuan\n"
+	.string "untuk berkomunikasi dengan POKéMON tipe\l"
+	.string "GHOST.\p"
+	.string "Ya, ikatan yang kubangun dengan POKéMON\n"
+	.string "sangatlah erat.\p"
+	.string "Jadi, ayo, coba saja lihat apakah kamu\n"
+	.string "bisa melukai POKéMON-ku!$"
 
 EverGrandeCity_PhoebesRoom_Text_Defeat:
-	.string "Oh, darn.\n"
-	.string "I've gone and lost.$"
+	.string "Oh, sial.\n"
+	.string "Aku kalah.$"
 
 EverGrandeCity_PhoebesRoom_Text_PostBattleSpeech:
-	.string "There's a definite bond between you\n"
-	.string "and your POKéMON, too.\p"
-	.string "I didn't recognize it, so it's only\n"
-	.string "natural that I lost.\p"
-	.string "Yup, I'd like to see how far your bond\n"
-	.string "will carry you.\p"
-	.string "Go ahead, move on to the next room.$"
+	.string "Ada ikatan yang pasti antara kamu dan\n"
+	.string "POKéMON-mu juga.\p"
+	.string "Aku tidak menyadarinya, jadi wajar saja\n"
+	.string "jika aku kalah.\p"
+	.string "Yup, aku ingin melihat seberapa jauh\n"
+	.string "ikatanmu akan membawamu.\p"
+	.string "Silakan, lanjutkan ke ruangan berikutnya.$"
 

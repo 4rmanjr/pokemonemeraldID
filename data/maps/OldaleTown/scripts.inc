@@ -340,58 +340,58 @@ OldaleTown_Movement_ReturnToOriginalPosition:
 	step_end
 
 OldaleTown_Text_SavingMyProgress:
-	.string "I want to take a rest, so I'm saving my\n"
-	.string "progress.$"
+	.string "Aku ingin beristirahat, jadi Aku akan\n"
+	.string "menyimpan progresku.$"
 
 OldaleTown_Text_IWorkAtPokemonMart:
-	.string "Hi!\n"
-	.string "I work at a POKéMON MART.\p"
-	.string "Can I get you to come with me?$"
+	.string "Hai!\n"
+	.string "Aku bekerja di POKéMON MART.\p"
+	.string "Maukah kamu ikut denganku?$"
 
 OldaleTown_Text_ThisIsAPokemonMart:
-	.string "This is a POKéMON MART.\n"
-	.string "Just look for our blue roof.\p"
-	.string "We sell a variety of goods including\n"
-	.string "POKé BALLS for catching POKéMON.\p"
-	.string "Here, I'd like you to have this as\n"
-	.string "a promotional item.$"
+	.string "Ini adalah POKéMON MART.\n"
+	.string "Cari saja atap biru kami.\p"
+	.string "Kami menjual berbagai barang termasuk\n"
+	.string "POKé BALLS untuk menangkap POKéMON.\p"
+	.string "Ini, Aku ingin kamu memiliki ini\n"
+	.string "sebagai item promosi.$"
 
 OldaleTown_Text_PotionExplanation:
-	.string "A POTION can be used anytime, so it's\n"
-	.string "even more useful than a POKéMON CENTER\l"
-	.string "in certain situations.$"
+	.string "POTION bisa digunakan kapan saja, jadi\n"
+	.string "lebih berguna dari POKéMON CENTER\l"
+	.string "dalam situasi tertentu.$"
 
 OldaleTown_Text_WaitDontComeInHere:
-	.string "Aaaaah! Wait!\n"
-	.string "Please don't come in here.\p"
-	.string "I just discovered the footprints of\n"
-	.string "a rare POKéMON!\p"
-	.string "Wait until I finish sketching\n"
-	.string "them, okay?$"
+	.string "Aaaaah! Tunggu!\n"
+	.string "Tolong jangan masuk ke sini.\p"
+	.string "Aku baru saja menemukan jejak kaki\n"
+	.string "POKéMON langka!\p"
+	.string "Tunggu sampai Aku selesai menggambar\n"
+	.string "mereka, oke?$"
 
 OldaleTown_Text_DiscoveredFootprints:
-	.string "I just discovered the footprints of\n"
-	.string "a rare POKéMON!\p"
-	.string "Wait until I finish sketching\n"
-	.string "them, okay?$"
+	.string "Aku baru saja menemukan jejak kaki\n"
+	.string "POKéMON langka!\p"
+	.string "Tunggu sampai Aku selesai menggambar\n"
+	.string "mereka, oke?$"
 
 OldaleTown_Text_FinishedSketchingFootprints:
-	.string "I finished sketching the footprints of\n"
-	.string "a rare POKéMON.\p"
-	.string "But it turns out they were only my\n"
-	.string "own footprints…$"
+	.string "Aku selesai menggambar jejak kaki\n"
+	.string "POKéMON langka.\p"
+	.string "Tapi ternyata itu hanya jejak\n"
+	.string "kakiku sendiri…$"
 
 OldaleTown_Text_MayLetsGoBack:
 	.string "MAY: {PLAYER}{KUN}!\n"
-	.string "Over here!\l"
-	.string "Let's hurry home!$"
+	.string "Lewat sini!\l"
+	.string "Ayo cepat pulang!$"
 
 OldaleTown_Text_BrendanLetsGoBack:
-	.string "BRENDAN: I'm heading back to my dad's\n"
-	.string "LAB now.\l"
-	.string "{PLAYER}, you should hustle back, too.$"
+	.string "BRENDAN: Aku kembali ke LAB\n"
+	.string "ayahku sekarang.\l"
+	.string "{PLAYER}, kamu juga harus cepat kembali.$"
 
 OldaleTown_Text_TownSign:
-	.string "OLDALE TOWN\n"
-	.string "“Where things start off scarce.”$"
+	.string "KOTA OLDALE\n"
+	.string "“Di mana segala sesuatu mulai langka.”$"
 

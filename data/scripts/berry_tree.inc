@@ -257,91 +257,90 @@ BerryTree_EventScript_PlantBerry::
 	return
 
 BerryTree_Text_ItsSoftLoamySoil:
-	.string "It's soft, loamy soil.$"
+	.string "Tanahnya gembur.$"
 
 BerryTree_Text_WantToPlant:
-	.string "It's soft, loamy soil.\n"
-	.string "Want to plant a BERRY?$"
+	.string "Tanahnya gembur.\n"
+	.string "Kamu ingin menanam BERRY?$"
 
 BerryTree_Text_PlantedOneBerry:
-	.string "{PLAYER} planted one {STR_VAR_1} in\n"
-	.string "the soft, loamy soil.$"
+	.string "{PLAYER} menanam satu {STR_VAR_1} di\n"
+	.string "tanah yang gembur.$"
 
 BerryTree_Text_BerryGrowthStage1:
 .if OW_BERRY_SIX_STAGES == TRUE
-	.string "This is where you planted the\n{STR_VAR_1}!$"
+	.string "Di sinilah kamu menanam {STR_VAR_1}!$"
 .else
-	.string "One {STR_VAR_1} was planted here.$"
+	.string "Satu {STR_VAR_1} ditanam di sini.$"
 .endif
 
 BerryTree_Text_BerryGrowthStage2:
 .if OW_BERRY_SIX_STAGES == TRUE
-	.string "The {STR_VAR_1} is sprouting!$"
+	.string "{STR_VAR_1} bertunas!$"
 .else
-	.string "{STR_VAR_1} has sprouted.$"
+	.string "{STR_VAR_1} telah bertunas.$"
 .endif
 
 BerryTree_Text_BerryGrowthStage3:
 .if OW_BERRY_SIX_STAGES == TRUE
-	.string "The {STR_VAR_1}'s seedling is growing well!$"
+	.string "Bibit {STR_VAR_1} tumbuh dengan baik!$"
 .else
-	.string "This {STR_VAR_1} plant is growing taller.$"
+	.string "Tanaman {STR_VAR_1} ini tumbuh lebih tinggi.$"
 .endif
 
 BerryTree_Text_BerryGrowthStageTrunk:
-	.string "The {STR_VAR_1}'s trunk is getting bigger!$"
+	.string "Batang {STR_VAR_1} semakin besar!$"
 
 BerryTree_Text_BerryGrowthStageBudding:
-	.string "The {STR_VAR_1} tree has buds!$"
+	.string "Pohon {STR_VAR_1} memiliki kuncup!$"
 
 BerryTree_Text_BerryGrowthStage4:
 .if OW_BERRY_SIX_STAGES == TRUE
-	.string "The {STR_VAR_1} tree is in bloom!$"
+	.string "Pohon {STR_VAR_1} sedang mekar!$"
 .else
-	.string "These {STR_VAR_1} flowers are blooming\n"
+	.string "Bunga {STR_VAR_1} ini mekar\n"
 	.string "{STR_VAR_2}.$"
 .endif
 
 BerryTree_Text_CareAdverbGreat:
-	.string "very beautifully$"
+	.string "sangat indah$"
 
 BerryTree_Text_CareAdverbPoor:
-	.string "cutely$"
+	.string "imut$"
 
 BerryTree_Text_CareAdverbGood:
-	.string "prettily$"
+	.string "cantik$"
 
 BerryTree_Text_WantToPick:
-	.string "You found {STR_VAR_2} {STR_VAR_1}!\p"
-	.string "Do you want to pick the\n"
+	.string "Kamu menemukan {STR_VAR_2} {STR_VAR_1}!\p"
+	.string "Kamu ingin memetik\n"
 	.string "{STR_VAR_1}?$"
 
 BerryTree_Text_PickedTheBerry:
-	.string "{PLAYER} picked the {STR_VAR_2} {STR_VAR_1}.$"
+	.string "{PLAYER} memetik {STR_VAR_2} {STR_VAR_1}.$"
 
 BerryTree_Text_PutAwayBerry:
-	.string "{PLAYER} put away the {STR_VAR_1}\n"
-	.string "in the BAG's BERRIES POCKET.\p"
-	.string "The soil returned to its soft and\n"
-	.string "loamy state.$"
+	.string "{PLAYER} menyimpan {STR_VAR_1}\n"
+	.string "di KANTONG BERRIES TAS.\p"
+	.string "Tanahnya kembali gembur.$"
 
 BerryTree_Text_BerryPocketFull:
-	.string "The BAG's BERRIES POCKET is full.\p"
-	.string "The {STR_VAR_1} couldn't be taken.$"
+	.string "KANTONG BERRIES TAS-mu penuh.\p"
+	.string "{STR_VAR_1} tidak dapat diambil.$"
 
 BerryTree_Text_BerryLeftUnpicked:
-	.string "{PLAYER} left the {STR_VAR_1}\n"
-	.string "unpicked.$"
+	.string "{PLAYER} meninggalkan {STR_VAR_1}\n"
+	.string "yang tidak dipetik.$"
 
 BerryTree_Text_WantToWater:
-	.string "Want to water the {STR_VAR_1} with the\n"
+	.string "Kamu ingin menyiram {STR_VAR_1} dengan\n"
 	.string "WAILMER PAIL?$"
 
 BerryTree_Text_WateredTheBerry:
-	.string "{PLAYER} watered the {STR_VAR_1}.$"
+	.string "{PLAYER} menyiram {STR_VAR_1}.$"
 
 BerryTree_Text_PlantIsDelighted:
-	.string "The plant seems to be delighted.$"
+	.string "Tanaman itu terlihat senang.$"
 
 BerryTree_Text_ExclamationPoint:
 	.string "!$"
@@ -381,29 +380,28 @@ BerryTree_EventScript_PickBerry_Mutation::
 	end
 
 BerryTree_Text_WantToPick_Mutation:
-	.string "You found {STR_VAR_2} {STR_VAR_1}\n"
-	.string "and 1 {STR_VAR_3}!\p"
-	.string "Do you want to pick them?$"
+	.string "Kamu menemukan {STR_VAR_2} {STR_VAR_1}\n"
+	.string "dan 1 {STR_VAR_3}!\p"
+	.string "Kamu ingin memetiknya?$"
 
 BerryTree_Text_BerryLeftUnpicked_Mutation:
-	.string "{PLAYER} left the {STR_VAR_1}\n"
-	.string "and the {STR_VAR_3} unpicked.$"
+	.string "{PLAYER} meninggalkan {STR_VAR_1}\n"
+	.string "dan {STR_VAR_3} yang tidak dipetik.$"
 
 BerryTree_Text_BerryPocketFull_Mutation:
-	.string "The BAG's BERRIES POCKET is full.\p"
-	.string "The {STR_VAR_1} and the\n"
-	.string "{STR_VAR_3} couldn't be taken.$"
+	.string "KANTONG BERRIES TAS-mu penuh.\p"
+	.string "{STR_VAR_1} dan {STR_VAR_3}\n"
+	.string "tidak dapat diambil.$"
 
 BerryTree_Text_PickedTheBerry_Mutation:
-	.string "{PLAYER} picked the {STR_VAR_2} {STR_VAR_1}\n"
-	.string "and the {STR_VAR_3}.$"
+	.string "{PLAYER} memetik {STR_VAR_2} {STR_VAR_1}\n"
+	.string "dan {STR_VAR_3}.$"
 
 BerryTree_Text_PutAwayBerry_Mutation:
-	.string "{PLAYER} put away the {STR_VAR_1}\n"
-	.string "and the {STR_VAR_3} in the BAG's\l"
-	.string "BERRIES POCKET.\p"
-	.string "The soil returned to its soft and\n"
-	.string "loamy state.$"
+	.string "{PLAYER} menyimpan {STR_VAR_1}\n"
+	.string "dan {STR_VAR_3} di KANTONG\l"
+	.string "BERRIES TAS.\p"
+	.string "Tanahnya kembali gembur.$"
 .endif
 
 .if OW_BERRY_MULCH_USAGE == TRUE
@@ -415,12 +413,12 @@ BerryTree_EventScript_UseMulch::
 	return
 
 BerryTree_Text_WantToMulch:
-	.string "It's soft, loamy soil.\n"
-	.string "Put down some fertilizer?$"
+	.string "Tanahnya gembur.\n"
+	.string "Kamu ingin memberi pupuk?$"
 
 BerryTree_Text_ScatteredMulch:
-	.string "{PLAYER} scattered the {STR_VAR_1}\n"
-	.string "on the soft, loamy soil.$"
+	.string "{PLAYER} menyebarkan {STR_VAR_1}\n"
+	.string "di tanah yang gembur.$"
 .endif
 
 .if OW_BERRY_WEEDS == TRUE
@@ -442,11 +440,11 @@ BerryTree_EventScript_PullOutWeed::
 	return
 
 BerryTree_Text_WeedIsGrowing:
-	.string "A weed is growing here.\n"
-	.string "Do you want to pull it out?$"
+	.string "Ada gulma tumbuh di sini.\n"
+	.string "Kamu ingin mencabutnya?$"
 
 BerryTree_Text_PulledOutTheWeed:
-	.string "{PLAYER} pulled out the weed!$"
+	.string "{PLAYER} mencabut gulma!$"
 .endif
 
 .if OW_BERRY_PESTS == TRUE
@@ -463,5 +461,5 @@ BerryTree_EventScript_EncounterPests::
 	return
 
 BerryTree_Text_APokemonAppeared:
-	.string "A Pokémon appeared!$"
+	.string "Pokémon muncul!$"
 .endif

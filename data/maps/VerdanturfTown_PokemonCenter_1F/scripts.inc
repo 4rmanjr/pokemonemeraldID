@@ -1,3 +1,4 @@
+//gemini
 VerdanturfTown_PokemonCenter_1F_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, VerdanturfTown_PokemonCenter_1F_OnTransition
 	map_script MAP_SCRIPT_ON_RESUME, CableClub_OnResume
@@ -25,18 +26,15 @@ VerdanturfTown_PokemonCenter_1F_EventScript_ExpertM::
 	end
 
 VerdanturfTown_PokemonCenter_1F_Text_FaithInYourPokemon:
-	.string "You can't consider yourself a real\n"
-	.string "TRAINER if you don't have faith\l"
-	.string "in your POKéMON.\p"
-	.string "Only those people who can believe\n"
-	.string "in their battling POKéMON can win\l"
-	.string "through to the very end.$"
+	.string "Kamu tak bisa jadi TRAINER sejati\n"
+	.string "jika tak percaya POKéMON-mu.\p"
+	.string "Hanya orang yang percaya pada\n"
+	.string "POKéMON yang bertarunglah\l"
+	.string "yang bisa menang sampai akhir.$"
 
 VerdanturfTown_PokemonCenter_1F_Text_VisitForBattleTent:
-	.string "The reason why anyone would visit\n"
-	.string "VERDANTURF…\p"
-	.string "It's the BATTLE TENT. It goes without\n"
-	.string "saying.\p"
-	.string "Or is there somebody here that you\n"
-	.string "came to see?$"
-
+	.string "Alasan mengapa orang mengunjungi\n"
+	.string "VERDANTURF… Itu BATTLE TENT.\p"
+	.string "Sudah jelas.\p"
+	.string "Atau apakah ada seseorang di sini\n"
+	.string "yang kamu datang untuk temui?$"

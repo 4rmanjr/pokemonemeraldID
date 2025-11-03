@@ -1015,278 +1015,305 @@ RustboroCity_EventScript_Boy1::
 	end
 
 RustboroCity_Text_WeShortenItToDevon:
-	.string "The DEVON CORPORATION…\n"
-	.string "We all just shorten it to DEVON.\p"
-	.string "That company makes all sorts of\n"
-	.string "convenient products.$"
+	.string "DEVON CORPORATION… Kami semua\n"
+	.string "singkat menjadi DEVON.\p"
+	.string "Perusahaan itu membuat berbagai\n"
+	.string "macam produk yang praktis.$"
 
 RustboroCity_Text_SneakyLookingManWentAroundCorner:
-	.string "Hm? A sneaky-looking man?\p"
-	.string "Come to think of it, yes, a shady-\n"
-	.string "looking guy went around the corner.$"
+	.string "Hm? Seorang pria yang terlihat\n"
+	.string "mencurigakan?\p"
+	.string "Kalau dipikir-pikir, ya, ada pria\n"
+	.string "berpenampilan lusuh yang berbelok\l"
+	.string "di tikungan.$"
 
 RustboroCity_Text_HaveYouChallengedGym:
-	.string "Have you taken the POKéMON GYM\n"
-	.string "challenge?\p"
-	.string "When you get that shiny GYM BADGE\n"
-	.string "in hand, I guess TRAINERS begin to\l"
-	.string "realize what is required of them.$"
+	.string "Apakah Kamu sudah mengikuti\n"
+	.string "tantangan POKéMON GYM?\p"
+	.string "Saat Kamu mendapatkan LENCANA GYM\n"
+	.string "yang berkilauan itu, Aku rasa\l"
+	.string "TRAINER mulai menyadari apa yang\n"
+	.string "dituntut dari mereka.$"
 
 RustboroCity_Text_HeyThatsRustborosGymBadge:
-	.string "Hey, that's RUSTBORO's GYM BADGE!\p"
-	.string "Out of all the POKéMON GYM BADGES,\n"
-	.string "RUSTBORO's is the coolest, I'd say.$"
+	.string "Hei, itu LENCANA GYM RUSTBORO!\p"
+	.string "Dari semua LENCANA GYM POKéMON,\n"
+	.string "RUSTBORO adalah yang paling keren,\l"
+	.string "menurutku.$"
 
 RustboroCity_Text_YoureNewAroundHere:
-	.string "Oh? Who might you be?\n"
-	.string "You're a new face around these parts.\p"
-	.string "Have you just transferred into the\n"
-	.string "POKéMON TRAINER'S SCHOOL?$"
+	.string "Oh? Siapa Kamu? Kamu wajah baru di\n"
+	.string "sekitar sini.\p"
+	.string "Apakah Kamu baru saja pindah ke\n"
+	.string "SEKOLAH TRAINER POKéMON?$"
 
 RustboroCity_Text_GymLeaderIsntEasyWithFire:
-	.string "I challenged the GYM LEADER, but…\p"
-	.string "It's not going to be easy winning with\n"
-	.string "my FIRE-type POKéMON…\p"
-	.string "FIRE-type POKéMON don't match up\n"
-	.string "well against ROCK-type POKéMON…$"
+	.string "Aku menantang PEMIMPIN GYM, tapi…\p"
+	.string "Tidak akan mudah menang dengan\n"
+	.string "POKéMON tipe API-ku…\p"
+	.string "POKéMON tipe API tidak cocok\n"
+	.string "melawan POKéMON tipe BATU…$"
 
 RustboroCity_Text_MrBrineyWalksInTheTunnel:
-	.string "The old sailor MR. BRINEY lives in\n"
-	.string "a cottage by the sea.\p"
-	.string "He goes for walks in the tunnel every\n"
-	.string "so often.$"
+	.string "Pelaut tua MR. BRINEY tinggal di\n"
+	.string "pondok dekat laut.\p"
+	.string "Dia sering berjalan-jalan di\n"
+	.string "terowongan sesekali.$"
 
 RustboroCity_Text_MrBrineyLovesPeeko:
-	.string "The old sailor MR. BRINEY lives in\n"
-	.string "a cottage by the sea.\p"
-	.string "He said he was going shopping in\n"
-	.string "SLATEPORT for his pet, PEEKO.\p"
-	.string "That old sea dog, he must really love\n"
-	.string "that PEEKO.$"
+	.string "Pelaut tua MR. BRINEY tinggal di\n"
+	.string "pondok dekat laut.\p"
+	.string "Dia bilang dia akan berbelanja di\n"
+	.string "SLATEPORT untuk hewan\l"
+	.string "peliharaannya, PEEKO.\p"
+	.string "Dasar pelaut tua, dia pasti sangat\n"
+	.string "menyayangi PEEKO itu.$"
 
 RustboroCity_Text_WowYouHavePokemon:
-	.string "Wow, you have POKéMON with you, too.\p"
-	.string "When I get bigger, I'm going to go\n"
-	.string "places with POKéMON, too.$"
+	.string "Wow, Kamu juga membawa POKéMON.\p"
+	.string "Ketika Aku besar nanti, Aku akan\n"
+	.string "bepergian dengan POKéMON juga.$"
 
 RustboroCity_Text_CatchRarePokemonIfIGoToSchool:
-	.string "POKéMON TRAINER'S SCHOOL!\p"
-	.string "If I go to this school, will I be able\n"
-	.string "to catch rare POKéMON easily?$"
+	.string "SEKOLAH TRAINER POKéMON!\p"
+	.string "Jika Aku bersekolah di sini, apakah\n"
+	.string "Aku akan bisa menangkap POKéMON\l"
+	.string "langka dengan mudah?$"
 
 RustboroCity_Text_PokemonCanChangeLookFromExp:
-	.string "If a POKéMON gains experience in\n"
-	.string "battles, it can sometimes change in\l"
-	.string "the way it looks.$"
+	.string "Jika POKéMON mendapatkan pengalaman\n"
+	.string "dalam pertempuran, kadang-kadang\l"
+	.string "bentuknya bisa berubah.$"
 
 RustboroCity_Text_PokemonChangeShape:
-	.string "A POKéMON changes shape?\n"
-	.string "If one did that, I would be shocked!$"
+	.string "POKéMON berubah bentuk? Jika itu\n"
+	.string "terjadi, Aku pasti akan terkejut!$"
 
 RustboroCity_Text_TradePokemonGrowFast:
-	.string "A POKéMON you get in a trade from\n"
-	.string "someone grows fast.\p"
-	.string "But if you don't have certain GYM\n"
-	.string "BADGES, it may not obey you…$"
+	.string "POKéMON yang Kamu dapatkan dari\n"
+	.string "pertukaran tumbuh dengan cepat.\p"
+	.string "Tetapi jika Kamu tidak memiliki\n"
+	.string "LENCANA GYM tertentu, POKéMON itu\l"
+	.string "mungkin tidak akan mematuhi Kamu…$"
 
 RustboroCity_Text_OutOfTheWay:
-	.string "Get out!\n"
-	.string "Out of the way!$"
+	.string "Minggir! Menjauh!$"
 
 RustboroCity_Text_WaitDontTakeMyGoods:
-	.string "Wait! Pleeeaaase!\p"
-	.string "Don't take my GOODS!$"
+	.string "Tunggu! Tooolooong!\p"
+	.string "Jangan ambil BARANG-ku!$"
 
 RustboroCity_Text_HelpMeIWasRobbed:
-	.string "Oh, it's you!\p"
-	.string "You're that fantastic TRAINER who\n"
-	.string "helped me in PETALBURG WOODS!\p"
-	.string "Help me! I was robbed by TEAM AQUA!\n"
-	.string "I have to get the DEVON GOODS back!\p"
-	.string "If I don't…\n"
-	.string "I'm going to be in serious trouble.$"
+	.string "Oh, ini Kamu!\p"
+	.string "Kamu TRAINER hebat yang menolongku\n"
+	.string "di HUTAN PETALBURG!\p"
+	.string "Tolong Aku! Aku dirampok oleh TEAM\n"
+	.string "AQUA! Aku harus mendapatkan kembali\l"
+	.string "BARANG DEVON itu!\p"
+	.string "Kalau tidak… Aku akan mendapat\n"
+	.string "masalah besar.$"
 
 RustboroCity_Text_ShadyCharacterTookOffTowardsTunnel:
-	.string "That shady character, I think he took\n"
-	.string "off towards the tunnel over there.$"
+	.string "Karakter lusuh itu, Aku pikir dia\n"
+	.string "melarikan diri ke arah terowongan\l"
+	.string "di sana.$"
 
 RustboroCity_Text_YouGotItThankYou:
-	.string "Oh! How did it go?\n"
-	.string "The DEVON GOODS?\p"
-	.string "You did!\n"
-	.string "You got them back!\p"
-	.string "You really are a great TRAINER!\p"
-	.string "I know! As my thanks, I'll give you\n"
-	.string "another GREAT BALL!$"
+	.string "Oh! Bagaimana hasilnya? BARANG\n"
+	.string "DEVON?\p"
+	.string "Kamu berhasil! Kamu mendapatkannya\n"
+	.string "kembali!\p"
+	.string "Kamu benar-benar TRAINER yang\n"
+	.string "hebat!\p"
+	.string "Aku tahu! Sebagai ucapan terima\n"
+	.string "kasih, Aku akan memberimu GREAT\l"
+	.string "BALL lagi!$"
 
 RustboroCity_Text_YoureLoadedWithItems:
-	.string "You're loaded with items.\n"
-	.string "I can't give you this GREAT BALL.$"
+	.string "Tasmu penuh barang. Aku tidak bisa\n"
+	.string "memberimu GREAT BALL ini.$"
 
 RustboroCity_Text_PleaseComeWithMe:
-	.string "Excuse me, please!\n"
-	.string "Please come with me!$"
+	.string "Permisi, tolong! Ikut Aku sebentar!$"
 
 RustboroCity_Text_MayHiLetsRegister:
-	.string "MAY: Oh, hi, {PLAYER}{KUN}!\p"
-	.string "You had a MATCH CALL feature put\n"
-	.string "on your POKéNAV!\p"
-	.string "Let's register each other so we can\n"
-	.string "contact one another anytime!\p"
+	.string "MAY: Oh, hai, {PLAYER}{KUN}!\p"
+	.string "Kamu memasang fitur PANGGILAN\n"
+	.string "PASANGAN di POKéNAV-mu!\p"
+	.string "Ayo kita saling mendaftarkan diri\n"
+	.string "agar kita bisa menghubungi satu\l"
+	.string "sama lain kapan saja!\p"
 	.string "… … … … … …$"
 
 RustboroCity_Text_RegisteredMay:
-	.string "Registered MAY\n"
-	.string "in the POKéNAV.$"
+	.string "MAY terdaftar di POKéNAV.$"
 
 RustboroCity_Text_MayPassedBrineyWantToBattle:
-	.string "MAY: Oh, by the way, I passed\n"
-	.string "MR. BRINEY in PETALBURG WOODS.\p"
-	.string "I guess he's on his way home to his\n"
-	.string "cottage by the sea.\p"
-	.string "How's your POKéDEX coming along,\n"
-	.string "{PLAYER}{KUN}? Mine's looking pretty decent!\p"
-	.string "So…\n"
-	.string "How about a little battle?$"
+	.string "MAY: Oh, ngomong-ngomong, Aku\n"
+	.string "melewati MR. BRINEY di HUTAN\l"
+	.string "PETALBURG.\p"
+	.string "Aku rasa dia sedang dalam\n"
+	.string "perjalanan pulang ke pondoknya di\l"
+	.string "tepi laut.\p"
+	.string "Bagaimana perkembangan POKéDEX-mu,\n"
+	.string "{PLAYER}{KUN}? Punya Aku terlihat\l"
+	.string "cukup bagus!\p"
+	.string "Jadi… Bagaimana kalau kita\n"
+	.string "bertarung sebentar?$"
 
 RustboroCity_Text_MayOhHaventRaisedPokemonEnough:
-	.string "MAY: Oh, what's the matter?\p"
-	.string "Haven't you caught or raised your\n"
-	.string "POKéMON very much?\p"
-	.string "That's not very good for a TRAINER!$"
+	.string "MAY: Oh, ada apa?\p"
+	.string "Apakah Kamu belum banyak menangkap\n"
+	.string "atau melatih POKéMON-mu?\p"
+	.string "Itu tidak baik untuk seorang\n"
+	.string "TRAINER!$"
 
 RustboroCity_Text_MayWantToBattle:
-	.string "MAY: So, what do you think?\n"
-	.string "How about a little battle here?$"
+	.string "MAY: Jadi, bagaimana menurutmu?\n"
+	.string "Bagaimana kalau kita bertarung\l"
+	.string "sebentar di sini?$"
 
 RustboroCity_Text_MayImNotGoingToLose:
-	.string "MAY: You just became a TRAINER,\n"
-	.string "{PLAYER}{KUN}. I'm not going to lose!$"
+	.string "MAY: Kamu baru saja menjadi\n"
+	.string "TRAINER, {PLAYER}{KUN}. Aku tidak\l"
+	.string "akan kalah!$"
 
 RustboroCity_Text_MayDefeat:
-	.string "Yikes!\n"
-	.string "You're better than I expected!$"
+	.string "Wah! Kamu lebih baik dari dugaanku!$"
 
 RustboroCity_Text_MayMrBrineyHint:
-	.string "MAY: Oh, by the way, MR. BRINEY, who\n"
-	.string "I just passed…\p"
-	.string "{PLAYER}{KUN}, you just moved here so you\n"
-	.string "might not know this, but MR. BRINEY\l"
-	.string "was once a revered seafarer.$"
+	.string "MAY: Oh, ngomong-ngomong, MR.\n"
+	.string "BRINEY, yang baru saja Aku lewati…\p"
+	.string "{PLAYER}{KUN}, Kamu baru pindah ke\n"
+	.string "sini, jadi Kamu mungkin tidak tahu,\l"
+	.string "tetapi MR. BRINEY dulunya adalah\l"
+	.string "pelaut yang dihormati.$"
 
 RustboroCity_Text_BrendanHiLetsRegister:
-	.string "BRENDAN: Oh, hey, {PLAYER}!\p"
-	.string "You had a MATCH CALL feature put\n"
-	.string "on your POKéNAV! Cool!\p"
-	.string "Let's register each other so we can\n"
-	.string "get in touch anytime!\p"
+	.string "BRENDAN: Oh, hei, {PLAYER}!\p"
+	.string "Kamu memasang fitur PANGGILAN\n"
+	.string "PASANGAN di POKéNAV-mu! Keren!\p"
+	.string "Ayo kita saling mendaftarkan diri\n"
+	.string "agar kita bisa menghubungi satu\l"
+	.string "sama lain kapan saja!\p"
 	.string "… … … … … …$"
 
 RustboroCity_Text_RegisteredBrendan:
-	.string "Registered BRENDAN\n"
-	.string "in the POKéNAV.$"
+	.string "BRENDAN terdaftar di POKéNAV.$"
 
 RustboroCity_Text_BrendanPassedBrineyWantToBattle:
-	.string "BRENDAN: By the way, {PLAYER}, I walked\n"
-	.string "by MR. BRINEY in PETALBURG WOODS.\p"
-	.string "I bet he was on his way home to his\n"
-	.string "cottage by the sea.\p"
-	.string "{PLAYER}, how's your POKéDEX?\n"
-	.string "Have you filled in any pages yet?\p"
-	.string "Mine rules.\p"
-	.string "Want to have a battle to test how\n"
-	.string "far you've progressed?$"
+	.string "BRENDAN: Ngomong-ngomong, {PLAYER},\n"
+	.string "Aku berjalan melewati MR. BRINEY di\l"
+	.string "HUTAN PETALBURG.\p"
+	.string "Aku yakin dia sedang dalam\n"
+	.string "perjalanan pulang ke pondoknya di\l"
+	.string "tepi laut.\p"
+	.string "{PLAYER}, bagaimana POKéDEX-mu?\n"
+	.string "Apakah Kamu sudah mengisi halaman\l"
+	.string "apa pun?\p"
+	.string "Punya Aku paling keren.\p"
+	.string "Mau bertarung untuk menguji\n"
+	.string "seberapa jauh perkembanganmu?$"
 
 RustboroCity_Text_BrendanNoConfidenceInPokemon:
-	.string "BRENDAN: What's the matter? Don't have\n"
-	.string "any confidence in your POKéMON?$"
+	.string "BRENDAN: Ada apa? Tidak percaya\n"
+	.string "diri dengan POKéMON-mu?$"
 
 RustboroCity_Text_BrendanWantToBattle:
-	.string "BRENDAN: What's up?\n"
-	.string "Want to have a battle with me?$"
+	.string "BRENDAN: Ada apa? Mau bertarung\n"
+	.string "denganku?$"
 
 RustboroCity_Text_BrendanIWontGoEasy:
-	.string "BRENDAN: I know you just became\n"
-	.string "a TRAINER, but I won't go easy!$"
+	.string "BRENDAN: Aku tahu Kamu baru saja\n"
+	.string "menjadi TRAINER, tapi Aku tidak\l"
+	.string "akan mengalah!$"
 
 RustboroCity_Text_BrendanDefeat:
-	.string "Hmm…\n"
-	.string "You're pretty good.$"
+	.string "Hmm… Kamu cukup bagus.$"
 
 RustboroCity_Text_BrendanMrBrineyHint:
-	.string "BRENDAN: By the way, you know\n"
-	.string "MR. BRINEY? The guy I just passed?\p"
-	.string "I bet you didn't know this, since you\n"
-	.string "just moved here, {PLAYER}, but\l"
-	.string "MR. BRINEY was once a great sailor.$"
+	.string "BRENDAN: Ngomong-ngomong, Kamu\n"
+	.string "kenal MR. BRINEY? Orang yang baru\l"
+	.string "saja Aku lewati?\p"
+	.string "Aku yakin Kamu tidak tahu ini,\n"
+	.string "karena Kamu baru pindah ke sini,\l"
+	.string "{PLAYER}, tetapi MR. BRINEY dulunya\n"
+	.string "adalah pelaut hebat.$"
 
 RustboroCity_Text_TunnelNearingCompletion:
-	.string "“Timesaving tunnel nearing\n"
-	.string "completion!”\p"
-	.string "…Is what it says on the sign, but\n"
-	.string "there's also a big “X” splashed\l"
-	.string "across it in red paint…$"
+	.string "“Terowongan Penghemat Waktu hampir\n"
+	.string "selesai!”\p"
+	.string "…Itulah yang tertulis di papan,\n"
+	.string "tetapi ada juga tanda “X” besar\l"
+	.string "yang disemprotkan dengan cat merah\n"
+	.string "di atasnya…$"
 
 RustboroCity_Text_DevonCorpSign:
 	.string "DEVON CORPORATION\p"
-	.string "“For all your living needs, we make\n"
-	.string "it all.”$"
+	.string "“Untuk semua kebutuhan hidupmu,\n"
+	.string "kami membuat semuanya.”$"
 
 RustboroCity_Text_GymSign:
-	.string "RUSTBORO CITY POKéMON GYM\n"
-	.string "LEADER: ROXANNE\p"
-	.string "“The ROCK-loving honors student!”$"
+	.string "PEMIMPIN GYM POKéMON KOTA RUSTBORO:\n"
+	.string "ROXANNE\p"
+	.string "“Murid teladan pencinta BATU!”$"
 
 RustboroCity_Text_DevonCorpBranchOfficeSign:
-	.string "DEVON CORP. BRANCH OFFICE\p"
-	.string "“Access limited to DEVON employees\n"
-	.string "and authorized personnel.”$"
+	.string "KANTOR CABANG DEVON CORP.\p"
+	.string "“Akses terbatas untuk karyawan\n"
+	.string "DEVON dan personel yang berwenang.”$"
 
 RustboroCity_Text_CitySign:
-	.string "RUSTBORO CITY\p"
-	.string "“The city probing the integration of\n"
-	.string "nature and science.”$"
+	.string "KOTA RUSTBORO\p"
+	.string "“Kota yang menjajaki integrasi alam\n"
+	.string "dan sains.”$"
 
 RustboroCity_Text_TrainersSchoolSign:
-	.string "POKéMON TRAINER'S SCHOOL\p"
-	.string "“We'll teach you anything about\n"
-	.string "POKéMON!”$"
+	.string "SEKOLAH TRAINER POKéMON\p"
+	.string "“Kami akan mengajarimu apa pun\n"
+	.string "tentang POKéMON!”$"
 
 RustboroCity_Text_CuttersHouse:
-	.string "CUTTER'S HOUSE$"
+	.string "RUMAH CUTTER$"
 
 RustboroCity_Text_DevelopedNewPokenavFeature:
-	.string "I've been developing an added feature\n"
-	.string "for the POKéNAV…\p"
-	.string "And it turned out great!\p"
-	.string "{PLAYER}, may I see that POKéNAV?\n"
-	.string "The one our PRESIDENT gave you?$"
+	.string "Aku telah mengembangkan fitur\n"
+	.string "tambahan untuk POKéNAV…\p"
+	.string "Dan hasilnya luar biasa!\p"
+	.string "{PLAYER}, bolehkah Aku melihat\n"
+	.string "POKéNAV itu? Yang diberikan oleh\l"
+	.string "PRESIDEN kami kepadamu?$"
 
 RustboroCity_Text_AddedMatchCallPleaseCallMrStone:
-	.string "There you go, {PLAYER}!\p"
-	.string "I added a new feature named\n"
-	.string "MATCH CALL to your POKéNAV.\p"
-	.string "Using the MATCH CALL feature,\n"
-	.string "you can chat with people who have\l"
-	.string "been registered in your POKéNAV.\p"
-	.string "{PLAYER}, our PRESIDENT STONE should\n"
-	.string "be registered in your POKéNAV.\p"
-	.string "Test it out.\n"
-	.string "Please give our PRESIDENT a call.$"
+	.string "Ini dia, {PLAYER}!\p"
+	.string "Aku menambahkan fitur baru bernama\n"
+	.string "PANGGILAN PASANGAN ke POKéNAV-mu.\p"
+	.string "Menggunakan fitur PANGGILAN\n"
+	.string "PASANGAN, Kamu dapat mengobrol\l"
+	.string "dengan orang-orang yang telah\n"
+	.string "terdaftar di POKéNAV-mu.\p"
+	.string "{PLAYER}, PRESIDEN STONE kami\n"
+	.string "seharusnya sudah terdaftar di\l"
+	.string "POKéNAV-mu.\p"
+	.string "Cobalah. Tolong hubungi PRESIDEN\n"
+	.string "kami.$"
 
 RustboroCity_Text_PleaseSelectPokenav:
-	.string "Please select the POKéNAV.$"
+	.string "Silakan pilih POKéNAV.$"
 
 RustboroCity_Text_IdBetterGetBackToWork:
-	.string "Okay, I'd better get back to work.\n"
-	.string "Please take care, {PLAYER}!$"
+	.string "Oke, Aku harus kembali bekerja.\n"
+	.string "Jaga dirimu baik-baik, {PLAYER}!$"
 
 RustboroCity_Text_YouCanHave2On2Battle:
-	.string "Did you know this?\p"
-	.string "You can have a 2-on-2 battle even\n"
-	.string "if you're not with another TRAINER.\p"
-	.string "If you catch the eyes of two TRAINERS\n"
-	.string "when you have two or more POKéMON,\l"
-	.string "they'll both challenge you.\p"
-	.string "Don't you think it'd be cool if you\n"
-	.string "could beat two TRAINERS by yourself?$"
+	.string "Apakah Kamu tahu ini?\p"
+	.string "Kamu bisa melakukan Pertarungan\n"
+	.string "2-lawan-2 bahkan jika Kamu tidak\l"
+	.string "bersama TRAINER lain.\p"
+	.string "Jika Kamu menarik perhatian dua\n"
+	.string "TRAINER saat Kamu memiliki dua\l"
+	.string "POKéMON atau lebih, mereka berdua\n"
+	.string "akan menantangmu.\p"
+	.string "Tidakkah menurutmu keren jika Kamu\n"
+	.string "bisa mengalahkan dua TRAINER\l"
+	.string "sendirian?$"

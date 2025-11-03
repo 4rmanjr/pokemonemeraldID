@@ -1,3 +1,4 @@
+//gemini
 Route128_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, Route128_OnTransition
 	map_script MAP_SCRIPT_ON_FRAME_TABLE, Route128_OnFrame
@@ -242,61 +243,65 @@ Route128_EventScript_Carlee::
 	end
 
 Route128_Text_ArchieWhatHappened:
-	.string "ARCHIE: What happened…\n"
-	.string "What is this wretched scene…\p"
-	.string "Did I…make a horrible mistake?$"
+	.string "ARCHIE: Apa yang terjadi…\n"
+	.string "Adegan menyedihkan apa ini…\p"
+	.string "Apa aku… membuat kesalahan besar?$"
 
 Route128_Text_ArchieIOnlyWanted:
-	.string "I…\n"
-	.string "I only wanted…$"
+	.string "Aku…\n"
+	.string "Aku hanya ingin…$"
 
 Route128_Text_MaxieDoYouUnderstandNow:
-	.string "MAXIE: Do you understand now,\n"
+	.string "MAXIE: Apa kamu mengerti sekarang,\n"
 	.string "ARCHIE?\p"
-	.string "Do you finally see how disastrous\n"
-	.string "your dream turned out to be?\p"
-	.string "We have to hurry! We have to do\n"
-	.string "something before the situation goes\l"
-	.string "completely out of control!$"
+	.string "Apa kamu akhirnya melihat betapa\n"
+	.string "bencana impianmu itu?\p"
+	.string "Kita harus cepat! Kita harus\n"
+	.string "melakukan sesuatu sebelum situasi\l"
+	.string "benar-benar di luar kendali!$"
 
 Route128_Text_MaxieResposibilityFallsToArchieAndMe:
-	.string "MAXIE: {PLAYER}, don't say anything.\p"
-	.string "I know that I have no right to be\n"
-	.string "critical of ARCHIE…\p"
-	.string "But the way things are now, I doubt\n"
-	.string "that we humans will be capable of\l"
-	.string "doing anything about it.\p"
-	.string "But neither can we stand by and\n"
-	.string "just watch helplessly.\p"
-	.string "The responsibility for putting an end\n"
-	.string "to this falls to ARCHIE and me…$"
+	.string "MAXIE: {PLAYER}, jangan katakan apa-apa.\p"
+	.string "Aku tahu aku tidak punya hak untuk\n"
+	.string "mengkritik ARCHIE…\p"
+	.string "Tapi dengan keadaan sekarang, aku\n"
+	.string "ragu kita manusia akan mampu\l"
+	.string "melakukan apa pun.\p"
+	.string "Tapi kita juga tidak bisa hanya\n"
+	.string "berdiam diri & menonton tanpa daya.\p"
+	.string "Tanggung jawab untuk mengakhiri ini\n"
+	.string "jatuh pada ARCHIE & aku…$"
 
 Route128_Text_MaxieThisDefiesBelief:
-	.string "MAXIE: This defies belief…\p"
-	.string "Those super-ancient POKéMON…\p"
-	.string "Their power is unbelievable.\n"
-	.string "They've upset the balance of nature…$"
+	.string "MAXIE: Ini tak bisa dipercaya…\p"
+	.string "POKéMON super-kuno itu…\p"
+	.string "Kekuatan mereka luar biasa.\n"
+	.string "Mereka telah mengganggu keseimbangan\l"
+	.string "alam…$"
 
 Route128_Text_StevenWhatIsHappening:
 	.string "STEVEN: {PLAYER}{KUN}!\n"
-	.string "What is happening?$"
+	.string "Apa yang terjadi?$"
 
 Route128_Text_StevenWholeWorldWillDrown:
-	.string "This is terrible…\p"
-	.string "After the scorching heat wave ended,\n"
-	.string "this deluge began.\p"
-	.string "If this doesn't stop, all of HOENN…\n"
-	.string "No, the whole world will drown.\p"
-	.string "This huge rain cloud is spreading\n"
-	.string "from above SOOTOPOLIS…\p"
-	.string "What in the world is taking place there?\p"
-	.string "There's no point arguing here…\n"
-	.string "SOOTOPOLIS might provide answers…$"
+	.string "Ini mengerikan…\p"
+	.string "Setelah gelombang panas yang\n"
+	.string "menyengat berakhir, banjir ini\l"
+	.string "dimulai.\p"
+	.string "Jika ini tidak berhenti, seluruh\n"
+	.string "HOENN… Tidak, seluruh dunia akan\l"
+	.string "tenggelam.\p"
+	.string "Awan hujan besar ini menyebar\n"
+	.string "dari atas SOOTOPOLIS…\p"
+	.string "Apa yang sebenarnya terjadi di sana?\p"
+	.string "Tidak ada gunanya berdebat di sini…\n"
+	.string "SOOTOPOLIS mungkin memberikan\l"
+	.string "jawaban…$"
 
 Route128_Text_StevenImGoingToSootopolis:
 	.string "{PLAYER}{KUN}…\n"
-	.string "I don't know what you intend to do,\l"
-	.string "but don't do anything reckless.\p"
-	.string "Okay.\n"
-	.string "I'm going to SOOTOPOLIS.$"
-
+	.string "Aku tidak tahu apa yang kamu\l"
+	.string "ingin lakukan, tapi jangan lakukan\l"
+	.string "hal ceroboh.\p"
+	.string "Oke.\n"
+	.string "Aku akan pergi ke SOOTOPOLIS.$"

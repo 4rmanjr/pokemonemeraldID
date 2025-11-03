@@ -1,10 +1,11 @@
+//gemini
 EventScript_StartDexNavBattle::
 	lock
 	playse SE_PIN
 	applymovement OBJ_EVENT_ID_PLAYER Common_Movement_ExclamationMark
 	waitmovement 0
 	waitse
-	dowildbattle	
+	dowildbattle
 	release
 	end
 
@@ -29,19 +30,20 @@ EventScript_TooDark::
 	end
 
 sText_NotFoundNearby:
-	.string "It couldn't be found nearby.\n"
-	.string "Try looking in a different area!$"
+	.string "Tidak ditemukan di dekat sini.\n"
+	.string "Coba cari di area lain!$"
 
 sText_TryMovingSlower:
-	.string "The Pokémon got away!\n"
-	.string "Try moving more slowly.$"
+	.string "Pokémon-nya kabur!\n"
+	.string "Coba bergerak lebih pelan.$"
 
 sText_PokemonGotAway:
-	.string "The Pokémon got away!$"
+	.string "Pokémon-nya kabur!$"
 
 sText_LostSignal:
-	.string "There is no reaction.\n"
-	.string "The signal was lost!$"
+	.string "Tidak ada reaksi.\n"
+	.string "Sinyal hilang!$"
 
 sText_TooDark:
-	.string "It's too dark to search\nfor a Pokémon!$"
+	.string "Terlalu gelap untuk mencari\n"
+	.string "Pokémon!$"

@@ -1,3 +1,4 @@
+//aistudeio
 Route112_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, Route112_OnTransition
 	.byte 0
@@ -107,36 +108,39 @@ Route112_EventScript_Shayla::
 	end
 
 Route112_Text_LeaderGoingToAwakenThing:
-	.string "Hey, man, is our leader really going\n"
-	.string "to awaken that thing?$"
+	.string "Hei, kawan, apakah pemimpin kita\n"
+	.string "benar-benar akan membangkitkan\l"
+	.string "benda itu?$"
 
 Route112_Text_YeahWeNeedMeteorite:
-	.string "Sounds like it, yeah. But I heard\n"
-	.string "we need a METEORITE to do it.$"
+	.string "Sepertinya begitu, ya. Tapi kudengar\n"
+	.string "kita butuh METEORITE untuk\l"
+	.string "melakukannya.$"
 
 Route112_Text_OhThatsWhyCrewWentToFallarbor:
-	.string "Oh, I get it now. That's why the rest\n"
-	.string "of the crew went out to FALLARBOR.$"
+	.string "Oh, aku mengerti sekarang. Itu\n"
+	.string "sebabnya kru lainnya pergi ke\l"
+	.string "FALLARBOR.$"
 
 Route112_Text_CantLetAnyonePassUntilTheyreBack:
-	.string "You got it. And until they come back,\n"
-	.string "we're not to let anyone pass, right.$"
+	.string "Tepat sekali. & sampai mereka\n"
+	.string "kembali, kita tak boleh lewatkan\l"
+	.string "siapa pun, kan.$"
 
 Route112_Text_NotEasyToGetBackToLavaridge:
-	.string "Eh, I'd like to get to MAUVILLE, but if\n"
-	.string "I went down these ledges, it'd be no\l"
-	.string "easy matter to get back to LAVARIDGE.$"
+	.string "Eh, aku ingin ke KOTA MAUVILLE, tapi\n"
+	.string "jika aku turun tebing ini, tak akan\l"
+	.string "mudah kembali ke KOTA LAVARIDGE.$"
 
 Route112_Text_MtChimneyCableCarSign:
-	.string "MT. CHIMNEY CABLE CAR\n"
-	.string "“A short walk {UP_ARROW} way!”$"
+	.string "KERETA GANTUNG GN. CHIMNEY\n"
+	.string "“Jalan kaki singkat ke {UP_ARROW}!”$"
 
 Route112_Text_MtChimneySign:
-	.string "MT. CHIMNEY\p"
-	.string "“For LAVARIDGE TOWN or the summit,\n"
-	.string "please take the CABLE CAR.”$"
+	.string "GN. CHIMNEY\p"
+	.string "“Untuk KOTA LAVARIDGE atau puncak,\n"
+	.string "silakan naik KERETA GANTUNG.”$"
 
 Route112_Text_RouteSignLavaridge:
-	.string "ROUTE 112\n"
-	.string "{LEFT_ARROW} LAVARIDGE TOWN$"
-
+	.string "RUTE 112\n"
+	.string "{LEFT_ARROW} KOTA LAVARIDGE$"

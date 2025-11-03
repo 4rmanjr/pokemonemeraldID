@@ -1,3 +1,4 @@
+//gemini
 MauvilleCity_House1_MapScripts::
 	.byte 0
 
@@ -20,27 +21,31 @@ MauvilleCity_House1_EventScript_ReceivedRockSmash::
 
 MauvilleCity_House1_Text_ImRockSmashDudeTakeThis:
 	.string "Woohoo!\p"
-	.string "I hear people call me the ROCK SMASH\n"
-	.string "GUY, but I find that sort of degrading.\p"
-	.string "I think I deserve a bit more respect,\n"
-	.string "like maybe the ROCK SMASH DUDE.\p"
+	.string "Aku dengar orang-orang\n"
+	.string "memanggilku SI PENGHANCUR\l"
+	.string "BATU, tapi aku merasa itu\l"
+	.string "agak merendahkan.\p"
+	.string "Aku pikir aku pantas dihormati\n"
+	.string "lebih, seperti mungkin SI\l"
+	.string "PENGHANCUR BATU HEBAT.\p"
 	.string "Woohoo!\p"
-	.string "Anyways, your POKéMON look pretty\n"
-	.string "strong.\p"
-	.string "I like that!\n"
-	.string "Here, take this HIDDEN MACHINE!$"
+	.string "Ngomong-ngomong, POKéMON-mu\n"
+	.string "terlihat cukup kuat.\p"
+	.string "Aku suka itu!\n"
+	.string "Ini, ambil HIDDEN MACHINE ini!$"
 
 MauvilleCity_House1_Text_ExplainRockSmash:
-	.string "That HM contains ROCK SMASH.\p"
-	.string "If you come across large boulders\n"
-	.string "that block your path…\p"
-	.string "Well, use that HM move and smash\n"
-	.string "them right out of your way!\p"
-	.string "Yes, sir! Smash rocks aside, I say!\n"
-	.string "Woohoo!$"
+	.string "HM itu berisi ROCK SMASH.\p"
+	.string "Jika kamu menemukan batu-batu\n"
+	.string "besar yang menghalangi jalanmu…\p"
+	.string "Nah, gunakan gerakan HM itu\n"
+	.string "& hancurkan mereka dari jalanmu!\p"
+	.string "Ya, Tuan! Hancurkan batu-batu itu,\n"
+	.string "kataku! Woohoo!$"
 
 MauvilleCity_House1_Text_MonCanFlyOutOfSmashedRock:
-	.string "Oh, yes, if you smash a rock, a POKéMON\n"
-	.string "could come flying out of hiding.\p"
+	.string "Oh, ya, jika kamu menghancurkan\n"
+	.string "batu, seekor POKéMON bisa saja\l"
+	.string "terbang keluar dari\l"
+	.string "persembunyiannya.\p"
 	.string "Woohoo!$"
-

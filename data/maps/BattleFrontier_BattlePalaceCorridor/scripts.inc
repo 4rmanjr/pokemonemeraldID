@@ -1,3 +1,4 @@
+//gemini
 BattleFrontier_BattlePalaceCorridor_MapScripts::
 	map_script MAP_SCRIPT_ON_FRAME_TABLE, BattleFrontier_BattlePalaceCorridor_OnFrame
 	.byte 0
@@ -120,30 +121,35 @@ BattleFrontier_BattlePalaceCorridor_Movement_AttendantEnterBattleRoom:
 	step_end
 
 BattleFrontier_BattlePalaceCorridor_Text_PeopleAndMonAreSame:
-	.string "People and POKéMON, they are but\n"
-	.string "the same…\p"
-	.string "Their individual nature makes them\n"
-	.string "good at certain things, and not good\l"
-	.string "at others.$"
+	.string "Manusia dan POKéMON, mereka sama\n"
+	.string "saja…\p"
+	.string "Sifat individu mereka membuat\n"
+	.string "mereka mahir dalam hal tertentu,\l"
+	.string "dan tidak mahir dalam hal lain.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_LetMonDoWhatItLikes:
-	.string "Rather than trying to make a POKéMON\n"
-	.string "do what it dislikes, try to let it do\l"
-	.string "what it likes and is good at doing.\p"
-	.string "Put yourself in the POKéMON's position\n"
-	.string "and consider what moves it would like.$"
+	.string "Daripada mencoba membuat POKéMON\n"
+	.string "melakukan apa yang tidak\l"
+	.string "disukainya, biarkan ia melakukan\l"
+	.string "apa yang ia suka dan mahir ia\l"
+	.string "lakukan.\p"
+	.string "Posisikan dirimu sebagai POKéMON\n"
+	.string "dan pertimbangkan gerakan apa yang\l"
+	.string "ia sukai.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_MonDifferentWhenCornered:
-	.string "A POKéMON's nature is a remarkable\n"
-	.string "thing…\p"
-	.string "Some POKéMON behave in a completely\n"
-	.string "different way when they are cornered.$"
+	.string "Sifat POKéMON adalah hal yang\n"
+	.string "menakjubkan…\p"
+	.string "Beberapa POKéMON berperilaku\n"
+	.string "benar-benar berbeda saat mereka\l"
+	.string "terpojok.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_BeginningToUnderstandNature:
-	.string "Are you beginning to understand how\n"
-	.string "a POKéMON's nature makes it behave?$"
+	.string "Apakah Kamu mulai mengerti\n"
+	.string "bagaimana sifat POKéMON memengaruhi\l"
+	.string "perilakunya?$"
 
 BattleFrontier_BattlePalaceCorridor_Text_HeartfeltBondBetweenYouAndMons:
-	.string "Ah… I see a strong, heartfelt bond\n"
-	.string "between you and your POKéMON…$"
-
+	.string "Ah… Aku melihat ikatan yang kuat\n"
+	.string "dan tulus antara Kamu dan\l"
+	.string "POKéMON-mu…$"

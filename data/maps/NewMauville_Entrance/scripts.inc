@@ -47,12 +47,12 @@ NewMauville_Entrance_EventScript_DontOpenDoor::
 	end
 
 NewMauville_Entrance_Text_DoorIsLocked:
-	.string "The door is locked.$"
+	.string "Pintu terkunci.$"
 
 NewMauville_Entrance_Text_UseBasementKey:
-	.string "Use the BASEMENT KEY?$"
+	.string "Gunakan KUNCI BAWAH TANAH?$"
 
 NewMauville_Entrance_Text_UsedBasementKey:
-	.string "{PLAYER} used the BASEMENT KEY.\p"
-	.string "The door opened!$"
+	.string "{PLAYER} menggunakan KUNCI BAWAH TANAH.\p"
+	.string "Pintu terbuka!$"
 

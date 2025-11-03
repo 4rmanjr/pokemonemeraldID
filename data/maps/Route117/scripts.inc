@@ -1,3 +1,4 @@
+//gemini
 .set LOCALID_DAYCARE_MON_0, 25
 .set LOCALID_DAYCARE_MON_1, 26
 
@@ -216,27 +217,27 @@ Route117_EventScript_Aisha::
 	end
 
 Route117_Text_DayCarePokemonHadNewMove:
-	.string "I left my POKéMON at the DAY CARE.\p"
-	.string "When I got it back, it had a new move\n"
-	.string "that I didn't teach it.\l"
-	.string "I was really, really surprised.$"
+	.string "Aku menitipkan POKéMON-ku di DAY CARE.\p"
+	.string "Ketika aku mengambilnya kembali, ia\n"
+	.string "punya gerakan baru yang tidak aku\l"
+	.string "ajarkan. Aku benar-benar terkejut.$"
 
 Route117_Text_ArentTheseFlowersPretty:
-	.string "What do you think?\n"
-	.string "Aren't these flowers pretty?\p"
-	.string "I planted them all!$"
+	.string "Bagaimana menurutmu?\n"
+	.string "Bukankah bunga-bunga ini cantik?\p"
+	.string "Aku menanam semuanya!$"
 
 Route117_Text_AirIsTastyHere:
-	.string "The air is tasty here!$"
+	.string "Udara di sini segar sekali!$"
 
 Route117_Text_RouteSignVerdanturf:
-	.string "ROUTE 117\n"
-	.string "{LEFT_ARROW} VERDANTURF TOWN$"
+	.string "RUTE 117\n"
+	.string "{LEFT_ARROW} KOTA VERDANTURF$"
 
 Route117_Text_RouteSignMauville:
-	.string "ROUTE 117\n"
-	.string "{RIGHT_ARROW} MAUVILLE CITY$"
+	.string "RUTE 117\n"
+	.string "{RIGHT_ARROW} KOTA MAUVILLE$"
 
 Route117_Text_DayCareSign:
 	.string "POKéMON DAY CARE\n"
-	.string "“Let us raise your POKéMON.”$"
+	.string "“Biarkan kami membesarkan POKéMON-mu.”$"

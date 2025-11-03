@@ -1,3 +1,4 @@
+//gemini
 SlateportCity_NameRatersHouse_MapScripts::
 	.byte 0
 
@@ -62,50 +63,56 @@ SlateportCity_NameRatersHouse_EventScript_NewNameDifferent::
 	end
 
 SlateportCity_NameRatersHouse_Text_PleasedToRateMonNickname:
-	.string "Hi, hi! I'm the NAME RATER!\n"
-	.string "I'm the fortune-teller of names!\p"
-	.string "I shall be pleased to rate your\n"
-	.string "POKéMON's nickname.$"
+	.string "Hai, hai! Aku si PENILAI NAMA! Aku\n"
+	.string "adalah peramal nama!\p"
+	.string "Dengan senang hati aku akan menilai\n"
+	.string "nama panggilan POKéMON milikmu.$"
 
 SlateportCity_NameRatersHouse_Text_CritiqueWhichMonNickname:
-	.string "Which POKéMON's nickname should\n"
-	.string "I critique?$"
+	.string "Nama panggilan POKéMON mana yang\n"
+	.string "harus aku kritik?$"
 
 SlateportCity_NameRatersHouse_Text_FineNameSuggestBetterOne:
-	.string "Hmmm… {STR_VAR_1}, is it? That is\n"
-	.string "quite a fine name you bestowed.\p"
-	.string "But! What say you, if I were to\n"
-	.string "suggest a slightly better name?$"
+	.string "Hmmm… {STR_VAR_1}, benarkah? Itu\n"
+	.string "nama yang cukup bagus yang kamu\l"
+	.string "berikan.\p"
+	.string "Tapi! Bagaimana menurutmu, jika aku\n"
+	.string "menyarankan nama yang sedikit lebih\l"
+	.string "baik?$"
 
 SlateportCity_NameRatersHouse_Text_WhatShallNewNameBe:
-	.string "Ah, good. Then, what shall the new\n"
-	.string "nickname be?$"
+	.string "Ah, bagus. Kalau begitu, apa nama\n"
+	.string "panggilan barunya?$"
 
 SlateportCity_NameRatersHouse_Text_MonShallBeKnownAsName:
-	.string "Done! From now on, this POKéMON\n"
-	.string "shall be known as {STR_VAR_1}!\p"
-	.string "It is a better name than before!\n"
-	.string "How fortunate for you!$"
+	.string "Selesai! Mulai sekarang, POKéMON\n"
+	.string "ini akan dikenal sebagai\l"
+	.string "{STR_VAR_1}!\p"
+	.string "Itu nama yang lebih baik dari\n"
+	.string "sebelumnya! Sungguh keberuntungan\l"
+	.string "bagimu!$"
 
 SlateportCity_NameRatersHouse_Text_DoVisitAgain:
-	.string "I see.\n"
-	.string "Do come visit again.$"
+	.string "Aku mengerti. Datanglah berkunjung\n"
+	.string "lagi.$"
 
 SlateportCity_NameRatersHouse_Text_NameNoDifferentYetSuperior:
-	.string "Done! From now on, this POKéMON\n"
-	.string "shall be known as {STR_VAR_1}!\p"
-	.string "It looks no different from before,\n"
-	.string "and yet, this is vastly superior!\p"
-	.string "How fortunate for you!$"
+	.string "Selesai! Mulai sekarang, POKéMON\n"
+	.string "ini akan dikenal sebagai\l"
+	.string "{STR_VAR_1}!\p"
+	.string "Kelihatannya tidak berbeda dari\n"
+	.string "sebelumnya, namun ini jauh lebih\l"
+	.string "unggul!\p"
+	.string "Sungguh keberuntungan bagimu!$"
 
 SlateportCity_NameRatersHouse_Text_MagnificentName:
-	.string "Hmmm… {STR_VAR_1} it is!\p"
-	.string "This is a magnificent nickname!\n"
-	.string "It is impeccably beyond reproach!\p"
-	.string "You'll do well to cherish your\n"
-	.string "{STR_VAR_1} now and beyond.$"
+	.string "Hmmm… {STR_VAR_1} rupanya!\p"
+	.string "Ini adalah nama panggilan yang luar\n"
+	.string "biasa! Tak bercacat dan tanpa cela!\p"
+	.string "Kamu harus menjaga {STR_VAR_1}\n"
+	.string "milikmu ini mulai sekarang dan\l"
+	.string "seterusnya.$"
 
 SlateportCity_NameRatersHouse_Text_ThatIsMerelyAnEgg:
-	.string "Now, now.\n"
-	.string "That is merely an EGG!$"
-
+	.string "Tunggu, tunggu. Itu hanyalah sebuah\n"
+	.string "TELUR!$"

@@ -1,3 +1,4 @@
+//gemini
 MysteryGiftScript_MysticTicket::
 	setvaddress MysteryGiftScript_MysticTicket
 	lock
@@ -36,23 +37,23 @@ MysticTicket_Obtained:
 	end
 
 sText_MysticTicketForYou:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "You must be {PLAYER}.\n"
-	.string "There is a ticket here for you.$"
+	.string "Terima kasih telah menggunakan\n"
+	.string "Sistem HADIAH MISTERI.\p"
+	.string "Kamu pasti {PLAYER}.\n"
+	.string "Ada tiket di sini untukmu.$"
 
 sText_MysticTicketUseAtPort:
-	.string "It appears to be for use at the\n"
-	.string "LILYCOVE CITY port.\p"
-	.string "Why not give it a try and see what\n"
-	.string "it is about?$"
+	.string "Sepertinya ini untuk digunakan\n"
+	.string "di pelabuhan KOTA LILYCOVE.\p"
+	.string "Kenapa tidak kamu coba &\n"
+	.string "lihat ada apa?$"
 
 sText_MysticTicketThankYou:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.$"
+	.string "Terima kasih telah menggunakan\n"
+	.string "Sistem HADIAH MISTERI.$"
 
 sText_MysticTicketBagFull:
-	.string "Oh, I'm sorry, {PLAYER}.\n"
-	.string "Your BAG's KEY ITEMS POCKET is full.\p"
-	.string "Please store something on your PC,\n"
-	.string "then come back for this.$"
+	.string "Oh, maaf, {PLAYER}.\n"
+	.string "Kantong ITEM KUNCI di TAS-mu penuh.\p"
+	.string "Tolong simpan sesuatu di PC-mu,\n"
+	.string "lalu kembali lagi untuk ini.$"

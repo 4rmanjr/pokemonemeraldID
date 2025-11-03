@@ -1,3 +1,4 @@
+//gemini
 SlateportCity_House_MapScripts::
 	.byte 0
 
@@ -10,14 +11,13 @@ SlateportCity_House_EventScript_Girl::
 	end
 
 SlateportCity_House_Text_NatureToDoWithStatGains:
-	.string "My POKéMON has a HASTY nature.\p"
-	.string "It has higher SPEED compared to\n"
-	.string "my other POKéMON.\p"
-	.string "Maybe their nature has something to\n"
-	.string "do with the stat gains of POKéMON.$"
+	.string "POKéMON-ku memiliki sifat HASTY.\p"
+	.string "Ia memiliki SPEED yang lebih tinggi\n"
+	.string "dibandingkan POKéMON-ku yang lain.\p"
+	.string "Mungkin sifat mereka ada hubungannya\n"
+	.string "dengan peningkatan stat POKéMON.$"
 
 SlateportCity_House_Text_MustBeGoingToBattleTent:
-	.string "You're a TRAINER, aren't you?\p"
-	.string "Since you came to SLATEPORT CITY,\n"
-	.string "you must be going to the BATTLE TENT.$"
-
+	.string "Kamu seorang TRAINER, kan?\p"
+	.string "Karena kamu datang ke SLATEPORT CITY,\n"
+	.string "kamu pasti akan pergi ke BATTLE TENT.$"

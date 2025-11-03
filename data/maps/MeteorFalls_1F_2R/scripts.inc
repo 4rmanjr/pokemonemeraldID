@@ -61,123 +61,133 @@ MeteorFalls_1F_2R_EventScript_RematchJay::
 	end
 
 MeteorFalls_1F_2R_Text_NicolasIntro:
-	.string "This is where we DRAGON users do our\n"
-	.string "training.\p"
-	.string "The CHAMPION even visits.\n"
-	.string "Now do you see how special it is here?$"
+	.string "Di sinilah kami para pengguna DRAGON\n"
+	.string "berlatih.\p"
+	.string "Bahkan CHAMPION pun berkunjung.\n"
+	.string "Sekarang kamu lihat betapa istimewanya\l"
+	.string "tempat ini?$"
 
 MeteorFalls_1F_2R_Text_NicolasDefeat:
 	.string "Urgh!\n"
-	.string "I didn't expect you to be so strong!$"
+	.string "Aku tidak menyangka kamu sekuat ini!$"
 
 MeteorFalls_1F_2R_Text_NicolasPostBattle:
-	.string "The road ahead remains long and harsh.\p"
-	.string "When will my POKéMON and I become\n"
-	.string "the best?$"
+	.string "Jalan di depan masih panjang dan berat.\p"
+	.string "Kapan POKéMON-ku dan aku akan menjadi\n"
+	.string "yang terbaik?$"
 
 MeteorFalls_1F_2R_Text_NicolasRegister:
-	.string "I want to know more about your power.\n"
-	.string "Let me register you in my POKéNAV.$"
+	.string "Aku ingin tahu lebih banyak tentang\n"
+	.string "kekuatanmu.\p"
+	.string "Biarkan aku mendaftarkanmu di\n"
+	.string "POKéNAV-ku.$"
 
 MeteorFalls_1F_2R_Text_NicolasRematchIntro:
-	.string "Since we met, we have trained hard\n"
-	.string "with our sights on number one.\p"
-	.string "Help us see how much stronger we've\n"
-	.string "become!$"
+	.string "Sejak kita bertemu, kami telah berlatih\n"
+	.string "keras dengan tujuan menjadi nomor satu.\p"
+	.string "Bantu kami melihat seberapa kuat kami\n"
+	.string "telah menjadi!$"
 
 MeteorFalls_1F_2R_Text_NicolasRematchDefeat:
 	.string "Urgh!\n"
-	.string "I didn't expect you to be so strong!$"
+	.string "Aku tidak menyangka kamu sekuat ini!$"
 
 MeteorFalls_1F_2R_Text_NicolasPostRematch:
-	.string "You've obviously kept up your\n"
-	.string "POKéMON training.\p"
-	.string "So long as you remain strong, I, too,\n"
-	.string "can become stronger!$"
+	.string "Kamu jelas melanjutkan latihan\n"
+	.string "POKéMON-mu.\p"
+	.string "Selama kamu tetap kuat, aku juga bisa\n"
+	.string "menjadi lebih kuat!$"
 
 MeteorFalls_1F_2R_Text_JohnIntro:
-	.string "JOHN: We've always battled POKéMON\n"
-	.string "together as a twosome.\l"
-	.string "We've confidence in ourselves.$"
+	.string "JOHN: Kami selalu bertarung POKéMON\n"
+	.string "bersama sebagai pasangan.\l"
+	.string "Kami percaya diri.$"
 
 MeteorFalls_1F_2R_Text_JohnDefeat:
-	.string "JOHN: Oh, my.\n"
-	.string "We've lost, dear wife.$"
+	.string "JOHN: Oh, astaga.\n"
+	.string "Kita kalah, istriku sayang.$"
 
 MeteorFalls_1F_2R_Text_JohnPostBattle:
-	.string "JOHN: We've been married for\n"
-	.string "fifty years.\p"
-	.string "Come to think of it, I've yet to beat\n"
-	.string "my dear wife in a battle.$"
+	.string "JOHN: Kami sudah menikah selama lima\n"
+	.string "puluh tahun.\p"
+	.string "Kalau dipikir-pikir, aku belum pernah\n"
+	.string "mengalahkan istriku dalam pertarungan.$"
 
 MeteorFalls_1F_2R_Text_JohnNotEnoughMons:
-	.string "JOHN: Well, well, what a young TRAINER!\p"
-	.string "Will you battle with us? If so, you'll\n"
-	.string "have to return with more POKéMON.$"
+	.string "JOHN: Wah, wah, TRAINER yang masih\n"
+	.string "muda!\p"
+	.string "Maukah kamu bertarung dengan kami?\n"
+	.string "Jika iya, kamu harus kembali dengan\l"
+	.string "lebih banyak POKéMON.$"
 
 MeteorFalls_1F_2R_Text_JohnRegister:
-	.string "JOHN: Young TRAINER, if the chance\n"
-	.string "arises, will you battle with us again?$"
+	.string "JOHN: TRAINER muda, jika ada\n"
+	.string "kesempatan, maukah kamu bertarung\l"
+	.string "dengan kami lagi?$"
 
 MeteorFalls_1F_2R_Text_JayIntro:
-	.string "JAY: We've been married for\n"
-	.string "fifty years.\p"
-	.string "The bond we share as a couple could\n"
-	.string "never be broken.$"
+	.string "JAY: Kami sudah menikah selama lima\n"
+	.string "puluh tahun.\p"
+	.string "Ikatan yang kami bagi sebagai pasangan\n"
+	.string "tidak akan pernah bisa putus.$"
 
 MeteorFalls_1F_2R_Text_JayDefeat:
-	.string "JAY: Oh, dear.\n"
-	.string "We've lost, my dear husband.$"
+	.string "JAY: Oh, sayang.\n"
+	.string "Kita kalah, suamiku tersayang.$"
 
 MeteorFalls_1F_2R_Text_JayPostBattle:
-	.string "JAY: Fifty years of marriage…\p"
-	.string "If we ever argued, we always settled\n"
-	.string "it with a POKéMON battle…$"
+	.string "JAY: Lima puluh tahun pernikahan…\p"
+	.string "Jika kami pernah bertengkar, kami\n"
+	.string "selalu menyelesaikannya dengan\l"
+	.string "pertarungan POKéMON…$"
 
 MeteorFalls_1F_2R_Text_JayNotEnoughMons:
-	.string "JAY: Well, well, aren't you a young\n"
-	.string "TRAINER?\p"
-	.string "If you'd care to battle with us, you'll\n"
-	.string "have to come back with more POKéMON.$"
+	.string "JAY: Wah, wah, bukankah kamu seorang\n"
+	.string "TRAINER muda?\p"
+	.string "Jika kamu ingin bertarung dengan kami,\n"
+	.string "kamu harus kembali dengan lebih banyak\l"
+	.string "POKéMON.$"
 
 MeteorFalls_1F_2R_Text_JohnRematchIntro:
-	.string "JOHN: We've always battled POKéMON\n"
-	.string "together as a twosome.\l"
-	.string "We've confidence in ourselves.$"
+	.string "JOHN: Kami selalu bertarung POKéMON\n"
+	.string "bersama sebagai pasangan.\l"
+	.string "Kami percaya diri.$"
 
 MeteorFalls_1F_2R_Text_JohnRematchDefeat:
-	.string "JOHN: Oh, my.\n"
-	.string "We've lost, dear wife.$"
+	.string "JOHN: Oh, astaga.\n"
+	.string "Kita kalah, istriku sayang.$"
 
 MeteorFalls_1F_2R_Text_JohnPostRematch:
-	.string "JOHN: Married for fifty years…\p"
-	.string "On reflection, the dear wife and I,\n"
-	.string "we battled day in and day out…$"
+	.string "JOHN: Menikah selama lima puluh tahun…\p"
+	.string "Setelah direnungkan, istriku dan aku,\n"
+	.string "kami bertarung hari demi hari…$"
 
 MeteorFalls_1F_2R_Text_JohnRematchNotEnoughMons:
-	.string "JOHN: Well, well, what a young TRAINER!\p"
-	.string "Will you battle with us? If so, you'll\n"
-	.string "have to return with more POKéMON.$"
+	.string "JOHN: Wah, wah, TRAINER yang masih\n"
+	.string "muda!\p"
+	.string "Maukah kamu bertarung dengan kami?\n"
+	.string "Jika iya, kamu harus kembali dengan\l"
+	.string "lebih banyak POKéMON.$"
 
 MeteorFalls_1F_2R_Text_JayRematchIntro:
-	.string "JAY: We've been married for\n"
-	.string "fifty years.\p"
-	.string "We've supported each other all that\n"
-	.string "time. We've made ourselves strong.$"
+	.string "JAY: Kami sudah menikah selama lima\n"
+	.string "puluh tahun.\p"
+	.string "Kami saling mendukung selama ini. Kami\n"
+	.string "telah membuat diri kami kuat.$"
 
 MeteorFalls_1F_2R_Text_JayRematchDefeat:
-	.string "JAY: Oh, dear.\n"
-	.string "We've lost, my dear husband.$"
+	.string "JAY: Oh, sayang.\n"
+	.string "Kita kalah, suamiku tersayang.$"
 
 MeteorFalls_1F_2R_Text_JayPostRematch:
-	.string "JAY: Fifty years of marriage…\n"
-	.string "Many things have happened.\p"
-	.string "I hope that we will continue to make\n"
-	.string "happy memories together.$"
+	.string "JAY: Lima puluh tahun pernikahan…\n"
+	.string "Banyak hal telah terjadi.\p"
+	.string "Aku harap kita akan terus membuat\n"
+	.string "kenangan indah bersama.$"
 
 MeteorFalls_1F_2R_Text_JayRematchNotEnoughMons:
-	.string "JAY: Well, well, aren't you a young\n"
-	.string "TRAINER?\p"
-	.string "If you'd care to battle with us, you'll\n"
-	.string "have to come back with more POKéMON.$"
-
+	.string "JAY: Wah, wah, bukankah kamu seorang\n"
+	.string "TRAINER muda?\p"
+	.string "Jika kamu ingin bertarung dengan kami,\n"
+	.string "kamu harus kembali dengan lebih banyak\l"
+	.string "POKéMON.$"

@@ -63,20 +63,19 @@ PetalburgCity_Mart_EventScript_Man::
 	end
 
 PetalburgCity_Mart_Text_WeakWillGrowStronger:
-	.string "Even if a POKéMON is weak now,\n"
-	.string "it will grow stronger.\p"
-	.string "The most important thing is love!\n"
-	.string "Love for your POKéMON!$"
+	.string "Meskipun POKéMON lemah sekarang,\n"
+	.string "dia akan tumbuh lebih kuat.\p"
+	.string "Yang paling penting adalah cinta!\n"
+	.string "Cinta untuk POKéMON-mu!$"
 
 PetalburgCity_Mart_Text_RepelIsUseful:
-	.string "Do you use REPEL?\n"
-	.string "It keeps POKéMON away, so it's\l"
-	.string "useful when you're in a hurry.$"
+	.string "Apa Kamu menggunakan REPEL? Itu\n"
+	.string "menjauhkan POKéMON, jadi berguna\l"
+	.string "saat Kamu sedang terburu-buru.$"
 
 PetalburgCity_Mart_Text_TakeSomeAntidotesWithYou:
-	.string "Do you have any ANTIDOTES with\n"
-	.string "you?\p"
-	.string "If you walk around with a poisoned\n"
-	.string "POKéMON, it will lose HP until it faints.\l"
-	.string "Take some ANTIDOTES with you.$"
-
+	.string "Apa Kamu membawa ANTIDOTES?\p"
+	.string "Jika Kamu berjalan-jalan dengan\n"
+	.string "POKéMON yang keracunan, ia akan\l"
+	.string "kehilangan HP hingga pingsan. Bawa\l"
+	.string "beberapa ANTIDOTES bersamamu.$"

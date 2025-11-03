@@ -135,185 +135,186 @@ FortreeCity_Gym_EventScript_GymStatue::
 	end
 
 FortreeCity_Gym_Text_GymGuideAdvice:
-	.string "Yo, how's it going, CHAMPION-\n"
-	.string "bound {PLAYER}?\p"
-	.string "FORTREE GYM LEADER WINONA is\n"
-	.string "a master of FLYING-type POKéMON.\p"
-	.string "She's waiting at the back of this GYM,\n"
-	.string "behind the rotating doors.\p"
-	.string "She's waiting for new challengers\n"
-	.string "who are trying to take wing!\p"
-	.string "Okay, go for it!$"
+	.string "Yo, apa kabar, calon CHAMPION\n"
+	.string "{PLAYER}?\p"
+	.string "PEMIMPIN GYM FORTREE, WINONA, adalah\n"
+	.string "master POKéMON tipe TERBANG.\p"
+	.string "Dia menunggu di belakang GYM ini, di\n"
+	.string "balik pintu putar.\p"
+	.string "Dia menunggu penantang baru yang\n"
+	.string "mencoba untuk terbang tinggi!\p"
+	.string "Oke, semangat!$"
 
 FortreeCity_Gym_Text_GymGuidePostVictory:
-	.string "You did it!\n"
-	.string "You've achieved liftoff!$"
+	.string "Kamu berhasil!\n"
+	.string "Kamu telah lepas landas!$"
 
 FortreeCity_Gym_Text_JaredIntro:
-	.string "Behold the elegant battle style of\n"
-	.string "BIRD POKéMON!$"
+	.string "Saksikan gaya bertarung elegan dari\n"
+	.string "POKéMON BURUNG!$"
 
 FortreeCity_Gym_Text_JaredDefeat:
-	.string "You…\n"
-	.string "You're strong…$"
+	.string "Kamu…\n"
+	.string "Kamu kuat…$"
 
 FortreeCity_Gym_Text_JaredPostBattle:
-	.string "A TRAINER has to be smart to keep\n"
-	.string "up with unexpected turns of events.\p"
-	.string "Do you have the smarts to get to\n"
-	.string "our LEADER?$"
+	.string "Seorang TRAINER harus cerdas untuk\n"
+	.string "menghadapi kejadian tak terduga.\p"
+	.string "Apa kamu cukup cerdas untuk sampai\n"
+	.string "ke PEMIMPIN kami?$"
 
 FortreeCity_Gym_Text_EdwardoIntro:
-	.string "The lovers of BIRD POKéMON aspire\n"
-	.string "to join this GYM.\p"
-	.string "As a member of the FORTREE GYM,\n"
-	.string "I'm not allowed to lose!$"
+	.string "Para pecinta POKéMON BURUNG\n"
+	.string "bercita-cita untuk bergabung GYM ini.\p"
+	.string "Sebagai anggota GYM FORTREE, aku\n"
+	.string "tidak boleh kalah!$"
 
 FortreeCity_Gym_Text_EdwardoDefeat:
-	.string "It was too much of a load for me\n"
-	.string "to bear…$"
+	.string "Beban ini terlalu berat untukku\n"
+	.string "bawa…$"
 
 FortreeCity_Gym_Text_EdwardoPostBattle:
-	.string "The world is huge, and there are\n"
-	.string "countless tough TRAINERS.\p"
-	.string "I'm going to keep training and make\n"
-	.string "myself even stronger.$"
+	.string "Dunia ini luas, dan ada banyak\n"
+	.string "sekali TRAINER tangguh.\p"
+	.string "Aku akan terus berlatih dan membuat\n"
+	.string "diriku lebih kuat.$"
 
 FortreeCity_Gym_Text_FlintIntro:
-	.string "There's no need for WINONA, our GYM\n"
-	.string "LEADER, to deal with you!\p"
-	.string "I'm plenty good enough for you!$"
+	.string "WINONA, PEMIMPIN GYM kami, tidak\n"
+	.string "perlu berurusan denganmu!\p"
+	.string "Aku saja sudah lebih dari cukup!$"
 
 FortreeCity_Gym_Text_FlintDefeat:
-	.string "WINONA, I…\n"
-	.string "I lost!$"
+	.string "WINONA, aku…\n"
+	.string "Aku kalah!$"
 
 FortreeCity_Gym_Text_FlintPostBattle:
-	.string "WINONA is cute and she's strong.\n"
-	.string "She's the ultimate LEADER!\p"
-	.string "Blush…$"
+	.string "WINONA itu imut dan kuat.\n"
+	.string "Dia PEMIMPIN terhebat!\p"
+	.string "tersipu…$"
 
 FortreeCity_Gym_Text_AshleyIntro:
-	.string "WINONA taught me personally!\n"
-	.string "You can't beat me easily!$"
+	.string "WINONA mengajariku secara pribadi!\n"
+	.string "Kamu takkan bisa kalahkanku mudah!$"
 
 FortreeCity_Gym_Text_AshleyDefeat:
-	.string "I was beaten…$"
+	.string "Aku dikalahkan…$"
 
 FortreeCity_Gym_Text_AshleyPostBattle:
-	.string "Thanks to WINONA, the people of\n"
-	.string "FORTREE can live without fear.$"
+	.string "Berkat WINONA, penduduk FORTREE\n"
+	.string "bisa hidup tanpa rasa takut.$"
 
 FortreeCity_Gym_Text_HumbertoIntro:
-	.string "When WINONA takes to battle, her face\n"
-	.string "shines with beautiful determination…\p"
-	.string "I'm not letting you witness that\n"
-	.string "lovely sight!$"
+	.string "Saat WINONA bertarung, wajahnya\n"
+	.string "bersinar dengan tekad yang indah…\p"
+	.string "Aku takkan membiarkanmu menyaksikan\n"
+	.string "pemandangan indah itu!$"
 
 FortreeCity_Gym_Text_HumbertoDefeat:
 	.string "Urk!\n"
-	.string "I couldn't stop you.$"
+	.string "Aku tak bisa menghentikanmu.$"
 
 FortreeCity_Gym_Text_HumbertoPostBattle:
-	.string "You'd better watch it!\n"
-	.string "Don't get distracted staring at WINONA\l"
-	.string "or you'll go crashing down in a heap!$"
+	.string "Sebaiknya kamu hati-hati!\n"
+	.string "Jangan terpesona menatap WINONA\l"
+	.string "atau kamu akan jatuh tersungkur!$"
 
 FortreeCity_Gym_Text_DariusIntro:
-	.string "You'd better know that there are all\n"
-	.string "sorts of FLYING-type POKéMON.\p"
-	.string "You do know that, right?$"
+	.string "Kamu harus tahu bahwa ada berbagai\n"
+	.string "macam POKéMON tipe TERBANG.\p"
+	.string "Kamu tahu itu, kan?$"
 
 FortreeCity_Gym_Text_DariusDefeat:
-	.string "You seem to know your stuff!$"
+	.string "Sepertinya kamu cukup tahu!$"
 
 FortreeCity_Gym_Text_DariusPostBattle:
-	.string "Sure, you beat me all right.\n"
-	.string "But you'd better watch it! Our LEADER\l"
-	.string "WINONA's POKéMON are all business.$"
+	.string "Tentu, kamu mengalahkanku.\n"
+	.string "Tapi hati-hati! POKéMON PEMIMPIN\l"
+	.string "kami, WINONA, sangat serius.$"
 
 FortreeCity_Gym_Text_WinonaIntro:
-	.string "I am WINONA. I am the LEADER of\n"
-	.string "the FORTREE POKéMON GYM.\p"
-	.string "I have become one with BIRD POKéMON\n"
-	.string "and have soared the skies…\p"
-	.string "However grueling the battle, we have\n"
-	.string "triumphed with grace…\p"
-	.string "Witness the elegant choreography\n"
-	.string "of BIRD POKéMON and I!$"
+	.string "Aku WINONA. PEMIMPIN GYM POKéMON\n"
+	.string "FORTREE.\p"
+	.string "Aku telah menyatu dengan POKéMON\n"
+	.string "BURUNG dan membumbung di angkasa…\p"
+	.string "Sekeras apapun pertarungannya, kami\n"
+	.string "menang dengan anggun…\p"
+	.string "Saksikan koreografi elegan antara\n"
+	.string "POKéMON BURUNG dan aku!$"
 
 FortreeCity_Gym_Text_WinonaDefeat:
-	.string "Never before have I seen a TRAINER\n"
-	.string "command POKéMON with more grace\l"
-	.string "than I…\p"
-	.string "In recognition of your prowess,\n"
-	.string "I present to you this GYM BADGE.$"
+	.string "Belum pernah kulihat TRAINER\n"
+	.string "memerintah POKéMON lebih anggun\l"
+	.string "dariku…\p"
+	.string "Sebagai pengakuan atas kehebatanmu,\n"
+	.string "kuberikan LENCANA GYM ini.$"
 
 FortreeCity_Gym_Text_ReceivedFeatherBadge:
-	.string "{PLAYER} received the FEATHER BADGE\n"
-	.string "from WINONA.$"
+	.string "{PLAYER} mendapatkan FEATHER BADGE\n"
+	.string "dari WINONA.$"
 
 FortreeCity_Gym_Text_ExplainFeatherBadgeTakeThis:
-	.string "With the FEATHER BADGE, all POKéMON up\n"
-	.string "to LV 70, even those received through\l"
-	.string "trades, will obey your every command.\p"
-	.string "You will also be able to use\n"
-	.string "the HM move FLY outside of battle.\p"
-	.string "And this…\n"
-	.string "This is a gift from me.$"
+	.string "Dengan FEATHER BADGE, semua POKéMON\n"
+	.string "hingga LV 70, bahkan dari pertukaran,\l"
+	.string "akan mematuhi setiap perintahmu.\p"
+	.string "Kamu juga bisa menggunakan HM FLY\n"
+	.string "di luar pertarungan.\p"
+	.string "Dan ini…\n"
+	.string "Ini hadiah dariku.$"
 
 FortreeCity_Gym_Text_ExplainAerialAce:
-	.string "TM40 contains AERIAL ACE.\p"
-	.string "Its speed…\n"
-	.string "No POKéMON should be able to avoid it.\p"
+	.string "TM40 berisi AERIAL ACE.\p"
+	.string "Kecepatannya…\n"
+	.string "Tak ada POKéMON yang bisa\l"
+	.string "menghindarinya.\p"
 	.string "… … … … … …$"
 
 FortreeCity_Gym_Text_RegisteredWinona:
-	.string "Registered GYM LEADER WINONA\n"
-	.string "in the POKéNAV.$"
+	.string "PEMIMPIN GYM WINONA terdaftar\n"
+	.string "di POKéNAV.$"
 
 FortreeCity_Gym_Text_WinonaPostBattle:
-	.string "Though I fell to you, I will remain\n"
-	.string "devoted to BIRD POKéMON.$"
+	.string "Meskipun aku kalah darimu, aku akan\n"
+	.string "tetap setia pada POKéMON BURUNG.$"
 
 FortreeCity_Gym_Text_GymStatue:
-	.string "FORTREE CITY POKéMON GYM$"
+	.string "GYM POKéMON KOTA FORTREE$"
 
 FortreeCity_Gym_Text_GymStatueCertified:
-	.string "FORTREE CITY POKéMON GYM\p"
-	.string "WINONA'S CERTIFIED TRAINERS:\n"
+	.string "GYM POKéMON KOTA FORTREE\p"
+	.string "TRAINER BERSERTIFIKAT WINONA:\n"
 	.string "{PLAYER}$"
 
 FortreeCity_Gym_Text_WinonaPreRematch:
-	.string "WINONA: We humans can never escape\n"
-	.string "gravity's pull on the ground.\p"
-	.string "But by striving for excellence,\n"
-	.string "we have the power to soar!\p"
-	.string "You have scaled the pinnacle as\n"
-	.string "the reigning CHAMPION.\p"
-	.string "Please, allow me to see your power\n"
-	.string "at full flight!$"
+	.string "WINONA: Kita manusia tidak akan\n"
+	.string "pernah lepas dari gravitasi bumi.\p"
+	.string "Tapi dengan berjuang untuk\n"
+	.string "keunggulan, kita bisa terbang!\p"
+	.string "Kamu telah mencapai puncak sebagai\n"
+	.string "CHAMPION yang berkuasa.\p"
+	.string "Tolong, izinkan aku melihat kekuatan\n"
+	.string "penuhmu saat terbang!$"
 
 FortreeCity_Gym_Text_WinonaRematchDefeat:
-	.string "I failed to reach your height again…$"
+	.string "Aku gagal mencapai ketinggianmu lagi…$"
 
 FortreeCity_Gym_Text_WinonaPostRematch:
-	.string "WINONA: Even though I have lost,\n"
-	.string "the wings of my heart remain unbroken.\p"
-	.string "I can rise and soar again and\n"
-	.string "yet again.\p"
-	.string "I am convinced of it!$"
+	.string "WINONA: Meskipun aku kalah, sayap\n"
+	.string "hatiku tetap tak terpatahkan.\p"
+	.string "Aku bisa bangkit dan terbang lagi\n"
+	.string "dan lagi.\p"
+	.string "Aku yakin akan hal itu!$"
 
 FortreeCity_Gym_Text_WinonaRematchNeedTwoMons:
-	.string "WINONA: We humans can never escape\n"
-	.string "gravity's pull on the ground.\p"
-	.string "But by striving for excellence,\n"
-	.string "we have the power to soar!\p"
-	.string "You have scaled the pinnacle as\n"
-	.string "the reigning CHAMPION.\p"
-	.string "Please, allow me to see your power\n"
-	.string "at full flight!\p"
-	.string "Oh, no… Do you have but one\n"
-	.string "POKéMON with you?\p"
-	.string "Please return with two POKéMON\n"
-	.string "at the very least.$"
+	.string "WINONA: Kita manusia tidak akan\n"
+	.string "pernah lepas dari gravitasi bumi.\p"
+	.string "Tapi dengan berjuang untuk\n"
+	.string "keunggulan, kita bisa terbang!\p"
+	.string "Kamu telah mencapai puncak sebagai\n"
+	.string "CHAMPION yang berkuasa.\p"
+	.string "Tolong, izinkan aku melihat kekuatan\n"
+	.string "penuhmu saat terbang!\p"
+	.string "Oh, tidak… Apa kamu hanya punya\n"
+	.string "satu POKéMON?\p"
+	.string "Tolong kembali dengan setidaknya\n"
+	.string "dua POKéMON.$"

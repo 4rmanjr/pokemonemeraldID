@@ -1,3 +1,4 @@
+//gemini
 Route114_FossilManiacsTunnel_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, Route114_FossilManiacsTunnel_OnTransition
 	map_script MAP_SCRIPT_ON_LOAD, Route114_FossilManiacsTunnel_OnLoad
@@ -54,38 +55,38 @@ Route114_FossilManiacsTunnel_EventScript_PlayerRevivedFossil::
 	end
 
 Route114_FossilManiacsTunnel_Text_LookInDesertForFossils:
-	.string "I'm the FOSSIL MANIAC…\n"
-	.string "I'm a nice guy who loves FOSSILS…\p"
-	.string "Do you want a FOSSIL?\p"
-	.string "But the FOSSILS around these parts all\n"
-	.string "belong to me… None for you…\p"
-	.string "If you can't bear to go without\n"
-	.string "a FOSSIL, look in a desert where there\l"
-	.string "are boulders and sand that may hide\l"
+	.string "Aku FOSSIL MANIAC… Aku pria baik yang\n"
+	.string "mencintai FOSSILS…\p"
+	.string "Apa kamu mau FOSSIL?\p"
+	.string "Tapi semua FOSSILS di sekitar sini\n"
+	.string "milikku… Tidak ada untukmu…\p"
+	.string "Jika kamu tidak tahan tanpa FOSSIL,\n"
+	.string "cari di gurun di mana ada batu besar\l"
+	.string "dan pasir yang mungkin menyembunyikan\l"
 	.string "FOSSILS…$"
 
 Route114_FossilManiacsTunnel_Text_DevonCorpRevivingFossils:
-	.string "You found a FOSSIL, didn't you?\n"
-	.string "That's so nice… It's so dreamy…\p"
-	.string "What are you going to do with that\n"
-	.string "FOSSIL?\p"
-	.string "From what I've heard, DEVON is doing\n"
-	.string "research on reviving POKéMON from\l"
+	.string "Kamu menemukan FOSSIL, bukan? Itu\n"
+	.string "sangat bagus… Sangat mempesona…\p"
+	.string "Apa yang akan kamu lakukan dengan\n"
+	.string "FOSSIL itu?\p"
+	.string "Dari yang kudengar, DEVON sedang\n"
+	.string "melakukan penelitian untuk\l"
+	.string "menghidupkan kembali POKéMON dari\l"
 	.string "FOSSILS…\p"
-	.string "I love my FOSSILS, so I would never\n"
-	.string "do anything like that…$"
+	.string "Aku mencintai FOSSILS-ku, jadi aku\n"
+	.string "tidak akan pernah melakukan hal\l"
+	.string "seperti itu…$"
 
 Route114_FossilManiacsTunnel_Text_FossilsAreWonderful:
-	.string "FOSSILS are so… Wonderful…\n"
-	.string "It's so dreamy…$"
+	.string "FOSSILS sangat… Indah… Sangat\n"
+	.string "mempesona…$"
 
 Route114_FossilManiacsTunnel_Text_NotSafeThatWay:
-	.string "Oh…\n"
-	.string "It's not safe that way…\p"
-	.string "I was digging away, you see…\n"
-	.string "When the whole wall collapsed…\p"
-	.string "I think there's a giant cavern\n"
-	.string "underneath now…\p"
-	.string "But I've left it alone because I don't\n"
-	.string "think there are any FOSSILS there…$"
-
+	.string "Oh… Jalan itu tidak aman…\p"
+	.string "Aku sedang menggali, begitulah…\n"
+	.string "Ketika seluruh dinding runtuh…\p"
+	.string "Aku pikir sekarang ada gua raksasa di\n"
+	.string "bawahnya…\p"
+	.string "Tapi aku meninggalkannya karena aku\n"
+	.string "tidak berpikir ada FOSSILS di sana…$"

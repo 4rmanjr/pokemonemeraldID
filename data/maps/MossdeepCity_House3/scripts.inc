@@ -26,26 +26,27 @@ MossdeepCity_House3_EventScript_DeclineSuperRod::
 	end
 
 MossdeepCity_House3_Text_YouWantSuperRod:
-	.string "Hey there, TRAINER!\n"
-	.string "A SUPER ROD really is super!\p"
-	.string "Say all you want, but this baby can\n"
-	.string "catch POKéMON off the seafloor!\p"
-	.string "What do you think?\n"
-	.string "You want it, don't you?$"
+	.string "Hei, TRAINER!\n"
+	.string "SUPER ROD benar-benar super!\p"
+	.string "Apa pun yang kamu katakan, tapi alat\n"
+	.string "ini bisa menangkap POKéMON dari dasar\l"
+	.string "laut!\p"
+	.string "Bagaimana menurutmu?\n"
+	.string "Kamu menginginkannya, bukan?$"
 
 MossdeepCity_House3_Text_SuperRodIsSuper:
-	.string "You bet, you bet!\n"
-	.string "After all, a SUPER ROD is really super!$"
+	.string "Tentu saja, tentu saja!\n"
+	.string "Bagaimanapun, SUPER ROD memang super!$"
 
 MossdeepCity_House3_Text_TryDroppingRodInWater:
-	.string "If there's any water, try dropping in\n"
-	.string "your ROD and see what bites!$"
+	.string "Jika ada air, coba lemparkan\n"
+	.string "PANCING-mu dan lihat apa yang menggigit!$"
 
 MossdeepCity_House3_Text_DontYouLikeToFish:
-	.string "Hunh?\n"
-	.string "Don't you like to fish?$"
+	.string "Hah?\n"
+	.string "Kamu tidak suka memancing?$"
 
 MossdeepCity_House3_Text_GoAfterSeafloorPokemon:
-	.string "Go after the seafloor POKéMON with\n"
-	.string "your SUPER ROD.$"
+	.string "Kejar POKéMON dasar laut dengan\n"
+	.string "SUPER ROD-mu.$"
 

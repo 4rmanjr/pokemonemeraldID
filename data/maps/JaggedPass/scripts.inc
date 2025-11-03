@@ -148,119 +148,122 @@ JaggedPass_EventScript_Autumn::
 	end
 
 JaggedPass_Text_EricIntro:
-	.string "MT. CHIMNEY's JAGGED PASS…\p"
-	.string "Now this is what I've always wanted\n"
-	.string "in a mountain.\p"
-	.string "This jagged bumpiness…\n"
-	.string "It rocks my soul!$"
+	.string "JAGGED PASS di MT. CHIMNEY…\p"
+	.string "Nah, gunung seperti inilah yang\n"
+	.string "selalu kuinginkan.\p"
+	.string "Jalanan terjal dan bergelombang ini…\n"
+	.string "Mengguncang jiwaku!$"
 
 JaggedPass_Text_EricDefeat:
-	.string "Losing left me bitter!$"
+	.string "Kalah membuatku kesal!$"
 
 JaggedPass_Text_EricPostBattle:
-	.string "Yes, I did lose at POKéMON…\p"
-	.string "But, when it comes to the love of\n"
-	.string "the mountains, I have you beat!$"
+	.string "Ya, aku memang kalah…\p"
+	.string "Tapi, soal cinta pada gunung, aku\n"
+	.string "menang darimu!$"
 
 JaggedPass_Text_DianaIntro:
-	.string "This place isn't your casual hike.\n"
-	.string "It's not suited for a picnic.$"
+	.string "Tempat ini bukan untuk pendakian\n"
+	.string "santai. Tidak cocok untuk piknik.$"
 
 JaggedPass_Text_DianaDefeat:
-	.string "Ohhh, no!\n"
-	.string "The ground is too bumpy…$"
+	.string "Ohhh, tidak!\n"
+	.string "Tanahnya terlalu bergelombang…$"
 
 JaggedPass_Text_DianaPostBattle:
-	.string "Did you know?\p"
-	.string "Some people cleverly ride their\n"
-	.string "bicycles up this horribly bumpy pass.$"
+	.string "Apa kamu tahu?\p"
+	.string "Beberapa orang dengan cerdik\n"
+	.string "mengendarai sepeda mereka melewati\l"
+	.string "jalur yang sangat bergelombang ini.$"
 
 JaggedPass_Text_DianaRegister:
-	.string "Will you ever be back in this area?\n"
-	.string "If you do return, I'd like a rematch.$"
+	.string "Apa kamu akan kembali ke area ini?\n"
+	.string "Jika iya, aku ingin tanding ulang.$"
 
 JaggedPass_Text_DianaRematchIntro:
-	.string "Picnics are fun wherever you go.\n"
-	.string "Just like POKéMON!$"
+	.string "Piknik itu menyenangkan di mana saja.\n"
+	.string "Sama seperti POKéMON!$"
 
 JaggedPass_Text_DianaRematchDefeat:
-	.string "I only lost because the ground is\n"
-	.string "too bumpy!$"
+	.string "Aku kalah hanya karena tanahnya\n"
+	.string "terlalu bergelombang!$"
 
 JaggedPass_Text_DianaPostRematch:
-	.string "I'll forget about losing and just\n"
-	.string "enjoy this bumpy hike.$"
+	.string "Akan kulupakan kekalahan ini dan\n"
+	.string "nikmati saja pendakian ini.$"
 
 JaggedPass_Text_EthanIntro:
-	.string "JAGGED PASS is hard to walk on.\n"
-	.string "It's a good place for training.$"
+	.string "JAGGED PASS sulit untuk dilalui.\n"
+	.string "Ini tempat yang bagus untuk berlatih.$"
 
 JaggedPass_Text_EthanDefeat:
-	.string "It was all over while we were still\n"
-	.string "trying to find a good footing…$"
+	.string "Semuanya berakhir saat kami masih\n"
+	.string "mencari pijakan yang bagus…$"
 
 JaggedPass_Text_EthanPostBattle:
-	.string "If I had an ACRO BIKE, I'd be able to\n"
-	.string "jump ledges.$"
+	.string "Kalau aku punya ACRO BIKE, aku bisa\n"
+	.string "melompati tepian.$"
 
 JaggedPass_Text_EthanRegister:
-	.string "When I get more used to this bumpiness,\n"
-	.string "I'll be sure to win!\p"
-	.string "Can you register me in your POKéNAV?$"
+	.string "Saat aku sudah terbiasa dengan\n"
+	.string "jalanan ini, aku pasti akan menang!\p"
+	.string "Bisakah kamu mendaftarkanku di\n"
+	.string "POKéNAV-mu?$"
 
 JaggedPass_Text_EthanRematchIntro:
-	.string "I got used to this bumpiness.\n"
-	.string "I sing while I climb now.$"
+	.string "Aku sudah terbiasa dengan jalanan\n"
+	.string "ini. Sekarang aku bernyanyi sambil\l"
+	.string "mendaki.$"
 
 JaggedPass_Text_EthanRematchDefeat:
-	.string "It's still not easy to battle on this\n"
-	.string "bumpy ground…$"
+	.string "Masih tidak mudah bertarung di tanah\n"
+	.string "yang bergelombang ini…$"
 
 JaggedPass_Text_EthanPostRematch:
-	.string "I should get an ACRO BIKE from RYDEL\n"
-	.string "in MAUVILLE CITY…$"
+	.string "Seharusnya aku mendapatkan ACRO BIKE\n"
+	.string "dari RYDEL di KOTA MAUVILLE…$"
 
 JaggedPass_Text_GruntIntro:
 	.string "Wah!\n"
-	.string "What are you doing here?\p"
-	.string "What am I doing in a place like this?\p"
-	.string "What business is it of yours?$"
+	.string "Sedang apa kamu di sini?\p"
+	.string "Apa yang kulakukan di sini?\p"
+	.string "Bukan urusanmu!$"
 
 JaggedPass_Text_GruntDefeat:
 	.string "Urrrgh…\p"
-	.string "I should've ducked into our HIDEOUT\n"
-	.string "right away…$"
+	.string "Seharusnya aku langsung masuk ke\n"
+	.string "MARKAS kami…$"
 
 JaggedPass_Text_GoWhereverYouWant:
-	.string "Okay, oh-kay!\n"
-	.string "I admit it--you're strong!\p"
-	.string "Don't worry about me.\n"
-	.string "Go wherever you want!$"
+	.string "Oke, oke!\n"
+	.string "Aku akui--kamu kuat!\p"
+	.string "Jangan khawatirkan aku.\n"
+	.string "Pergilah ke mana pun kamu mau!$"
 
 JaggedPass_Text_BoulderShakingInResponseToEmblem:
-	.string "Oh! This boulder is shaking in response\n"
-	.string "to the MAGMA EMBLEM!$"
+	.string "Oh! Batu besar ini bergetar\n"
+	.string "merespon MAGMA EMBLEM!$"
 
 JaggedPass_Text_JulioIntro:
-	.string "Aiyeeh! It's awfully scary to shoot\n"
-	.string "down the mountain in one go!$"
+	.string "Aiyeeh! Mengerikan sekali menuruni\n"
+	.string "gunung ini dalam sekali jalan!$"
 
 JaggedPass_Text_JulioDefeat:
-	.string "I feel like I'm falling apart…$"
+	.string "Aku merasa hancur berkeping-keping…$"
 
 JaggedPass_Text_JulioPostBattle:
-	.string "My bicycle bounced around so much,\n"
-	.string "my rear end's sore…$"
+	.string "Sepedaku terpental-pental, bokongku\n"
+	.string "jadi sakit…$"
 
 JaggedPass_Text_AutumnIntro:
-	.string "I climb this hill every day.\n"
-	.string "I have confidence in my strength!$"
+	.string "Aku mendaki bukit ini setiap hari.\n"
+	.string "Aku percaya pada kekuatanku!$"
 
 JaggedPass_Text_AutumnDefeat:
 	.string "Hmm…\n"
-	.string "What went wrong?$"
+	.string "Apa yang salah?$"
 
 JaggedPass_Text_AutumnPostBattle:
-	.string "What is that odd rock protrusion\n"
-	.string "a little up the hill from here?$"
+	.string "Tonjolan batu aneh apa itu yang ada\n"
+	.string "sedikit di atas bukit dari sini?$"
 

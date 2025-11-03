@@ -1,0 +1,2951 @@
+MatchCall_WildBattleText1::
+	.string "Hai! {PLAYER}{KUN}, halo!\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Aku melihat {STR_VAR_2} ini beberapa waktu lalu\n"
+	.string "tapi aku tidak bisa menangkapnya.\p"
+	.string "Padahal sudah sangat dekat!\n"
+	.string "Baiklah, sampai jumpa lagi!$"
+
+MatchCall_WildBattleText2::
+	.string "Halo, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Aku mencoba menangkap {STR_VAR_2} yang bagus\n"
+	.string "beberapa waktu lalu.\p"
+	.string "Tapi, ia kabur.\n"
+	.string "Aku benar-benar kecewa!\p"
+	.string "Oke, sampai jumpa!$"
+
+MatchCall_WildBattleText3::
+	.string "Hai, {PLAYER}!\n"
+	.string "Ini aku, {STR_VAR_1}.\p"
+	.string "Aku baru saja mencoba menangkap\n"
+	.string "{STR_VAR_2} ini, tapi ia kabur.\p"
+	.string "Padahal sudah sangat dekat!\p"
+	.string "Itu merusak hariku…\n"
+	.string "Baiklah, sampai jumpa!$"
+
+MatchCall_WildBattleText4::
+	.string "Hei, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Kamu tahu POKéMON {STR_VAR_2}?\n"
+	.string "Aku hampir mendapatkannya.\p"
+	.string "Itu baru saja terjadi.\n"
+	.string "Aku pikir aku berhasil tapi ia kabur.\p"
+	.string "Jika aku melihatnya lagi, aku pasti\n"
+	.string "akan menangkapnya.\p"
+	.string "Oke, sampai jumpa lagi.$"
+
+MatchCall_WildBattleText5::
+	.string "Hai, {PLAYER}{KUN}!\n"
+	.string "Ini {STR_VAR_1}.\l"
+	.string "Apakah kamu baru saja menangkap POKéMON?\p"
+	.string "Beberapa waktu lalu aku hampir\n"
+	.string "mendapatkan satu, tapi ia kabur.\p"
+	.string "Baiklah, hati-hati!$"
+
+MatchCall_WildBattleText6::
+	.string "Hei, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\l"
+	.string "Apakah kamu baru saja menangkap POKéMON?\p"
+	.string "Aku hampir mendapatkan satu tempo hari.\n"
+	.string "Tapi entah bagaimana ia menghindariku.\p"
+	.string "Hati-hati, ya.$"
+
+MatchCall_WildBattleText7::
+	.string "…Uh, {PLAYER}{KUN}?\n"
+	.string "Ini aku, {STR_VAR_1}.\p"
+	.string "Oh, tunggu! Tunggu!\n"
+	.string "Aku bisa menangkap {STR_VAR_2} ini…\p"
+	.string "Aaarrrgh! Ia kabur!\n"
+	.string "Itu bukan cuma dekat!$"
+
+MatchCall_WildBattleText8::
+	.string "Oh, {PLAYER}{KUN}, apa kabar?\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Apakah kamu berhasil menangkap\n"
+	.string "POKéMON belakangan ini?\p"
+	.string "Aku hampir berhasil beberapa waktu\n"
+	.string "lalu, tapi targetku kabur.\p"
+	.string "Aku harus berusaha lebih keras!\n"
+	.string "Sampai jumpa lagi!$"
+
+MatchCall_WildBattleText9::
+	.string "Oh, {PLAYER}{KUN}, hai!\n"
+	.string "Ini {STR_VAR_1}!\p"
+	.string "Jadi? Apakah kamu mengumpulkan\n"
+	.string "lebih banyak POKéMON?\p"
+	.string "Aku mengalami waktu yang buruk!\n"
+	.string "Mereka semua kabur dariku!\p"
+	.string "Sampai jumpa!$"
+
+MatchCall_WildBattleText10::
+	.string "Oh, {PLAYER}{KUN}, halo…\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Dengar, aku hampir saja\n"
+	.string "menangkap {STR_VAR_2} ini…\p"
+	.string "Tapi, ia berhasil lolos…\p"
+	.string "Aku harus berusaha lebih keras.\n"
+	.string "Sampai jumpa.$"
+
+MatchCall_WildBattleText11::
+	.string "Ah, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\l"
+	.string "Bagaimana kabarmu?\p"
+	.string "Aku mencoba menangkap {STR_VAR_2} liar\n"
+	.string "tadi, tapi ia berhasil kabur.\p"
+	.string "Aku merasa kalah…$"
+
+MatchCall_WildBattleText12::
+	.string "Halo, {PLAYER}{KUN}.\n"
+	.string "Ini aku, {STR_VAR_1}.\l"
+	.string "Apakah kamu masih menangkap POKéMON?\p"
+	.string "Aku sendiri sudah mencoba menangkapnya,\n"
+	.string "tapi tidak mudah.\p"
+	.string "Jalan POKéMON itu dalam!$"
+
+MatchCall_WildBattleText13::
+	.string "Ah, halo, {PLAYER}{KUN}!\n"
+	.string "Ini {STR_VAR_1}!\l"
+	.string "Apakah kamu sudah menangkap POKéMON?\p"
+	.string "Aku sudah mencoba menangkapnya\n"
+	.string "sendiri, tapi tidak banyak berhasil.\p"
+	.string "Jalan POKéMON itu dalam!$"
+
+MatchCall_WildBattleText14::
+	.string "Oh, hai, {PLAYER}{KUN}, apa kabar?\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Baru saja, aku mencoba menangkap\n"
+	.string "{STR_VAR_2} yang lucu.\p"
+	.string "Tapi ia kabur!\n"
+	.string "Oh, aku sangat kecewa!\p"
+	.string "Dadah!$"
+
+MatchCall_WildBattleText15::
+	.string "Hei, {PLAYER}!\n"
+	.string "Ini {STR_VAR_1}!\p"
+	.string "Aku sudah berpikir untuk mencoba\n"
+	.string "menangkap beberapa POKéMON.\p"
+	.string "Tapi aku tidak bisa menemukannya.\n"
+	.string "Ini benar-benar membingungkan bagiku!\p"
+	.string "Aku sudah tidak tahu harus berbuat apa!\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_NegativeBattleText1::
+	.string "Hai! {PLAYER}{KUN}, halo!\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Aku mencoba bertarung dengan TRAINER lain,\n"
+	.string "tapi aku kalah.\p"
+	.string "Itu benar-benar mengecewakan.\n"
+	.string "Baiklah, sampai jumpa lagi!$"
+
+MatchCall_NegativeBattleText2::
+	.string "Halo, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Aku menantang orang lain setelah\n"
+	.string "kita bertarung.\p"
+	.string "Aku hampir berhasil, tapi akhirnya\n"
+	.string "kalah. Yah, sudahlah!$"
+
+MatchCall_NegativeBattleText3::
+	.string "Hai, {PLAYER}!\n"
+	.string "Ini aku, {STR_VAR_1}.\p"
+	.string "Aku baru saja kalah telak dalam pertarungan.\p"
+	.string "Sepertinya aku harus melatih timku\n"
+	.string "lebih banyak lagi!$"
+
+MatchCall_NegativeBattleText4::
+	.string "Hei, {PLAYER}.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Aku mencoba pertarungan lain kemarin,\n"
+	.string "tapi aku tidak bisa menang.\p"
+	.string "Timku butuh latihan lebih banyak.\n"
+	.string "Oke, sampai jumpa lagi.$"
+
+MatchCall_NegativeBattleText5::
+	.string "Hai, {PLAYER}!\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Bagaimana kabarmu?\p"
+	.string "Aku terus bertarung,\n"
+	.string "tapi aku tidak sering menang.\p"
+	.string "Aku tidak bisa fokus.\n"
+	.string "Baiklah, hati-hati!$"
+
+MatchCall_NegativeBattleText6::
+	.string "Hei, {PLAYER}.\n"
+	.string "{STR_VAR_1} di sini.\p"
+	.string "Bagaimana kabarmu?\p"
+	.string "Akhir-akhir ini aku sudah bertarung keras,\n"
+	.string "tapi kurang berhasil.\p"
+	.string "Aku belum nemu ritmenya.\n"
+	.string "Jaga dirimu baik-baik ya.$"
+
+MatchCall_NegativeBattleText7::
+	.string "Ini {STR_VAR_1}.\n"
+	.string "Bagaimana kabarmu belakangan ini?\p"
+	.string "Aku kalah dalam pertarungan kemarin,\n"
+	.string "dan itu memenuhi pikiranku.\p"
+	.string "Aku harus menyusun rencana…\n"
+	.string "Sampai jumpa.$"
+
+MatchCall_NegativeBattleText8::
+	.string "Oh, {PLAYER}{KUN}, apa kabar?\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Bagaimana POKéMON-mu?\n"
+	.string "Aku kalah dalam pertandingan tempo hari.\p"
+	.string "Aku harus berusaha lebih keras!\n"
+	.string "Sampai jumpa lagi!$"
+
+MatchCall_NegativeBattleText9::
+	.string "Oh, {PLAYER}{KUN}, hai!\n"
+	.string "Ini {STR_VAR_1}!\p"
+	.string "Dengar, dengar, kamu harus mendengar\n"
+	.string "ini!\p"
+	.string "Aku bertarung POKéMON tadi,\n"
+	.string "tapi aku kalah di detik terakhir.\p"
+	.string "Oh, itu membuatku kesal sekali!$"
+
+MatchCall_NegativeBattleText10::
+	.string "Oh, {PLAYER}{KUN}, halo…\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Beberapa waktu lalu, aku bertarung.\n"
+	.string "Tapi aku kalah.\p"
+	.string "Aku harus melatih POKéMON-ku lebih banyak.\n"
+	.string "Sampai jumpa.$"
+
+MatchCall_NegativeBattleText11::
+	.string "Ah, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\l"
+	.string "Bagaimana POKéMON-mu?\p"
+	.string "Aku baru saja kalah lagi dalam pertarungan.\p"
+	.string "Baiklah, sampai jumpa!$"
+
+MatchCall_NegativeBattleText12::
+	.string "Halo, {PLAYER}{KUN}.\n"
+	.string "Ini aku, {STR_VAR_1}.\l"
+	.string "Apakah kamu masih bertarung keras?\p"
+	.string "Sedangkan aku, aku baru saja kalah, jadi aku\n"
+	.string "sudah melatih timku lagi.\p"
+	.string "Mari kita bertemu lagi.$"
+
+MatchCall_NegativeBattleText13::
+	.string "Ah, halo, {PLAYER}{KUN}!\n"
+	.string "Ini {STR_VAR_1}!\p"
+	.string "Aku harap kamu baik-baik saja.\p"
+	.string "Aku baru saja bertarung\n"
+	.string "beberapa waktu lalu.\p"
+	.string "{PLAYER}{KUN}, cobalah untuk aktif sepertiku.\n"
+	.string "Sampai jumpa lagi!$"
+
+MatchCall_NegativeBattleText14::
+	.string "Oh, hai, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Apakah kamu baik-baik saja?\p"
+	.string "Kamu harus pulang sesekali,\n"
+	.string "lho.\p"
+	.string "Dadah!$"
+
+MatchCall_PositiveBattleText1::
+	.string "Hai! {PLAYER}{KUN}, halo!\n"
+	.string "Ini {STR_VAR_1}!\p"
+	.string "Aku bertarung dengan TRAINER lain tadi.\n"
+	.string "Aku menang! Aku menang!\p"
+	.string "{STR_VAR_2}-ku benar-benar bekerja keras\n"
+	.string "untukku. Ini sangat hebat!$"
+
+MatchCall_PositiveBattleText2::
+	.string "Halo, {PLAYER}{KUN}!\n"
+	.string "Ini {STR_VAR_1}!\p"
+	.string "Aku bertarung kemarin dan\n"
+	.string "aku menang! Ini luar biasa!$"
+
+MatchCall_PositiveBattleText3::
+	.string "Hai, {PLAYER}!\n"
+	.string "Ini aku, {STR_VAR_1}!\l"
+	.string "Bagaimana pertarunganmu?\p"
+	.string "Aku, aku bertarung tempo hari,\n"
+	.string "dan {STR_VAR_2}-ku sangat hebat!\p"
+	.string "Lain kali aku bertarung denganmu,\n"
+	.string "{PLAYER}, aku tidak akan kalah!$"
+
+MatchCall_PositiveBattleText4::
+	.string "Hei, {PLAYER}.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Aku bertanding tadi.\n"
+	.string "Aku berhasil menang, tapi itu nyaris.\p"
+	.string "{STR_VAR_2}-ku menunjukkan\n"
+	.string "penampilan yang mengagumkan.$"
+
+MatchCall_PositiveBattleText5::
+	.string "Hai, {PLAYER}{KUN}!\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Bagaimana kabarmu?\n"
+	.string "Banyak bertarung?\p"
+	.string "Aku baru saja menang beberapa waktu lalu!\n"
+	.string "{STR_VAR_2}-ku sangat brilian!\p"
+	.string "Tunggu saja. Aku akan mengalahkanmu\n"
+	.string "lain kali! Baiklah, hati-hati!$"
+
+MatchCall_PositiveBattleText6::
+	.string "Hei, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Bagaimana kabarmu?\p"
+	.string "Aku sedang dalam tren positif.\n"
+	.string "Lihat saja, aku baru saja memenangkan pertarungan.\p"
+	.string "Saat kita bertarung lagi nanti,\n"
+	.string "aku yakin tidak akan kalah!$"
+
+MatchCall_PositiveBattleText7::
+	.string "{PLAYER}{KUN}?\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "{STR_VAR_2}-ku sangat kuat!\n"
+	.string "Ia baru saja memenangkanku pertarungan lain!\p"
+	.string "Aku tidak sabar untuk bertarung ulang\n"
+	.string "denganmu.$"
+
+MatchCall_PositiveBattleText8::
+	.string "Oh, {PLAYER}{KUN}, apa kabar?\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Aku harap kamu baik-baik saja.\n"
+	.string "Aku ingin memberitahumu bahwa aku baru saja menang.\p"
+	.string "{STR_VAR_2}-ku bekerja sangat\n"
+	.string "keras untuk meraih kemenangan.\p"
+	.string "Sampai jumpa lagi!$"
+
+MatchCall_PositiveBattleText9::
+	.string "Oh, {PLAYER}{KUN}, hai!\n"
+	.string "Ini {STR_VAR_1}!\p"
+	.string "Bagaimana kabar POKéMON-mu?\n"
+	.string "POKéMON-ku baru saja memenangkan pertarungan!\p"
+	.string "{STR_VAR_2}-ku sangat spektakuler,\n"
+	.string "harus aku katakan!\p"
+	.string "Aku berharap bisa menunjukkannya padamu!\n"
+	.string "Sampai jumpa lagi!$"
+
+MatchCall_PositiveBattleText10::
+	.string "Oh, {PLAYER}{KUN}, halo…\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Bagaimana kabarmu?\p"
+	.string "POKéMON-ku sepertinya penuh\n"
+	.string "dengan energi.\p"
+	.string "Aku baru saja memenangkan pertarungan bersama mereka.\n"
+	.string "Sampai jumpa.$"
+
+MatchCall_PositiveBattleText11::
+	.string "Ah, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Apakah kamu baru saja bertarung?\n"
+	.string "Aku baru saja memenangkan satu lagi hari ini!\p"
+	.string "Aku sedang beruntung! Gahahaha!\n"
+	.string "Baiklah, sampai jumpa!$"
+
+MatchCall_PositiveBattleText12::
+	.string "Halo, {PLAYER}{KUN}.\n"
+	.string "Ini aku, {STR_VAR_1}.\p"
+	.string "Aku harap kamu baik-baik saja?\n"
+	.string "Aku masih penuh semangat!\p"
+	.string "Baru saja, aku memenangkan pertandingan lagi.\n"
+	.string "Aku belum akan menyingkir untuk kalian,\l"
+	.string "anak-anak muda!$"
+
+MatchCall_PositiveBattleText13::
+	.string "Ah, halo, {PLAYER}{KUN}!\n"
+	.string "Ini {STR_VAR_1}!\p"
+	.string "Aku harap kamu baik-baik saja.\n"
+	.string "Langkahku masih bersemangat!\p"
+	.string "Baru saja, aku memenangkan pertarungan lagi.\n"
+	.string "Oh, aku belum akan kalah dari anak muda\l"
+	.string "sekarang!\p"
+	.string "Sampai jumpa lagi!$"
+
+MatchCall_PositiveBattleText14::
+	.string "Oh, hai, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Aku baru saja bertarung, dan\n"
+	.string "{STR_VAR_2}-ku luar biasa!\p"
+	.string "Aku harap kamu bisa melihatnya,\n"
+	.string "{PLAYER}{KUN}. Dadah!$"
+
+MatchCall_SameRouteBattleRequestText1::
+	.string "Hai! {PLAYER}, halo!\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Hah? Tunggu, kamu dekat\n"
+	.string "{STR_VAR_2}?\p"
+	.string "Oh, wow, kalau begitu kita harus bertarung!\n"
+	.string "Aku akan menunggu! Sampai jumpa!$"
+
+MatchCall_SameRouteBattleRequestText2::
+	.string "Halo, {PLAYER}!\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Oh? Kamu kebetulan ada di sekitar\n"
+	.string "{STR_VAR_2} sekarang?\p"
+	.string "Maukah kamu bertarung sekarang?\n"
+	.string "Aku akan menunggumu! Sampai jumpa!$"
+
+MatchCall_SameRouteBattleRequestText3::
+	.string "Hai, {PLAYER}!\n"
+	.string "Ini aku, {STR_VAR_1}.\p"
+	.string "Oh, hei, apakah kamu dekat\n"
+	.string "{STR_VAR_2} sekarang?\p"
+	.string "Bagaimana jika kamu bertarung\n"
+	.string "denganku sekarang?\p"
+	.string "Aku tidak akan kalah lagi!\n"
+	.string "Aku akan menunggu! Sampai jumpa!$"
+
+MatchCall_SameRouteBattleRequestText4::
+	.string "Hei, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Di mana kamu sekarang?\n"
+	.string "Hah? {STR_VAR_2}?\p"
+	.string "Mau bertarung sekarang?\n"
+	.string "Aku akan menunggumu. Sampai jumpa!$"
+
+MatchCall_SameRouteBattleRequestText5::
+	.string "Hai, {PLAYER}{KUN}!\n"
+	.string "Ini {STR_VAR_1}.\l"
+	.string "Bagaimana kabarmu?\p"
+	.string "Di mana kamu sekarang?\n"
+	.string "{STR_VAR_2}?\p"
+	.string "Baiklah, bagaimana kalau kita bertarung\n"
+	.string "ulang sebentar lagi?\p"
+	.string "Aku akan mengawasimu.\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_SameRouteBattleRequestText6::
+	.string "Hei, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\l"
+	.string "Bagaimana kabar POKéMON-mu?\p"
+	.string "Oh, benarkah? Kamu ada di sekitar\n"
+	.string "{STR_VAR_2}?\p"
+	.string "Kalau begitu, lebih baik kita\n"
+	.string "bertarung ulang.\p"
+	.string "Aku bisa menunggu, tentu saja.\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_SameRouteBattleRequestText7::
+	.string "…Er, {PLAYER}{KUN}?\n"
+	.string "Ini {STR_VAR_1}…\p"
+	.string "Oh, kamu kebetulan ada di sekitar\n"
+	.string "{STR_VAR_2}?\p"
+	.string "Kalau begitu, mari bertarung.\n"
+	.string "Maksudku, sekarang juga.\p"
+	.string "Aku akan menunjukkan POKéMON-ku.\n"
+	.string "Aku akan menunggumu.$"
+
+MatchCall_SameRouteBattleRequestText8::
+	.string "Oh, {PLAYER}{KUN}, apa kabar?\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Aku harap kamu baik-baik saja.\n"
+	.string "Oh, kamu dekat {STR_VAR_2}.\p"
+	.string "Maukah kamu bertarung\n"
+	.string "denganku, kalau begitu?\p"
+	.string "Aku akan menunggumu.\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_SameRouteBattleRequestText9::
+	.string "Oh, {PLAYER}{KUN}, hai!\n"
+	.string "Ini {STR_VAR_1}!\p"
+	.string "Apakah kamu terus bersemangat?\n"
+	.string "Oh, kamu dekat {STR_VAR_2}?\p"
+	.string "Oh, kalau begitu, bukankah kita\n"
+	.string "harus bertarung?\p"
+	.string "Jangan biarkan aku menunggu terlalu lama!$"
+
+MatchCall_SameRouteBattleRequestText10::
+	.string "Oh, {PLAYER}{KUN}, halo…\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Bagaimana kabarmu?\n"
+	.string "Oh, kamu dekat {STR_VAR_2}.\p"
+	.string "Kita harus bertarung sekarang, kalau begitu.\p"
+	.string "Aku siap dan menunggu.\n"
+	.string "Cepatlah!$"
+
+MatchCall_SameRouteBattleRequestText11::
+	.string "Ah, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Ah, jadi kamu sekarang ada di\n"
+	.string "{STR_VAR_2}?\p"
+	.string "Baiklah, kalau begitu, kita harus\n"
+	.string "bertarung, bukankah begitu?\p"
+	.string "Aku akan menunggumu!\n"
+	.string "Sampai jumpa sebentar lagi!$"
+
+MatchCall_SameRouteBattleRequestText12::
+	.string "Halo, {PLAYER}{KUN}.\n"
+	.string "Ini aku, {STR_VAR_1}.\l"
+	.string "Di mana kamu sekarang?\p"
+	.string "{STR_VAR_2}?\n"
+	.string "Itu cukup dekat!\p"
+	.string "Bagaimana kalau kita bertarung\n"
+	.string "sekarang?\p"
+	.string "Aku bisa menunggu.\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_SameRouteBattleRequestText13::
+	.string "Ah, halo, {PLAYER}{KUN}!\n"
+	.string "Ini {STR_VAR_1}!\p"
+	.string "Aku harap kamu baik-baik saja.\n"
+	.string "Oh, kamu dekat {STR_VAR_2}?\p"
+	.string "Karena itu tidak terlalu jauh,\n"
+	.string "datanglah menemuiku untuk bertarung.\p"
+	.string "Aku akan menunggumu.\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_SameRouteBattleRequestText14::
+	.string "Oh, hai, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Kamu di mana? …{STR_VAR_2}?\n"
+	.string "Itu sangat dekat.\p"
+	.string "Bukankah kita seharusnya bertarung?\p"
+	.string "Aku akan mencarimu!\n"
+	.string "Dadah!$"
+
+MatchCall_DifferentRouteBattleRequestText1::
+	.string "Hai! {PLAYER}, halo!\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Mau bertarung denganku?\p"
+	.string "Aku akan menunggumu di sekitar\n"
+	.string "{STR_VAR_2}!$"
+
+MatchCall_DifferentRouteBattleRequestText2::
+	.string "Halo, {PLAYER}!\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Maukah kamu bertarung\n"
+	.string "denganku lagi?\p"
+	.string "Kamu bisa menemukanku di sekitar\n"
+	.string "{STR_VAR_2}. Aku akan menunggu!$"
+
+MatchCall_DifferentRouteBattleRequestText3::
+	.string "Hai, {PLAYER}!\n"
+	.string "Ini aku, {STR_VAR_1}.\p"
+	.string "POKéMON-ku menjadi jauh lebih\n"
+	.string "kuat sejak terakhir kali.\p"
+	.string "Aku ingin melihat seberapa kuat mereka\n"
+	.string "bersama POKéMON-mu, {PLAYER}.\p"
+	.string "Jadi, mari bertarung!\p"
+	.string "Aku akan menunggumu di sekitar\n"
+	.string "{STR_VAR_2}.$"
+
+MatchCall_DifferentRouteBattleRequestText4::
+	.string "Hei, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\l"
+	.string "Bagaimana kabarmu?\p"
+	.string "POKéMON-ku menjadi cukup\n"
+	.string "kuat belakangan ini.\p"
+	.string "Hei, bagaimana jika kita\n"
+	.string "bertarung lagi?\p"
+	.string "Mari bertemu di sekitar\n"
+	.string "{STR_VAR_2}, oke?$"
+
+MatchCall_DifferentRouteBattleRequestText5::
+	.string "Hai, {PLAYER}{KUN}!\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "POKéMON-ku tumbuh dengan\n"
+	.string "baik.\p"
+	.string "Aku sangat ingin bertarung\n"
+	.string "lagi denganmu.\p"
+	.string "Aku akan mencarimu di sekitar\n"
+	.string "{STR_VAR_2}. Sampai jumpa!$"
+
+MatchCall_DifferentRouteBattleRequestText6::
+	.string "Hei, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\l"
+	.string "Aku harap kamu baik-baik saja.\p"
+	.string "Aku berpikir ingin bertarung\n"
+	.string "lagi denganmu. Bagaimana menurutmu?\p"
+	.string "Jika kamu ingin bertarung,\n"
+	.string "datanglah ke {STR_VAR_2}.\p"
+	.string "Sampai jumpa!$"
+
+MatchCall_DifferentRouteBattleRequestText7::
+	.string "…Er, {PLAYER}{KUN}?\n"
+	.string "Ini {STR_VAR_1}…\l"
+	.string "Jadi? Apakah POKéMON-mu tumbuh?\p"
+	.string "POKéMON-ku pasti menjadi lebih kuat.\n"
+	.string "Aku ingin menunjukkannya padamu.\p"
+	.string "Aku akan ada di sekitar {STR_VAR_2}.\n"
+	.string "Datanglah menemuiku untuk bertanding.\p"
+	.string "Sampai jumpa.$"
+
+MatchCall_DifferentRouteBattleRequestText8::
+	.string "Oh, {PLAYER}{KUN}, apa kabar?\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Aku harap kamu baik-baik saja.\n"
+	.string "POKéMON-ku sangat bersemangat.\p"
+	.string "Jika kamu ada di area ini, tolong\n"
+	.string "berikan aku pertandingan ulang.\p"
+	.string "Aku akan ada di sekitar {STR_VAR_2}.\n"
+	.string "Sampai nanti, selamat tinggal!$"
+
+MatchCall_DifferentRouteBattleRequestText9::
+	.string "Oh, {PLAYER}{KUN}, hai!\n"
+	.string "Ini {STR_VAR_1}!\l"
+	.string "Bagaimana kabar POKéMON-mu?\p"
+	.string "POKéMON-ku terus menjadi lebih baik.\n"
+	.string "Aku ingin menunjukkannya padamu, {PLAYER}{KUN}.\p"
+	.string "Aku ada di sekitar {STR_VAR_2} sekarang,\n"
+	.string "jadi mari bertarung jika kamu dekat.\p"
+	.string "Semoga aku segera bertemu denganmu!$"
+
+MatchCall_DifferentRouteBattleRequestText10::
+	.string "Oh, {PLAYER}{KUN}, halo…\n"
+	.string "Ini {STR_VAR_1}.\l"
+	.string "Jadi, bagaimana kabarmu?\p"
+	.string "POKéMON-ku menjadi jauh\n"
+	.string "lebih kuat dari sebelumnya.\p"
+	.string "Aku ingin sekali bertarung lagi denganmu,\n"
+	.string "{PLAYER}{KUN}.\p"
+	.string "Aku akan ada di sekitar {STR_VAR_2}.\n"
+	.string "Datanglah menemuiku jika kamu dekat.$"
+
+MatchCall_DifferentRouteBattleRequestText11::
+	.string "Ah, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\l"
+	.string "Di mana kamu sekarang?\p"
+	.string "POKéMON-ku penuh semangat.\n"
+	.string "Mereka sepertinya sangat menantikan\l"
+	.string "untuk melihat POKéMON-mu, {PLAYER}{KUN}.\p"
+	.string "Aku ada di sekitar {STR_VAR_2} sekarang.\n"
+	.string "Aku harap kamu akan mencari kami.$"
+
+MatchCall_DifferentRouteBattleRequestText12::
+	.string "Halo, {PLAYER}{KUN}.\n"
+	.string "Ini aku, {STR_VAR_1}.\p"
+	.string "Aku harus memberitahumu, POKéMON-ku\n"
+	.string "telah tumbuh cukup kuat belakangan ini.\p"
+	.string "Aku ingin melihat mereka bertarung\n"
+	.string "denganmu, {PLAYER}{KUN}.\p"
+	.string "Kami akan ada di sekitar {STR_VAR_2}.\n"
+	.string "Datanglah menemui kami kapan saja!$"
+
+MatchCall_DifferentRouteBattleRequestText13::
+	.string "Ah, halo, {PLAYER}{KUN}!\n"
+	.string "Ini {STR_VAR_1}!\l"
+	.string "Apakah POKéMON-mu baik-baik saja?\p"
+	.string "POKéMON-ku sangat sehat,\n"
+	.string "mereka terlihat tidak mungkin kalah!\p"
+	.string "Aku pasti ingin bertarung lagi\n"
+	.string "denganmu.\p"
+	.string "Jika kamu dekat {STR_VAR_2},\n"
+	.string "datanglah menemui kami.$"
+
+MatchCall_DifferentRouteBattleRequestText14::
+	.string "Oh, hai, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\l"
+	.string "Aku harap kamu baik-baik saja.\p"
+	.string "Oh, ya! POKéMON-ku\n"
+	.string "jauh lebih kuat dari sebelumnya.\p"
+	.string "Bukankah kita seharusnya bertarung,\n"
+	.string "{PLAYER}{KUN}?\p"
+	.string "Kami akan menunggumu di sekitar\n"
+	.string "{STR_VAR_2}.\p"
+	.string "Datanglah menemui kami kapan saja, oke?$"
+
+MatchCall_PersonalizedText1::
+	.string "Ini aku, si pencinta gunung\n"
+	.string "{STR_VAR_1}!\p"
+	.string "Nah, sejak kita bertemu, apakah kamu jadi\n"
+	.string "lebih menghargai gunung?\p"
+	.string "Aku jarang melihatmu di gunung…\p"
+	.string "Lain kali, kita akan bertemu di suatu tempat\n"
+	.string "di sekitar {STR_VAR_2}.$"
+
+MatchCall_PersonalizedText2::
+	.string "Ini {STR_VAR_1}.\n"
+	.string "Halo.\p"
+	.string "Aku baru saja menceritakan tentangmu\n"
+	.string "kepada TRAINER baru.\p"
+	.string "Aku bercerita tentang TRAINER yang kuat\n"
+	.string "yang membesarkan POKéMON dengan penuh perhatian.\p"
+	.string "Aku harap kamu akan menjadi TRAINER\n"
+	.string "yang akan dikagumi semua orang.\p"
+	.string "Aku harap kita bertemu lagi!$"
+
+MatchCall_PersonalizedText3::
+	.string "Halo! Ini {STR_VAR_1}.\p"
+	.string "Aku suka tempatku sekarang.\n"
+	.string "Menyenangkan dengan aroma manis!\p"
+	.string "Aku rasa seseorang menanam BERRIES,\n"
+	.string "dan mereka mekar dengan indah.\p"
+	.string "Sampai jumpa lagi nanti!$"
+
+MatchCall_PersonalizedText4::
+	.string "Halo! Tiga puluh tahun eksplorasi,\n"
+	.string "{STR_VAR_1} siap melayani!\p"
+	.string "Sepertinya kamu dengan semangat\n"
+	.string "bepergian ke sana kemari.\p"
+	.string "Apakah kamu menemukan reruntuhan baru?\n"
+	.string "Tolong beritahu jika ada!\p"
+	.string "Sekarang, permisi,\n"
+	.string "aku punya reruntuhan untuk dijelajahi.$"
+
+MatchCall_PersonalizedText5::
+	.string "Ini {STR_VAR_1}!\p"
+	.string "Tahu apa yang aku lakukan hari ini?\n"
+	.string "Melihat ombak dari pantai!\p"
+	.string "Sigh… Ombaknya berkilauan.\n"
+	.string "Laut terlihat paling indah dari sini.\l"
+	.string "Aku mulai lapar, jadi dadah!$"
+
+MatchCall_PersonalizedText6::
+	.string "Kunyahan…\n"
+	.string "Oh, hai, ini {STR_VAR_1}.\l"
+	.string "Aku suka makan di pantai.\p"
+	.string "POKéMON-ku dan aku baik-baik saja.\n"
+	.string "Kami sudah kenyang!\l"
+	.string "Aku mau berenang. Dadah!$"
+
+MatchCall_PersonalizedText7::
+	.string "Halo, ini {STR_VAR_1}…\p"
+	.string "Aku sedikit bosan dengan\n"
+	.string "urusan COOLTRAINER ini…\p"
+	.string "Semua orang menganggapku TRAINER\n"
+	.string "yang sempurna, dan itu membuatku berusaha\l"
+	.string "memenuhi ekspektasi itu.\p"
+	.string "Tapi kurasa itu memang bagian dari\n"
+	.string "menjadi COOLTRAINER.\p"
+	.string "Aku harus bertekad…\n"
+	.string "dan menahan diri.\p"
+	.string "Kamu satu-satunya orang yang bisa\n"
+	.string "aku percaya seperti ini.\p"
+	.string "Tapi saat aku bertemu denganmu lagi nanti,\n"
+	.string "jangan khawatir, aku tidak akan mengeluh!$"
+
+MatchCall_PersonalizedText8::
+	.string "Yahoo, ini {STR_VAR_1}!\n"
+	.string "Apa kabarmu?\p"
+	.string "Aku sudah melatih POKéMON-ku dengan\n"
+	.string "menjadikanmu target.\p"
+	.string "Aku tidak berniat kalah saat kita\n"
+	.string "bertarung lagi.\p"
+	.string "Bukankah menyenangkan memiliki teman\n"
+	.string "TRAINER? Mari bertemu lagi!$"
+
+MatchCall_PersonalizedText9::
+	.string "Ini {STR_VAR_1}…\n"
+	.string "Saat ini, di belakangmu…\l"
+	.string "Bukankah ada sesuatu…?\p"
+	.string "Kekuatan POKéMON yang\n"
+	.string "tidur di sini di GUNUNG PYRE…\p"
+	.string "Ia memberitahuku tentangmu…\p"
+	.string "Kamu harus segera pergi dan\n"
+	.string "jangan pernah menoleh ke belakang…\p"
+	.string "Terkekeh…\n"
+	.string "Selamat tinggal…$"
+
+MatchCall_PersonalizedText10::
+	.string "Ini {STR_VAR_1}.\n"
+	.string "Apa kabarmu?\p"
+	.string "Bukankah nyaman kita bisa\n"
+	.string "mengobrol seperti ini dari jauh?\p"
+	.string "Dulu, jika aku ingin berbicara dengan\n"
+	.string "siapa pun, ayahku harus\l"
+	.string "mengantarku…\p"
+	.string "Aku harus pergi sekarang.\n"
+	.string "Aku senang kita mengobrol.$"
+
+MatchCall_PersonalizedText11::
+	.string "Ini {STR_VAR_1}!\n"
+	.string "Maukah kamu mendengarkan ini?\p"
+	.string "Aku sangat menyukai ZONA SAFARI,\n"
+	.string "tapi setiap kali aku pergi, aku tersesat!\p"
+	.string "Rumputnya sangat tinggi!\n"
+	.string "Dan terlalu luas!\p"
+	.string "Aku merasa lebih baik setelah mengatakannya!\n"
+	.string "Aku akan pergi ke ZONA SAFARI lagi!\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_PersonalizedText12::
+	.string "Halo, ini {STR_VAR_1}.\n"
+	.string "Ya, benar, aku kaya, ya.\p"
+	.string "Harus aku katakan, kekayaanku\n"
+	.string "telah bertambah sejak terakhir kita bertemu.\p"
+	.string "Terlebih lagi, POKéMON-ku juga\n"
+	.string "menjadi lebih kuat.\p"
+	.string "Aku tidak bisa menghilangkan perasaan bahwa\n"
+	.string "dunia ini ada untukku!\p"
+	.string "Oh, tidak perlu berkata apa-apa!\n"
+	.string "Semua orang tahu itu benar!\p"
+	.string "Oh, permisi, aku harus menghadiri\n"
+	.string "makan malam formal ini.$"
+
+MatchCall_PersonalizedText13::
+	.string "Ufufufufu…\n"
+	.string "Ini aku, {STR_VAR_1}…\p"
+	.string "Bisa kamu tebak apa yang aku lihat?\n"
+	.string "Sepasang {STR_VAR_2} sedang bertarung.\p"
+	.string "Mungkin aku akan mencoba menangkap pemenangnya…\n"
+	.string "Ufufufufufu…\p"
+	.string "Aku… Aku agak sibuk sekarang.\n"
+	.string "Aku harus pergi.$"
+
+MatchCall_PersonalizedText14::
+	.string "Oh, ini {STR_VAR_1}!\p"
+	.string "Aku baru saja berpikir aku mulai\n"
+	.string "bosan dengan KAPAL TERBENGKALAI.\p"
+	.string "Tapi karena aku sudah di sini,\n"
+	.string "dan aku ingin mengalahkanmu sekali,\l"
+	.string "aku akan bertahan sedikit lebih lama.\p"
+	.string "Jika kamu merasa terdorong, mengapa tidak\n"
+	.string "kamu datang menemuiku?\p"
+	.string "Aku pikir hari ini akan menjadi hari di mana\n"
+	.string "aku akhirnya menantang pria di sebelah\l"
+	.string "untuk bertanding.\p"
+	.string "Sampai jumpa!$"
+
+MatchCall_PersonalizedText15::
+	.string "Aku {STR_VAR_1}!\n"
+	.string "Sang Pria Laut!\p"
+	.string "Kamu tahu apa yang aku pikirkan?\p"
+	.string "PARA TRAINER di laut adalah\n"
+	.string "yang terkuat dari yang terkuat!\p"
+	.string "Kamu harus belajar dariku dan berlatih\n"
+	.string "di laut…\p"
+	.string "Ups, ombak besar datang!\p"
+	.string "Ini kesempatan latihan yang bagus!\n"
+	.string "Maaf, tapi aku harus pergi!$"
+
+MatchCall_PersonalizedText16::
+	.string "Ini {STR_VAR_1}! Dengar, aku sudah\n"
+	.string "mengajarkan karate pada POKéMON-ku.\p"
+	.string "Tapi sekarang mereka lebih baik dariku!\n"
+	.string "Aku hanya kalah dari mereka!\p"
+	.string "Tapi meskipun aku mungkin kalah dari\n"
+	.string "POKéMON, aku tidak akan kalah dari TRAINER\l"
+	.string "lain, tidak, tuan!\p"
+	.string "Kita harus bertarung lagi!\n"
+	.string "Ugwaah!$"
+
+MatchCall_PersonalizedText17::
+	.string "Ini aku, {STR_VAR_1}.\n"
+	.string "Bagaimana perjalananmu?\p"
+	.string "…Whoa, benarkah?\n"
+	.string "Kedengarannya sangat merangsang!\p"
+	.string "Aku rasa aku bisa menulis lagu tentang\n"
+	.string "salah satu episode-mu.\p"
+	.string "…Oh, hei, aku merasakannya.\n"
+	.string "Aku mendengar riff di kepalaku.\p"
+	.string "Sebaiknya aku menulis lagu ini dengan benar,\n"
+	.string "jadi aku harus pergi! Nanti!$"
+
+MatchCall_PersonalizedText18::
+	.string "Ini {STR_VAR_1}…\n"
+	.string "Dengarkan lagu baruku.\p"
+	.string "Lalala, {STR_VAR_2}, {STR_VAR_2}!\n"
+	.string "Mengapa kamu {STR_VAR_2} itu?\l"
+	.string "Mengapa aku tidak bisa menjadi kamu, {STR_VAR_2}?\l"
+	.string "Lala, {STR_VAR_2} dan {STR_VAR_1},\l"
+	.string "{STR_VAR_1} dan {STR_VAR_2}…\p"
+	.string "Ulangi chorus, perlahan menghilang…$"
+
+MatchCall_PersonalizedText19::
+	.string "Aku {STR_VAR_1}, kamu tahu,\n"
+	.string "ahli berkemah!\p"
+	.string "Saat kita bertarung, aku tidak bisa\n"
+	.string "tidak kalah darimu.\p"
+	.string "Bagaimanapun, keahlianku adalah\n"
+	.string "berkemah.\p"
+	.string "Tapi kalah atau menang, aku suka bertarung\n"
+	.string "saat aku berkemah.\p"
+	.string "Bertarunglah dengan kami lagi, oke?\n"
+	.string "Oh, dan ayo berkemah juga!$"
+
+MatchCall_PersonalizedText20::
+	.string "Ini aku, aku, {STR_VAR_1}!\p"
+	.string "Aku ingin mendaki gunung lain\n"
+	.string "selain yang ini, jujur saja.\p"
+	.string "Tapi aku tidak yakin apakah akan ada\n"
+	.string "wanita seperti di MT. CHIMNEY.\p"
+	.string "Jika kamu tahu gunung lain\n"
+	.string "dengan wanita di sekitarnya, beritahu aku!\p"
+	.string "Ehehehe, sampai jumpa!$"
+
+MatchCall_PersonalizedText21::
+	.string "… … … … … …\n"
+	.string "… … … … … …\l"
+	.string "Ini {STR_VAR_1}…\p"
+	.string "… … … … … …\n"
+	.string "… … … … … …\l"
+	.string "Hanya itu hari ini…$"
+
+MatchCall_PersonalizedText22::
+	.string "Ini {STR_VAR_1}. Hari ini, aku merasa\n"
+	.string "akan mengobrol denganmu.\p"
+	.string "Keinginanku untuk mengalahkanmu tumbuh\n"
+	.string "siang dan malam.\p"
+	.string "Kamu punya saingan seperti itu, ya?\n"
+	.string "Aku berharap itu aku…\p"
+	.string "Aku senang kamu mendengarkanku.\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_PersonalizedText23::
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Ketika ada TRAINER kuat\n"
+	.string "di dekat sini, kadang aku bisa merasakannya\l"
+	.string "entah bagaimana.\p"
+	.string "Apakah kamu lewat dekat sini, {PLAYER}{KUN}?\n"
+	.string "Mungkin itu kamu.\p"
+	.string "Aku akan menunggu kunjunganmu.\n"
+	.string "Dadah!$"
+
+MatchCall_PersonalizedText24::
+	.string "Halo, ini {STR_VAR_1}.\n"
+	.string "Kamu terdengar baik-baik saja, {PLAYER}{KUN}.\p"
+	.string "Aku sudah berkeliling dunia,\n"
+	.string "tapi aku harus mengatakan aku sangat\l"
+	.string "menyukai daerah ini.\p"
+	.string "Aku berencana untuk tinggal di sini sebentar.\n"
+	.string "Mungkin kita bisa bertemu lagi?\p"
+	.string "Aku tidak melupakan teknikmu yang\n"
+	.string "memukamu.\p"
+	.string "Aku sangat berharap untuk pertandingan ulang.$"
+
+MatchCall_PersonalizedText25::
+	.string "Ingus… Ini… {STR_VAR_1}…\n"
+	.string "…Isak…\p"
+	.string "ROXANNE memarahiku di kelas\n"
+	.string "hari ini.\p"
+	.string "Tapi aku tidak membencinya atau semacamnya.\p"
+	.string "ROXANNE memberitahuku dengan tepat apa\n"
+	.string "yang kulakukan salah agar aku bisa belajar darinya.\p"
+	.string "Pasti aku akan pergi ke\n"
+	.string "SEKOLAH TRAINER besok!\p"
+	.string "Sampai jumpa!$"
+
+MatchCall_PersonalizedText26::
+	.string "Ini {STR_VAR_1}!\p"
+	.string "ROXANNE membiarkanku bertarung dengannya\n"
+	.string "kemarin.\p"
+	.string "Hasilnya…\n"
+	.string "Mengerikan, seperti yang kamu tanyakan.\p"
+	.string "Tapi aku senang ROXANNE\n"
+	.string "bahkan membiarkanku menantangnya!\p"
+	.string "Kamu tidak akan percaya betapa\n"
+	.string "aku semakin mengaguminya!\p"
+	.string "Aku akan benar-benar fokus dan bekerja!\n"
+	.string "Lebih baik aku pergi!$"
+
+MatchCall_PersonalizedText27::
+	.string "Hai, ini ANNA! Aku bersama\n"
+	.string "rekan juniorku MEG lagi hari ini.\p"
+	.string "Aku sangat suka merawat MEG dan\n"
+	.string "POKéMON. Mereka sangat lucu!\p"
+	.string "Aku berharap bisa merawat mereka\n"
+	.string "seperti mereka adik-adikku!\p"
+	.string "Oh, hai, MEG!\n"
+	.string "Apakah kamu sudah mendapatkan roti?\p"
+	.string "Hah? Tidak, tidak, aku tidak memperlakukanmu\n"
+	.string "seperti budak pribadiku!\p"
+	.string "Kamu kalah dalam pertandingan, jadi kamu harus\n"
+	.string "pergi membeli roti sebagai hukuman!\p"
+	.string "Aku tidak akan memperlakukanmu seperti budak,\n"
+	.string "MEG! Kamu terlalu istimewa bagiku!\p"
+	.string "Aku harus pergi sekarang.\n"
+	.string "Saatnya camilan kita!$"
+
+MatchCall_PersonalizedText28::
+	.string "Aku suka POKéMON!\n"
+	.string "Ini {STR_VAR_1} dari FAN CLUB!\p"
+	.string "Kamu harus mendengarkan ini!\n"
+	.string "POKéMON-ku yang manis…\p"
+	.string "Mendengus! Wahaha!\n"
+	.string "Aku tidak bisa berkata apa-apa lagi! Ini rahasia!\l"
+	.string "Terlalu imut untuk diungkapkan dengan kata-kata!\p"
+	.string "Oh, {STR_VAR_2}-ku yang manis sedang memohon\n"
+	.string "{POKEBLOCK}!\p"
+	.string "Ini adalah gambaran keimutan!\p"
+	.string "Maaf, tapi aku tidak bisa bicara sekarang!\n"
+	.string "Kamu harus mendengarkan ini lain kali!$"
+
+MatchCall_PersonalizedText29::
+	.string "Ohoho!\p"
+	.string "Ini {STR_VAR_1}! Aku tidak sabar untuk\n"
+	.string "menceritakan tentang POKéMON kesayanganku!\p"
+	.string "Tolong, kamu harus mendengarkan ini.\n"
+	.string "Ini tentang {STR_VAR_2} kesayanganku.\p"
+	.string "Setiap kali seseorang mengambilnya,\n"
+	.string "itu langsung melompat ke pelukanku!\p"
+	.string "Oh… Oh… Mungkinkah ada yang\n"
+	.string "lebih membahagiakan?\p"
+	.string "Oh, rasanya sangat surgawi!\p"
+	.string "Aku sangat senang bisa berbagi\n"
+	.string "kebahagiaanku denganmu.\p"
+	.string "Baiklah, aku harus pergi.\n"
+	.string "Dadah, ya!$"
+
+MatchCall_PersonalizedText30::
+	.string "Aku adalah… {STR_VAR_1}.\n"
+	.string "Orang-orang memanggilku AHLI.\p"
+	.string "Tapi ada satu hal yang aku tahu.\n"
+	.string "Aku tidak bisa menjadi AHLI dengan\l"
+	.string "kekuatanku sendiri.\p"
+	.string "Hanya dengan bantuan POKéMON\n"
+	.string "seorang TRAINER bisa menjadi AHLI.\p"
+	.string "Cih! Aku yakin aku mungkin telah mengatakan\n"
+	.string "sesuatu yang mendalam dan bijaksana!\p"
+	.string "Aku akan meninggalkanmu dengan semangat yang baik!$"
+
+MatchCall_PersonalizedText31::
+	.string "Ini {STR_VAR_1}.\n"
+	.string "Aku senang mengobrol denganmu!\p"
+	.string "Aku merasa hidup dan segar\n"
+	.string "berendam di bak air panas ini.\p"
+	.string "Aku sudah bertarung dengan TRAINER muda\n"
+	.string "sejak kita bertemu, tapi kamu masih\l"
+	.string "yang terbaik dari semuanya.\p"
+	.string "Aku membayangkan kamu akan menjadi AHLI\n"
+	.string "di usia tua! Ohohoho…$"
+
+MatchCall_PersonalizedText32::
+	.string "Hore! Ini {STR_VAR_1}!\n"
+	.string "Ada apa?\p"
+	.string "Mungkin aku hanya membayangkan ini, tapi ketika\n"
+	.string "aku memenangkan pertarungan, celana pendekku terasa\l"
+	.string "lebih baik. Secara material.\p"
+	.string "Apa maksudku dengan itu?\n"
+	.string "Agak sulit dijelaskan, tapi…\l"
+	.string "Bagaimana aku harus mengatakannya sekarang…\l"
+	.string "Celana pendekku terasa lebih halus!\p"
+	.string "Dan ketika aku bertarung denganmu, {PLAYER}{KUN},\n"
+	.string "celana pendekku terasa lengket dan kasar.\p"
+	.string "… … … … … …\n"
+	.string "Kamu tidak benar-benar percaya itu?\l"
+	.string "Ehehehe, itu saja! Dadah!$"
+
+MatchCall_PersonalizedText33::
+	.string "Ahoy!\n"
+	.string "Ini {STR_VAR_1}!\p"
+	.string "Seperti biasa, aku memancing dengan\n"
+	.string "semangat liar!\p"
+	.string "Apakah ada tempat lain yang bisa aku pancing\n"
+	.string "selain laut dan sungai?\p"
+	.string "Aku mendapatkan dorongan kuat untuk\n"
+	.string "memancing di mana saja!\p"
+	.string "Astaga, sialan!\n"
+	.string "Pancingku kusut!\p"
+	.string "Harus pergi!\n"
+	.string "Carikan aku tempat memancing baru!$"
+
+MatchCall_PersonalizedText34::
+	.string "Hei! Ini {STR_VAR_1}.\n"
+	.string "Apakah kamu santai?\p"
+	.string "Sejak kecil, kamu tahu,\n"
+	.string "aku selalu tenang, kan?\p"
+	.string "Aku tidak pernah terlalu suka\n"
+	.string "stres atau terburu-buru.\p"
+	.string "Tapi coba tebak,\n"
+	.string "sekarang aku seorang TRIATHLETE.\p"
+	.string "Kamu tidak bisa menebak ke mana hidup akan\n"
+	.string "membawamu, jika kamu mengerti maksudku.\p"
+	.string "Kamu seorang TRAINER sekarang, tapi siapa\n"
+	.string "yang tahu apa yang akan terjadi di masa depan, kan?\p"
+	.string "Bayangkan dirimu sebagai guru,\n"
+	.string "atau mungkin seorang seniman. Keren, kan?\p"
+	.string "Tapi, hei, tetap tenang. Santai saja.\n"
+	.string "Sampai jumpa.$"
+
+MatchCall_PersonalizedText35::
+	.string "Ini {STR_VAR_1}!\n"
+	.string "Aku sedang bersepeda sekarang.\p"
+	.string "Aku suka berenang dan berlari,\n"
+	.string "tapi bersepeda adalah cinta pertamaku!\p"
+	.string "Itu membuat seluruh tubuhku terasa\n"
+	.string "menyatu dengan angin.\p"
+	.string "Itu membuatku bersemangat seolah-olah\n"
+	.string "aku terbang!\p"
+	.string "Oke! Hari ini, aku akan mencetak rekor baru\n"
+	.string "di JALUR SEPEDA!\p"
+	.string "Kamu juga harus mencoba tantangannya!\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_PersonalizedText36::
+	.string "Yo, ini {STR_VAR_1}! Aku sedang\n"
+	.string "di tengah-tengah triathlon!\p"
+	.string "Tapi, hei, aku selalu punya waktu untuk\n"
+	.string "mengobrol!\p"
+	.string "Berolahraga dengan POKéMON terasa\n"
+	.string "sangat menyenangkan!\p"
+	.string "Tanpa bertukar kata, kami sinkron\n"
+	.string "seolah-olah kami berbagi hati.\p"
+	.string "Ini menginspirasi!\p"
+	.string "Terengah-engah… Mengobrol sambil berlari…\n"
+	.string "Aku kelelahan…\l"
+	.string "Terengah-engah… Harus… pergi…$"
+
+MatchCall_PersonalizedText37::
+	.string "Hai, ini {STR_VAR_1}.\n"
+	.string "Jika kamu ingin meningkatkan daya tahan,\l"
+	.string "latihan di ketinggian adalah jawabannya!\p"
+	.string "Cobalah berlari di puncak gunung.\n"
+	.string "Kamu akan terengah-engah dalam waktu singkat!\p"
+	.string "Aku juga kekurangan oksigen!\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_PersonalizedText38::
+	.string "Oh, ini {STR_VAR_1}, halo.\p"
+	.string "Aku sudah banyak berenang tapi aku masih\n"
+	.string "tidak bisa mencapai EVERGRANDE.\p"
+	.string "Mungkin aku hanya berputar-putar.\p"
+	.string "Tidak, tidak, itu tidak mungkin.\n"
+	.string "Wahahaha.\l"
+	.string "Hati-hati!$"
+
+MatchCall_PersonalizedText39::
+	.string "Hei, ini {STR_VAR_1}…\n"
+	.string "Ups!\p"
+	.string "Cipratan!\p"
+	.string "Blug-blug-blug-blug…\p"
+	.string "Sploosh!\p"
+	.string "Whiff-whiff! Whiff-whiff!\p"
+	.string "Hei! Maaf soal itu!\n"
+	.string "Aku baru saja memakai minyak tabir surya.\p"
+	.string "Jadi POKéNAV-ku terlepas\n"
+	.string "dari tanganku dan jatuh ke air!\p"
+	.string "Tapi, anakku, POKéNAV DEVON dibuat\n"
+	.string "kuat. Ia selamat dari celupan itu!\p"
+	.string "Bagaimanapun, aku sibuk berjemur,\n"
+	.string "jadi mari kita mengobrol lain kali.$"
+
+MatchCall_PersonalizedText40::
+	.string "Halo, ini {STR_VAR_1}.\p"
+	.string "Dari tiga acara triathlon,\n"
+	.string "aku paling suka berenang.\p"
+	.string "Tapi jika aku terlalu lama di laut,\n"
+	.string "bukankah aku akan jadi seperti keriput?\p"
+	.string "Ooh, triathlon adalah ujian ketahanan\n"
+	.string "manusia yang sangat melelahkan! Dadah!$"
+
+MatchCall_PersonalizedText41::
+	.string "Halo, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Bagaimana kabar POKéMON-mu?\p"
+	.string "POKéMON NAGA-ku tampaknya berada\n"
+	.string "dalam kondisi puncak. Sampai jumpa.$"
+
+MatchCall_PersonalizedText42::
+	.string "Ini {STR_VAR_1}.\p"
+	.string "{STR_VAR_2}-ku menjadi lebih\n"
+	.string "kuat dari sebelumnya.\p"
+	.string "Aku tidak akan kalah lagi darimu.\n"
+	.string "Tunggu saja lain kali!\p"
+	.string "Sampai jumpa!$"
+
+MatchCall_PersonalizedText43::
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Aku terus melanjutkan studiku\n"
+	.string "dalam seni penyembunyian.\p"
+	.string "Tapi aku terlalu sukses.\n"
+	.string "Tidak ada yang bisa menemukanku.\l"
+	.string "Kesuksesanku membuatku kesepian…\p"
+	.string "Seperti asap aku menghilang!\n"
+	.string "Selamat tinggal!$"
+
+MatchCall_PersonalizedText44::
+	.string "Ini {STR_VAR_1}.\n"
+	.string "Aku terus berlatih sejak kita bertemu.\p"
+	.string "{STR_VAR_2}-ku menjadi cukup\n"
+	.string "kuat.\p"
+	.string "Berlatih di pantai itu efektif,\n"
+	.string "tepat seperti yang kupikirkan. Dadah!$"
+
+MatchCall_PersonalizedText45::
+	.string "Apa kabar?\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Aku bertanya-tanya kapan abu vulkanik\n"
+	.string "yang menjijikkan ini akan berhenti berjatuhan?\p"
+	.string "Jika terlalu tebal, itu akan menutupi\n"
+	.string "pola payungku…\p"
+	.string "Mari berjanji untuk bertemu lagi!$"
+
+MatchCall_PersonalizedText46::
+	.string "Hai, ini {STR_VAR_1}.\p"
+	.string "Tahukah kamu bahwa lebih mudah\n"
+	.string "mengapung di laut daripada di kolam?\p"
+	.string "Hanya dengan berbaring diam, tubuhmu akan\n"
+	.string "mengapung dengan sendirinya.\p"
+	.string "Tapi jika kamu mengapung terlalu lama,\n"
+	.string "berhati-hatilah agar kamu tidak terbawa\l"
+	.string "terlalu jauh ke tengah.\p"
+	.string "…Ngomong-ngomong, aku di mana?\n"
+	.string "Lebih baik aku pergi!$"
+
+MatchCall_PersonalizedText47::
+	.string "Oh, {PLAYER}{KUN}, halo!\n"
+	.string "Ini {STR_VAR_1}.\l"
+	.string "Aku sekarang di pegunungan.\p"
+	.string "Tapi tanahnya terlalu bergelombang.\n"
+	.string "Aku tidak bisa mendirikan tendaku di sini…\p"
+	.string "Oh, aku punya ide cemerlang!\p"
+	.string "Mungkin aku bisa meminta POKéMON-ku untuk\n"
+	.string "meratakan tanah di sini!\p"
+	.string "Aku akan mencobanya!\n"
+	.string "Dadah!$"
+
+MatchCall_PersonalizedText48::
+	.string "Oh, hai, hai, ini {STR_VAR_1}!\p"
+	.string "Aku membesarkan POKéMON bersama LIV!\n"
+	.string "Kami berusaha sangat keras!\p"
+	.string "Jika kami berusaha lebih keras, bisakah kami menjadi\n"
+	.string "nomor satu? Dadah!$"
+
+MatchCall_PersonalizedText49::
+	.string "{STR_VAR_1} here!\p"
+	.string "I'm a SAILOR, but I'm not on a boat\n"
+	.string "now.\p"
+	.string "It makes me wonder--what should\n"
+	.string "a SAILOR on land be called?\p"
+	.string "That's what I've been thinking\n"
+	.string "while staring out across the waves.\p"
+	.string "All right, next time!$"
+
+MatchCall_PersonalizedText50::
+	.string "Ini {STR_VAR_1}.\n"
+	.string "Jadi? Dapat POKéMON lagi?\p"
+	.string "Jika kamu menangkap POKéMON baru,\n"
+	.string "kamu harus datang menunjukkannya padaku.\p"
+	.string "Aku tidak akan merengek untuk itu, sungguh.\n"
+	.string "Aku akan menunggu. Sampai jumpa.$"
+
+MatchCall_PersonalizedText51::
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Apakah kamu membesarkan POKéMON-mu\n"
+	.string "dengan cara yang optimal?\p"
+	.string "Udaranya bersih di tempatku.\n"
+	.string "Ini adalah lingkungan yang sempurna untuk\l"
+	.string "membesarkan POKéMON.\p"
+	.string "Jika kamu akan fokus membesarkan\n"
+	.string "POKéMON, kamu harus datang ke\l"
+	.string "{STR_VAR_2}. Hati-hati sekarang.$"
+
+MatchCall_PersonalizedText52::
+	.string "Hai, ini {STR_VAR_1}.\p"
+	.string "Aku memberikan {POKEBLOCK} kepada {STR_VAR_2}-ku.\n"
+	.string "Dia sepertinya sangat menyukainya.\p"
+	.string "Sepertinya POKéMON punya kesukaan\n"
+	.string "dan ketidaksukaan terhadap {POKEBLOCK}.\p"
+	.string "Aku merasa itu cukup menarik.\n"
+	.string "Tolong berhati-hati.$"
+
+MatchCall_PersonalizedText53::
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Jika kamu bekerja sama dengan POKéMON,\n"
+	.string "seseorang bisa nyaman di alam liar.\p"
+	.string "Semua orang harus menyadari itu dan\n"
+	.string "lebih banyak bekerja sama dengan POKéMON.\p"
+	.string "Itu akan ideal.\n"
+	.string "Aku sangat berpikir begitu.\p"
+	.string "Aku pikir kamu berada di jalur yang benar!\n"
+	.string "Sampai jumpa nanti!$"
+
+MatchCall_PersonalizedText54::
+	.string "Hai, ini {STR_VAR_1}. Kamu tahu,\n"
+	.string "TRAINER yang selalu siap!\p"
+	.string "{PLAYER}{KUN}, apakah kamu punya cukup item?\n"
+	.string "Apakah POKéMON-mu siap beraksi?\p"
+	.string "Menjaga semuanya sempurna di sekitarmu\n"
+	.string "sepanjang waktu adalah rahasia untuk\l"
+	.string "menjaga perjalananmu tetap berjalan.\p"
+	.string "Lebih baik aku memeriksa persediaanku sendiri!\n"
+	.string "Waspadalah!$"
+
+MatchCall_PersonalizedText55::
+	.string "Ini {STR_VAR_1}!\n"
+	.string "Ini {STR_VAR_1}!\p"
+	.string "{STR_VAR_2} adalah jalur yang sangat sibuk,\n"
+	.string "jadi aku ditantang oleh semua jenis\l"
+	.string "TRAINER setiap hari.\p"
+	.string "Hari ini, aku memenangkan lima pertarungan dan\n"
+	.string "hanya kalah tiga!\p"
+	.string "Bagaimana kabarmu hari ini?\n"
+	.string "Ceritakan padaku lain kali, oke?$"
+
+MatchCall_PersonalizedText56::
+	.string "Ini aku, {STR_VAR_1}.\p"
+	.string "Aku populer karena aku punya banyak\n"
+	.string "POKéMON SERANGGA, kan?\p"
+	.string "Yah, aku membawa banyak serangga\n"
+	.string "kesayanganku ke sekolah hari ini.\p"
+	.string "Gadis yang kusuka mulai menangis!\n"
+	.string "Tertawalah jika kamu mau.\p"
+	.string "Aku harus mencoba mengajarinya apa\n"
+	.string "yang membuat POKéMON SERANGGA begitu menarik.\p"
+	.string "Ingus…\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_PersonalizedText57::
+	.string "Hah! Hah! Hah! Hah!\p"
+	.string "Hai! Ini {STR_VAR_1}! Hah! Hah!\p"
+	.string "Mencoba mengobrol…\n"
+	.string "Sambil mendaki…\l"
+	.string "Adalah latihan yang berat… Hah! Hah!\p"
+	.string "Ugh! Oof…\n"
+	.string "Sekarang lebih curam…\l"
+	.string "Kita akan mengobrol…lain kali…\l"
+	.string "Hah! Hah! Hah!$"
+
+MatchCall_PersonalizedText58::
+	.string "Oh, hai!\p"
+	.string "Aku masih mencari harta karun\n"
+	.string "bersama KIRA!\p"
+	.string "Mungkin tidak ada harta karun\n"
+	.string "di sini sama sekali…\p"
+	.string "Tapi yang penting adalah aku\n"
+	.string "mencari bersama KIRA.\p"
+	.string "Oh, hei, KIRA!\n"
+	.string "Ke-kenapa kamu marah?\p"
+	.string "Aku tidak mengabaikanmu, sayang!\n"
+	.string "Kamu satu-satunya bagiku!\p"
+	.string "…{PLAYER}, aku harus pergi, dadah!$"
+
+MatchCall_PersonalizedText59::
+	.string "Ini {STR_VAR_1}!\p"
+	.string "Aku pergi ke GYM DEWFORD lagi\n"
+	.string "untuk berlatih.\p"
+	.string "BRAWLY, PEMIMPIN GYM, tampaknya\n"
+	.string "lebih tangguh sekarang.\p"
+	.string "Sesuatu tentang menjadi tangguh\n"
+	.string "oleh ombak liar…\p"
+	.string "Tapi dia masih sekeren biasanya.\n"
+	.string "Para wanita memujanya!\l"
+	.string "Itu membuatku iri, jujur saja.\p"
+	.string "Aku bertanya-tanya… Apakah temannya BRUNO\n"
+	.string "sama seperti BRAWLY?\p"
+	.string "Kamu tahu, semua berkeringat atau bau,\n"
+	.string "dan cenderung memanggil orang\l"
+	.string "“gelombang besar,” hal semacam itu.\p"
+	.string "Tapi, hei, masalah kecemburuan ini tidak\n"
+	.string "terlalu pantas, kan?\p"
+	.string "Lupakan obrolan ini pernah terjadi,\n"
+	.string "bagaimana kalau begitu? Sampai jumpa!$"
+
+MatchCall_PersonalizedText60::
+	.string "Senang bisa mengobrol dengan\n"
+	.string "TRAINER muda sepertimu.\p"
+	.string "Aku membayangkan kamu akan terus\n"
+	.string "menikmati POKéMON berapa pun usiamu.\p"
+	.string "Bukankah bagus jika kamu memiliki\n"
+	.string "kemitraan seperti kami?\p"
+	.string "Tentu saja, {PLAYER}{KUN}, kamu sudah\n"
+	.string "menikmati kepercayaan dan persahabatan\l"
+	.string "dari POKéMON-mu sekarang.\p"
+	.string "Kamu memiliki potensi untuk hubungan yang\n"
+	.string "panjang dan abadi!\p"
+	.string "Hahaha!\n"
+	.string "Jangan pernah berkecil hati!$"
+
+MatchCall_PersonalizedText61::
+	.string "Hai, ini {STR_VAR_1}!\n"
+	.string "Kami baru saja memenangkan pertarungan!\p"
+	.string "Kami tidak sering menang, tapi ini adalah\n"
+	.string "pria PERENANG yang keren.\p"
+	.string "Kakakku kesal!\p"
+	.string "Dia ingin berpura-pura bahwa dia\n"
+	.string "lemah untuk membuat kesan!\p"
+	.string "Dia selalu memarahiku apakah\n"
+	.string "kami menang atau kalah!\p"
+	.string "{PLAYER}{KUN}, bisakah kamu mengatakan sesuatu\n"
+	.string "padanya lain kali?\p"
+	.string "Oke, sampai jumpa!$"
+
+MatchCall_PersonalizedText62::
+	.string "Ini {STR_VAR_1}, ya.\n"
+	.string "Aku pergi ke laut kemarin.\p"
+	.string "Aku berharap menemukan reruntuhan baru\n"
+	.string "untuk dijelajahi.\p"
+	.string "Tapi entah bagaimana ombak sepertinya\n"
+	.string "membawaku kembali ke tempat aku memulai.\p"
+	.string "Aku juga masih lemah dalam bertarung…\n"
+	.string "Silakan ejek aku…\l"
+	.string "Tapi aku tidak akan menyerah.\p"
+	.string "Hariku akan tiba ketika aku menemukan\n"
+	.string "reruntuhan baru!\p"
+	.string "Hanya itu yang ingin aku katakan!\n"
+	.string "Selamat tinggal untuk sekarang!$"
+
+MatchCall_PersonalizedText63::
+	.string "Ahoy!\n"
+	.string "Ini aku, {STR_VAR_1}!\l"
+	.string "Aku sekarang di ROUTE 108!\l"
+	.string "Dengan kata lain, di tempatku selalu!\p"
+	.string "Hari ini, seorang PERENANG cantik\n"
+	.string "berenang di dekatku!\p"
+	.string "Jadi aku mengejutkannya dengan teriakan!\p"
+	.string "Dan dia memberiku tatapan tajam!\p"
+	.string "Itu semua dari ROUTE 108!\n"
+	.string "Dipersembahkan oleh {STR_VAR_1}!$"
+
+MatchCall_PersonalizedText64::
+	.string "Ini {STR_VAR_1}!\p"
+	.string "Aku agak sibuk, tapi aku pikir\n"
+	.string "aku harus memberitahumu bahwa aku\l"
+	.string "telah mengalahkan lima TRAINER lagi hari ini.\p"
+	.string "Jika aku mempertahankan kecepatan ini, aku bisa\n"
+	.string "mungkin mengalahkanmu lain kali.\p"
+	.string "Aku pikir kita akan menjadi rival yang baik,\n"
+	.string "kamu dan aku. Selamat tinggal untuk sekarang!$"
+
+MatchCall_BattleFrontierStreakText1::
+	.string "Hai! Ini {STR_VAR_1}.\n"
+	.string "Aku dengar beritanya!\p"
+	.string "Mereka bilang kamu tampil luar biasa di\n"
+	.string "{STR_VAR_2}.\p"
+	.string "Hebat sekali, {STR_VAR_3} kemenangan berturut-turut?\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_BattleFrontierStreakText2::
+	.string "Halo, ini {STR_VAR_1}!\n"
+	.string "Aku dengar tentangmu!\p"
+	.string "Mereka bilang kamu memenangkan {STR_VAR_3} pertarungan\n"
+	.string "berturut-turut di {STR_VAR_2}.\p"
+	.string "Itu istimewa! Aku juga harus\n"
+	.string "berusaha lebih keras! Sampai jumpa!$"
+
+MatchCall_BattleFrontierStreakText3::
+	.string "Hei, {PLAYER}!\n"
+	.string "Ini aku, {STR_VAR_1}.\p"
+	.string "Aku dengar kamu membuat kehebohan di\n"
+	.string "{STR_VAR_2}!\p"
+	.string "Rentetan kemenangan besar {STR_VAR_3}…\n"
+	.string "Itu rekor besar, bukan?\p"
+	.string "Aku juga harus mempersiapkan diri!\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_BattleFrontierStreakText4::
+	.string "Hei, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}. Ada apa?\p"
+	.string "Ada rumor yang beredar bahwa\n"
+	.string "kamu meraih {STR_VAR_3} kemenangan berturut-turut\l"
+	.string "di {STR_VAR_2}.\p"
+	.string "Aku juga harus meningkatkan kemampuanku.\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_BattleFrontierStreakText5::
+	.string "Halo, {PLAYER}{KUN}!\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Kamu berada di {STR_VAR_2}\n"
+	.string "dan memenangkan {STR_VAR_3} pertarungan berturut-turut?\l"
+	.string "Luar biasa sekali!\p"
+	.string "Aku harus lebih banyak melatih POKéMON-ku.\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_BattleFrontierStreakText6::
+	.string "Hei, {PLAYER}{KUN}?\n"
+	.string "Ini {STR_VAR_1}. Apa kabarmu?\p"
+	.string "Ngomong-ngomong, aku dengar kamu berhasil\n"
+	.string "meraih {STR_VAR_3} kemenangan berturut-turut di\l"
+	.string "{STR_VAR_2}.\p"
+	.string "Itu menginspirasiku untuk fokus\n"
+	.string "membangun timku.$"
+
+MatchCall_BattleFrontierStreakText7::
+	.string "…Er, {PLAYER}{KUN}?\n"
+	.string "Ini {STR_VAR_1}…\p"
+	.string "Oh, ya, kamu ada di\n"
+	.string "{STR_VAR_2}, kan?\p"
+	.string "Dan kamu memenangkan {STR_VAR_3} pertarungan berturut-turut.\p"
+	.string "Oh, ada POKéMON langka!\n"
+	.string "Aku harus pergi!$"
+
+MatchCall_BattleFrontierStreakText8::
+	.string "Oh, {PLAYER}{KUN}, apa kabarmu?\n"
+	.string "Ini {STR_VAR_1} yang berbicara.\l"
+	.string "Aku harap kamu baik-baik saja.\p"
+	.string "Oh, tapi, kamu memang begitu. Aku dengar\n"
+	.string "kamu memenangkan {STR_VAR_3} pertandingan berturut-turut di\l"
+	.string "{STR_VAR_2}.\p"
+	.string "Itu sangat mengesankan!\n"
+	.string "Aku harap kamu tetap sukses.$"
+
+MatchCall_BattleFrontierStreakText9::
+	.string "Oh, {PLAYER}{KUN}, hai!\n"
+	.string "Ini {STR_VAR_1}!\p"
+	.string "Aku dengar! Rentetan kemenangan {STR_VAR_3} milikmu di\n"
+	.string "{STR_VAR_2}!\p"
+	.string "Itu sangat keren!\n"
+	.string "Aku juga harus berusaha lebih keras!$"
+
+MatchCall_BattleFrontierStreakText10::
+	.string "Oh, {PLAYER}{KUN}, halo…\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Kamu memenangkan {STR_VAR_3} pertarungan berturut-turut di\n"
+	.string "{STR_VAR_2}?\p"
+	.string "Itu pencapaian yang luar biasa.\n"
+	.string "Aku harus bekerja lebih keras.$"
+
+MatchCall_BattleFrontierStreakText11::
+	.string "Ah, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Aku dengar kamu adalah teror di\n"
+	.string "{STR_VAR_2}?\p"
+	.string "Kamu memenangkan, berapa, {STR_VAR_3} pertandingan\n"
+	.string "berturut-turut?\p"
+	.string "Kamu hebat.\n"
+	.string "Aku ingin tahu berapa banyak yang bisa aku menangkan?$"
+
+MatchCall_BattleFrontierStreakText12::
+	.string "Halo, {PLAYER}{KUN}.\n"
+	.string "Ini aku, {STR_VAR_1}.\l"
+	.string "Apakah kamu baik-baik saja?\p"
+	.string "Seseorang menyampaikan kabar tentangmu.\n"
+	.string "Bagaimana kamu memenangkan {STR_VAR_3} pertarungan berturut-turut\l"
+	.string "di tempat bernama {STR_VAR_2}?\p"
+	.string "Itu kisah yang cukup menarik.\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_BattleFrontierStreakText13::
+	.string "Ah, halo, {PLAYER}{KUN}!\n"
+	.string "Ini {STR_VAR_1}!\l"
+	.string "Aku harap kamu baik-baik saja.\p"
+	.string "Mereka bilang kamu memenangkan {STR_VAR_3} pertarungan\n"
+	.string "berturut-turut di {STR_VAR_2}.\p"
+	.string "Aku mengagumi energimu!\n"
+	.string "Dadah sekarang.$"
+
+MatchCall_BattleFrontierStreakText14::
+	.string "Oh, hai, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Aku dengar tentangmu!\n"
+	.string "Bukankah kamu baru saja memenangkan {STR_VAR_3} pertarungan\l"
+	.string "berturut-turut di {STR_VAR_2}?\p"
+	.string "Kamu adalah inspirasi!\n"
+	.string "Dadah!$"
+
+MatchCall_BattleFrontierRecordStreakText1::
+	.string "Hai! Ini {STR_VAR_1}.\n"
+	.string "Aku dengar beritanya!\p"
+	.string "Mereka bilang kamu tampil luar biasa di\n"
+	.string "{STR_VAR_2}.\p"
+	.string "Hebat sekali--{STR_VAR_3} kemenangan berturut-turut?\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_BattleFrontierRecordStreakText2::
+	.string "Halo, ini {STR_VAR_1}!\n"
+	.string "Aku dengar tentangmu!\p"
+	.string "Mereka bilang kamu memenangkan {STR_VAR_3} pertarungan\n"
+	.string "berturut-turut di {STR_VAR_2}.\p"
+	.string "Itu istimewa! Aku juga harus\n"
+	.string "berusaha lebih keras! Sampai jumpa!$"
+
+MatchCall_BattleFrontierRecordStreakText3::
+	.string "Hei, {PLAYER}!\n"
+	.string "Ini aku, {STR_VAR_1}.\p"
+	.string "Aku dengar kamu membuat kehebohan di\n"
+	.string "{STR_VAR_2}!\p"
+	.string "Rentetan kemenangan besar {STR_VAR_3}…\n"
+	.string "Itu rekor besar, bukan?\p"
+	.string "Aku juga harus mempersiapkan diri!\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_BattleFrontierRecordStreakText4::
+	.string "Hei, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}. Ada apa?\p"
+	.string "Ada rumor yang beredar bahwa\n"
+	.string "kamu meraih {STR_VAR_3} kemenangan berturut-turut\l"
+	.string "di {STR_VAR_2}.\p"
+	.string "Aku juga harus meningkatkan kemampuanku.\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_BattleFrontierRecordStreakText5::
+	.string "Halo, {PLAYER}{KUN}!\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Kamu berada di {STR_VAR_2}\n"
+	.string "dan memenangkan {STR_VAR_3} pertarungan berturut-turut?\l"
+	.string "Luar biasa sekali!\p"
+	.string "Aku? Aku rasa aku berkembang.\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_BattleFrontierRecordStreakText6::
+	.string "Hei, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}. Apa kabarmu?\p"
+	.string "Ngomong-ngomong, aku dengar kamu berhasil\n"
+	.string "meraih {STR_VAR_3} kemenangan berturut-turut di\l"
+	.string "{STR_VAR_2}.\p"
+	.string "Aku juga harus berusaha lebih keras!\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_BattleFrontierRecordStreakText7::
+	.string "…Er, {PLAYER}{KUN}?\n"
+	.string "Ini {STR_VAR_1}…\p"
+	.string "Oh, ya, kamu ada di\n"
+	.string "{STR_VAR_2}, kan?\p"
+	.string "Dan kamu memenangkan {STR_VAR_3} pertarungan berturut-turut.\p"
+	.string "Oh, ada POKéMON langka!\n"
+	.string "Aku harus pergi!$"
+
+MatchCall_BattleFrontierRecordStreakText8::
+	.string "Oh, {PLAYER}{KUN}, apa kabarmu?\n"
+	.string "Ini {STR_VAR_1} yang berbicara.\l"
+	.string "Aku harap kamu baik-baik saja.\p"
+	.string "Oh, tapi, kamu memang begitu. Aku dengar\n"
+	.string "kamu memenangkan {STR_VAR_3} pertandingan berturut-turut di\l"
+	.string "{STR_VAR_2}.\p"
+	.string "Itu sangat mengesankan!\n"
+	.string "Aku juga harus melatih POKéMON-ku!$"
+
+MatchCall_BattleFrontierRecordStreakText9::
+	.string "Oh, {PLAYER}{KUN}, hai!\n"
+	.string "Ini {STR_VAR_1}!\p"
+	.string "Aku dengar! Rentetan kemenangan {STR_VAR_3} milikmu di\n"
+	.string "{STR_VAR_2}!\p"
+	.string "Itu sangat keren!\n"
+	.string "Aku juga harus berusaha lebih keras!$"
+
+MatchCall_BattleFrontierRecordStreakText10::
+	.string "Oh, {PLAYER}{KUN}, halo…\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Kamu memenangkan {STR_VAR_3} pertarungan berturut-turut di\n"
+	.string "{STR_VAR_2}?\p"
+	.string "Itu pencapaian yang luar biasa.\n"
+	.string "Aku harus bekerja lebih keras.$"
+
+MatchCall_BattleFrontierRecordStreakText11::
+	.string "Ah, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Aku dengar kamu adalah teror di\n"
+	.string "{STR_VAR_2}?\p"
+	.string "Kamu memenangkan, berapa, {STR_VAR_3} pertandingan\n"
+	.string "berturut-turut?\p"
+	.string "Kamu hebat.\n"
+	.string "Aku ingin tahu berapa banyak yang bisa aku menangkan?$"
+
+MatchCall_BattleFrontierRecordStreakText12::
+	.string "Halo, {PLAYER}{KUN}.\n"
+	.string "Ini aku, {STR_VAR_1}.\l"
+	.string "Apakah kamu baik-baik saja?\p"
+	.string "Seseorang menyampaikan kabar tentangmu.\n"
+	.string "Bagaimana kamu memenangkan {STR_VAR_3} pertarungan berturut-turut\l"
+	.string "di tempat bernama {STR_VAR_2}?\p"
+	.string "Itu kisah yang cukup menarik.\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_BattleFrontierRecordStreakText13::
+	.string "Ah, halo, {PLAYER}{KUN}!\n"
+	.string "Ini {STR_VAR_1}!\l"
+	.string "Aku harap kamu baik-baik saja.\p"
+	.string "Mereka bilang kamu memenangkan {STR_VAR_3} pertarungan\n"
+	.string "berturut-turut di {STR_VAR_2}.\p"
+	.string "Aku mengagumi energimu!\n"
+	.string "Dadah sekarang.$"
+
+MatchCall_BattleFrontierRecordStreakText14::
+	.string "Oh, hai, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\l"
+	.string "Aku dengar tentangmu!\p"
+	.string "Bukankah kamu baru saja memenangkan {STR_VAR_3} pertarungan\n"
+	.string "berturut-turut di {STR_VAR_2}?\p"
+	.string "Kamu adalah inspirasi!\n"
+	.string "Dadah!$"
+
+MatchCall_BattleDomeText1::
+	.string "Hai! {PLAYER}?\n"
+	.string "Halo, ini {STR_VAR_1}!\l"
+	.string "Aku dengar beritanya!\p"
+	.string "Kamu menjadi juara di\n"
+	.string "{STR_VAR_2} sebanyak {STR_VAR_3} kali?\p"
+	.string "Hebat sekali! Aku harus berbuat lebih baik!\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_BattleDomeText2::
+	.string "Halo, ini {STR_VAR_1}!\n"
+	.string "Aku dengar tentangmu!\p"
+	.string "Mereka bilang kamu memenangkan {STR_VAR_3} gelar\n"
+	.string "di {STR_VAR_2}.\p"
+	.string "Itu super! Aku ingin tahu apakah aku bisa\n"
+	.string "menjadi juara?$"
+
+MatchCall_BattleDomeText3::
+	.string "Hei, {PLAYER}!\n"
+	.string "Ini aku, {STR_VAR_1}.\l"
+	.string "Apa kabarmu?\p"
+	.string "Aku dengar kamu memenangkan acara {STR_VAR_3} kali\n"
+	.string "di {STR_VAR_2}!\p"
+	.string "Lakukan lebih baik lagi lain kali!\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_BattleDomeText4::
+	.string "Hei, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Aku dengar kamu menjadi juara\n"
+	.string "di {STR_VAR_2} sebanyak {STR_VAR_3} kali.\p"
+	.string "Sepertinya kamu bekerja keras.\n"
+	.string "Aku akan mencoba mengikutimu!$"
+
+MatchCall_BattleDomeText5::
+	.string "Halo, {PLAYER}{KUN}!\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Aku dengar kamu menang {STR_VAR_3} kali\n"
+	.string "langsung di {STR_VAR_2}.\p"
+	.string "Aku juga harus segera bergabung!\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_BattleDomeText6::
+	.string "Hei, {PLAYER}{KUN}?\n"
+	.string "Ini {STR_VAR_1}. Apa kabarmu?\p"
+	.string "Ngomong-ngomong, aku dengar kamu menjadi\n"
+	.string "juara {STR_VAR_3} kali di\l"
+	.string "{STR_VAR_2}.\p"
+	.string "Aku harus melatih POKéMON-ku sebelum\n"
+	.string "kamu semakin jauh di depan.$"
+
+MatchCall_BattleDomeText7::
+	.string "{PLAYER}{KUN}?\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Kamu ada di {STR_VAR_2}\n"
+	.string "dan menjadi juara {STR_VAR_3} kali?\p"
+	.string "Itu keren. Ngomong-ngomong, apakah kamu\n"
+	.string "menangkap POKéMON langka belakangan ini?\p"
+	.string "Oh, begitu.\n"
+	.string "Oke, dadah.$"
+
+MatchCall_BattleDomeText8::
+	.string "Oh, {PLAYER}{KUN}, apa kabarmu?\n"
+	.string "Ini {STR_VAR_1} yang berbicara.\l"
+	.string "Aku harap kamu baik-baik saja.\l"
+	.string "Oh, tapi, kamu memang begitu.\p"
+	.string "Aku dengar kamu memenangkan {STR_VAR_3} gelar\n"
+	.string "di {STR_VAR_2}.\p"
+	.string "Aku harus melatih POKéMON-ku sepertimu.\n"
+	.string "Sampai jumpa lagi.$"
+
+MatchCall_BattleDomeText9::
+	.string "Oh, {PLAYER}{KUN}, hai!\n"
+	.string "Ini {STR_VAR_1}!\p"
+	.string "Aku dengar! Kamu meraih gelar\n"
+	.string "{STR_VAR_3} kali di {STR_VAR_2}!\p"
+	.string "Itu sangat keren!\n"
+	.string "Aku juga harus berusaha lebih keras!$"
+
+MatchCall_BattleDomeText10::
+	.string "Oh, {PLAYER}{KUN}, halo.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Kamu memenangkan {STR_VAR_3} kali berturut-turut di\n"
+	.string "{STR_VAR_2}?\p"
+	.string "Itu pencapaian yang luar biasa.\n"
+	.string "Aku harus bekerja lebih keras.$"
+
+MatchCall_BattleDomeText11::
+	.string "Ah, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Aku dengar kamu adalah teror di\n"
+	.string "{STR_VAR_2}?\p"
+	.string "Kamu menang, berapa, {STR_VAR_3} kali berturut-turut\n"
+	.string "sekarang?\p"
+	.string "Aku ingin tahu apakah aku bisa menjadi\n"
+	.string "juara?\p"
+	.string "…Cukup mustahil?\n"
+	.string "Baiklah, sampai jumpa!$"
+
+MatchCall_BattleDomeText12::
+	.string "Halo, {PLAYER}{KUN}.\n"
+	.string "Ini aku, {STR_VAR_1}.\l"
+	.string "Apakah kamu baik-baik saja?\p"
+	.string "Kamu memenangkan {STR_VAR_3} acara di tempat\n"
+	.string "bernama {STR_VAR_2}?\p"
+	.string "Itu kisah yang cukup menarik.\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_BattleDomeText13::
+	.string "Ah, halo, {PLAYER}{KUN}!\n"
+	.string "Ini {STR_VAR_1}!\l"
+	.string "Aku harap kamu baik-baik saja.\p"
+	.string "Mereka bilang kamu memenangkan {STR_VAR_3} acara\n"
+	.string "di {STR_VAR_2}?\p"
+	.string "Aku mengagumi energimu!\n"
+	.string "Dadah sekarang.$"
+
+MatchCall_BattleDomeText14::
+	.string "Oh, hai, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\l"
+	.string "Aku dengar tentangmu!\p"
+	.string "Bukankah kamu memenangkan {STR_VAR_3} gelar\n"
+	.string "di {STR_VAR_2}?\p"
+	.string "Kamu adalah inspirasi!\n"
+	.string "Sampai jumpa lagi!$"
+
+MatchCall_BattlePikeText1::
+	.string "Hai! {PLAYER}?\n"
+	.string "Halo, ini {STR_VAR_1}!\l"
+	.string "Aku dengar beritanya!\p"
+	.string "Kamu berhasil melewati {STR_VAR_3} ruangan\n"
+	.string "di {STR_VAR_2}!\p"
+	.string "Hebat sekali!\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_BattlePikeText2::
+	.string "Halo, ini {STR_VAR_1}!\n"
+	.string "Aku dengar tentangmu!\p"
+	.string "Mereka bilang kamu berhasil melewati\n"
+	.string "{STR_VAR_3} ruangan di {STR_VAR_2}.\p"
+	.string "Aku harus berusaha lebih keras!\n"
+	.string "Dadah!$"
+
+MatchCall_BattlePikeText3::
+	.string "Hei, {PLAYER}!\n"
+	.string "Ini aku, {STR_VAR_1}.\l"
+	.string "Apa kabarmu?\p"
+	.string "Aku dengar kamu berhasil melewati {STR_VAR_3} ruangan\n"
+	.string "di {STR_VAR_2}!\p"
+	.string "Cobalah untuk melakukan yang lebih baik lagi lain kali!\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_BattlePikeText4::
+	.string "Hei, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Aku dengar kamu melewati {STR_VAR_3} ruangan\n"
+	.string "di {STR_VAR_2}.\p"
+	.string "Aku harus melatih POKéMON-ku dan\n"
+	.string "mencoba untuk mengikutimu!$"
+
+MatchCall_BattlePikeText5::
+	.string "Halo, {PLAYER}{KUN}!\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Aku dengar kamu melewati {STR_VAR_3} ruangan\n"
+	.string "di {STR_VAR_2}.\p"
+	.string "Aku juga harus segera bergabung!\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_BattlePikeText6::
+	.string "Hei, {PLAYER}{KUN}?\n"
+	.string "Ini {STR_VAR_1}. Apa kabarmu?\p"
+	.string "Ngomong-ngomong, aku dengar kamu berhasil melewati\n"
+	.string "{STR_VAR_3} ruangan di {STR_VAR_2}.\p"
+	.string "Aku harus melatih POKéMON-ku sebelum\n"
+	.string "kamu semakin jauh di depan.$"
+
+MatchCall_BattlePikeText7::
+	.string "{PLAYER}{KUN}?\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Kamu berada di {STR_VAR_2}\n"
+	.string "dan berhasil melewati {STR_VAR_3} ruangan?\p"
+	.string "Itu hebat.\p"
+	.string "Oh, ada POKéMON langka!\n"
+	.string "Oke, dadah.$"
+
+MatchCall_BattlePikeText8::
+	.string "Oh, {PLAYER}{KUN}, apa kabarmu?\n"
+	.string "Ini {STR_VAR_1} yang berbicara.\l"
+	.string "Aku harap kamu baik-baik saja.\l"
+	.string "Oh, tapi, kamu memang begitu.\p"
+	.string "Aku dengar kamu berhasil melewati\n"
+	.string "{STR_VAR_3} ruangan di {STR_VAR_2}.\p"
+	.string "Itu sangat mengesankan!\n"
+	.string "Aku harus melatih POKéMON-ku sepertimu.\l"
+	.string "Sampai jumpa lagi.$"
+
+MatchCall_BattlePikeText9::
+	.string "Oh, {PLAYER}{KUN}, hai!\n"
+	.string "Ini {STR_VAR_1}!\p"
+	.string "Aku dengar! Kamu berhasil melewati\n"
+	.string "{STR_VAR_3} ruangan di {STR_VAR_2}!\p"
+	.string "Itu sangat keren!\n"
+	.string "Aku juga harus berusaha lebih keras!$"
+
+MatchCall_BattlePikeText10::
+	.string "Oh, {PLAYER}{KUN}, halo.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Kamu berhasil melewati {STR_VAR_3} ruangan\n"
+	.string "di {STR_VAR_2}?\p"
+	.string "Itu pencapaian yang luar biasa.\n"
+	.string "Aku harus bekerja lebih keras.$"
+
+MatchCall_BattlePikeText11::
+	.string "Ah, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Aku dengar kamu adalah teror di\n"
+	.string "{STR_VAR_2}?\p"
+	.string "Kamu berhasil melewati, berapa, {STR_VAR_3} ruangan?\n"
+	.string "Itu pasti berarti sesuatu.\p"
+	.string "Aku ingin tahu apakah aku bisa menjadi\n"
+	.string "juara?\p"
+	.string "…Cukup mustahil?\n"
+	.string "Baiklah, sampai jumpa!$"
+
+MatchCall_BattlePikeText12::
+	.string "Halo, {PLAYER}{KUN}.\n"
+	.string "Ini aku, {STR_VAR_1}.\l"
+	.string "Apakah kamu baik-baik saja?\p"
+	.string "Kamu berhasil melewati {STR_VAR_3} ruangan di\n"
+	.string "tempat bernama {STR_VAR_2}?\p"
+	.string "Itu kisah yang cukup menarik.\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_BattlePikeText13::
+	.string "Ah, halo, {PLAYER}{KUN}!\n"
+	.string "Ini {STR_VAR_1}!\l"
+	.string "Aku harap kamu baik-baik saja.\p"
+	.string "Mereka bilang kamu menang di {STR_VAR_3} ruangan\n"
+	.string "di {STR_VAR_2}?\p"
+	.string "Aku mengagumi energimu!\n"
+	.string "Dadah sekarang.$"
+
+MatchCall_BattlePikeText14::
+	.string "Oh, hai, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\l"
+	.string "Aku dengar tentangmu!\p"
+	.string "Bukankah kamu berhasil melewati {STR_VAR_3} ruangan\n"
+	.string "di {STR_VAR_2}?\p"
+	.string "Kamu adalah inspirasi!\n"
+	.string "Sampai jumpa lagi!$"
+
+MatchCall_BattlePyramidText1::
+	.string "Hai! {PLAYER}?\n"
+	.string "Halo, ini {STR_VAR_1}!\l"
+	.string "Aku dengar beritanya!\p"
+	.string "Kamu mendaki {STR_VAR_3} lantai di dalam\n"
+	.string "{STR_VAR_2}, kan?\p"
+	.string "Hebat sekali!\n"
+	.string "Aku harus mencoba tantangan itu.$"
+
+MatchCall_BattlePyramidText2::
+	.string "Halo, ini {STR_VAR_1}!\n"
+	.string "Aku dengar tentangmu!\p"
+	.string "Mereka bilang kamu berhasil melewati\n"
+	.string "{STR_VAR_3} lantai di {STR_VAR_2}.\p"
+	.string "Wow, itu fantastis!\n"
+	.string "Aku juga harus melatih POKéMON-ku!$"
+
+MatchCall_BattlePyramidText3::
+	.string "Hei, {PLAYER}!\n"
+	.string "Ini aku, {STR_VAR_1}.\l"
+	.string "Apa kabarmu?\p"
+	.string "Aku dengar kamu mendaki {STR_VAR_3} lantai\n"
+	.string "di {STR_VAR_2}!\p"
+	.string "Cobalah untuk melakukan yang lebih baik lagi lain kali!\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_BattlePyramidText4::
+	.string "Hei, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Aku dengar kamu mendaki {STR_VAR_3} lantai\n"
+	.string "di {STR_VAR_2}.\p"
+	.string "Aku harus bekerja keras dan mencoba\n"
+	.string "untuk mengikutimu!$"
+
+MatchCall_BattlePyramidText5::
+	.string "Halo, {PLAYER}{KUN}!\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Aku dengar kamu mendaki {STR_VAR_3} lantai\n"
+	.string "di {STR_VAR_2}.\p"
+	.string "Aku juga harus segera bergabung!\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_BattlePyramidText6::
+	.string "Hei, {PLAYER}{KUN}?\n"
+	.string "Ini {STR_VAR_1}. Apa kabarmu?\p"
+	.string "Ngomong-ngomong, aku dengar kamu berhasil melewati\n"
+	.string "{STR_VAR_3} lantai di {STR_VAR_2}.\p"
+	.string "Aku harus melatih POKéMON-ku sebelum\n"
+	.string "kamu semakin jauh di depan.$"
+
+MatchCall_BattlePyramidText7::
+	.string "{PLAYER}{KUN}?\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Kamu ada di {STR_VAR_2}\n"
+	.string "dan berhasil naik {STR_VAR_3} lantai?\p"
+	.string "Keren. Apakah ada POKéMON langka\n"
+	.string "di sana?\p"
+	.string "Tidak, ya?\n"
+	.string "Oke, dadah.$"
+
+MatchCall_BattlePyramidText8::
+	.string "Oh, {PLAYER}{KUN}, apa kabarmu?\n"
+	.string "Ini {STR_VAR_1} yang berbicara.\l"
+	.string "Aku harap kamu baik-baik saja.\l"
+	.string "Oh, tapi, kamu memang begitu.\p"
+	.string "Aku dengar kamu berhasil melewati\n"
+	.string "{STR_VAR_3} lantai di {STR_VAR_2}.\p"
+	.string "Itu sangat mengesankan!\n"
+	.string "Aku harus melatih POKéMON-ku sepertimu.\l"
+	.string "Sampai jumpa lagi.$"
+
+MatchCall_BattlePyramidText9::
+	.string "Oh, {PLAYER}{KUN}, hai!\n"
+	.string "Ini {STR_VAR_1}!\p"
+	.string "Aku dengar! Kamu berhasil melewati\n"
+	.string "{STR_VAR_3} lantai di {STR_VAR_2}!\p"
+	.string "Itu sangat keren!\n"
+	.string "Aku juga harus berusaha lebih keras!$"
+
+MatchCall_BattlePyramidText10::
+	.string "Oh, {PLAYER}{KUN}, halo.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Kamu mendaki {STR_VAR_3} lantai di dalam\n"
+	.string "{STR_VAR_2}?\p"
+	.string "Itu pencapaian yang luar biasa.\n"
+	.string "Aku harus bekerja lebih keras.$"
+
+MatchCall_BattlePyramidText11::
+	.string "Ah, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\p"
+	.string "Aku dengar kamu adalah teror di\n"
+	.string "{STR_VAR_2}?\p"
+	.string "Kamu berhasil naik, berapa, {STR_VAR_3} lantai?\n"
+	.string "Itu pasti berarti sesuatu.\p"
+	.string "Aku ingin tahu apakah aku bisa menjadi\n"
+	.string "juara?\p"
+	.string "…Cukup mustahil?\n"
+	.string "Baiklah, sampai jumpa!$"
+
+MatchCall_BattlePyramidText12::
+	.string "Halo, {PLAYER}{KUN}.\n"
+	.string "Ini aku, {STR_VAR_1}.\l"
+	.string "Apakah kamu baik-baik saja?\p"
+	.string "Kamu berhasil melewati {STR_VAR_3} lantai di\n"
+	.string "tempat bernama {STR_VAR_2}?\p"
+	.string "Itu kisah yang cukup menarik.\n"
+	.string "Sampai jumpa!$"
+
+MatchCall_BattlePyramidText13::
+	.string "Ah, halo, {PLAYER}{KUN}!\n"
+	.string "Ini {STR_VAR_1}!\l"
+	.string "Aku harap kamu baik-baik saja.\p"
+	.string "Mereka bilang kamu mendaki {STR_VAR_3} lantai\n"
+	.string "di {STR_VAR_2}?\p"
+	.string "Aku mengagumi energimu!\n"
+	.string "Dadah sekarang.$"
+
+MatchCall_BattlePyramidText14::
+	.string "Oh, hai, {PLAYER}{KUN}.\n"
+	.string "Ini {STR_VAR_1}.\l"
+	.string "Aku dengar tentangmu!\p"
+	.string "Bukankah kamu berhasil melewati {STR_VAR_3} lantai\n"
+	.string "di {STR_VAR_2}?\p"
+	.string "Kamu adalah inspirasi!\n"
+	.string "Sampai jumpa lagi!$"
+
+MatchCall_Text_Mom1::
+	.string "IBU: Ayahmu dan kamu…\n"
+	.string "Semua orang terpikat oleh POKéMON.\p"
+	.string "Apa pesona POKéMON?\p"
+	.string "Aku?\n"
+	.string "Aku menyukai POKéMON yang membantuku dengan\l"
+	.string "tugas sehari-hariku.$"
+
+MatchCall_Text_Mom2::
+	.string "IBU: Hai, {PLAYER}!\n"
+	.string "Ayahmu mengurung diri\l"
+	.string "di GYM PETALBURG.\p"
+	.string "Dia pulang sesekali.\n"
+	.string "Tapi dia kembali ke GYM ketika\l"
+	.string "dia sudah makan semua yang dia bisa.\p"
+	.string "Aku menduga kalah darimu\n"
+	.string "adalah pukulan besar bagi harga dirinya!$"
+
+MatchCall_Text_Mom3::
+	.string "IBU: {PLAYER}…\n"
+	.string "Jangan khawatirkan aku atau rumah.\p"
+	.string "Pakailah SEPATU LARI itu sampai\n"
+	.string "rusak, sayang!$"
+
+MatchCall_Text_Roxanne1::
+	.string "ROXANNE: Oh, halo, {PLAYER}!\p"
+	.string "Aku sudah bekerja keras melatih ulang\n"
+	.string "sejak kita bertemu.\p"
+	.string "Aku masih butuh waktu lagi\n"
+	.string "sebelum aku bisa membuka kembali GYM.\p"
+	.string "Tapi ketika aku melakukannya, silakan kunjungi GYM-ku\n"
+	.string "untuk pertandingan ulang!$"
+
+MatchCall_Text_Roxanne2::
+	.string "ROXANNE: Apakah ini {PLAYER}?\n"
+	.string "Selamat!\l"
+	.string "Aku sudah mendengar tentangmu!\p"
+	.string "Adapun aku, aku butuh waktu lagi\n"
+	.string "sebelum aku bisa membuka kembali GYM.\p"
+	.string "Tapi ketika aku melakukannya, silakan kunjungi GYM-ku\n"
+	.string "untuk pertandingan ulang!$"
+
+MatchCall_Text_Roxanne3::
+	.string "ROXANNE: {PLAYER}!\n"
+	.string "GYM-ku sudah siap!\p"
+	.string "Silakan kunjungi RUSTBORO kapan pun\n"
+	.string "kamu bisa!$"
+
+MatchCall_Text_Roxanne4::
+	.string "ROXANNE: Di GYM RUSTBORO,\n"
+	.string "fakta bahwa kita bertarung, {PLAYER},\l"
+	.string "adalah masalah kebanggaan.$"
+
+MatchCall_Text_Brawly1::
+	.string "BRAWLY: Hei, {PLAYER}{KUN}!\p"
+	.string "Aku belajar banyak dari pertarungan kita\n"
+	.string "bersama.\p"
+	.string "Aku berniat untuk melatih ulang,\n"
+	.string "lalu membuka kembali GYM.\p"
+	.string "Ini akan memakan waktu sebelum\n"
+	.string "aku siap menjalankan GYM lagi.\p"
+	.string "Tapi jika aku bisa membuka kembali GYM,\n"
+	.string "aku ingin kamu menantang kami lagi.$"
+
+MatchCall_Text_Brawly2::
+	.string "BRAWLY: Hei, {PLAYER}{KUN}!\n"
+	.string "Selamat!\p"
+	.string "Kabar tentang prestasimu sampai\n"
+	.string "melalui angin pasang!\p"
+	.string "Sepertinya aku perlu lebih banyak\n"
+	.string "berlatih.\p"
+	.string "Ini akan memakan waktu sebelum\n"
+	.string "aku siap menjalankan GYM lagi.\p"
+	.string "Tapi jika aku bisa membuka kembali GYM,\n"
+	.string "aku ingin kamu menantang kami lagi.$"
+
+MatchCall_Text_Brawly3::
+	.string "BRAWLY: Hei, {PLAYER}{KUN}!\n"
+	.string "GYM-ku siap beraksi!\p"
+	.string "Kembalilah ke DEWFORD kapan saja\n"
+	.string "untuk tantangan lain!$"
+
+MatchCall_Text_Brawly4::
+	.string "BRAWLY: {PLAYER}{KUN}, kurasa\n"
+	.string "aku tidak akan pernah bosan bertarung denganmu!$"
+
+MatchCall_Text_Wattson1::
+	.string "WATTSON: Oh, itu kamu!\p"
+	.string "Setelah kamu pergi, aku sudah mengulang\n"
+	.string "pelatihanku dari awal.\p"
+	.string "Aku rasa aku butuh sedikit lebih banyak\n"
+	.string "waktu untuk membuka kembali GYM-ku.\p"
+	.string "Kamu harus menunggu sampai saat itu!\n"
+	.string "Wahahahaha!$"
+
+MatchCall_Text_Wattson2::
+	.string "WATTSON: Wahahahaha!\p"
+	.string "Kamu benar-benar berhasil, kan?\n"
+	.string "Aku sudah mendengar kabar tentangmu!\p"
+	.string "Sepertinya aku masih perlu melatih ulang\n"
+	.string "lagi.\p"
+	.string "Aku rasa aku butuh sedikit lebih banyak\n"
+	.string "waktu untuk membuka kembali GYM-ku.\p"
+	.string "Kamu harus menunggu sampai saat itu!\n"
+	.string "Wahahahaha!$"
+
+MatchCall_Text_Wattson3::
+	.string "WATTSON: Oh, itu kamu!\n"
+	.string "GYM-ku sudah siap!\p"
+	.string "Kunjungi MAUVILLE kapan saja!\n"
+	.string "Wahahahaha!$"
+
+MatchCall_Text_Wattson4::
+	.string "WATTSON: Wahahaha!\p"
+	.string "Pertarungan denganmu selalu dipenuhi\n"
+	.string "kekuatan yang mengejutkan!$"
+
+MatchCall_Text_Flannery1::
+	.string "FLANNERY: {PLAYER}…\p"
+	.string "Ketika kita bertarung, aku belajar persis\n"
+	.string "betapa belum dewasanya aku.\p"
+	.string "Tapi aku belum selesai!\p"
+	.string "Aku akan melatih ulang dan\n"
+	.string "membuka kembali GYM.\p"
+	.string "Ketika saatnya tiba, {PLAYER},\n"
+	.string "mohon tantang kami lagi.$"
+
+MatchCall_Text_Flannery2::
+	.string "FLANNERY: Halo, {PLAYER}?\n"
+	.string "Selamat!\p"
+	.string "Kabar kesuksesanmu telah sampai\n"
+	.string "kepada kami seperti panasnya gunung berapi!\p"
+	.string "Latihan kami berjalan sangat\n"
+	.string "baik di sini.\p"
+	.string "Ketika GYM sudah siap, tanda akan\n"
+	.string "muncul di samping namaku di\l"
+	.string "daftar MATCH CALL.$"
+
+MatchCall_Text_Flannery3::
+	.string "FLANNERY: Oh, {PLAYER}?\n"
+	.string "GYM kami sudah siap!\p"
+	.string "Datanglah ke LAVARIDGE untuk berendam\n"
+	.string "di pemandian air panas dan tantangan!$"
+
+MatchCall_Text_Flannery4::
+	.string "FLANNERY: {PLAYER}…\n"
+	.string "Aku yakin kamu terus menjadi\l"
+	.string "lebih baik dalam berlatih setiap saat.$"
+
+MatchCall_Text_Winona1::
+	.string "WINONA: Halo, {PLAYER}!\p"
+	.string "Berkat pertarungan kita, aku jadi\n"
+	.string "mengerti kelemahanku!\p"
+	.string "Ketika aku membuka kembali GYM, aku tidak akan\n"
+	.string "kalah lagi!$"
+
+MatchCall_Text_Winona2::
+	.string "WINONA: Kamu berhasil, {PLAYER}!\p"
+	.string "Berita tentang JUARA baru\n"
+	.string "telah sampai kepada kami di FORTREE!\p"
+	.string "Tapi… Lain kali kita bertarung,\n"
+	.string "itu tidak akan berakhir dengan cara yang sama.$"
+
+MatchCall_Text_Winona3::
+	.string "WINONA: Apakah ini {PLAYER}?\n"
+	.string "GYM kami sudah beroperasi kembali!\p"
+	.string "Kami menunggumu di FORTREE!$"
+
+MatchCall_Text_Winona4::
+	.string "WINONA: {PLAYER}…\n"
+	.string "Meskipun aku kalah, sayapku tidak akan\l"
+	.string "pernah patah.\p"
+	.string "Ya, persis seperti kamu yang tidak pernah\n"
+	.string "kehilangan pandangan akan impianmu.$"
+
+MatchCall_Text_TateLiza1::
+	.string "TATE: Oh! Kamu…\n"
+	.string "LIZA: {PLAYER}!\p"
+	.string "TATE: Kami berlatih lagi…\n"
+	.string "LIZA: Agar kami bisa membuka kembali GYM kami!\p"
+	.string "TATE: Ketika GYM kami siap…\n"
+	.string "LIZA: Ketika GYM kami siap…\p"
+	.string "TATE: Tanda akan muncul di samping nama kami…\n"
+	.string "LIZA: Di daftar MATCH CALL.$"
+
+MatchCall_Text_TateLiza2::
+	.string "TATE: {PLAYER}, selamat!\n"
+	.string "LIZA: {PLAYER}, selamat!\p"
+	.string "TATE: Kami berdua…\n"
+	.string "LIZA: Masih berlatih!\p"
+	.string "TATE: Kami butuh waktu lagi, tapi…\n"
+	.string "LIZA: Ketika GYM kami siap…\p"
+	.string "TATE: Tanda akan muncul di samping nama kami…\n"
+	.string "LIZA: Di daftar MATCH CALL.$"
+
+MatchCall_Text_TateLiza3::
+	.string "TATE: {PLAYER}!\n"
+	.string "LIZA: {PLAYER}!\p"
+	.string "TATE: GYM kami sudah siap!\n"
+	.string "LIZA: GYM kami sudah siap!\p"
+	.string "TATE: Silakan kunjungi…\n"
+	.string "LIZA: MOSSDEEP kapan saja!$"
+
+MatchCall_Text_TateLiza4::
+	.string "TATE: {PLAYER}, pertarungan kita…\n"
+	.string "LIZA: Adalah pengalaman yang tak ternilai.\p"
+	.string "TATE: Akan sangat menyenangkan jika…\n"
+	.string "LIZA: Kita semua bisa bertarung lagi!$"
+
+MatchCall_Text_Juan1::
+	.string "JUAN: Hmm…\n"
+	.string "{PLAYER}{KUN}… Begitukah?\p"
+	.string "Pertarungan kita--itu membawaku\n"
+	.string "kembali ke kenangan saat pertama kali\l"
+	.string "aku bertemu WALLACE.\p"
+	.string "Mungkin kamu adalah seorang jenius yang\n"
+	.string "bahkan bisa melampaui WALLACE!$"
+
+MatchCall_Text_Juan2::
+	.string "JUAN: Fufu… {PLAYER}{KUN}…\n"
+	.string "Kamu akhirnya mencapai tujuanmu.\p"
+	.string "Mataku dalam menilai bakat tidak\n"
+	.string "salah…\p"
+	.string "Aku berharap ada kesempatan lain untuk bertemu\n"
+	.string "denganmu, karena kamu telah mencapai puncak\l"
+	.string "kekuatan dan prestise.$"
+
+MatchCall_Text_Juan3::
+	.string "JUAN: Hoho… {PLAYER}{KUN}…\p"
+	.string "GYM SOOTOPOLIS kami akhirnya\n"
+	.string "dibuka kembali.\p"
+	.string "Jika kamu ingin menemuiku, kamu\n"
+	.string "dipersilakan berkunjung kapan saja.$"
+
+MatchCall_Text_Juan4::
+	.string "JUAN: {PLAYER}{KUN}…\p"
+	.string "Seperti musik terbaik, pertarungan\n"
+	.string "yang kita lakukan bersama membangkitkan nada\l"
+	.string "inspirasi di hatiku…\p"
+	.string "Ketika aku menutup mata, aku melihat bayangan\n"
+	.string "kamu melayang bersama melodi…$"
+
+MatchCall_Text_Sidney::
+	.string "SIDNEY: Yo, {PLAYER}!\p"
+	.string "Jika kamu ingin bertarung denganku\n"
+	.string "lagi, kembalilah kapan pun\l"
+	.string "kamu suka ke POKéMON LEAGUE.\p"
+	.string "Aku akan selalu di sini!\n"
+	.string "Aku akan menunggu!$"
+
+MatchCall_Text_Phoebe::
+	.string "PHOEBE: Hai, {PLAYER}!\p"
+	.string "Bagaimana kalau kembali ke sini lagi\n"
+	.string "suatu saat?\p"
+	.string "Aku ingin melihat seberapa erat\n"
+	.string "ikatanmu dengan POKéMON-mu.$"
+
+MatchCall_Text_Glacia::
+	.string "GLACIA: Halo, {PLAYER}.\p"
+	.string "Aku percaya kamu tidak menjadi\n"
+	.string "puas dengan kekuatanmu?\p"
+	.string "Jika kamu merasa perlu mendinginkan\n"
+	.string "emosi panasmu sedikit saja, datanglah\l"
+	.string "ke POKéMON LEAGUE…$"
+
+MatchCall_Text_Drake::
+	.string "DRAKE: Suara itu… {PLAYER}, benarkah?\n"
+	.string "Kamu terdengar baik-baik saja…\p"
+	.string "Aku mengerti bahwa sekarang ada\n"
+	.string "fasilitas bernama BATTLE\l"
+	.string "FRONTIER yang menguji kemampuan\l"
+	.string "TRAINER.\p"
+	.string "Namun, jika kamu ingin melakukan pertarungan\n"
+	.string "sungguhan, tidak ada pengganti untuk\l"
+	.string "POKéMON LEAGUE!\p"
+	.string "Setuju, {PLAYER}?$"
+
+MatchCall_Text_Wallace::
+	.string "WALLACE: Halo, {PLAYER}{KUN}.\n"
+	.string "Apakah kamu sudah bertemu STEVEN?\p"
+	.string "Dia adalah…\n"
+	.string "Sebenarnya sangat terampil.\p"
+	.string "Namun, dia adalah jiwa yang aneh yang\n"
+	.string "jarang bertarung.\p"
+	.string "Sebaliknya, dia lebih suka mencari\n"
+	.string "batu langka.\p"
+	.string "Aku yakin dia sedang menggali di gua atau\n"
+	.string "gunung terjal di suatu tempat.\p"
+	.string "Tapi apa sebenarnya batu langka itu?\n"
+	.string "Yang bisa kupikirkan hanyalah METEORITE…$"
+
+MatchCall_Text_MayRayquazaCall:
+	.string "… … … … … …\n"
+	.string "… … … … … Beep!\p"
+	.string "MAY: Hai, {PLAYER}{KUN}!\p"
+	.string "Aku baru saja di PACIFIDLOG\n"
+	.string "beberapa waktu yang lalu.\p"
+	.string "Aku melihat POKéMON hijau raksasa\n"
+	.string "terbang tinggi di langit.\p"
+	.string "Aku…\n"
+	.string "Aku belum pernah melihat yang seperti itu.\p"
+	.string "Aku ingin tahu apa itu.\n"
+	.string "Apakah ini mungkin penemuan besar?\p"
+	.string "… … … … … …\n"
+	.string "… … … … … Klik!$"
+
+MatchCall_Text_BrendanRayquazaCall:
+	.string "… … … … … …\n"
+	.string "… … … … … Beep!\p"
+	.string "BRENDAN: Hei, {PLAYER}!\n"
+	.string "Aku baru saja di PACIFIDLOG.\p"
+	.string "Aku melihat POKéMON hijau raksasa ini\n"
+	.string "terbang melintasi langit.\p"
+	.string "Aku belum pernah melihat yang\n"
+	.string "semenakjubkan itu sebelumnya.\p"
+	.string "Aku berharap kamu bisa melihatnya,\n"
+	.string "{PLAYER}.\p"
+	.string "… … … … … …\n"
+	.string "… … … … … Klik!$"
+
+MatchCall_Text_May1::
+	.string "MAY: Hai, {PLAYER}{KUN}!\p"
+	.string "MR. BRINEY pensiun sebagai PELAUT,\n"
+	.string "tapi aku masih melihatnya di laut\l"
+	.string "bersama PEEKO peliharaannya kadang-kadang.\p"
+	.string "Dia pasti masih mencintai laut.$"
+
+MatchCall_Text_May2::
+	.string "MAY: Hai, {PLAYER}{KUN}!\p"
+	.string "Kamu tahu kota-kota kecil seperti\n"
+	.string "PETALBURG dan DEWFORD punya GYM?\p"
+	.string "Entah kenapa, pelabuhan besar\n"
+	.string "SLATEPORT tidak punya GYM.\p"
+	.string "Ketika mereka akhirnya membangun GYM di sana,\n"
+	.string "aku harus melamar menjadi PEMIMPIN.$"
+
+MatchCall_Text_May3::
+	.string "MAY: Hai, {PLAYER}{KUN}!\p"
+	.string "Apakah kamu ingat seorang pria bernama\n"
+	.string "si PEMOTONG di RUSTBORO?\l"
+	.string "Dia punya rumah di sana, ingat?\p"
+	.string "Nah, aku menemukan adik laki-lakinya\n"
+	.string "tinggal di MAUVILLE.\p"
+	.string "Bisakah kamu menebak namanya?\p"
+	.string "… … … … … …\n"
+	.string "… … … … … …\p"
+	.string "Pria PEMUKUL BATU!$"
+
+MatchCall_Text_May4::
+	.string "MAY: {PLAYER}{KUN}?\p"
+	.string "TEROWONGAN RUSTURF…\n"
+	.string "Mereka menamainya begitu karena itu\l"
+	.string "menghubungkan RUSTBORO dan VERDANTURF.$"
+
+MatchCall_Text_May5::
+	.string "MAY: {PLAYER}{KUN}, apa kabarmu?\p"
+	.string "Aku sekarang di ROUTE 111.\p"
+	.string "Aku akan beristirahat di rumah seorang\n"
+	.string "wanita tua.\p"
+	.string "Dia tinggal di sebelah utara\n"
+	.string "gurun.$"
+
+MatchCall_Text_May6::
+	.string "MAY: Hai, {PLAYER}{KUN}!\p"
+	.string "Apakah kamu tahu tentang MENARA\n"
+	.string "MIRAGE di gurun?\p"
+	.string "Mereka bilang, seperti fatamorgana, itu\n"
+	.string "muncul dan menghilang secara misterius.\p"
+	.string "Aku berharap aku bisa melihatnya.$"
+
+MatchCall_Text_May7::
+	.string "MAY: {PLAYER}{KUN}, yahuu!\n"
+	.string "Aku sekarang di ROUTE 119.\p"
+	.string "Ada sungai besar di sini, dan\n"
+	.string "sering hujan.\p"
+	.string "Aku basah kuyup!$"
+
+MatchCall_Text_May8::
+	.string "MAY: {PLAYER}{KUN}, hai.\p"
+	.string "MT. PYRE adalah monumen untuk POKéMON\n"
+	.string "yang telah mengakhiri hidupnya.\p"
+	.string "Mungkin sebagai hasilnya, tempat ini\n"
+	.string "dipenuhi banyak POKéMON tipe HANTU!$"
+
+MatchCall_Text_May9::
+	.string "MAY: Hai, {PLAYER}{KUN}!\p"
+	.string "Aku sedang berpikir untuk pergi ke\n"
+	.string "pemandian air panas di LAVARIDGE.\p"
+	.string "Tapi di jalan, di sekitar JAGGED\n"
+	.string "PASS, aku bertemu beberapa karakter\l"
+	.string "yang tampak jahat. Suasananya tidak enak!$"
+
+MatchCall_Text_May10::
+	.string "MAY: Hai, {PLAYER}{KUN}!\n"
+	.string "Apakah kamu melihat beritanya?\p"
+	.string "Mereka bilang KAPT. STERN menemukan\n"
+	.string "GUA DASAR LAUT saat ekspedisi\l"
+	.string "kapal selamnya.$"
+
+MatchCall_Text_May11::
+	.string "MAY: Hai, {PLAYER}{KUN}!\n"
+	.string "Tidakkah menurutmu itu keren?\p"
+	.string "Meskipun kamu tidak punya perahu,\n"
+	.string "kamu bisa menyeberangi laut menggunakan\l"
+	.string "jurus POKéMON.\p"
+	.string "Tahukah kamu ada lagi?\p"
+	.string "Ada jurus POKéMON yang memungkinkanmu\n"
+	.string "pergi ke dasar laut.$"
+
+MatchCall_Text_May12::
+	.string "MAY: Hai, {PLAYER}{KUN}!\n"
+	.string "Semoga semuanya baik-baik saja!\p"
+	.string "Apakah kamu pernah di laut dan\n"
+	.string "menemukan jalanmu ke sisi lain\l"
+	.string "terhalang?\p"
+	.string "Coba menyelam jauh di bawah air dan\n"
+	.string "ikuti parit-parit.\p"
+	.string "Ketika kamu sampai di sisi lain,\n"
+	.string "naiklah ke permukaan. Mudah!$"
+
+MatchCall_Text_May13::
+	.string "MAY: Hai, {PLAYER}{KUN}!\p"
+	.string "Bagaimana kabarmu?\n"
+	.string "Apakah kamu mengisi POKéDEX-mu?\p"
+	.string "Aku dengar rumor bahwa ada\n"
+	.string "POKéMON super-kuno di luar sana.\l"
+	.string "Dan ada tiga di antaranya!\p"
+	.string "Aku ingin sekali melihat salah satunya…$"
+
+MatchCall_Text_May14::
+	.string "MAY: {PLAYER}{KUN}!\n"
+	.string "Aku dengar rumornya!\p"
+	.string "Kamu mengalahkan PEMIMPIN\n"
+	.string "GYM SOOTOPOLIS?\p"
+	.string "Itu berarti kamu tidak jauh\n"
+	.string "lagi, kan?$"
+
+MatchCall_Text_May15::
+	.string "MAY: Tidak ada satu pun TRAINER\n"
+	.string "yang tersisa di HOENN yang tidak tahu siapa\l"
+	.string "dirimu, {PLAYER}{KUN}!\p"
+	.string "Ketika aku memberi tahu orang-orang bahwa aku berteman\n"
+	.string "denganmu, {PLAYER}{KUN}, mereka semua\l"
+	.string "terkejut!$"
+
+MatchCall_Text_Brendan1::
+	.string "BRENDAN: Hei, {PLAYER}!\p"
+	.string "MR. BRINEY pensiun sebagai PELAUT,\n"
+	.string "tapi aku masih melihatnya di laut\l"
+	.string "bersama PEEKO peliharaannya kadang-kadang.\p"
+	.string "Aku rasa dia masih mencintai\n"
+	.string "laut.$"
+
+MatchCall_Text_Brendan2::
+	.string "BRENDAN: Hei, {PLAYER}!\p"
+	.string "Aku tidak mengerti bagaimana kota-kota kecil seperti\n"
+	.string "PETALBURG dan DEWFORD memiliki GYM.\p"
+	.string "Maksudku, tidak ketika pelabuhan besar\n"
+	.string "SLATEPORT tidak memiliki GYM.\p"
+	.string "Ketika mereka akhirnya membangun GYM di sana,\n"
+	.string "aku harus melamar menjadi PEMIMPIN.$"
+
+MatchCall_Text_Brendan3::
+	.string "BRENDAN: Yo, {PLAYER}!\p"
+	.string "Apakah kamu ingat seorang pria bernama\n"
+	.string "si PEMOTONG di RUSTBORO?\l"
+	.string "Dia punya rumah di sana, kan?\p"
+	.string "Nah, ternyata adik laki-lakinya\n"
+	.string "tinggal di MAUVILLE.\p"
+	.string "Bisakah kamu menebak namanya?\p"
+	.string "… … … … … …\n"
+	.string "… … … … … …\p"
+	.string "Pria PENGHANCUR BATU!$"
+
+MatchCall_Text_Brendan4::
+	.string "BRENDAN: Suara ini… {PLAYER}?\p"
+	.string "Mereka memberi nama TEROWONGAN RUSTURF\n"
+	.string "karena menghubungkan RUSTBORO dan\l"
+	.string "VERDANTURF.\p"
+	.string "Apakah kamu tahu itu?$"
+
+MatchCall_Text_Brendan5::
+	.string "BRENDAN: {PLAYER}, ada apa?\p"
+	.string "Hei, aku sekarang di ROUTE 111.\p"
+	.string "Aku akan beristirahat di rumah\n"
+	.string "seorang wanita tua di utara gurun.\p"
+	.string "Jika kamu ada di daerah itu, kamu juga\n"
+	.string "harus mengunjunginya.$"
+
+MatchCall_Text_Brendan6::
+	.string "BRENDAN: Hei, {PLAYER}!\p"
+	.string "Apakah kamu tahu tentang MENARA\n"
+	.string "MIRAGE di gurun?\p"
+	.string "Mereka bilang, seperti fatamorgana, itu\n"
+	.string "hanya kadang-kadang bisa terlihat.\p"
+	.string "Aku ingin melihatnya!$"
+
+MatchCall_Text_Brendan7::
+	.string "BRENDAN: Siapa ini? Oh, {PLAYER}?\n"
+	.string "Coba tebak? Aku sekarang di ROUTE 119.\p"
+	.string "Ada sungai besar di sini, dan\n"
+	.string "selalu hujan.\p"
+	.string "Aku basah kuyup!$"
+
+MatchCall_Text_Brendan8::
+	.string "BRENDAN: {PLAYER}!\p"
+	.string "MT. PYRE adalah monumen untuk POKéMON\n"
+	.string "yang telah mengakhiri hidupnya.\p"
+	.string "Itu mungkin sebabnya tempat itu\n"
+	.string "dipenuhi banyak POKéMON tipe HANTU!$"
+
+MatchCall_Text_Brendan9::
+	.string "BRENDAN: Hai, {PLAYER}.\p"
+	.string "Aku sedang dalam perjalanan kembali ke\n"
+	.string "pemandian air panas di LAVARIDGE.\p"
+	.string "Tapi di sekitar JAGGED PASS, aku bertemu\n"
+	.string "beberapa karakter yang tampak jahat.\p"
+	.string "Para penjahat itu…\n"
+	.string "Aku pikir mereka adalah TEAM MAGMA.$"
+
+MatchCall_Text_Brendan10::
+	.string "BRENDAN: Hai, {PLAYER}!\n"
+	.string "Apakah kamu mendengar beritanya?\p"
+	.string "Mereka bilang KAPT. STERN menemukan\n"
+	.string "GUA DASAR LAUT saat ekspedisi\l"
+	.string "kapal selamnya.$"
+
+MatchCall_Text_Brendan11::
+	.string "BRENDAN: Hai, {PLAYER}!\n"
+	.string "Tidakkah menurutmu itu luar biasa?\p"
+	.string "Meskipun kamu tidak punya perahu,\n"
+	.string "kamu bisa menyeberangi laut menggunakan\l"
+	.string "jurus POKéMON.\p"
+	.string "Dan, ada jurus yang memungkinkanmu\n"
+	.string "bepergian ke dasar laut.\p"
+	.string "Man, POKéMON bisa melakukan apa saja!$"
+
+MatchCall_Text_Brendan12::
+	.string "BRENDAN: Hai, {PLAYER}!\n"
+	.string "Bagaimana kabarmu?\p"
+	.string "Pernahkah kamu menemukan jalanmu ke sisi\n"
+	.string "lain terhalang saat di laut?\p"
+	.string "Coba menyelam jauh di bawah air dan\n"
+	.string "ikuti parit-parit di dasar.\p"
+	.string "Ketika kamu sampai di sisi lain,\n"
+	.string "naiklah ke permukaan. Mudah!$"
+
+MatchCall_Text_Brendan13::
+	.string "BRENDAN: Hai, {PLAYER}!\p"
+	.string "Bagaimana kabarmu? Mengisi\n"
+	.string "POKéDEX-mu dengan sukses?\p"
+	.string "Aku dengar rumor bahwa ada\n"
+	.string "POKéMON super-kuno di luar sana.\l"
+	.string "Dan bukan hanya satu--tiga!\p"
+	.string "Aku ingin sekali menangkap salah satunya…$"
+
+MatchCall_Text_Brendan14::
+	.string "BRENDAN: {PLAYER}!\n"
+	.string "Aku dengar rumornya!\p"
+	.string "Kamu mengalahkan PEMIMPIN\n"
+	.string "GYM SOOTOPOLIS? Hebat!\p"
+	.string "Kamu sudah sangat dekat sekarang!$"
+
+MatchCall_Text_Brendan15::
+	.string "BRENDAN: Tidak ada TRAINER di\n"
+	.string "seluruh HOENN yang tidak tahu siapa\l"
+	.string "dirimu, {PLAYER}!\p"
+	.string "Ketika aku memberi tahu orang-orang bahwa aku berteman\n"
+	.string "denganmu, {PLAYER}, mereka menjadi cukup\l"
+	.string "iri!$"
+
+MatchCall_Text_Wally1::
+	.string "WALLY: Oh, {PLAYER}!\p"
+	.string "Aku menjadi lebih sehat dan\n"
+	.string "lebih bugar secara fisik.\p"
+	.string "Aku harap aku bisa menjadi TRAINER sepertimu\n"
+	.string "segera, {PLAYER}!$"
+
+MatchCall_Text_Wally2::
+	.string "WALLY: {PLAYER}, halo!\p"
+	.string "Setelah TEROWONGAN RUSTURF\n"
+	.string "selesai, WANDA sangat senang!$"
+
+MatchCall_Text_Wally3::
+	.string "WALLY: Oh, {PLAYER}!\p"
+	.string "Aku… Aku meninggalkan tempat pamanku di\n"
+	.string "VERDANTURF tanpa memberi tahu siapa pun.\p"
+	.string "Aku ingin tahu apakah dia marah padaku…\p"
+	.string "{PLAYER}, kamu mengerti perasaanku,\n"
+	.string "kan?$"
+
+MatchCall_Text_Wally4::
+	.string "WALLY: {PLAYER}?\n"
+	.string "Ini aku, WALLY!\p"
+	.string "Dunia TRAINER itu menakjubkan!\p"
+	.string "Ketika aku bersama POKéMON-ku,\n"
+	.string "berbagai macam orang menyapa!\p"
+	.string "Seolah-olah semua orang terhubung\n"
+	.string "melalui POKéMON!$"
+
+MatchCall_Text_Wally5::
+	.string "WALLY: {PLAYER}? Luar biasa!\n"
+	.string "RALTS yang kita tangkap bersama?\l"
+	.string "Itu berevolusi, {PLAYER}!\p"
+	.string "Mungkin aku berbakat…\p"
+	.string "Oh, tapi aku tidak boleh sombong\n"
+	.string "seperti itu!\p"
+	.string "Bagaimanapun, POKéMON-lah yang\n"
+	.string "harus dipuji!$"
+
+MatchCall_Text_Wally6::
+	.string "… … … … … …\n"
+	.string "… … … … … …\p"
+	.string "WALLY tampaknya berada di luar\n"
+	.string "jangkamuan layanan POKéNAV…$"
+
+MatchCall_Text_Wally7::
+	.string "WALLY: Oh, {PLAYER}!\p"
+	.string "Sebelum aku bertemu denganmu, aku hampir tidak pernah\n"
+	.string "keluar rumah…\p"
+	.string "Tapi sekarang, aku sedang berpetualang dengan\n"
+	.string "POKéMON-ku sendiri…\p"
+	.string "{PLAYER}…\n"
+	.string "Terima kasih…$"
+
+MatchCall_Text_Scott1::
+	.string "SCOTT: Halo, {PLAYER}{KUN}!\p"
+	.string "Kamu tahu bagaimana POKéMON bisa ditemukan\n"
+	.string "di mana-mana?\p"
+	.string "Seperti di gunung, di laut,\n"
+	.string "di rerumputan tinggi di mana saja?\p"
+	.string "Sama seperti POKéMON, kamu juga bisa menemukan\n"
+	.string "TRAINER di mana-mana.\p"
+	.string "Akibatnya, aku juga harus bergegas\n"
+	.string "ke mana-mana. Sibuk sekali!$"
+
+MatchCall_Text_Scott2::
+	.string "SCOTT: Aku sekarang di ROUTE 119.\n"
+	.string "Penuh dengan TRAINER!\p"
+	.string "Juga ditumbuhi rerumputan tinggi\n"
+	.string "di mana-mana, sepertinya.\p"
+	.string "Berjalan-jalan dengan celana pendek di sini\n"
+	.string "membuatku geli!$"
+
+MatchCall_Text_Scott3::
+	.string "SCOTT: Hai, hai, {PLAYER}{KUN}!\p"
+	.string "Apakah kamu sudah sempat mendaki\n"
+	.string "MT. PYRE?\p"
+	.string "Tempat itu adalah monumen untuk POKéMON\n"
+	.string "yang telah meninggal dunia.\p"
+	.string "Itu adalah tempat yang setiap TRAINER\n"
+	.string "harus daki sampai puncak sekali seumur hidup.$"
+
+MatchCall_Text_Scott4::
+	.string "SCOTT: Hai, {PLAYER}{KUN}!\p"
+	.string "Aku sudah mendengar tentang geng-geng aneh\n"
+	.string "ini yang mengganggu.\p"
+	.string "TEAM MAGMA dan TEAM AQUA,\n"
+	.string "kurasa begitu.\p"
+	.string "Aku pikir akan ada beberapa\n"
+	.string "TRAINER terampil di antara mereka.\p"
+	.string "…Tapi jika mereka penjahat…$"
+
+MatchCall_Text_Scott5::
+	.string "SCOTT: Oh, hai, {PLAYER}{KUN}.\p"
+	.string "Mungkin ada TRAINER tangguh\n"
+	.string "di dasar laut?\p"
+	.string "Aku tidak bisa memeriksanya sendiri.\n"
+	.string "Aku tidak bisa berenang, salah satunya.\l"
+	.string "Dan aku tidak membesarkan POKéMON…$"
+
+MatchCall_Text_Scott6::
+	.string "SCOTT: Hai, hai, {PLAYER}{KUN}!\p"
+	.string "Kamu tahu bahwa kamu bisa menantang\n"
+	.string "POKéMON LEAGUE ketika kamu sudah\l"
+	.string "mengumpulkan semua LENCANA GYM?\p"
+	.string "Dengan bakatmu, menjadi\n"
+	.string "JUARA bukanlah mimpi belaka.\p"
+	.string "Tapi tahukah kamu?\n"
+	.string "Ada tempat yang lebih baik lagi.\p"
+	.string "Tapi, hanya itu yang ingin aku katakan\n"
+	.string "untuk saat ini.\p"
+	.string "Ini adalah sesuatu yang bisa kamu\n"
+	.string "nantikan.\p"
+	.string "Ketika kamu berhasil melewati\n"
+	.string "POKéMON LEAGUE ke dalam HALL\l"
+	.string "OF FAME!$"
+
+MatchCall_Text_Scott7::
+	.string "… … … … … …\n"
+	.string "… … … … … …\p"
+	.string "SCOTT tampaknya berada di luar\n"
+	.string "jangkamuan layanan POKéNAV…$"
+
+MatchCall_Text_Norman1::
+	.string "AYAH: Di RUSTBORO, ada seorang pria\n"
+	.string "yang dikenal dengan nama aneh\l"
+	.string "si PEMOTONG.\p"
+	.string "Jika kamu ada di daerah itu, kamu harus\n"
+	.string "mengunjunginya.$"
+
+MatchCall_Text_Norman2::
+	.string "AYAH: Hm… Sedikit demi sedikit, tapi juga\n"
+	.string "sangat pasti, kamu semakin\l"
+	.string "kuat, {PLAYER}.\p"
+	.string "Semakin kuat kamu, semakin jauh\n"
+	.string "dan tinggi kamu terbang dari Ibu\l"
+	.string "dan aku…\p"
+	.string "Perasaan ini sulit dijelaskan.$"
+
+MatchCall_Text_Norman3::
+	.string "AYAH: Aku mengerti…\n"
+	.string "Kamu sudah mengumpulkan empat LENCANA GYM…\p"
+	.string "Tidak ada jalan lain sekarang.\n"
+	.string "Kita akan bertarung seperti yang kujanjikan.\p"
+	.string "Datanglah kapan saja.\n"
+	.string "Kami semua akan menunggumu!$"
+
+MatchCall_Text_Norman4::
+	.string "AYAH: {PLAYER}! Sebaiknya kamu mengunjungi\n"
+	.string "Ibu sesekali.\p"
+	.string "Aku akan tetap di sini dan\n"
+	.string "melatih kembali diriku.\p"
+	.string "Jalan pertarungan itu dalam\n"
+	.string "dan tak kenal ampun!$"
+
+MatchCall_Text_Norman5::
+	.string "AYAH: Oh, hai, {PLAYER}!\p"
+	.string "Apa itu? LAMBANG MAGMA?\n"
+	.string "Aku tidak tahu apa itu.\p"
+	.string "Tapi dengan nama seperti itu, mungkin\n"
+	.string "entah bagaimana terhubung dengan gunung berapi!$"
+
+MatchCall_Text_Norman6::
+	.string "AYAH: Hiyah! Haah! Dwah!\p"
+	.string "…Oh? {PLAYER}!\p"
+	.string "Kamu menangkapku tepat di tengah\n"
+	.string "sesi pelatihan POKéMON!$"
+
+MatchCall_Text_Norman7::
+	.string "AYAH: {PLAYER}!\p"
+	.string "Siapa sangka kamu akan menjadi\n"
+	.string "JUARA POKéMON LEAGUE…\p"
+	.string "Oke!\n"
+	.string "Aku tidak akan ketinggalan!$"
+
+MatchCall_Text_Norman8::
+	.string "AYAH: Hm? {PLAYER}?\n"
+	.string "Waktu yang tepat!\p"
+	.string "Kali ini, aku akan menantangmu\n"
+	.string "untuk bertarung.\p"
+	.string "Aku menunggu di GYM PETALBURG.\n"
+	.string "Terima tantanganku kapan saja!$"
+
+MatchCall_Text_Norman9::
+	.string "AYAH: …Kamu membuatku takjub, {PLAYER}.\n"
+	.string "Seberapa tinggi lagi kamu akan terbang?$"
+
+MatchCall_Text_Steven1::
+	.string "STEVEN: Hai, {PLAYER}{KUN}!\p"
+	.string "Apakah kamu sudah pernah ke MAUVILLE\n"
+	.string "sebelumnya?\p"
+	.string "Kamu harus mengunjungi TOKO SEPEDA\n"
+	.string "dan mendapatkan SEPEDA MACH.\p"
+	.string "Kemudian, coba jelajahi GUA\n"
+	.string "GRANIT secara menyeluruh.\p"
+	.string "Kamu mungkin akan menemukan penemuan baru\n"
+	.string "di sana.$"
+
+MatchCall_Text_Steven2::
+	.string "STEVEN: Hai, {PLAYER}{KUN}!\p"
+	.string "Aku sudah bertemu banyak\n"
+	.string "TRAINER yang berbeda sejauh ini.\p"
+	.string "Tapi kamu unik.\n"
+	.string "Kamu tidak seperti orang lain.$"
+
+MatchCall_Text_Steven3::
+	.string "STEVEN: Hai, {PLAYER}{KUN}!\p"
+	.string "Ketika kamu berpetualang dengan\n"
+	.string "POKéMON-mu, apa yang kamu pikirkan?\p"
+	.string "Apakah kamu menganggap mereka sebagai\n"
+	.string "mitra yang kuat?\p"
+	.string "Apakah kamu menganggap mereka sebagai\n"
+	.string "teman yang menyenangkan?\p"
+	.string "Tergantung bagaimana kamu berpikir, makna\n"
+	.string "petualanganmu akan berubah.$"
+
+MatchCall_Text_Steven4::
+	.string "STEVEN: Halo?\n"
+	.string "{PLAYER}{KUN}?\p"
+	.string "Aku terlibat sedikit masalah\n"
+	.string "di SPACE CENTER.\p"
+	.string "Maaf, tapi aku tidak bisa bicara sekarang.\n"
+	.string "Dadah!$"
+
+MatchCall_Text_Steven5::
+	.string "STEVEN: Oh!\n"
+	.string "{PLAYER}{KUN}!\p"
+	.string "Tidak perlu bicara.\n"
+	.string "Sudah lewat waktu untuk bicara.\p"
+	.string "Kamu harus percaya pada dirimu sendiri\n"
+	.string "dan lakukan yang benar.$"
+
+MatchCall_Text_Steven6::
+	.string "… … … … … …\p"
+	.string "STEVEN tampaknya tidak menerima\n"
+	.string "panggilan…$"
+
+MatchCall_Text_Steven7::
+	.string "STEVEN: {PLAYER}{KUN}… Selamat\n"
+	.string "telah masuk ke HALL OF FAME.\p"
+	.string "… … … … … …\n"
+	.string "… … … … … …\p"
+	.string "Aku harap kita bisa bertemu lagi\n"
+	.string "di suatu tempat!$"
+
+MatchCall_Text_BirchRegisterCall:
+	.string "PROF. BIRCH: Oh, {PLAYER}{KUN}!\n"
+	.string "Aku sudah mendengar tentangmu!\p"
+	.string "Sepertinya POKéNAV-mu sudah\n"
+	.string "di-upgrade dengan MATCH CALL.\p"
+	.string "Baiklah, aku juga harus mendaftar!\p"
+	.string "Dengan begitu, aku bisa memeriksa\n"
+	.string "POKéDEX-mu bahkan saat kamu\l"
+	.string "berada di lapangan.\p"
+	.string "… … … … … …$"
+
+MatchCall_Text_RegisteredBirch:
+	.string "PROF. BIRCH terdaftar\n"
+	.string "di POKéNAV.$"
+
+MatchCall_Text_UnusedProfBirch:
+	.string "PROF. BIRCH: Ketika seseorang memiliki\n"
+	.string "POKéDEX dan POKéNAV, mempelajari\l"
+	.string "POKéMON menjadi lebih menyenangkan, ya?$"
+
+MatchCall_Text_MrStone1::
+	.string "MR. STONE: Oh? {PLAYER}{KUN}!\p"
+	.string "Karena kamu meneleponku, POKéNAV\n"
+	.string "pasti berfungsi dengan benar!\p"
+	.string "Orang lain akan terdaftar,\n"
+	.string "jadi coba telepon mereka juga!\p"
+	.string "Bagus! Bagus!\n"
+	.string "Kamu terlihat sangat senang!\p"
+	.string "Hm…\n"
+	.string "Bagaimana aku bisa tahu itu?\p"
+	.string "Itu karena aku melihatmu dari\n"
+	.string "jendela kantorku!\p"
+	.string "Wahahaha!\n"
+	.string "Sampai jumpa lagi!$"
+
+MatchCall_Text_MrStone2::
+	.string "MR. STONE: Oh? {PLAYER}{KUN}!\p"
+	.string "Ada apa? Apakah kamu lupa\n"
+	.string "tentang tugas kecilku itu?\p"
+	.string "Aku ingin kamu mengantarkan suratku\n"
+	.string "kepada STEVEN di DEWFORD.\p"
+	.string "Setelah itu, antarkan paket kami kepada\n"
+	.string "KAPT. STERN di SLATEPORT.\p"
+	.string "Kamu ingat, kan?\p"
+	.string "Nah, karena aku seorang PRESIDEN yang sibuk,\n"
+	.string "aku harus pergi! Dadah!$"
+
+MatchCall_Text_MrStone3::
+	.string "MR. STONE: Oh! {PLAYER}{KUN}!\p"
+	.string "Ah, jadi kamu sudah bertemu STEVEN!\n"
+	.string "Kalau begitu, aku harus memberimu hadiah!\p"
+	.string "Ketika kamu mengunjungi RUSTBORO lagi,\n"
+	.string "datanglah menemuiku di kantorku.\p"
+	.string "Aku akan menunggumu!$"
+
+MatchCall_Text_MrStone4::
+	.string "MR. STONE: Oh! {PLAYER}{KUN}!\p"
+	.string "Tahukah kamu bahwa DEVON sedang\n"
+	.string "menggali TEROWONGAN RUSTURF?\p"
+	.string "Tapi kami menghentikan operasi itu untuk\n"
+	.string "melindungi POKéMON di area tersebut.\p"
+	.string "Itu adalah hal yang mudah, sungguh.\p"
+	.string "Lebih penting membiarkan POKéMON\n"
+	.string "hidup damai daripada mengkhawatirkan\l"
+	.string "kenyamanan kita sendiri.$"
+
+MatchCall_Text_MrStone5::
+	.string "MR. STONE: Halo, halo, {PLAYER}{KUN}!\p"
+	.string "Aku dengar dari seseorang di PETALBURG\n"
+	.string "bahwa kamu adalah anak NORMAN!\p"
+	.string "Tidak heran kamu begitu\n"
+	.string "cakap!$"
+
+MatchCall_Text_MrStone6::
+	.string "MR. STONE: Apa itu?\p"
+	.string "Kamu bertarung dengan ayahmu sendiri dan\n"
+	.string "mengalahkannya?\p"
+	.string "Itu menakjubkan!\p"
+	.string "Aku tidak tahu bahwa aku berteman\n"
+	.string "dengan seseorang yang begitu istimewa! Wahaha!$"
+
+MatchCall_Text_MrStone7::
+	.string "Halo!\n"
+	.string "Ini DEVON CORPORATI…\l"
+	.string "Oh, halo, {PLAYER}!\p"
+	.string "PRESIDEN kami ada di sini\n"
+	.string "beberapa waktu lalu, tapi dia sudah pergi.\p"
+	.string "PRESIDEN kami sibuk, tapi kamu\n"
+	.string "tampaknya sama sibuknya, {PLAYER}.$"
+
+MatchCall_Text_MrStone8::
+	.string "…Hah? …Apa itu?\p"
+	.string "GROU… Ya? …DON?\p"
+	.string "Suaramu putus-putus…\n"
+	.string "…tidak bisa mendengar…\p"
+	.string "BZZZZ…$"
+
+MatchCall_Text_MrStone9::
+	.string "…Hah? …Apa itu?\p"
+	.string "Dasar Laut… Ya? …Gua…?\p"
+	.string "Suaramu putus-putus…\n"
+	.string "…tidak bisa mendengar…\p"
+	.string "BZZZZ…$"
+
+MatchCall_Text_MrStone10::
+	.string "MR. STONE: {PLAYER}{KUN}! Ini aku!\p"
+	.string "Kamu tampaknya terlibat dalam segala\n"
+	.string "macam hal, tapi aku, karena sibuk,\l"
+	.string "tidak tahu persis apa itu!\p"
+	.string "Namun, aku mendesakmu untuk mengambil\n"
+	.string "jalan yang kamu yakini dan ikuti.\p"
+	.string "Aku akan selalu mendukungmu!\n"
+	.string "Hati-hati!$"
+
+MatchCall_Text_MrStone11::
+	.string "MR. STONE: … … … … … …\n"
+	.string "Apakah ini mungkin {PLAYER}{KUN}?\p"
+	.string "Suaramu begitu penuh percaya diri,\n"
+	.string "aku tidak langsung mengenalimu!\p"
+	.string "Hm! Kamu harus datang mengunjungi kami di DEVON\n"
+	.string "suatu saat!$"

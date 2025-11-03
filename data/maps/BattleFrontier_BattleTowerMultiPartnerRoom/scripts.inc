@@ -277,1530 +277,1528 @@ BattleFrontier_BattleTowerMultiPartnerRoom_EventScript_Partner8::
 	end
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PleaseFindPartner:
-	.string "Please find a partner from out of\n"
-	.string "the TRAINERS gathered here.$"
+	.string "Silakan cari partner dari para\n"
+	.string "TRAINER yang berkumpul di sini.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_QuitLookingForPartner:
-	.string "{PLAYER}, you have not found a partner\n"
-	.string "for your tag team.\p"
-	.string "Would you like to quit looking and\n"
-	.string "return to the reception counter?$"
+	.string "{PLAYER}, kamu belum menemukan partner\n"
+	.string "untuk tag team-mu.\p"
+	.string "Apa kamu mau berhenti mencari dan\n"
+	.string "kembali ke konter resepsionis?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PleaseFindPartner2:
-	.string "Then, please find a partner from\n"
-	.string "the TRAINERS gathered here.$"
+	.string "Kalau begitu, silakan cari partner dari\n"
+	.string "para TRAINER yang berkumpul di sini.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ThankYouForChoosingPartner::
-	.string "Thank you for choosing a partner.\p"
-	.string "I will now show you to your\n"
-	.string "MULTI BATTLE ROOM.$"
+	.string "Terima kasih telah memilih partner.\p"
+	.string "Aku akan mengantarmu ke\n"
+	.string "RUANG MULTI BATTLE sekarang.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Intro::
-	.string "I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice.\n"
-	.string "You can call me {STR_VAR_3}!$"
+	.string "Aku murid no. {STR_VAR_2} dari {STR_VAR_1}.\n"
+	.string "Panggil saja aku {STR_VAR_3}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Mon1::
-	.string "On {STR_VAR_1}'s advice, I brought\n"
-	.string "one {STR_VAR_3} with {STR_VAR_2} and$"
+	.string "Atas saran {STR_VAR_1}, aku membawa\n"
+	.string "satu {STR_VAR_3} dengan {STR_VAR_2} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Mon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}.\p"
-	.string "Please, let me join you as a tag team.$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "Tolong, ayo kita bentuk tag team.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Accept::
-	.string "Thank you!\n"
-	.string "I'll go register right now.$"
+	.string "Terima kasih!\n"
+	.string "Aku akan segera mendaftar.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Reject::
-	.string "I really wanted to form a tag team\n"
-	.string "with you, {PLAYER}…$"
+	.string "Padahal aku sangat ingin membentuk\n"
+	.string "tag team denganmu, {PLAYER}…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Intro::
-	.string "I am {STR_VAR_1}'s no. {STR_VAR_2} apprentice.\n"
-	.string "My name is {STR_VAR_3}.$"
+	.string "Aku murid no. {STR_VAR_2} dari {STR_VAR_1}.\n"
+	.string "Namaku {STR_VAR_3}.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Mon1::
-	.string "I got advice from {STR_VAR_1} and chose\n"
-	.string "one {STR_VAR_3} with {STR_VAR_2} and$"
+	.string "Aku mendapat saran dari {STR_VAR_1} dan memilih\n"
+	.string "satu {STR_VAR_3} dengan {STR_VAR_2} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Mon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}.\p"
-	.string "Please, let's form a tag team!$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "Tolong, ayo kita bentuk tag team!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Accept::
-	.string "Thank you very much!\n"
-	.string "I'll be done with registration quickly!$"
+	.string "Terima kasih banyak!\n"
+	.string "Aku akan cepat selesaikan pendaftarannya!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Reject::
-	.string "{PLAYER}, I was hoping that I could\n"
-	.string "partner up with you…$"
+	.string "{PLAYER}, padahal aku berharap bisa\n"
+	.string "menjadi partner-mu…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice1Intro::
-	.string "Um, my name's {STR_VAR_3}, and I'm\n"
-	.string "{STR_VAR_1}'s no. {STR_VAR_2} apprentice.\p"
-	.string "Snivel…\p"
-	.string "I'm sorry!\n"
-	.string "This tension is making me cry…$"
+	.string "Um, namaku {STR_VAR_3}, dan aku\n"
+	.string "murid no. {STR_VAR_2} dari {STR_VAR_1}.\p"
+	.string "Hiks…\p"
+	.string "Maaf!\n"
+	.string "Aku jadi menangis karena tegang…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice1Mon1::
-	.string "{STR_VAR_3} advised me, so I have\n"
-	.string "one {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "{STR_VAR_3} menasihatiku, jadi aku punya\n"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice1Mon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}.\p"
-	.string "Snivel…\n"
-	.string "Please, please team up with me!$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "Hiks…\n"
+	.string "Tolong, tolong, ayo jadi partner-ku!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice1Accept::
-	.string "Oh, really? You will?\n"
-	.string "Awesome! Wicked! Awoooh!\p"
-	.string "Oh… I'm sorry…\n"
-	.string "I'm so happy, I'm crying…\p"
-	.string "I'll go register right away.\n"
-	.string "Please don't go away!$"
+	.string "Oh, benarkah? Kamu mau?\n"
+	.string "Luar biasa! Asyik! Awoooh!\p"
+	.string "Oh… maaf…\n"
+	.string "Aku menangis karena terlalu senang…\p"
+	.string "Aku akan segera mendaftar.\n"
+	.string "Tolong jangan pergi, ya!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice1Reject::
-	.string "Oh, b-but…\n"
-	.string "Sob… Waaaaah!$"
+	.string "Oh, t-tapi…\n"
+	.string "Hiks… Waaaaah!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice2Intro::
-	.string "Hi, there! I'm {STR_VAR_3}!\n"
-	.string "I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice!$"
+	.string "Halo! Aku {STR_VAR_3}!\n"
+	.string "Murid no. {STR_VAR_2} dari {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice2Mon1::
-	.string "{STR_VAR_3} recommended my crew.\n"
-	.string "One {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "{STR_VAR_3} merekomendasikan tim-ku.\n"
+	.string "Satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice2Mon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1},\n"
-	.string "that's what I have! Cool, huh?\p"
-	.string "So come on!\n"
-	.string "Let's form a tag team!$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1},\n"
+	.string "itu yang aku punya! Keren, kan?\p"
+	.string "Jadi, ayolah!\n"
+	.string "Ayo kita bentuk tag team!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice2Accept::
-	.string "Yay! Great!\n"
-	.string "Okay, I'll go register, okay?$"
+	.string "Yay! Hebat!\n"
+	.string "Oke, aku daftar dulu ya?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice2Reject::
-	.string "Aww, why?\n"
-	.string "I wanted to team up, {PLAYER}!$"
+	.string "Aww, kenapa?\n"
+	.string "Aku ingin jadi partner-mu, {PLAYER}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice3Intro::
-	.string "I'm {STR_VAR_3}, the no. {STR_VAR_2} apprentice\n"
-	.string "of the famous {STR_VAR_1}!$"
+	.string "Aku {STR_VAR_3}, murid no. {STR_VAR_2}\n"
+	.string "dari {STR_VAR_1} yang terkenal itu!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice3Mon1::
-	.string "I looked to {STR_VAR_3} for advice.\n"
-	.string "One {STR_VAR_1}-using {STR_VAR_2}$"
+	.string "Aku meminta saran pada {STR_VAR_3}.\n"
+	.string "Satu {STR_VAR_2} yang memakai {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice3Mon2Ask::
-	.string "and one {STR_VAR_2} with {STR_VAR_1},\n"
-	.string "that's my pair.\p"
-	.string "Please, will you join me in\n"
-	.string "a tag team?$"
+	.string "dan satu {STR_VAR_2} dengan {STR_VAR_1},\n"
+	.string "itulah pasanganku.\p"
+	.string "Tolong, maukah kamu bergabung\n"
+	.string "denganku dalam tag team?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice3Accept::
-	.string "Thank you!\n"
-	.string "I'll register right away!$"
+	.string "Terima kasih!\n"
+	.string "Aku akan segera mendaftar!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice3Reject::
-	.string "{PLAYER}, I had been hoping to join\n"
-	.string "you in a tag team…$"
+	.string "{PLAYER}, padahal aku berharap bisa\n"
+	.string "bergabung denganmu dalam tag team…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice4Intro::
-	.string "Um… I'm sincerely happy that you\n"
-	.string "would take the time to talk to me.\p"
-	.string "I'm {STR_VAR_3}.\n"
-	.string "I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice…$"
+	.string "Um… Aku sangat senang kamu mau\n"
+	.string "meluangkan waktu untuk bicara denganku.\p"
+	.string "Aku {STR_VAR_3}.\n"
+	.string "Murid no. {STR_VAR_2} dari {STR_VAR_1}…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice4Mon1::
-	.string "{STR_VAR_3} gave me advice.\n"
-	.string "I'm very grateful for it.\p"
-	.string "I have a team of one {STR_VAR_2}\n"
-	.string "with {STR_VAR_1} and$"
+	.string "{STR_VAR_3} memberiku saran.\n"
+	.string "Aku sangat berterima kasih untuk itu.\p"
+	.string "Aku punya tim yang terdiri dari satu {STR_VAR_2}\n"
+	.string "dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice4Mon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}.\n"
-	.string "I know I'm asking a lot…\p"
-	.string "I don't think you'll be willing to,\n"
-	.string "but may I join you as a partner?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\n"
+	.string "Aku tahu aku banyak meminta…\p"
+	.string "Aku rasa kamu tidak akan bersedia,\n"
+	.string "tapi bolehkah aku menjadi partner-mu?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice4Accept::
-	.string "Really? I can't believe it!\n"
-	.string "I can't believe you'll let me join you!\l"
-	.string "I… I won't let you down!\p"
-	.string "Um… If it's really okay, I'll go register\n"
-	.string "right this instant!$"
+	.string "Benarkah? Aku tidak percaya!\n"
+	.string "Aku tidak percaya kamu mengizinkanku bergabung!\l"
+	.string "Aku… Aku tidak akan mengecewakanmu!\p"
+	.string "Um… Kalau memang boleh, aku akan mendaftar\n"
+	.string "sekarang juga!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice4Reject::
 	.string "Oh…\n"
-	.string "I didn't think I was good enough…$"
+	.string "Kukira aku memang tidak cukup baik…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice5Intro::
-	.string "Hi, I'm {STR_VAR_3}.\n"
-	.string "I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice!$"
+	.string "Hi, aku {STR_VAR_3}.\n"
+	.string "Aku murid no. {STR_VAR_2} dari {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice5Mon1::
-	.string "{STR_VAR_3} told me that it would be\n"
-	.string "good to make this team:\l"
-	.string "one {STR_VAR_1}-using {STR_VAR_2}$"
+	.string "{STR_VAR_3} bilang akan bagus\n"
+	.string "kalau membuat tim ini:\l"
+	.string "satu {STR_VAR_2} yang memakai {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice5Mon2Ask::
-	.string "and one {STR_VAR_2} that knows how\n"
-	.string "to use {STR_VAR_1}.\p"
-	.string "Not bad, huh?\n"
-	.string "Want me to team up with you?$"
+	.string "dan satu {STR_VAR_2} yang tahu cara\n"
+	.string "memakai {STR_VAR_1}.\p"
+	.string "Lumayan, kan?\n"
+	.string "Mau jadi partner-ku?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice5Accept::
-	.string "Okay, glad to join you!\n"
-	.string "I hope you won't mess things up for me!\l"
-	.string "I'll do my registration now.$"
+	.string "Oke, senang bergabung denganmu!\n"
+	.string "Kuharap kamu tidak mengacaukannya untukku!\l"
+	.string "Aku akan mendaftar sekarang.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice5Reject::
-	.string "Huh? Why did you turn me down?\n"
-	.string "You're no judge of character!$"
+	.string "Hah? Kenapa kamu menolakku?\n"
+	.string "Kamu tidak bisa menilai orang!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice6Intro::
-	.string "I'm {STR_VAR_3} and I'm a TRIATHLETE.\n"
-	.string "I'm busy every day what with jogging,\l"
-	.string "training, and rapping.\p"
-	.string "I also happen to be {STR_VAR_1}'s\n"
-	.string "no. {STR_VAR_2} apprentice.$"
+	.string "Aku {STR_VAR_3} dan aku seorang TRIATHLETE.\n"
+	.string "Aku sibuk setiap hari dengan jogging,\l"
+	.string "latihan, dan nge-rap.\p"
+	.string "Aku juga murid no. {STR_VAR_2}\n"
+	.string "dari {STR_VAR_1}.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice6Mon1::
-	.string "This is what {STR_VAR_3} recommended.\n"
-	.string "One {STR_VAR_1}-using {STR_VAR_2}$"
+	.string "Ini yang direkomendasikan {STR_VAR_3}.\n"
+	.string "Satu {STR_VAR_2} yang memakai {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice6Mon2Ask::
-	.string "and one {STR_VAR_1}-using\n"
-	.string "{STR_VAR_2}.\p"
-	.string "I put a lot of effort into raising\n"
-	.string "them, even though I'm busy.\p"
-	.string "Let's form a tag team\n"
-	.string "and give it a go!$"
+	.string "dan satu {STR_VAR_2} yang memakai\n"
+	.string "{STR_VAR_1}.\p"
+	.string "Aku berusaha keras membesarkan\n"
+	.string "mereka, meskipun aku sibuk.\p"
+	.string "Ayo kita bentuk tag team\n"
+	.string "dan kita coba!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice6Accept::
-	.string "Thanks, that's the spirit!\n"
-	.string "Hang tight while I go register, okay?$"
+	.string "Makasih, itu baru semangat!\n"
+	.string "Tunggu sebentar selagi aku mendaftar, oke?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice6Reject::
-	.string "I took time from my busy schedule\n"
-	.string "to be here! Give me a break!$"
+	.string "Aku sudah meluangkan waktu dari jadwal\n"
+	.string "sibukku untuk ke sini! Ayolah!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Intro::
 	.string "Hi!\n"
-	.string "How's it going?\p"
-	.string "I'm {STR_VAR_3}, {STR_VAR_1}'s\n"
-	.string "no. {STR_VAR_2} apprentice. Glad to meet you!$"
+	.string "Apa kabar?\p"
+	.string "Aku {STR_VAR_3}, murid no. {STR_VAR_2}\n"
+	.string "dari {STR_VAR_1}. Senang bertemu denganmu!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Mon1::
-	.string "Listen, listen! You have to hear about\n"
-	.string "the POKéMON {STR_VAR_3} recommended.\l"
-	.string "One {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Dengar, dengar! Kamu harus dengar tentang\n"
+	.string "POKéMON yang direkomendasikan {STR_VAR_3}.\l"
+	.string "Satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Mon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}.\n"
-	.string "Of course I raised them superbly!\p"
-	.string "So, want to team up?\n"
-	.string "I'm sure it'll be a great combo!$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\n"
+	.string "Tentu saja aku membesarkan mereka dengan hebat!\p"
+	.string "Jadi, mau jadi partner?\n"
+	.string "Aku yakin ini akan jadi kombo yang hebat!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Accept::
-	.string "Yay, I think this will be fun!\n"
-	.string "I'll go register!$"
+	.string "Yay, sepertinya ini akan menyenangkan!\n"
+	.string "Aku akan mendaftar!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Reject::
-	.string "Oh, you're mean!\n"
-	.string "I come recommended, you know.$"
+	.string "Oh, kamu jahat!\n"
+	.string "Aku ini direkomendasikan, lho.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice8Intro::
-	.string "Please let me introduce myself.\n"
-	.string "I am {STR_VAR_3}.\p"
-	.string "I serve as {STR_VAR_1}'s\n"
-	.string "no. {STR_VAR_2} apprentice.$"
+	.string "Izinkan aku memperkenalkan diri.\n"
+	.string "Aku {STR_VAR_3}.\p"
+	.string "Aku adalah murid no. {STR_VAR_2}\n"
+	.string "dari {STR_VAR_1}.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice8Mon1::
-	.string "I sought the sage advice of\n"
-	.string "{STR_VAR_3} and raised my team\l"
-	.string "of one {STR_VAR_2} with {STR_VAR_1}$"
+	.string "Aku mencari nasihat bijak dari\n"
+	.string "{STR_VAR_3} dan membesarkan timku\l"
+	.string "yang terdiri dari satu {STR_VAR_2} dengan {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice8Mon2Ask::
-	.string "and one {STR_VAR_2} with {STR_VAR_1}.\p"
-	.string "Please agree to a tag team with me!$"
+	.string "dan satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "Tolong setuju untuk menjadi tag team denganku!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice8Accept::
-	.string "Oh… I'm delighted!\n"
-	.string "I promise to give you my best!\p"
-	.string "Of course I will register us!\n"
-	.string "Please wait!$"
+	.string "Oh… Aku senang sekali!\n"
+	.string "Aku janji akan memberikan yang terbaik!\p"
+	.string "Tentu saja aku akan mendaftarkan kita!\n"
+	.string "Tolong tunggu!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice8Reject::
-	.string "I had been hoping to join you,\n"
+	.string "Padahal aku berharap bisa bergabung denganmu,\n"
 	.string "{PLAYER}…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice9Intro::
-	.string "Eek! You spoke to me!\n"
-	.string "I… I'm overjoyed!\p"
-	.string "I'm {STR_VAR_3}! I'm {STR_VAR_1}'s\n"
-	.string "no. {STR_VAR_2} apprentice!$"
+	.string "Eek! Kamu bicara padaku!\n"
+	.string "Aku… Aku senang sekali!\p"
+	.string "Aku {STR_VAR_3}! Aku murid no. {STR_VAR_2}\n"
+	.string "dari {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice9Mon1::
-	.string "On {STR_VAR_3}'s advice, I trained\n"
-	.string "one {STR_VAR_1}-using {STR_VAR_2}$"
+	.string "Atas saran {STR_VAR_3}, aku melatih\n"
+	.string "satu {STR_VAR_2} yang memakai {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice9Mon2Ask::
-	.string "and one {STR_VAR_1}-using\n"
-	.string "{STR_VAR_2}.\p"
-	.string "Please, can you grant me my wish?\n"
-	.string "I want to be your tag-team partner!$"
+	.string "dan satu {STR_VAR_2} yang memakai\n"
+	.string "{STR_VAR_1}.\p"
+	.string "Tolong, bisakah kamu kabulkan keinginanku?\n"
+	.string "Aku ingin menjadi partner tag team-mu!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice9Accept::
-	.string "Eek! I… I feel giddy!\n"
-	.string "Thank you so much!\l"
-	.string "I'll go register us right away!$"
+	.string "Eek! Aku… Aku merasa pusing!\n"
+	.string "Terima kasih banyak!\l"
+	.string "Aku akan segera mendaftarkan kita!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice9Reject::
-	.string "Waaah! Don't you feel any pity?\n"
-	.string "But that makes you cooler…$"
+	.string "Waaah! Apa kamu tidak kasihan?\n"
+	.string "Tapi itu membuatmu lebih keren…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice10Intro::
-	.string "Yeehaw! I'm {STR_VAR_1}'s\n"
-	.string "no. {STR_VAR_2} apprentice!\p"
-	.string "{STR_VAR_3}'s my name, hello, hello!$"
+	.string "Yeehaw! Aku murid no. {STR_VAR_2}\n"
+	.string "dari {STR_VAR_1}!\p"
+	.string "Namaku {STR_VAR_3}, halo, halo!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice10Mon1::
-	.string "My mentor {STR_VAR_3} recommended\n"
-	.string "one {STR_VAR_1}-master {STR_VAR_2}$"
+	.string "Mentorku {STR_VAR_3} merekomendasikan\n"
+	.string "satu {STR_VAR_2} master-{STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice10Mon2Ask::
-	.string "and one {STR_VAR_1}-master\n"
-	.string "{STR_VAR_2}.\p"
-	.string "Good stuff, huh?\n"
-	.string "You'll partner with me, won't you?$"
+	.string "dan satu {STR_VAR_2} master-\n"
+	.string "{STR_VAR_1}.\p"
+	.string "Bagus, kan?\n"
+	.string "Kamu mau jadi partner-ku, kan?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice10Accept::
-	.string "Okay, excellent!\n"
-	.string "I'll get the registration done quickly!$"
+	.string "Oke, luar biasa!\n"
+	.string "Aku akan selesaikan pendaftarannya dengan cepat!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice10Reject::
 	.string "Gwaaah!\n"
-	.string "You're a calculating one, {PLAYER}!$"
+	.string "Kamu penuh perhitungan, {PLAYER}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice11Intro::
-	.string "Hey! There's big trouble! This is\n"
-	.string "the BATTLE TOWER's last day!\p"
+	.string "Hei! Ada masalah besar! Ini adalah\n"
+	.string "hari terakhir BATTLE TOWER!\p"
 	.string "… … … … … …\n"
-	.string "I'm only joking!\p"
-	.string "People call me {STR_VAR_3} and I do, too!\n"
-	.string "I'm {STR_VAR_1}'s 1,000th apprentice!\l"
-	.string "Actually, I'm no. {STR_VAR_2}!$"
+	.string "Aku hanya bercanda!\p"
+	.string "Orang-orang memanggilku {STR_VAR_3} dan aku juga!\n"
+	.string "Aku murid ke-1.000 dari {STR_VAR_1}!\l"
+	.string "Sebenarnya, aku no. {STR_VAR_2}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice11Mon1::
-	.string "{STR_VAR_3} gave me some advice.\n"
-	.string "{STR_VAR_2} with {STR_VAR_1} and$"
+	.string "{STR_VAR_3} memberiku beberapa saran.\n"
+	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice11Mon2Ask::
-	.string "{STR_VAR_2} with {STR_VAR_1}.\n"
-	.string "I've got ten of each kind!\l"
-	.string "Actually, just one of each!\p"
-	.string "How about it?\n"
-	.string "Want to try tag battles with me?$"
+	.string "{STR_VAR_2} dengan {STR_VAR_1}.\n"
+	.string "Aku punya sepuluh dari setiap jenis!\l"
+	.string "Sebenarnya, hanya satu dari masing-masing!\p"
+	.string "Bagaimana?\n"
+	.string "Mau coba tag battle denganku?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice11Accept::
 	.string "Yippee!\n"
-	.string "I'll give you a POKéMON as my thanks!\p"
-	.string "Just joking! But I will really go do\n"
-	.string "the registration, okay?$"
+	.string "Aku akan memberimu POKéMON sebagai ucapan terima kasih!\p"
+	.string "Bercanda! Tapi aku akan benar-benar pergi\n"
+	.string "mendaftar, oke?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice11Reject::
-	.string "Oh, that's so cold! I'll have to wreck\n"
-	.string "the BATTLE TOWER for that!\p"
-	.string "Of course I won't!$"
+	.string "Oh, dingin sekali! Aku harus menghancurkan\n"
+	.string "BATTLE TOWER untuk itu!\p"
+	.string "Tentu saja tidak!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice12Intro::
-	.string "Hey, there, I'm rockin' and a-rollin'!\n"
-	.string "POKéMON, I be controllin'!\p"
-	.string "I'm {STR_VAR_3} the rappin' SAILOR.\n"
-	.string "Don't be mistakin' me for no wailer!\p"
-	.string "I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice.\n"
-	.string "Me, you shouldn't be quick to dismiss!$"
+	.string "Hey, yo, aku terus bergoyang!\n"
+	.string "POKéMON, selalu dalam genggaman!\p"
+	.string "Aku {STR_VAR_3} si SAILOR nge-rap.\n"
+	.string "Jangan salah sangka aku tak siap!\p"
+	.string "Aku murid no. {STR_VAR_2} dari {STR_VAR_1}.\n"
+	.string "Aku, jangan cepat kamu hakimi!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice12Mon1::
-	.string "With the advice of {STR_VAR_3} I did\n"
-	.string "abide, put together my team of pride!\l"
-	.string "One {STR_VAR_1}-using {STR_VAR_2}$"
+	.string "Dengan saran dari {STR_VAR_3} aku\n"
+	.string "patuhi, kubentuk tim kebanggaanku ini!\l"
+	.string "Satu {STR_VAR_2} pemakai {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice12Mon2Ask::
-	.string "and one {STR_VAR_1}-using\n"
-	.string "{STR_VAR_2}!\p"
-	.string "Our meeting we should commemorate,\n"
-	.string "with a tag-team victory to celebrate!$"
+	.string "dan satu {STR_VAR_2} pemakai\n"
+	.string "{STR_VAR_1}!\p"
+	.string "Pertemuan kita harus dirayakan,\n"
+	.string "dengan kemenangan tag-team tuk dibanggakan!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice12Accept::
-	.string "Hey, hey, I like your style!\n"
-	.string "Our registration, I will go file!$"
+	.string "Hey, hey, aku suka gayamu!\n"
+	.string "Pendaftaran kita, akan kuurus untukmu!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice12Reject::
-	.string "Oh, hey, {PLAYER}, now that's cold!\n"
-	.string "If I may be so bold!$"
+	.string "Oh, hey, {PLAYER}, dingin sekali!\n"
+	.string "Kalau boleh aku beropini!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice13Intro::
 	.string "Yippee-yahoo!\n"
-	.string "Oh, don't run! I was just having fun!\p"
-	.string "Howdy! I'm {STR_VAR_3}!\n"
-	.string "I'm {STR_VAR_1}'s no. {STR_VAR_2} apprentice!$"
+	.string "Oh, jangan lari! Aku hanya bercanda!\p"
+	.string "Howdy! Aku {STR_VAR_3}!\n"
+	.string "Aku murid no. {STR_VAR_2} dari {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice13Mon1::
-	.string "{STR_VAR_3} told me what to do.\n"
-	.string "So one {STR_VAR_1}-using {STR_VAR_2}$"
+	.string "{STR_VAR_3} memberitahuku apa yang harus dilakukan.\n"
+	.string "Jadi satu {STR_VAR_2} pemakai {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice13Mon2Ask::
-	.string "and one {STR_VAR_1}-using\n"
-	.string "{STR_VAR_2}, I did choose.\p"
-	.string "So, what do you say?\n"
-	.string "Come on, make my day!\p"
-	.string "Please, I'm begging you!\n"
-	.string "Let me join you, don't leave me blue!$"
+	.string "dan satu {STR_VAR_2} pemakai {STR_VAR_1},\n"
+	.string "aku pilih.\p"
+	.string "Jadi, bagaimana katamu?\n"
+	.string "Ayolah, buat hariku!\p"
+	.string "Tolong, aku mohon padamu!\n"
+	.string "Izinkan aku bergabung, jangan buatku pilu!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice13Accept::
-	.string "Yeahah! Luck is with me!\n"
-	.string "It sure makes me happy!\p"
-	.string "Before we go join the fray,\n"
-	.string "I'll go register right away!$"
+	.string "Yeahah! Keberuntungan bersamaku!\n"
+	.string "Itu benar-benar membuatku bahagia!\p"
+	.string "Sebelum kita mulai bertarung,\n"
+	.string "Aku akan segera mendaftar sekarang!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice13Reject::
-	.string "You're turning me down?\n"
-	.string "{PLAYER}, you're making me frown!$"
+	.string "Kamu menolakku?\n"
+	.string "{PLAYER}, kamu membuatku cemberut!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice14Intro::
-	.string "Cough!\p"
-	.string "Oh, sorry, I have a cold.\n"
-	.string "My POKéMON are fine, though.\p"
-	.string "My name's {STR_VAR_3}, {STR_VAR_1}'s\n"
-	.string "no. {STR_VAR_2} apprentice. Cough!$"
+	.string "Uhuk!\p"
+	.string "Oh, maaf, aku sedang pilek.\n"
+	.string "Tapi POKéMON-ku baik-baik saja.\p"
+	.string "Namaku {STR_VAR_3}, murid no. {STR_VAR_2}\n"
+	.string "dari {STR_VAR_1}. Uhuk!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice14Mon1::
-	.string "I took {STR_VAR_3}'s advice to heart\n"
-	.string "and put together my team of\l"
-	.string "one {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Aku menerima saran {STR_VAR_3}\n"
+	.string "dan membentuk timku yang terdiri dari\l"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice14Mon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}.\p"
-	.string "I trained them every day,\n"
-	.string "even in wind and rain.\p"
-	.string "That's why I have this cold,\n"
-	.string "I think.\p"
-	.string "That's what I'm about.\n"
-	.string "Want to be my tag partner?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "Aku melatih mereka setiap hari,\n"
+	.string "bahkan dalam angin dan hujan.\p"
+	.string "Itulah kenapa aku pilek,\n"
+	.string "kurasa.\p"
+	.string "Begitulah aku.\n"
+	.string "Mau jadi partner tag-ku?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice14Accept::
-	.string "Thanks, I appreciate this!\n"
-	.string "Cough, cough!\l"
-	.string "Hang on while I go register.$"
+	.string "Terima kasih, aku menghargai ini!\n"
+	.string "Uhuk, uhuk!\l"
+	.string "Tunggu sebentar selagi aku mendaftar.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice14Reject::
-	.string "Oh, you won't?\n"
-	.string "{PLAYER}, I think we'd make a good pair.$"
+	.string "Oh, kamu tidak mau?\n"
+	.string "{PLAYER}, kupikir kita akan jadi pasangan yang baik.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice15Intro::
-	.string "Oh, hello!\n"
-	.string "This is nerve-racking.\p"
-	.string "I'm {STR_VAR_3}.\n"
-	.string "I'm the no. {STR_VAR_2} apprentice of {STR_VAR_1}.$"
+	.string "Oh, halo!\n"
+	.string "Ini menegangkan.\p"
+	.string "Aku {STR_VAR_3}.\n"
+	.string "Aku murid no. {STR_VAR_2} dari {STR_VAR_1}.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice15Mon1::
-	.string "{STR_VAR_3} said this team'll be good--\n"
-	.string "one {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "{STR_VAR_3} bilang tim ini akan bagus--\n"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice15Mon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}.\p"
-	.string "I'm feeling self-conscious about this,\n"
-	.string "but will you let me join you?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "Aku merasa tidak percaya diri tentang ini,\n"
+	.string "tapi maukah kamu mengizinkanku bergabung?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice15Accept::
-	.string "Oh, gee, thank you!\n"
-	.string "I feel bashful, but I'll do my best!\p"
-	.string "I'll go get the registration done.$"
+	.string "Oh, astaga, terima kasih!\n"
+	.string "Aku merasa malu, tapi aku akan melakukan yang terbaik!\p"
+	.string "Aku akan menyelesaikan pendaftarannya.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice15Reject::
-	.string "Oh, please don't say no!\n"
-	.string "I feel self-conscious enough already…$"
+	.string "Oh, tolong jangan katakan tidak!\n"
+	.string "Aku sudah merasa tidak percaya diri…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice16Intro::
-	.string "I am {STR_VAR_3}, and that's no lie.\n"
-	.string "I am {STR_VAR_1}'s no. {STR_VAR_2} apprentice.$"
+	.string "Aku {STR_VAR_3}, dan itu bukan kebohongan.\n"
+	.string "Aku murid no. {STR_VAR_2} dari {STR_VAR_1}.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice16Mon1::
-	.string "{STR_VAR_3} recommended my team.\p"
-	.string "Since the advice sounded sincere,\n"
-	.string "I decided to bring with me\l"
-	.string "my {STR_VAR_1}-using {STR_VAR_2} and$"
+	.string "{STR_VAR_3} merekomendasikan timku.\p"
+	.string "Karena sarannya terdengar tulus,\n"
+	.string "Aku memutuskan untuk membawa\l"
+	.string "{STR_VAR_2} pemakai {STR_VAR_1}-ku dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice16Mon2Ask::
-	.string "my {STR_VAR_1}-using {STR_VAR_2}.\p"
-	.string "If possible, I would like you to accept\n"
-	.string "me as your tag-team partner.$"
+	.string "{STR_VAR_2} pemakai {STR_VAR_1}-ku.\p"
+	.string "Jika memungkinkan, aku ingin kamu menerima\n"
+	.string "aku sebagai partner tag-team-mu.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice16Accept::
-	.string "You really will accept me?\n"
-	.string "It would be too terrible otherwise.\p"
-	.string "But since you've agreed, this is fine.\n"
-	.string "I shall go register the both of us.$"
+	.string "Kamu benar-benar akan menerimaku?\n"
+	.string "Akan sangat buruk jika tidak.\p"
+	.string "Tapi karena kamu sudah setuju, ini baik-baik saja.\n"
+	.string "Aku akan mendaftarkan kita berdua.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice16Reject::
-	.string "Hm? Now why would you refuse?\n"
-	.string "Is this your idea of a joke?$"
+	.string "Hm? Kenapa kamu menolak?\n"
+	.string "Apa ini leluconmu?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_LassIntro::
-	.string "I'm {STR_VAR_1}, and I'm a LASS!$"
+	.string "Aku {STR_VAR_1}, dan aku seorang LASS!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_LassMon1::
-	.string "What I have are one {STR_VAR_2}\n"
-	.string "that uses {STR_VAR_1} and one$"
+	.string "Yang aku punya adalah satu {STR_VAR_2}\n"
+	.string "yang memakai {STR_VAR_1} dan satu$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_LassMon2Ask::
-	.string "{STR_VAR_2} that uses {STR_VAR_1}.\n"
-	.string "Those are what I have with me.\p"
-	.string "Will you be my partner?$"
+	.string "{STR_VAR_2} yang memakai {STR_VAR_1}.\n"
+	.string "Itulah yang kubawa.\p"
+	.string "Maukah kamu menjadi partner-ku?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_LassAccept::
-	.string "Thank you!\n"
-	.string "I'll go do the registration!$"
+	.string "Terima kasih!\n"
+	.string "Aku akan pergi mendaftar!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_LassReject::
-	.string "You don't want to be my partner?\n"
-	.string "You'll regret it later!$"
+	.string "Kamu tidak mau jadi partner-ku?\n"
+	.string "Kamu akan menyesal nanti!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_YoungsterIntro::
-	.string "Hello!\p"
-	.string "I'm YOUNGSTER {STR_VAR_1}!$"
+	.string "Halo!\p"
+	.string "Aku YOUNGSTER {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_YoungsterMon1::
-	.string "Want to know what I have?\n"
-	.string "One {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Mau tahu apa yang aku punya?\n"
+	.string "Satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_YoungsterMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}!\p"
-	.string "You'll be my tag-team partner,\n"
-	.string "won't you?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "Kamu akan jadi partner tag-team-ku,\n"
+	.string "kan?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_YoungsterAccept::
 	.string "Yay!\n"
-	.string "I'll go and register, okay?$"
+	.string "Aku akan pergi mendaftar, oke?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_YoungsterReject::
-	.string "Aww! If you'd form a tag team with\n"
-	.string "my POKéMON, we'd be unstoppable!$"
+	.string "Aww! Jika kamu membentuk tag team dengan\n"
+	.string "POKéMON-ku, kita takkan terkalahkan!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_HikerIntro::
 	.string "Yahoo!\n"
-	.string "I'm HIKER {STR_VAR_1}!$"
+	.string "Aku HIKER {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_HikerMon1::
-	.string "Know what I have with me?\n"
-	.string "My {STR_VAR_1}-using {STR_VAR_2} and$"
+	.string "Tahu apa yang kubawa?\n"
+	.string "{STR_VAR_2} pemakai {STR_VAR_1}-ku dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_HikerMon2Ask::
-	.string "my {STR_VAR_1}-using {STR_VAR_2}!\p"
-	.string "Sounds good, eh?\n"
-	.string "Want to form a tag team?$"
+	.string "{STR_VAR_2} pemakai {STR_VAR_1}-ku!\p"
+	.string "Kedengarannya bagus, kan?\n"
+	.string "Mau membentuk tag team?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_HikerAccept::
 	.string "Yahoo!\n"
-	.string "I'll go do the registering, then.$"
+	.string "Kalau begitu, aku akan mendaftar.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_HikerReject::
-	.string "I would've liked to battle with you\n"
-	.string "at my side.$"
+	.string "Aku ingin sekali bertarung denganmu\n"
+	.string "di sisiku.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BeautyIntro::
-	.string "Hello!\n"
-	.string "I'm {STR_VAR_1}, and I'm a BEAUTY!$"
+	.string "Halo!\n"
+	.string "Aku {STR_VAR_1}, dan aku seorang BEAUTY!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BeautyMon1::
-	.string "Do you know what I've been raising?\n"
-	.string "One {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Apa kamu tahu apa yang telah kubesarkan?\n"
+	.string "Satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BeautyMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}!\p"
-	.string "What do you think?\n"
-	.string "Want to make a tag team together?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "Bagaimana menurutmu?\n"
+	.string "Mau membuat tag team bersama?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BeautyAccept::
-	.string "Wonderful!\n"
-	.string "I'll get the registration done now!$"
+	.string "Luar biasa!\n"
+	.string "Aku akan selesaikan pendaftarannya sekarang!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BeautyReject::
-	.string "How disappointing!\p"
-	.string "We two together--we would've been\n"
-	.string "the best!$"
+	.string "Mengecewakan sekali!\p"
+	.string "Kita berdua bersama--kita akan\n"
+	.string "menjadi yang terbaik!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_FishermanIntro::
 	.string "Yo!\p"
-	.string "You know who I am?\n"
-	.string "I'm {STR_VAR_1} the FISHERMAN!$"
+	.string "Kamu tahu siapa aku?\n"
+	.string "Aku {STR_VAR_1} si FISHERMAN!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_FishermanMon1::
-	.string "I've got with me a team of one\n"
-	.string "{STR_VAR_1}-using {STR_VAR_2} and$"
+	.string "Aku punya tim yang terdiri dari satu\n"
+	.string "{STR_VAR_2} pemakai {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_FishermanMon2Ask::
-	.string "one {STR_VAR_1}-using {STR_VAR_2}.\p"
-	.string "So, how about it?\n"
-	.string "Will you battle at my side?$"
+	.string "satu {STR_VAR_2} pemakai {STR_VAR_1}.\p"
+	.string "Jadi, bagaimana?\n"
+	.string "Maukah kamu bertarung di sisiku?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_FishermanAccept::
-	.string "Good, good!\n"
-	.string "Leave it up to me!\p"
-	.string "I'll go and register us now.$"
+	.string "Bagus, bagus!\n"
+	.string "Serahkan padaku!\p"
+	.string "Aku akan pergi mendaftarkan kita sekarang.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_FishermanReject::
-	.string "We matched up perfectly, too…$"
+	.string "Padahal kita sangat cocok…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_LadyIntro::
-	.string "Glad to make your acquaintance.\n"
-	.string "I am {STR_VAR_1}, a LADY.$"
+	.string "Senang berkenalan denganmu.\n"
+	.string "Aku {STR_VAR_1}, seorang LADY.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_LadyMon1::
-	.string "I am accompanied by a team of\n"
-	.string "one {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Aku ditemani oleh sebuah tim\n"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_LadyMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}.\p"
-	.string "I hope I meet your approval.\n"
-	.string "For I wish to have you as my partner.$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "Kuharap aku mendapat persetujuanmu.\n"
+	.string "Karena aku ingin kamu menjadi partner-ku.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_LadyAccept::
-	.string "I thank you sincerely.\n"
-	.string "I shall handle the registration.$"
+	.string "Aku berterima kasih dengan tulus.\n"
+	.string "Aku akan mengurus pendaftarannya.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_LadyReject::
-	.string "I'm sure that you will regret not\n"
-	.string "having me as your partner.$"
+	.string "Aku yakin kamu akan menyesal tidak\n"
+	.string "menjadikanku sebagai partner-mu.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteFIntro::
-	.string "I'm TRIATHLETE {STR_VAR_1}!$"
+	.string "Aku TRIATHLETE {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteFMon1::
-	.string "What I have…\n"
-	.string "One {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Yang aku punya…\n"
+	.string "Satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteFMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}!\n"
-	.string "That's my pair!\p"
-	.string "Please?\n"
-	.string "Will you form a tag team with me?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\n"
+	.string "Itulah pasanganku!\p"
+	.string "Tolong?\n"
+	.string "Maukah kamu membentuk tag team denganku?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteFAccept::
-	.string "Gee, thanks!\n"
-	.string "I'll go register at the counter.$"
+	.string "Wah, makasih!\n"
+	.string "Aku akan mendaftar di konter.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteFReject::
-	.string "We two together, we would've been\n"
-	.string "tough for certain!$"
+	.string "Kita berdua bersama, kita pasti\n"
+	.string "akan tangguh!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugCatcherIntro::
 	.string "Hiya!\n"
-	.string "I'm BUG CATCHER {STR_VAR_1}!$"
+	.string "Aku BUG CATCHER {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugCatcherMon1::
-	.string "Check out what I have!\n"
-	.string "One {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Lihat apa yang aku punya!\n"
+	.string "Satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugCatcherMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}!\p"
-	.string "So, listen!\n"
-	.string "Do you want to form a tag team?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "Jadi, dengar!\n"
+	.string "Apa kamu mau membentuk tag team?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugCatcherAccept::
-	.string "Gotcha!\p"
-	.string "I'll go do the registration stuff\n"
-	.string "at the counter.$"
+	.string "Dapat!\p"
+	.string "Aku akan mengurus pendaftaran\n"
+	.string "di konter.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugCatcherReject::
-	.string "Aww, my POKéMON are awesome.\n"
-	.string "I hope you won't regret this!$"
+	.string "Aww, POKéMON-ku luar biasa.\n"
+	.string "Kuharap kamu tidak akan menyesali ini!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidMIntro::
-	.string "Good day!\n"
-	.string "I'm SCHOOL KID {STR_VAR_1}!$"
+	.string "Selamat siang!\n"
+	.string "Aku SCHOOL KID {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidMMon1::
-	.string "What I've been raising are one\n"
-	.string "{STR_VAR_2} that uses {STR_VAR_1}$"
+	.string "Yang telah kubesarkan adalah satu\n"
+	.string "{STR_VAR_2} yang memakai {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidMMon2Ask::
-	.string "and one {STR_VAR_2} that uses\n"
+	.string "dan satu {STR_VAR_2} yang memakai\n"
 	.string "{STR_VAR_1}.\p"
-	.string "Not too bad, don't you think?\n"
-	.string "Would you care to form a tag team?$"
+	.string "Tidak terlalu buruk, kan?\n"
+	.string "Maukah kamu membentuk tag team?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidMAccept::
-	.string "Thank you very much!\n"
-	.string "I'll get done with the registration.$"
+	.string "Terima kasih banyak!\n"
+	.string "Aku akan menyelesaikan pendaftarannya.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidMReject::
-	.string "That's too bad…\p"
-	.string "I was hoping that I could learn\n"
-	.string "from you as your partner…$"
+	.string "Sayang sekali…\p"
+	.string "Padahal aku berharap bisa belajar\n"
+	.string "darimu sebagai partner-mu…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RichBoyIntro::
-	.string "Yo! Let me tell you who I am!\n"
-	.string "I'm RICH BOY {STR_VAR_1}!$"
+	.string "Yo! Biar kuberitahu siapa aku!\n"
+	.string "Aku RICH BOY {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RichBoyMon1::
-	.string "Guess what I got!\n"
-	.string "One {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Tebak apa yang aku punya!\n"
+	.string "Satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RichBoyMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}!\p"
-	.string "I'm willing to offer you the chance\n"
-	.string "to be in a tag team with me.$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "Aku bersedia memberimu kesempatan\n"
+	.string "untuk berada dalam tag team denganku.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RichBoyAccept::
-	.string "Smart move!\p"
-	.string "I'll finish up the registration\n"
-	.string "process quick!$"
+	.string "Langkah cerdas!\p"
+	.string "Aku akan menyelesaikan proses\n"
+	.string "pendaftaran dengan cepat!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RichBoyReject::
-	.string "You'd turn me of all people down?\n"
-	.string "You'll regret that decision for sure!$"
+	.string "Kamu menolakku dari semua orang?\n"
+	.string "Kamu pasti akan menyesali keputusan itu!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BlackBeltIntro::
 	.string "Hiyah!\n"
-	.string "I am BLACK BELT {STR_VAR_1}.$"
+	.string "Aku BLACK BELT {STR_VAR_1}.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BlackBeltMon1::
-	.string "As my companions, I have\n"
-	.string "one {STR_VAR_2} using {STR_VAR_1}$"
+	.string "Sebagai temanku, aku punya\n"
+	.string "satu {STR_VAR_2} yang memakai {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BlackBeltMon2Ask::
-	.string "and one {STR_VAR_2} using\n"
+	.string "dan satu {STR_VAR_2} yang memakai\n"
 	.string "{STR_VAR_1}.\p"
-	.string "Please, grant me my wish!\n"
-	.string "Allow me to be your tag partner!$"
+	.string "Tolong, kabulkan permohonanku!\n"
+	.string "Izinkan aku menjadi partner tag-mu!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BlackBeltAccept::
 	.string "Hiyah!\n"
-	.string "I will go register forthwith!$"
+	.string "Aku akan segera mendaftar!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BlackBeltReject::
-	.string "I see… I hope for an opportunity\n"
-	.string "the next time we meet…$"
+	.string "Begitu… Kuharap ada kesempatan\n"
+	.string "lain kali kita bertemu…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberFIntro::
-	.string "Hi, there!\n"
-	.string "I'm {STR_VAR_1}, and I'm a TUBER!$"
+	.string "Hai!\n"
+	.string "Aku {STR_VAR_1}, dan aku seorang TUBER!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberFMon1::
-	.string "I'll tell you what I have.\n"
-	.string "One {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Akan kuberitahu apa yang aku punya.\n"
+	.string "Satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberFMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}!\n"
-	.string "May I please be on your tag team?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\n"
+	.string "Bolehkah aku masuk ke dalam tag team-mu?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberFAccept::
-	.string "Thank you!\n"
-	.string "I'll go register us now!$"
+	.string "Terima kasih!\n"
+	.string "Aku akan mendaftarkan kita sekarang!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberFReject::
-	.string "If we'd become partners, we could\n"
-	.string "have been so strong!$"
+	.string "Jika kita menjadi partner, kita bisa\n"
+	.string "menjadi sangat kuat!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_HexManiacIntro::
-	.string "Greetings…\n"
-	.string "I am HEX MANIAC {STR_VAR_1}…$"
+	.string "Salam…\n"
+	.string "Aku HEX MANIAC {STR_VAR_1}…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_HexManiacMon1::
-	.string "I bear with me one {STR_VAR_1}-using\n"
-	.string "{STR_VAR_2} together with one$"
+	.string "Aku membawa satu {STR_VAR_2} pemakai\n"
+	.string "{STR_VAR_1} bersama dengan satu$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_HexManiacMon2Ask::
-	.string "{STR_VAR_1}-using {STR_VAR_2}…\p"
-	.string "I beseech you…\n"
-	.string "Join me in a tag team…$"
+	.string "{STR_VAR_2} pemakai {STR_VAR_1}…\p"
+	.string "Aku mohon padamu…\n"
+	.string "Bergabunglah denganku dalam tag team…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_HexManiacAccept::
-	.string "I thank you…\n"
-	.string "I shall register us…$"
+	.string "Aku berterima kasih…\n"
+	.string "Aku akan mendaftarkan kita…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_HexManiacReject::
-	.string "I so longed to join you…$"
+	.string "Aku sangat ingin bergabung denganmu…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederMIntro::
-	.string "How do you do? I'm {STR_VAR_1},\n"
-	.string "and I'm a POKéMON BREEDER!$"
+	.string "Apa kabar? Aku {STR_VAR_1},\n"
+	.string "dan aku seorang POKéMON BREEDER!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederMMon1::
-	.string "I'm raising a couple good ones!\n"
-	.string "One {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Aku membesarkan beberapa yang bagus!\n"
+	.string "Satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederMMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}!\p"
-	.string "How about it?\n"
-	.string "Feel like making a tag team with me?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "Bagaimana?\n"
+	.string "Ingin membuat tag team denganku?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederMAccept::
-	.string "Thank you kindly!\p"
-	.string "I'll go take care of the registration\n"
-	.string "stuff, so you wait right here!$"
+	.string "Terima kasih banyak!\p"
+	.string "Aku akan mengurus pendaftaran,\n"
+	.string "jadi tunggu di sini!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederMReject::
-	.string "I was looking forward to being\n"
-	.string "your partner…$"
+	.string "Aku sudah tidak sabar untuk menjadi\n"
+	.string "partner-mu…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteFIntro::
-	.string "Well, hello!\n"
-	.string "I'm TRIATHLETE {STR_VAR_1}!$"
+	.string "Wah, halo!\n"
+	.string "Aku TRIATHLETE {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteFMon1::
-	.string "Want to know what I run with?\n"
-	.string "One {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Mau tahu dengan apa aku berlari?\n"
+	.string "Satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteFMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}!\p"
-	.string "Well?\n"
-	.string "Want to be in a tag team with me?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "Jadi?\n"
+	.string "Mau masuk tag team denganku?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteFAccept::
-	.string "Good going!\p"
-	.string "I'll be quick and get the registration\n"
-	.string "all done!$"
+	.string "Bagus!\p"
+	.string "Aku akan cepat menyelesaikan\n"
+	.string "semua pendaftarannya!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteFReject::
-	.string "You and me, we would've been tops.\n"
-	.string "It's too bad…$"
+	.string "Kamu dan aku, kita akan menjadi yang teratas.\n"
+	.string "Sayang sekali…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteMIntro::
-	.string "Hey, there! My name's {STR_VAR_1}!\n"
-	.string "I'm a TRIATHLETE!$"
+	.string "Hei! Namaku {STR_VAR_1}!\n"
+	.string "Aku seorang TRIATHLETE!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteMMon1::
-	.string "I go on runs with my durable team--\n"
-	.string "one {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Aku berlari dengan timku yang tangguh--\n"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteMMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}!\p"
-	.string "Not too shabby, huh?\n"
-	.string "We should be in a tag team together!$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "Tidak terlalu buruk, kan?\n"
+	.string "Kita harus berada dalam satu tag team!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteMAccept::
-	.string "All right!\n"
-	.string "I'll go register in a flash!$"
+	.string "Baiklah!\n"
+	.string "Aku akan mendaftar secepat kilat!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteMReject::
-	.string "I really wanted to battle as your\n"
-	.string "tag-team partner…$"
+	.string "Aku sangat ingin bertarung sebagai\n"
+	.string "partner tag-team-mu…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BattleGirlIntro::
-	.string "I'm BATTLE GIRL {STR_VAR_1}!$"
+	.string "Aku BATTLE GIRL {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BattleGirlMon1::
-	.string "I've been toughening up one\n"
-	.string "{STR_VAR_1}-using {STR_VAR_2} and$"
+	.string "Aku telah melatih satu\n"
+	.string "{STR_VAR_2} pemakai {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BattleGirlMon2Ask::
-	.string "one {STR_VAR_1}-using {STR_VAR_2}!\p"
-	.string "Do you like that combo?\n"
-	.string "How about you and me join up?$"
+	.string "satu {STR_VAR_2} pemakai {STR_VAR_1}!\p"
+	.string "Apa kamu suka kombo itu?\n"
+	.string "Bagaimana kalau kita bergabung?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BattleGirlAccept::
-	.string "Why, thanks!\p"
-	.string "I'll get the registration done\n"
-	.string "right now!$"
+	.string "Wah, makasih!\p"
+	.string "Aku akan menyelesaikan pendaftaran\n"
+	.string "sekarang juga!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BattleGirlReject::
-	.string "With you, I thought we could form\n"
-	.string "the ultimate tag team…$"
+	.string "Denganmu, kupikir kita bisa membentuk\n"
+	.string "tag team terhebat…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteMIntro::
-	.string "I'm TRIATHLETE {STR_VAR_1}!$"
+	.string "Aku TRIATHLETE {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteMMon1::
-	.string "I've been running with one {STR_VAR_2}\n"
-	.string "that knows how to use {STR_VAR_1}$"
+	.string "Aku telah berlari dengan satu {STR_VAR_2}\n"
+	.string "yang tahu cara memakai {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteMMon2Ask::
-	.string "and one {STR_VAR_2} with {STR_VAR_1}!\p"
-	.string "We could be in a tag team.\n"
-	.string "Wouldn't that be great?$"
+	.string "dan satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "Kita bisa menjadi satu tag team.\n"
+	.string "Bukankah itu hebat?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteMAccept::
-	.string "Thank you!\p"
-	.string "I'll go register us, and that's\n"
-	.string "right now!$"
+	.string "Terima kasih!\p"
+	.string "Aku akan mendaftarkan kita, dan itu\n"
+	.string "sekarang juga!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteMReject::
-	.string "Aww, that's too bad. We would've been\n"
-	.string "the toughest tag team around!$"
+	.string "Aww, sayang sekali. Kita akan menjadi\n"
+	.string "tag team terkuat!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberMIntro::
-	.string "Me?\n"
-	.string "I'm TUBER {STR_VAR_1}!$"
+	.string "Aku?\n"
+	.string "Aku TUBER {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberMMon1::
-	.string "What do I have with me?\n"
-	.string "One {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Apa yang kubawa?\n"
+	.string "Satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberMMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}!\p"
-	.string "Hey?\n"
-	.string "You'll team up with me, right?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "Hei?\n"
+	.string "Kamu mau jadi partner-ku, kan?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberMAccept::
-	.string "Okay!\p"
-	.string "I'll go register!\n"
-	.string "Let's be excellent together!$"
+	.string "Oke!\p"
+	.string "Aku akan mendaftar!\n"
+	.string "Ayo jadi yang terbaik bersama!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberMReject::
-	.string "My POKéMON are tough for sure…\n"
-	.string "It's too bad you don't want to team up.$"
+	.string "POKéMON-ku pasti tangguh…\n"
+	.string "Sayang sekali kamu tidak mau satu tim.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_GuitaristIntro::
 	.string "Yay-hey!\n"
-	.string "Call me GUITARIST {STR_VAR_1}!$"
+	.string "Panggil aku GUITARIST {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_GuitaristMon1::
-	.string "Check out my entourage!\n"
-	.string "One {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Lihat rombonganku!\n"
+	.string "Satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_GuitaristMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}!\p"
-	.string "Yay-hey! Pretty wild, huh?\n"
-	.string "We'll have to do a duet in a tag team!$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "Yay-hey! Cukup liar, kan?\n"
+	.string "Kita harus berduet dalam tag team!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_GuitaristAccept::
-	.string "Yay-hey! Right on!\n"
-	.string "I'll do that registration stuff now!$"
+	.string "Yay-hey! Keren!\n"
+	.string "Aku akan urus pendaftarannya sekarang!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_GuitaristReject::
-	.string "My POKéMON rock hard!\n"
-	.string "You'll be sorry, I tell you!$"
+	.string "POKéMON-ku keren abis!\n"
+	.string "Kamu akan menyesal, kuberitahu!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_GentlemanIntro::
-	.string "Pleased to meet you.\n"
-	.string "I am {STR_VAR_1}, a GENTLEMAN.$"
+	.string "Senang bertemu denganmu.\n"
+	.string "Aku {STR_VAR_1}, seorang GENTLEMAN.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_GentlemanMon1::
-	.string "I am accompanied by my trusted\n"
-	.string "{STR_VAR_1}-using {STR_VAR_2} and$"
+	.string "Aku ditemani oleh {STR_VAR_2} pemakai\n"
+	.string "{STR_VAR_1} kepercayaanku dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_GentlemanMon2Ask::
-	.string "one {STR_VAR_1}-using {STR_VAR_2}.\p"
-	.string "May I ask you to join me in a tag-team\n"
-	.string "partnership arrangement?$"
+	.string "satu {STR_VAR_2} pemakai {STR_VAR_1}.\p"
+	.string "Bolehkah aku memintamu untuk bergabung denganku\n"
+	.string "dalam pengaturan kemitraan tag-team?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_GentlemanAccept::
-	.string "Ah, I thank you for your trust.\n"
-	.string "I shall be done with the registration.$"
+	.string "Ah, aku berterima kasih atas kepercayaanmu.\n"
+	.string "Aku akan menyelesaikan pendaftarannya.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_GentlemanReject::
-	.string "That is most unfortunate…\p"
-	.string "I shall look forward to the next\n"
-	.string "opportunity…$"
+	.string "Sangat disayangkan…\p"
+	.string "Aku akan menantikan kesempatan\n"
+	.string "berikutnya…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanMIntro::
-	.string "Hello, I'm {STR_VAR_1},\n"
-	.string "and I'm a POKéFAN.$"
+	.string "Halo, aku {STR_VAR_1},\n"
+	.string "dan aku seorang POKéFAN.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanMMon1::
-	.string "I have with me now one {STR_VAR_2}\n"
-	.string "that knows the move {STR_VAR_1} and$"
+	.string "Aku punya satu {STR_VAR_2}\n"
+	.string "yang tahu jurus {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanMMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}.\p"
-	.string "Do you like what you see?\n"
-	.string "Why don't you be my tag partner?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "Apa kamu suka yang kamu lihat?\n"
+	.string "Kenapa kamu tidak jadi partner tag-ku?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanMAccept::
-	.string "Thank you!\n"
-	.string "I'll look after the registration!$"
+	.string "Terima kasih!\n"
+	.string "Aku akan mengurus pendaftarannya!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanMReject::
-	.string "My POKéMON are top grade…\n"
-	.string "It's too bad you can't appreciate that.$"
+	.string "POKéMON-ku kelas atas…\n"
+	.string "Sayang sekali kamu tidak bisa menghargainya.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertMIntro::
 	.string "Hm!\n"
-	.string "I am {STR_VAR_1}, and an EXPERT am I!$"
+	.string "Aku {STR_VAR_1}, dan aku seorang EXPERT!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertMMon1::
-	.string "The POKéMON that I've toughened up are\n"
-	.string "one {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "POKéMON yang telah kulatih adalah\n"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertMMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}!\p"
-	.string "What say you to a tag team with me?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "Bagaimana kalau kita satu tim tag?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertMAccept::
 	.string "Hm!\n"
-	.string "I shall register us right away!\l"
-	.string "Let us both do our best!$"
+	.string "Aku akan segera mendaftarkan kita!\l"
+	.string "Mari kita berdua melakukan yang terbaik!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertMReject::
-	.string "I will hope that your choice is\n"
-	.string "indeed correct…$"
+	.string "Aku akan berharap pilihanmu\n"
+	.string "memang benar…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertFIntro::
-	.string "Hello, hello.\n"
-	.string "I'm {STR_VAR_1}, and I'm an EXPERT.$"
+	.string "Halo, halo.\n"
+	.string "Aku {STR_VAR_1}, dan aku seorang EXPERT.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertFMon1::
-	.string "I've raised my POKéMON thoroughly.\n"
-	.string "One {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Aku telah membesarkan POKéMON-ku dengan baik.\n"
+	.string "Satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertFMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}--\n"
-	.string "they're what I have.\p"
-	.string "Wouldn't you like to team up with me?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}--\n"
+	.string "itulah yang aku punya.\p"
+	.string "Tidakkah kamu ingin satu tim denganku?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertFAccept::
-	.string "Good, good.\n"
-	.string "I'll see to the registration right away.$"
+	.string "Bagus, bagus.\n"
+	.string "Aku akan segera mengurus pendaftarannya.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertFReject::
-	.string "Perhaps we can form a team the next\n"
-	.string "time we meet.$"
+	.string "Mungkin kita bisa membentuk tim lain\n"
+	.string "kali kita bertemu.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_DragonTamerIntro::
-	.string "I'm DRAGON TAMER {STR_VAR_1}!$"
+	.string "Aku DRAGON TAMER {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_DragonTamerMon1::
-	.string "The team I've been toughening up is\n"
-	.string "one {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Tim yang telah kulatih adalah\n"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_DragonTamerMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}!\p"
-	.string "How about it?\n"
-	.string "Want to be my partner?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "Bagaimana?\n"
+	.string "Mau jadi partner-ku?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_DragonTamerAccept::
-	.string "Okay, I'll give it my best!\n"
-	.string "I'll go register now, all right?$"
+	.string "Oke, aku akan berikan yang terbaik!\n"
+	.string "Aku akan mendaftar sekarang, oke?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_DragonTamerReject::
-	.string "You're not going to find many tougher\n"
-	.string "partners than me!$"
+	.string "Kamu tidak akan menemukan banyak partner\n"
+	.string "yang lebih tangguh dariku!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BirdKeeperIntro::
-	.string "I'm BIRD KEEPER {STR_VAR_1}!$"
+	.string "Aku BIRD KEEPER {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BirdKeeperMon1::
-	.string "What POKéMON do I have?\n"
-	.string "One {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "POKéMON apa yang aku punya?\n"
+	.string "Satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BirdKeeperMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}.\p"
-	.string "Don't you think we'd make a decent\n"
-	.string "tag team?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "Tidakkah menurutmu kita akan menjadi\n"
+	.string "tim tag yang layak?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BirdKeeperAccept::
-	.string "Great, thanks!\n"
-	.string "I'll look after the registration!$"
+	.string "Bagus, makasih!\n"
+	.string "Aku akan mengurus pendaftarannya!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BirdKeeperReject::
-	.string "My POKéMON and I are strong.\n"
-	.string "What a letdown.$"
+	.string "POKéMON-ku dan aku kuat.\n"
+	.string "Mengecewakan sekali.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_NinjaBoyIntro::
-	.string "I'm NINJA BOY {STR_VAR_1}!$"
+	.string "Aku NINJA BOY {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_NinjaBoyMon1::
-	.string "My POKéMON team consists of one\n"
-	.string "{STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Tim POKéMON-ku terdiri dari satu\n"
+	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_NinjaBoyMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}!\p"
-	.string "Let's be in a tag team together!$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "Ayo kita buat tag team bersama!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_NinjaBoyAccept::
 	.string "Yay!\n"
-	.string "Let me go register!$"
+	.string "Biar aku yang mendaftar!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_NinjaBoyReject::
-	.string "You'll regret not having my tough\n"
-	.string "POKéMON on your side!$"
+	.string "Kamu akan menyesal tidak memiliki POKéMON\n"
+	.string "tangguhku di sisimu!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ParasolLadyIntro::
-	.string "Hello!\n"
-	.string "I'm PARASOL LADY {STR_VAR_1}!$"
+	.string "Halo!\n"
+	.string "Aku PARASOL LADY {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ParasolLadyMon1::
-	.string "Escorting me now are my {STR_VAR_2}\n"
-	.string "that uses {STR_VAR_1} and$"
+	.string "Yang menemaniku sekarang adalah {STR_VAR_2}-ku\n"
+	.string "yang memakai {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ParasolLadyMon2Ask::
-	.string "one {STR_VAR_2} that uses\n"
+	.string "satu {STR_VAR_2} yang memakai\n"
 	.string "{STR_VAR_1}.\p"
-	.string "Aren't they nice?\n"
-	.string "Care to join us in a tag team?$"
+	.string "Bukankah mereka baik?\n"
+	.string "Mau bergabung dengan kami dalam tag team?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ParasolLadyAccept::
-	.string "Thanks a bunch!\p"
-	.string "I'll go register at the counter.\n"
-	.string "Let's not disappoint each other!$"
+	.string "Terima kasih banyak!\p"
+	.string "Aku akan mendaftar di konter.\n"
+	.string "Jangan sampai kita saling mengecewakan!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ParasolLadyReject::
-	.string "My POKéMON are tremendously strong.\n"
-	.string "How disappointing…$"
+	.string "POKéMON-ku luar biasa kuat.\n"
+	.string "Mengecewakan sekali…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugManiacIntro::
-	.string "Hello.\n"
-	.string "I'm {STR_VAR_1}, and I'm a BUG MANIAC!$"
+	.string "Halo.\n"
+	.string "Aku {STR_VAR_1}, dan aku seorang BUG MANIAC!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugManiacMon1::
-	.string "I have found my POKéMON, yes.\n"
-	.string "One {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Aku telah menemukan POKéMON-ku, ya.\n"
+	.string "Satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugManiacMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}--\n"
-	.string "they are what I found.\p"
-	.string "Could I interest you in forming\n"
-	.string "a tag team?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}--\n"
+	.string "itulah yang kutemukan.\p"
+	.string "Bolehkah aku menarik minatmu untuk membentuk\n"
+	.string "sebuah tag team?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugManiacAccept::
-	.string "Okay!\n"
-	.string "Understood!\p"
-	.string "I won't be long with the registration!$"
+	.string "Oke!\n"
+	.string "Dimengerti!\p"
+	.string "Aku tidak akan lama dengan pendaftarannya!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugManiacReject::
-	.string "With the POKéMON I found, we wouldn't\n"
-	.string "have lost…$"
+	.string "Dengan POKéMON yang kutemukan, kita tidak\n"
+	.string "akan kalah…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SailorIntro::
-	.string "Ahoy, there!\n"
-	.string "I'm SAILOR {STR_VAR_1}!$"
+	.string "Ahoy!\n"
+	.string "Aku SAILOR {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SailorMon1::
-	.string "Let me show you my pride and joy!\n"
-	.string "One {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Biar kutunjukkan kebanggaan dan kegembiraanku!\n"
+	.string "Satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SailorMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}!\p"
-	.string "Of course you're not going to turn\n"
-	.string "me down. We will team up, right?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "Tentu saja kamu tidak akan menolakku.\n"
+	.string "Kita akan satu tim, kan?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SailorAccept::
-	.string "I didn't expect any less!\n"
-	.string "I'll go register now.$"
+	.string "Aku tidak mengharapkan yang kurang!\n"
+	.string "Aku akan mendaftar sekarang.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SailorReject::
-	.string "We would've stormed through\n"
-	.string "the opposition! Too bad!$"
+	.string "Kita akan menyerbu lawan!\n"
+	.string "Sayang sekali!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CollectorIntro::
-	.string "Hi, I'm {STR_VAR_1}.\n"
-	.string "I'm a COLLECTOR.$"
+	.string "Hai, aku {STR_VAR_1}.\n"
+	.string "Aku seorang COLLECTOR.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CollectorMon1::
-	.string "The jewels in my collection are\n"
-	.string "my {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Permata dalam koleksiku adalah\n"
+	.string "{STR_VAR_2}-ku dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CollectorMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}!\p"
-	.string "Swell, huh?\n"
-	.string "We should be in a team together.$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "Hebat, kan?\n"
+	.string "Kita harus berada dalam satu tim.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CollectorAccept::
-	.string "Oh, yeah!\p"
-	.string "Well, let's not waste any time.\n"
-	.string "I'll go register the two of us.$"
+	.string "Oh, ya!\p"
+	.string "Baiklah, jangan buang waktu.\n"
+	.string "Aku akan mendaftarkan kita berdua.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CollectorReject::
-	.string "Well, that's upsetting.\n"
-	.string "You don't appreciate my POKéMON.$"
+	.string "Yah, itu menyebalkan.\n"
+	.string "Kamu tidak menghargai POKéMON-ku.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerMIntro::
-	.string "Howdy, I'm {STR_VAR_1}.\n"
-	.string "I'm a POKéMON RANGER.$"
+	.string "Howdy, aku {STR_VAR_1}.\n"
+	.string "Aku seorang POKéMON RANGER.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerMMon1::
-	.string "Keeping me company are one\n"
-	.string "{STR_VAR_1}-using {STR_VAR_2} and$"
+	.string "Yang menemaniku adalah satu\n"
+	.string "{STR_VAR_2} pemakai {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerMMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}!\p"
-	.string "Don't you think we'd make an impressive\n"
-	.string "tag team?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "Tidakkah menurutmu kita akan membuat\n"
+	.string "tag team yang mengesankan?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerMAccept::
-	.string "That's super!\n"
-	.string "I'll deal with the registration now.$"
+	.string "Itu super!\n"
+	.string "Aku akan mengurus pendaftarannya sekarang.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerMReject::
-	.string "Next time, choose my POKéMON,\n"
-	.string "will you?$"
+	.string "Lain kali, pilih POKéMON-ku,\n"
+	.string "ya?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerFIntro::
-	.string "My name's {STR_VAR_1}.\n"
-	.string "I'm a POKéMON RANGER!$"
+	.string "Namaku {STR_VAR_1}.\n"
+	.string "Aku seorang POKéMON RANGER!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerFMon1::
-	.string "Let me tell you about my team. I have\n"
-	.string "one {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Biar kuceritakan tentang timku. Aku punya\n"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerFMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}!\p"
-	.string "How would you like to form a tag team\n"
-	.string "with my little posse?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "Bagaimana kalau kamu membentuk tag team\n"
+	.string "dengan pasukan kecilku?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerFAccept::
-	.string "We'll be at our best!\n"
-	.string "I'll get the registration done quick!$"
+	.string "Kita akan menjadi yang terbaik!\n"
+	.string "Aku akan menyelesaikan pendaftarannya dengan cepat!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerFReject::
-	.string "I hope you'll choose my POKéMON\n"
-	.string "next time.$"
+	.string "Kuharap kamu akan memilih POKéMON-ku\n"
+	.string "lain kali.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_AromaLadyIntro::
-	.string "Pleased to meet you. I'm {STR_VAR_1}.\n"
-	.string "I consider myself an AROMA LADY.$"
+	.string "Senang bertemu denganmu. Aku {STR_VAR_1}.\n"
+	.string "Aku menganggap diriku seorang AROMA LADY.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_AromaLadyMon1::
-	.string "I travel with one {STR_VAR_2}\n"
-	.string "that uses {STR_VAR_1} and$"
+	.string "Aku bepergian dengan satu {STR_VAR_2}\n"
+	.string "yang memakai {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_AromaLadyMon2Ask::
-	.string "one {STR_VAR_2} that uses\n"
+	.string "satu {STR_VAR_2} yang memakai\n"
 	.string "{STR_VAR_1}.\p"
-	.string "I hope they strike your fancy.\n"
-	.string "Would you care to be my partner?$"
+	.string "Kuharap mereka menarik perhatianmu.\n"
+	.string "Maukah kamu menjadi partner-ku?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_AromaLadyAccept::
-	.string "I'm honored by your acceptance.\n"
-	.string "I will go register right this instant.$"
+	.string "Aku merasa terhormat atas penerimaanmu.\n"
+	.string "Aku akan segera mendaftar.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_AromaLadyReject::
-	.string "It would be wonderful if we could form\n"
-	.string "a tag team the next time we meet.$"
+	.string "Akan sangat menyenangkan jika kita bisa\n"
+	.string "membentuk tag team lain kali kita bertemu.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RuinManiacIntro::
-	.string "Want to know who I am?\n"
-	.string "I'm {STR_VAR_1}, the RUIN MANIAC!$"
+	.string "Mau tahu siapa aku?\n"
+	.string "Aku {STR_VAR_1}, si RUIN MANIAC!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RuinManiacMon1::
-	.string "The POKéMON that I have with me are\n"
-	.string "one {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "POKéMON yang kubawa adalah\n"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RuinManiacMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}!\p"
-	.string "Intriguing, eh?\n"
-	.string "How about you and I partner up?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "Menarik, kan?\n"
+	.string "Bagaimana kalau kita berpartner?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RuinManiacAccept::
-	.string "That's a sound decision!\n"
-	.string "I'll go do the registration paperwork.$"
+	.string "Itu keputusan yang bagus!\n"
+	.string "Aku akan mengurus surat-surat pendaftarannya.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RuinManiacReject::
 	.string "Hmm…\n"
-	.string "I think my POKéMON are tough…$"
+	.string "Kupikir POKéMON-ku tangguh…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerMIntro::
-	.string "I'm COOLTRAINER {STR_VAR_1}!$"
+	.string "Aku COOLTRAINER {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerMMon1::
-	.string "The POKéMON I have right now are one\n"
-	.string "{STR_VAR_2} with {STR_VAR_1} and$"
+	.string "POKéMON yang aku punya sekarang adalah satu\n"
+	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerMMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}.\n"
-	.string "Cool, huh?\p"
-	.string "Don't you think it'd be pretty cool\n"
-	.string "if we made a tag team?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\n"
+	.string "Keren, kan?\p"
+	.string "Tidakkah menurutmu akan sangat keren\n"
+	.string "jika kita membuat tag team?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerMAccept::
-	.string "Cool!\n"
-	.string "I'll go do the registration in a flash!$"
+	.string "Keren!\n"
+	.string "Aku akan mendaftar dalam sekejap!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerMReject::
-	.string "I thought that we'd make just\n"
-	.string "the greatest team ever.$"
+	.string "Kupikir kita akan menjadi tim\n"
+	.string "terhebat yang pernah ada.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerFIntro::
-	.string "I'm COOLTRAINER {STR_VAR_1}!$"
+	.string "Aku COOLTRAINER {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerFMon1::
-	.string "The team I've been raising has one\n"
-	.string "{STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Tim yang kubesarkan punya satu\n"
+	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerFMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}.\p"
-	.string "Does that sound okay?\n"
-	.string "How about we become tag partners?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "Kedengarannya oke?\n"
+	.string "Bagaimana kalau kita menjadi partner tag?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerFAccept::
-	.string "Sounds A-OK!\n"
-	.string "I'd better do the registration.$"
+	.string "Terdengar A-OK!\n"
+	.string "Sebaiknya aku melakukan pendaftaran.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerFReject::
-	.string "I was thinking how we would be\n"
-	.string "one tough team…$"
+	.string "Aku berpikir bagaimana kita akan menjadi\n"
+	.string "satu tim yang tangguh…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokemaniacIntro::
 	.string "Heyo!\n"
-	.string "I'm {STR_VAR_1}, the POKéMANIAC!$"
+	.string "Aku {STR_VAR_1}, sang POKéMANIAC!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokemaniacMon1::
-	.string "What does a guy like me have?\n"
-	.string "One {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Apa yang dimiliki orang sepertiku?\n"
+	.string "Satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokemaniacMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1},\n"
-	.string "that's what!\p"
-	.string "Let's do it!\n"
-	.string "We'll stomp around as a tag team!$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1},\n"
+	.string "begitulah!\p"
+	.string "Ayo lakukan!\n"
+	.string "Kita akan menggebrak sebagai tag team!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokemaniacAccept::
-	.string "Good call!\n"
-	.string "I'll register the both of us!$"
+	.string "Pilihan bagus!\n"
+	.string "Aku akan mendaftarkan kita berdua!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokemaniacReject::
-	.string "My POKéMON are brutal!\n"
-	.string "It's not my fault if you regret this!$"
+	.string "POKéMON-ku brutal!\n"
+	.string "Bukan salahku jika kamu menyesal!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_KindlerIntro::
-	.string "Yo, there!\n"
-	.string "I'm KINDLER {STR_VAR_1}!$"
+	.string "Yo, halo!\n"
+	.string "Aku KINDLER {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_KindlerMon1::
-	.string "You know what my training cooked up?\n"
-	.string "One {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Kamu tahu apa yang dihasilkan latihanku?\n"
+	.string "Satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_KindlerMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}!\p"
-	.string "Well, what do you say?\n"
-	.string "Want to form a tag team?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "Jadi, bagaimana katamu?\n"
+	.string "Mau membentuk tag team?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_KindlerAccept::
-	.string "All right!\n"
-	.string "I'll get on with the registration.$"
+	.string "Baiklah!\n"
+	.string "Aku akan melanjutkan pendaftaran.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_KindlerReject::
-	.string "Promise you'll partner up with me\n"
-	.string "the next time we run into each other.$"
+	.string "Berjanjilah kamu akan berpartner denganku\n"
+	.string "lain kali kita bertemu.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CamperIntro::
-	.string "I'm {STR_VAR_1}, and I'm a CAMPER!$"
+	.string "Aku {STR_VAR_1}, dan aku seorang CAMPER!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CamperMon1::
-	.string "I've been raising one {STR_VAR_1}-\n"
-	.string "using {STR_VAR_2} and one$"
+	.string "Aku telah membesarkan satu {STR_VAR_1}-\n"
+	.string "memakai {STR_VAR_2} dan satu$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CamperMon2Ask::
-	.string "{STR_VAR_1}-using {STR_VAR_2}.\p"
-	.string "Do you think it'd be fun to team up?\n"
-	.string "I bet it would be!$"
+	.string "{STR_VAR_2} pemakai {STR_VAR_1}.\p"
+	.string "Menurutmu menyenangkan tidak untuk satu tim?\n"
+	.string "Aku yakin akan menyenangkan!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CamperAccept::
 	.string "Yeah!\n"
-	.string "Off I go to register!$"
+	.string "Aku pergi mendaftar!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CamperReject::
-	.string "Next time, okay?\n"
-	.string "I want to be on your team.$"
+	.string "Lain kali, ya?\n"
+	.string "Aku ingin ada di timmu.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PicnickerIntro::
-	.string "Hello!\n"
-	.string "I'm {STR_VAR_1}, and I'm a PICNICKER!$"
+	.string "Halo!\n"
+	.string "Aku {STR_VAR_1}, dan aku seorang PICNICKER!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PicnickerMon1::
-	.string "The POKéMON I've been taking are\n"
-	.string "one {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "POKéMON yang kubawa adalah\n"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PicnickerMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}.\p"
-	.string "Are you interested in joining me\n"
-	.string "on a tag team?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "Apa kamu tertarik bergabung denganku\n"
+	.string "dalam sebuah tag team?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PicnickerAccept::
-	.string "Why, thank you!\n"
-	.string "I will do the registration now.$"
+	.string "Wah, terima kasih!\n"
+	.string "Aku akan melakukan pendaftaran sekarang.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PicnickerReject::
-	.string "It would be nice if I could join you\n"
-	.string "some other time.$"
+	.string "Akan menyenangkan jika aku bisa bergabung\n"
+	.string "denganmu lain waktu.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicMIntro::
-	.string "I'm PSYCHIC {STR_VAR_1}!$"
+	.string "Aku PSYCHIC {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicMMon1::
-	.string "The twosome I've been raising are\n"
-	.string "one {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Pasangan yang kubesarkan adalah\n"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicMMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}.\p"
-	.string "Would you like to form a tag team\n"
-	.string "with me?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "Maukah kamu membentuk tag team\n"
+	.string "denganku?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicMAccept::
-	.string "Sure thing!\n"
-	.string "I'll take care of the registration!$"
+	.string "Tentu saja!\n"
+	.string "Aku akan mengurus pendaftarannya!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicMReject::
-	.string "If we meet again, that's when I'd like\n"
-	.string "to team up with you.$"
+	.string "Jika kita bertemu lagi, saat itulah aku ingin\n"
+	.string "satu tim denganmu.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicFIntro::
-	.string "I'm {STR_VAR_1}.\n"
-	.string "I'm a PSYCHIC.$"
+	.string "Aku {STR_VAR_1}.\n"
+	.string "Aku seorang PSYCHIC.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicFMon1::
-	.string "One {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicFMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}--\n"
-	.string "they're my disciples.\p"
-	.string "Doesn't the idea of forming a tag-team\n"
-	.string "partnership intrigue you?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}--\n"
+	.string "mereka adalah murid-muridku.\p"
+	.string "Tidakkah ide membentuk kemitraan\n"
+	.string "tag-team membuatmu tertarik?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicFAccept::
-	.string "Thank you.\n"
-	.string "I'll go deal with the registration.$"
+	.string "Terima kasih.\n"
+	.string "Aku akan mengurus pendaftarannya.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicFReject::
-	.string "I hope there will be another chance\n"
-	.string "to forge an alliance.$"
+	.string "Kuharap akan ada kesempatan lain\n"
+	.string "untuk menjalin aliansi.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidFIntro::
-	.string "I'm SCHOOL KID {STR_VAR_1}!$"
+	.string "Aku SCHOOL KID {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidFMon1::
-	.string "One {STR_VAR_1}-using {STR_VAR_2}$"
+	.string "Satu {STR_VAR_2} pemakai {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidFMon2Ask::
-	.string "and one {STR_VAR_1}-using\n"
-	.string "{STR_VAR_2} are my POKéMON pair.\p"
-	.string "May I please be your partner on\n"
-	.string "a tag team?$"
+	.string "dan satu {STR_VAR_2} pemakai {STR_VAR_1}\n"
+	.string "adalah pasangan POKéMON-ku.\p"
+	.string "Bolehkah aku menjadi partnermu di\n"
+	.string "sebuah tag team?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidFAccept::
-	.string "Ooh, thank you!\n"
-	.string "I'll register at the counter right away!$"
+	.string "Ooh, terima kasih!\n"
+	.string "Aku akan segera mendaftar di konter!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidFReject::
-	.string "Please?\n"
-	.string "May I join you the next time?$"
+	.string "Tolong?\n"
+	.string "Bolehkah aku bergabung lain kali?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederFIntro::
-	.string "Hiya! The name's {STR_VAR_1}!\n"
-	.string "I'm a POKéMON BREEDER!$"
+	.string "Hiya! Namaku {STR_VAR_1}!\n"
+	.string "Aku seorang POKéMON BREEDER!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederFMon1::
-	.string "The POKéMON I've raised are one\n"
-	.string "{STR_VAR_1}-using {STR_VAR_2} and$"
+	.string "POKéMON yang kubesarkan adalah satu\n"
+	.string "{STR_VAR_2} pemakai {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederFMon2Ask::
-	.string "one {STR_VAR_1}-using {STR_VAR_2}.\p"
-	.string "Sound interesting?\n"
-	.string "How about we form a tag team, then?$"
+	.string "satu {STR_VAR_2} pemakai {STR_VAR_1}.\p"
+	.string "Terdengar menarik?\n"
+	.string "Bagaimana kalau kita membentuk tag team?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederFAccept::
-	.string "All righty!\n"
-	.string "You leave the registration to me!$"
+	.string "Baiklah!\n"
+	.string "Serahkan pendaftaran padaku!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederFReject::
-	.string "You have to team up with me next time,\n"
-	.string "all right?$"
+	.string "Kamu harus satu tim denganku lain kali,\n"
+	.string "oke?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanFIntro::
-	.string "I'm {STR_VAR_1}, and I'm proud to say\n"
-	.string "that I am a POKéFAN.$"
+	.string "Aku {STR_VAR_1}, dan dengan bangga kukatakan\n"
+	.string "bahwa aku adalah seorang POKéFAN.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanFMon1::
-	.string "The darling POKéMON I've raised are\n"
-	.string "one {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "POKéMON kesayangan yang kubesarkan adalah\n"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanFMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}.\p"
-	.string "Aren't they just the cutest?\n"
-	.string "We ought to make a team!$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "Bukankah mereka yang paling lucu?\n"
+	.string "Kita harus membuat sebuah tim!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanFAccept::
-	.string "Thank you, dear!\n"
-	.string "I'll be on my way to register!$"
+	.string "Terima kasih, sayang!\n"
+	.string "Aku akan segera mendaftar!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanFReject::
-	.string "My darling POKéMON are the best,\n"
-	.string "I'll have you know. How annoying!$"
+	.string "POKéMON kesayanganku yang terbaik,\n"
+	.string "asal kamu tahu. Menyebalkan sekali!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerFIntro::
-	.string "Hi, I'm SWIMMER {STR_VAR_1}.$"
+	.string "Hai, Aku PERENANG {STR_VAR_1}.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerFMon1::
-	.string "One {STR_VAR_1}-using {STR_VAR_2}$"
+	.string "Satu {STR_VAR_2} pengguna {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerFMon2Ask::
-	.string "and one {STR_VAR_1}-using\n"
-	.string "{STR_VAR_2} are what I've trained.\p"
-	.string "You and me, let's make a tag team.$"
+	.string "dan satu {STR_VAR_2} pengguna {STR_VAR_1}\n"
+	.string "yang sudah kulatih.\p"
+	.string "Ayo kita buat tim tag.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerFAccept::
-	.string "That's cool!\n"
-	.string "I'll register the two of us.$"
+	.string "Keren!\n"
+	.string "Aku akan mendaftarkan kita berdua.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerFReject::
-	.string "If we meet again, you owe me\n"
-	.string "a tag team!$"
+	.string "Jika bertemu lagi, kamu harus\n"
+	.string "satu tim denganku!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteMIntro::
-	.string "What's happening?\n"
-	.string "I'm {STR_VAR_1}, and I'm a TRIATHLETE.$"
+	.string "Ada apa?\n"
+	.string "Aku {STR_VAR_1}, seorang ATLET TRIATLON.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteMMon1::
-	.string "I got a couple decent POKéMON.\n"
-	.string "One {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Aku punya beberapa POKéMON lumayan.\n"
+	.string "Satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteMMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}!\p"
-	.string "It'd be neat if we made a tag team\n"
-	.string "together, so how about it?$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "Akan keren jika kita membentuk tim\n"
+	.string "tag, bagaimana?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteMAccept::
-	.string "Right on!\n"
-	.string "You wait while I register, okay?$"
+	.string "Mantap!\n"
+	.string "Tunggu selagi aku mendaftar, oke?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteMReject::
-	.string "I expect you'll let me join you\n"
-	.string "next time, how's that?$"
+	.string "Lain kali, ajak aku bergabung ya?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteFIntro::
-	.string "I'm the TRIATHLETE {STR_VAR_1}!$"
+	.string "Aku ATLET TRIATLON {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteFMon1::
-	.string "One {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteFMon2Ask::
-	.string "another {STR_VAR_2} that knows how\n"
-	.string "to use {STR_VAR_1}. That's my pair.\p"
-	.string "What do you think?\n"
-	.string "We'd make a good team, I'd say.$"
+	.string "{STR_VAR_2} lain yang bisa menggunakan\n"
+	.string "{STR_VAR_1}. Itulah pasanganku.\p"
+	.string "Bagaimana menurutmu?\n"
+	.string "Menurutku kita akan jadi tim yang bagus.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteFAccept::
-	.string "I like that answer!\n"
-	.string "I'll get done with registration fast!$"
+	.string "Aku suka jawaban itu!\n"
+	.string "Aku akan segera selesaikan pendaftaran!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteFReject::
-	.string "You'll give me another chance to form\n"
-	.string "a partnership, won't you?$"
+	.string "Beri aku kesempatan lain untuk\n"
+	.string "bermitra, ya?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerMIntro::
-	.string "Hi, there! Hello!\n"
-	.string "I'm {STR_VAR_1}, and I'm a SWIMMER!$"
+	.string "Hai! Halo!\n"
+	.string "Aku {STR_VAR_1}, seorang PERENANG!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerMMon1::
-	.string "Check out what I've been raising!\n"
-	.string "One {STR_VAR_2} with {STR_VAR_1} and$"
+	.string "Lihat yang sudah kulatih!\n"
+	.string "Satu {STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerMMon2Ask::
-	.string "one {STR_VAR_2} with {STR_VAR_1}!\p"
-	.string "Sweet, huh?\n"
-	.string "It'd be sweet to form a team, too!$"
+	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "Keren, kan?\n"
+	.string "Akan keren juga jika membentuk tim!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerMAccept::
-	.string "Much obliged!\n"
-	.string "I'll get this registration thing done!$"
+	.string "Terima kasih!\n"
+	.string "Aku akan selesaikan pendaftaran ini!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerMReject::
-	.string "If we meet again, you have to team up\n"
-	.string "with me. You'll do that, right?$"
-
+	.string "Jika kita bertemu lagi, kamu harus\n"
+	.string "satu tim denganku. Janji, ya?$"

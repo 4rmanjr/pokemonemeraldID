@@ -1,3 +1,4 @@
+//gemini
 SootopolisCity_PokemonCenter_1F_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, SootopolisCity_PokemonCenter_1F_OnTransition
 	map_script MAP_SCRIPT_ON_RESUME, CableClub_OnResume
@@ -44,27 +45,30 @@ SootopolisCity_PokemonCenter_1F_EventScript_WomanNoLegendaries::
 	end
 
 SootopolisCity_PokemonCenter_1F_Text_WallaceToughestInHoenn:
-	.string "WALLACE is rumored to be the toughest\n"
-	.string "TRAINER in the whole HOENN region.\p"
-	.string "This town's GYM is led by the TRAINER\n"
-	.string "who taught WALLACE.\p"
-	.string "But the ELITE FOUR… They're said to be\n"
-	.string "even stronger than WALLACE's mentor.\p"
-	.string "How strong could they be?$"
+	.string "WALLACE dirumorkan sebagai TRAINER\n"
+	.string "terkuat di seluruh wilayah HOENN.\p"
+	.string "GIM kota ini dipimpin oleh TRAINER\n"
+	.string "yang mengajar WALLACE.\p"
+	.string "Tapi ELITE EMPAT… Mereka dikatakan\n"
+	.string "bahkan lebih kuat dari mentor\l"
+	.string "WALLACE.\p"
+	.string "Seberapa kuatkah mereka?$"
 
 SootopolisCity_PokemonCenter_1F_Text_EveryoneTakenRefuge:
-	.string "Everyone in town has taken refuge\n"
-	.string "and won't come out of their homes.\p"
-	.string "Even I would rather not venture\n"
-	.string "outside.$"
+	.string "Semua orang di kota telah mengungsi\n"
+	.string "dan tidak mau keluar dari rumah\l"
+	.string "mereka.\p"
+	.string "Bahkan Aku lebih memilih untuk\n"
+	.string "tidak keluar.$"
 
 SootopolisCity_PokemonCenter_1F_Text_AlwaysBeFriendsWithPokemon:
-	.string "Whenever, wherever, and whatever\n"
-	.string "happens, I will always be friends with\l"
-	.string "POKéMON.\p"
-	.string "Because it's fun to be with POKéMON!$"
+	.string "Kapan pun, di mana pun, dan apa pun\n"
+	.string "yang terjadi, Aku akan selalu\l"
+	.string "berteman dengan POKéMON.\p"
+	.string "Karena menyenangkan berada bersama\n"
+	.string "POKéMON!$"
 
 SootopolisCity_PokemonCenter_1F_Text_ArentPokemonOurFriends:
-	.string "Aren't POKéMON our friends?\p"
-	.string "Why are they going wild this way?$"
-
+	.string "Bukankah POKéMON teman kita?\p"
+	.string "Mengapa mereka menjadi liar seperti\n"
+	.string "ini?$"

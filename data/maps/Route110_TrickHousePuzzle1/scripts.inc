@@ -1,3 +1,4 @@
+//gemini
 Route110_TrickHousePuzzle1_MapScripts::
 	map_script MAP_SCRIPT_ON_LOAD, Route110_TrickHousePuzzle1_OnLoad
 	.byte 0
@@ -37,41 +38,41 @@ Route110_TrickHousePuzzle1_EventScript_Robin::
 	end
 
 Route110_TrickHousePuzzle1_Text_WroteSecretCodeLockOpened::
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is fabulous.”\n"
-	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "{PLAYER} menuliskan kode rahasia di\n"
+	.string "pintu.\p"
+	.string "“TRICK MASTER luar biasa.……………………\p"
+	.string "Kuncinya terbuka!$"
 
 Route110_TrickHousePuzzle1_Text_SallyIntro:
-	.string "I'll hack and slash my way to victory\n"
-	.string "with the CUT we just learned!$"
+	.string "Aku akan menebas dan meretas jalanku\n"
+	.string "menuju kemenangan dengan CUT yang\l"
+	.string "baru saja kita pelajari!$"
 
 Route110_TrickHousePuzzle1_Text_SallyDefeat:
-	.string "Why are you so serious?$"
+	.string "Mengapa Kamu begitu serius?$"
 
 Route110_TrickHousePuzzle1_Text_SallyPostBattle:
-	.string "I never get tired of hacking\n"
-	.string "and slashing!$"
+	.string "Aku tidak pernah bosan menebas dan\n"
+	.string "meretas!$"
 
 Route110_TrickHousePuzzle1_Text_EddieIntro:
-	.string "I wandered into this weird house\n"
-	.string "by accident…$"
+	.string "Aku tersesat ke rumah aneh ini secara\n"
+	.string "tidak sengaja…$"
 
 Route110_TrickHousePuzzle1_Text_EddieDefeat:
-	.string "And now I've lost…$"
+	.string "Dan sekarang Aku kalah…$"
 
 Route110_TrickHousePuzzle1_Text_EddiePostBattle:
-	.string "I lost my way, I lost a battle, and I'm\n"
-	.string "now even more lost… I can't get out…$"
+	.string "Aku tersesat, Aku kalah dalam\n"
+	.string "pertarungan, dan sekarang Aku bahkan\l"
+	.string "lebih tersesat lagi… Aku tidak bisa\l"
+	.string "keluar…$"
 
 Route110_TrickHousePuzzle1_Text_RobinIntro:
-	.string "Just who is the TRICK MASTER?$"
+	.string "Sebenarnya siapa TRICK MASTER itu?$"
 
 Route110_TrickHousePuzzle1_Text_RobinDefeat:
-	.string "I lost while I was lost in thought!$"
+	.string "Aku kalah saat Aku sedang melamun!$"
 
 Route110_TrickHousePuzzle1_Text_RobinPostBattle:
-	.string "You're strong!\n"
-	.string "Just who are you?$"
-
+	.string "Kamu kuat! Sebenarnya siapa Kamu?$"

@@ -1,3 +1,4 @@
+//gemini
 SlateportCity_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, SlateportCity_OnTransition
 	map_script MAP_SCRIPT_ON_FRAME_TABLE, SlateportCity_OnFrame
@@ -920,435 +921,467 @@ SlateportCity_EventScript_BerryCrushRankingsSign::
 	end
 
 SlateportCity_Text_EnergyGuruSellWhatYouNeed:
-	.string "I'm the ENERGY GURU! I'll go for it and\n"
-	.string "sell you what you need!$"
+	.string "Aku GURU ENERGI! Aku akan bertekad\n"
+	.string "dan menjual padamu apa yang kamu\l"
+	.string "butuhkan!$"
 
 SlateportCity_Text_OhYourPokemon:
-	.string "Oh?\n"
-	.string "Your {STR_VAR_1}…$"
+	.string "Oh? {STR_VAR_1} milikmu…$"
 
 SlateportCity_Text_PleaseGiveItThisEffortRibbon:
-	.string "Went for it stupendously!\p"
-	.string "As its reward, please give it this\n"
-	.string "EFFORT RIBBON.$"
+	.string "Bertekad dengan luar biasa!\p"
+	.string "Sebagai hadiahnya, berikanlah PITA\n"
+	.string "UPAYA ini.$"
 
 SlateportCity_Text_ReceivedEffortRibbon:
-	.string "{PLAYER} received the EFFORT RIBBON.$"
+	.string "{PLAYER} menerima PITA UPAYA.$"
 
 SlateportCity_Text_PutEffortRibbonOnMon:
-	.string "{PLAYER} put the EFFORT RIBBON\n"
-	.string "on {STR_VAR_1}.$"
+	.string "{PLAYER} memasang PITA UPAYA pada\n"
+	.string "{STR_VAR_1}.$"
 
 SlateportCity_Text_GoForItLittleHarder:
-	.string "You have to go for it a little harder.\p"
-	.string "If you do, I'll give your POKéMON\n"
-	.string "something nice.$"
+	.string "Kamu harus bertekad sedikit lebih\n"
+	.string "keras.\p"
+	.string "Jika kamu melakukannya, Aku akan\n"
+	.string "memberikan sesuatu yang bagus untuk\l"
+	.string "POKéMON-mu.$"
 
 SlateportCity_Text_EffortRibbonLooksGoodOnIt:
-	.string "Oh! Your {STR_VAR_1}, that EFFORT\n"
-	.string "RIBBON looks good on it!$"
+	.string "Oh! {STR_VAR_1} milikmu, PITA UPAYA\n"
+	.string "itu terlihat bagus dikenakannya!$"
 
 SlateportCity_Text_WonderIfLighthouseStartlesPokemon:
-	.string "The light of the lighthouse reaches\n"
-	.string "dozens of miles away.\p"
-	.string "I wonder if it doesn't startle POKéMON\n"
-	.string "in the sea.$"
+	.string "Cahaya mercusuar mencapai puluhan\n"
+	.string "mil jauhnya.\p"
+	.string "Aku ingin tahu apakah itu tidak\n"
+	.string "membuat POKéMON di laut terkejut.$"
 
 SlateportCity_Text_SeaweedFullOfLife:
-	.string "Ooh, look at this!\p"
-	.string "The seaweed you can get around these\n"
-	.string "parts is fresh and full of life.\p"
-	.string "Why, it looks like it can even rear up\n"
-	.string "and attack!$"
+	.string "Wah, lihat ini!\p"
+	.string "Rumput laut yang bisa kamu dapatkan\n"
+	.string "di sekitar sini segar dan penuh\l"
+	.string "kehidupan.\p"
+	.string "Wah, kelihatannya bahkan bisa\n"
+	.string "berdiri tegak dan menyerang!$"
 
 SlateportCity_Text_HowTownIsBornAndGrows:
-	.string "Where the water is clean, the fruits\n"
-	.string "of bountiful harvest gather.\p"
-	.string "And where people gather, a market\n"
-	.string "soon starts.\p"
-	.string "That is how a town is born and grows.$"
+	.string "Tempat air bersih, hasil panen\n"
+	.string "melimpah berkumpul.\p"
+	.string "Dan tempat orang-orang berkumpul,\n"
+	.string "pasar segera dimulai.\p"
+	.string "Begitulah kota lahir dan tumbuh.$"
 
 SlateportCity_Text_SlateportWonderfulPlace:
-	.string "Shopping where you can breathe the\n"
-	.string "scent of the ocean…\p"
-	.string "SLATEPORT is such a wonderful place!$"
+	.string "Berbelanja di tempat kamu bisa\n"
+	.string "menghirup aroma laut…\p"
+	.string "SLATEPORT adalah tempat yang sangat\n"
+	.string "indah!$"
 
 SlateportCity_Text_BuyBricksSoDecorWontGetDirty:
-	.string "If you put DOLLS or CUSHIONS on\n"
-	.string "the floor, they'll get dirty.\p"
-	.string "I'm going to buy some BRICKS so my\n"
-	.string "DOLLS and CUSHIONS won't get dirty\l"
-	.string "when I leave them out.$"
+	.string "Jika kamu meletakkan BONEKA atau\n"
+	.string "BANTAL di lantai, benda-benda itu\l"
+	.string "akan kotor.\p"
+	.string "Aku akan membeli beberapa BATU BATA\n"
+	.string "agar BONEKA dan BANTAL-ku tidak\l"
+	.string "kotor saat Aku meninggalkannya.$"
 
 SlateportCity_Text_GoingToCompeteInBattleTent:
-	.string "Wroooar! I'm going to compete in\n"
-	.string "the BATTLE TENT, too!\p"
-	.string "But before that, I need to catch\n"
-	.string "some POKéMON!$"
+	.string "Grooar! Aku juga akan berkompetisi\n"
+	.string "di KEMAH PERTARUNGAN!\p"
+	.string "Tapi sebelum itu, Aku harus\n"
+	.string "menangkap beberapa POKéMON!$"
 
 SlateportCity_Text_BushedHikingFromMauville:
-	.string "Whew… I'm just bushed…\p"
-	.string "I hiked over from MAUVILLE CITY.\n"
-	.string "But, boy, this city's huge.\p"
-	.string "If I'd known this, I would've ridden\n"
-	.string "my BIKE here.$"
+	.string "Fiuh… Aku benar-benar lelah…\p"
+	.string "Aku berjalan kaki dari KOTA\n"
+	.string "MAUVILLE. Tapi, wah, kota ini besar\l"
+	.string "sekali.\p"
+	.string "Jika Aku tahu ini, Aku akan menaiki\n"
+	.string "SEPEDA-ku ke sini.$"
 
 SlateportCity_Text_EveryoneCallsHimCaptStern:
-	.string "STERN, the fellow who built the\n"
-	.string "MUSEUM, also happens to be the leader\l"
-	.string "of an undersea exploration team.\p"
-	.string "So, everyone calls him CAPT. STERN.$"
+	.string "STERN, orang yang membangun MUSEUM,\n"
+	.string "kebetulan juga adalah pemimpin tim\l"
+	.string "eksplorasi bawah laut.\p"
+	.string "Jadi, semua orang memanggilnya\n"
+	.string "KAPTEN STERN.$"
 
 SlateportCity_Text_WhatsLongLineOverThere:
-	.string "What is that over there?\n"
-	.string "That long line…$"
+	.string "Apa itu di sana? Antrean panjang\n"
+	.string "itu…$"
 
 SlateportCity_Text_VisitedMuseumOften:
-	.string "When I was a child, I visited\n"
-	.string "the MUSEUM often.\p"
-	.string "I used to dream about the mysteries of\n"
-	.string "the sea after seeing the exhibits.$"
+	.string "Ketika Aku masih kecil, Aku sering\n"
+	.string "mengunjungi MUSEUM.\p"
+	.string "Aku sering memimpikan misteri laut\n"
+	.string "setelah melihat pameran.$"
 
 SlateportCity_Text_QuitPushing:
-	.string "Hey, there! Quit pushing!\n"
-	.string "This is the line, can't you see?$"
+	.string "Hei! Berhenti mendorong! Ini\n"
+	.string "antrean, tidakkah kamu lihat?$"
 
 SlateportCity_Text_AquaHasPolicy:
-	.string "TEAM AQUA has a policy of\n"
-	.string "assembling and dispersing at\l"
-	.string "the operation site.$"
+	.string "TEAM AQUA punya kebijakan untuk\n"
+	.string "berkumpul dan bubar di lokasi\l"
+	.string "operasi.$"
 
 SlateportCity_Text_BossIsBrilliant:
-	.string "Our BOSS is brilliant.\p"
-	.string "What would he want to do with\n"
-	.string "a MUSEUM now?$"
+	.string "BOS kami cemerlang.\p"
+	.string "Apa yang ingin dia lakukan dengan\n"
+	.string "MUSEUM sekarang?$"
 
 SlateportCity_Text_WhatsNewSchemeIWonder:
-	.string "What's the new scheme, I wonder?\p"
-	.string "Our BOSS is scary when he's mad, so\n"
-	.string "I'd better not screw things up…$"
+	.string "Apa rencana barunya, ya?\p"
+	.string "BOS kami menakutkan saat marah,\n"
+	.string "jadi lebih baik Aku tidak mengacau…$"
 
 SlateportCity_Text_ShouldTakeItAll:
-	.string "If there's something we need in\n"
-	.string "the MUSEUM, we should take it all!$"
+	.string "Jika ada sesuatu yang kami butuhkan\n"
+	.string "di MUSEUM, kami harus mengambil\l"
+	.string "semuanya!$"
 
 SlateportCity_Text_DontButtIn:
-	.string "Hey, you there!\n"
-	.string "Don't butt in!$"
+	.string "Hei, kamu di sana! Jangan menyela!$"
 
 SlateportCity_Text_RemindsMeOfLongLineForGames:
-	.string "A long line, huh?\p"
-	.string "It reminds me of the times I lined up to\n"
-	.string "buy smash-hit games…$"
+	.string "Antrean panjang, ya?\p"
+	.string "Itu mengingatkanku pada saat-saat\n"
+	.string "Aku mengantre untuk membeli game\l"
+	.string "laris…$"
 
 SlateportCity_Text_WhyAreWeLiningUp:
-	.string "Why are we even lining up and paying?\n"
-	.string "We should just march in!$"
+	.string "Kenapa kita harus mengantre dan\n"
+	.string "membayar? Kita seharusnya langsung\l"
+	.string "masuk saja!$"
 
 SlateportCity_Text_WhatDoYouWant:
-	.string "What?\n"
-	.string "What do you want?$"
+	.string "Apa? Apa yang kamu mau?$"
 
 SlateportCity_Text_IllReadSignForYou:
-	.string "You want to read this sign?\n"
-	.string "I'll read it for you!$"
+	.string "Kamu mau membaca tanda ini? Aku\n"
+	.string "akan membacakannya untukmu!$"
 
 SlateportCity_Text_SaysSomethingLikeSeaIsEndless:
-	.string "Let's see…\p"
-	.string "Um… I think it says something like\n"
-	.string "“the life in the sea is endless.”\p"
-	.string "Yup, I'm pretty sure that's what\n"
-	.string "it says.$"
+	.string "Coba lihat…\p"
+	.string "Emm… Kurasa tertulis sesuatu\n"
+	.string "seperti “kehidupan di laut tak ada\l"
+	.string "habisnya.” Ya, Aku cukup yakin\l"
+	.string "begitulah bunyinya.$"
 
 SlateportCity_Text_ShouldveBroughtMyGameBoy:
-	.string "Grumble…\p"
-	.string "I should've brought my Game Boy\n"
-	.string "Advance so I wouldn't get bored in line…\p"
-	.string "Grumble…$"
+	.string "Gerutuan…\p"
+	.string "Seharusnya Aku membawa Game Boy\n"
+	.string "Advance-ku supaya Aku tidak bosan\l"
+	.string "mengantre…\p"
+	.string "Gerutuan…$"
 
 SlateportCity_Text_HotSpringsAfterOperation:
-	.string "When this operation's over, I'll take\n"
-	.string "you to a hot spring spa!\p"
-	.string "That's what our leader said.\n"
-	.string "I can't wait!$"
+	.string "Setelah operasi ini selesai, Aku\n"
+	.string "akan membawamu ke spa air panas!\p"
+	.string "Itu yang dikatakan pemimpin kami.\n"
+	.string "Aku tidak sabar!$"
 
 SlateportCity_Text_SeaIsSoWet:
-	.string "The sea is just so vast…\p"
-	.string "Could the sea have been made by\n"
-	.string "the tears shed by POKéMON?$"
+	.string "Laut itu sangat luas…\p"
+	.string "Mungkinkah laut tercipta dari air\n"
+	.string "mata yang ditumpahkan POKéMON?$"
 
 SlateportCity_Text_SinkOldBoats:
-	.string "Do you know what they do with old\n"
-	.string "ships that become too creaky to sail?\p"
-	.string "They sink them in the sea so they\n"
-	.string "become habitats for POKéMON.$"
+	.string "Apakah kamu tahu apa yang mereka\n"
+	.string "lakukan dengan kapal-kapal tua yang\l"
+	.string "terlalu reyot untuk berlayar?\p"
+	.string "Mereka menenggelamkannya di laut\n"
+	.string "agar menjadi habitat bagi POKéMON.$"
 
 SlateportCity_Text_BuyTooMuch:
-	.string "Whenever I visit here, I get carried\n"
-	.string "away and buy too much.$"
+	.string "Setiap kali Aku berkunjung ke sini,\n"
+	.string "Aku terbawa suasana dan membeli\l"
+	.string "terlalu banyak.$"
 
 SlateportCity_Text_GetNameRaterToHelpYou:
-	.string "If you want to change your POKéMON's\n"
-	.string "nickname, you'll have to get the NAME\l"
-	.string "RATER to help you.$"
+	.string "Jika kamu ingin mengubah nama\n"
+	.string "panggilan POKéMON-mu, kamu harus\l"
+	.string "meminta bantuan PENILAI NAMA.$"
 
 SlateportCity_Text_CantChangeTradeMonName:
-	.string "Any POKéMON you get in a trade,\n"
-	.string "you can't change its nickname.\p"
-	.string "The original TRAINER's love for that\n"
-	.string "POKéMON is in the nickname.$"
+	.string "POKéMON apa pun yang kamu dapatkan\n"
+	.string "dalam pertukaran, kamu tidak bisa\l"
+	.string "mengubah nama panggilannya.\p"
+	.string "Rasa cinta TRAINER asli terhadap\n"
+	.string "POKéMON itu ada dalam nama\l"
+	.string "panggilannya.$"
 
 SlateportCity_Text_BattleTentBuiltRecently:
-	.string "Recently, a BATTLE TENT was built\n"
-	.string "in SLATEPORT.\p"
-	.string "GYMS are fun, but the BATTLE TENT's\n"
-	.string "awesome in its own way.\p"
-	.string "You should go find tough POKéMON\n"
-	.string "for the BATTLE TENT!$"
+	.string "Baru-baru ini, KEMAH PERTARUNGAN\n"
+	.string "dibangun di SLATEPORT.\p"
+	.string "GEDUNG OLAHRAGA memang\n"
+	.string "menyenangkan, tapi KEMAH\l"
+	.string "PERTARUNGAN luar biasa dengan\l"
+	.string "caranya sendiri.\p"
+	.string "Kamu harus mencari POKéMON tangguh\n"
+	.string "untuk KEMAH PERTARUNGAN!$"
 
 SlateportCity_Text_CaptSternBeingInterviewed:
-	.string "I was hoping that it was a famous star\n"
-	.string "so I could get an autograph.\p"
-	.string "But who's that being interviewed?\n"
-	.string "Isn't that CAPT. STERN?$"
+	.string "Aku berharap itu adalah bintang\n"
+	.string "terkenal sehingga Aku bisa\l"
+	.string "mendapatkan tanda tangan.\p"
+	.string "Tapi siapa yang diwawancarai itu?\n"
+	.string "Bukankah itu KAPTEN STERN?$"
 
 SlateportCity_Text_InterviewerSoCool:
-	.string "That lady interviewer is so cool\n"
-	.string "and pretty.\p"
-	.string "When I grow up, I'm going to be\n"
-	.string "an international journalist!$"
+	.string "Pewawancara wanita itu sangat keren\n"
+	.string "dan cantik.\p"
+	.string "Ketika Aku besar nanti, Aku akan\n"
+	.string "menjadi jurnalis internasional!$"
 
 SlateportCity_Text_SternSaysDiscoveredSomething:
-	.string "CAPT. STERN says they discovered\n"
-	.string "something at the bottom of the sea.\p"
-	.string "I wonder what it is?\n"
-	.string "What could it be?$"
+	.string "KAPTEN STERN bilang mereka\n"
+	.string "menemukan sesuatu di dasar laut.\p"
+	.string "Aku ingin tahu apa itu? Apa\n"
+	.string "gerangan itu?$"
 
 SlateportCity_Text_CaptainComeBackWithBigFish:
-	.string "What's going on here?\p"
-	.string "Did the good CAPTAIN come back with\n"
-	.string "a big fish from the ocean floor?$"
+	.string "Apa yang terjadi di sini?\p"
+	.string "Apakah SANG KAPTEN kembali membawa\n"
+	.string "ikan besar dari dasar laut?$"
 
 SlateportCity_Text_AmIOnTV:
-	.string "Hey! Are you watching?\n"
-	.string "Am I on TV?$"
+	.string "Hei! Apakah kamu menonton? Apakah\n"
+	.string "Aku di TV?$"
 
 SlateportCity_Text_CaptainsACelebrity:
-	.string "A TV interview! Here!\n"
-	.string "The CAPTAIN's a celebrity!$"
+	.string "Wawancara TV! Di sini! KAPTEN\n"
+	.string "adalah seorang selebriti!$"
 
 SlateportCity_Text_BigSmileForCamera:
-	.string "TY: Okay, CAPT. STERN, a big smile\n"
-	.string "for the camera!$"
+	.string "TY: Oke, KAPTEN STERN, senyum lebar\n"
+	.string "ke kamera!$"
 
 SlateportCity_Text_MostInvaluableExperience:
-	.string "GABBY: I see, I see. You've had a most\n"
-	.string "invaluable experience…$"
+	.string "GABBY: Begitu, begitu. Kamu telah\n"
+	.string "mendapatkan pengalaman yang paling\l"
+	.string "tak ternilai…$"
 
 SlateportCity_Text_SternMoveAheadWithExploration:
-	.string "CAPT. STERN: Yes, indeed. We intend to\n"
-	.string "move ahead with our exploration.$"
+	.string "KAPTEN STERN: Ya, benar. Kami\n"
+	.string "berniat untuk melanjutkan\l"
+	.string "eksplorasi kami.$"
 
 SlateportCity_Text_GabbyWonderfulThanksForInterview:
-	.string "GABBY: That's wonderful, CAPT. STERN!\n"
-	.string "Thank you for taking the time from\l"
-	.string "your busy schedule to talk to us.\p"
-	.string "We hope we can interview you again\n"
-	.string "with news of more discoveries!$"
+	.string "GABBY: Itu luar biasa, KAPTEN\n"
+	.string "STERN! Terima kasih telah\l"
+	.string "menyempatkan waktu dari jadwal\l"
+	.string "sibukmu untuk berbicara dengan\l"
+	.string "kami.\p"
+	.string "Kami harap kami dapat mewawancarai\n"
+	.string "kamu lagi dengan berita penemuan\l"
+	.string "lainnya!$"
 
 SlateportCity_Text_SternWhewFirstInterview:
-	.string "CAPT. STERN: Whew…\p"
-	.string "That was my first time to be filmed for\n"
-	.string "TV. That was nerve-wracking.$"
+	.string "KAPTEN STERN: Fiuh…\p"
+	.string "Itu pertama kalinya Aku difilmkan\n"
+	.string "untuk TV. Itu sangat menegangkan.$"
 
 SlateportCity_Text_OhPlayerWeMadeDiscovery:
-	.string "Oh! {PLAYER}{KUN}!\n"
-	.string "You're looking great!\p"
-	.string "We made a huge discovery on our last\n"
-	.string "seafloor exploration.\p"
-	.string "We found an underwater cavern on\n"
-	.string "ROUTE 128.\p"
-	.string "We think it's the habitat of a POKéMON\n"
-	.string "that's said to have been long extinct.$"
+	.string "Oh! {PLAYER}{KUN}! Kamu terlihat\n"
+	.string "hebat!\p"
+	.string "Kami membuat penemuan besar pada\n"
+	.string "eksplorasi dasar laut terakhir\l"
+	.string "kami.\p"
+	.string "Kami menemukan gua bawah laut di\n"
+	.string "RUTE 128.\p"
+	.string "Kami pikir itu adalah habitat\n"
+	.string "POKéMON yang dikatakan telah lama\l"
+	.string "punah.$"
 
 SlateportCity_Text_AquaWillAssumeControlOfSubmarine:
-	.string "Fufufu…\n"
-	.string "CAPT. STERN, I presume.\p"
-	.string "We of TEAM AQUA will assume\n"
-	.string "control of your submarine!\p"
-	.string "Your objections are meaningless!\n"
-	.string "We expect your total cooperation!\p"
-	.string "Fufufu…\n"
-	.string "Just watch and learn what TEAM\l"
-	.string "AQUA has planned!$"
+	.string "Fufufu… Kapten STERN, kurasa.\p"
+	.string "Kami dari TIM AQUA akan mengambil\n"
+	.string "alih kapal selam Kamu!\p"
+	.string "Keberatan Kamu tidak berarti! Kami\n"
+	.string "mengharapkan kerja sama total Kamu!\p"
+	.string "Fufufu… Tonton dan pelajari saja\n"
+	.string "apa yang telah direncanakan TIM\l"
+	.string "AQUA!$"
 
 SlateportCity_Text_SternWhatWasAllThat:
-	.string "CAPT. STERN: What was that all about?\p"
-	.string "It sounded like someone using\n"
-	.string "a megaphone…\p"
-	.string "Where did it come from?$"
+	.string "KAPTEN STERN: Apa maksud semua itu?\p"
+	.string "Kedengarannya seperti seseorang\n"
+	.string "menggunakan megafon…\p"
+	.string "Dari mana asalnya?$"
 
 SlateportCity_Text_FromHarborTryingToTakeSub:
-	.string "It's from the HARBOR!\p"
-	.string "The submarine!\n"
-	.string "They're trying to take it!$"
+	.string "Itu dari PELABUHAN!\p"
+	.string "Kapal selamnya! Mereka mencoba\n"
+	.string "mengambilnya!$"
 
 SlateportCity_Text_PleaseComeWithMe:
-	.string "{PLAYER}{KUN}!\n"
-	.string "Please, come with me!$"
+	.string "{PLAYER}{KUN}! Tolong, ikut Aku!$"
 
 SlateportCity_Text_BattleTentSign:
-	.string "BATTLE TENT SLATEPORT SITE\n"
-	.string "“Find it! The ultimate POKéMON!”$"
+	.string "TENTARA PERTARUNGAN LOKASI\n"
+	.string "SLATEPORT “Temukan itu! POKéMON\l"
+	.string "terhebat!$"
 
 SlateportCity_Text_SternsShipyardWantedSign:
-	.string "STERN'S SHIPYARD\p"
-	.string "“Wanted: A sailor capable of sailing\n"
-	.string "in all currents.”$"
+	.string "GALANGAN KAPAL STERN\p"
+	.string "“Dicari: Seorang pelaut yang mampu\n"
+	.string "berlayar di semua arus.$"
 
 SlateportCity_Text_SternsShipyardNearsCompletion:
-	.string "STERN'S SHIPYARD\p"
-	.string "“The ferry S.S. TIDAL nears\n"
-	.string "completion for serving the ports of\l"
-	.string "SLATEPORT and LILYCOVE.”$"
+	.string "GALANGAN KAPAL STERN\p"
+	.string "“Kapal feri S.S. TIDAL hampir\n"
+	.string "selesai untuk melayani pelabuhan\l"
+	.string "SLATEPORT dan LILYCOVE.$"
 
 SlateportCity_Text_SternsShipyardFerryComplete:
-	.string "STERN'S SHIPYARD\p"
-	.string "“Boarding of the SLATEPORT-LILYCOVE\n"
-	.string "ferry S.S. TIDAL is handled at the\l"
-	.string "HARBOR.”$"
+	.string "GALANGAN KAPAL STERN\p"
+	.string "“Pemberangkatan feri\n"
+	.string "SLATEPORT-LILYCOVE S.S. TIDAL\l"
+	.string "diurus di PELABUHAN.$"
 
 SlateportCity_Text_PokemonFanClubSign:
-	.string "POKéMON FAN CLUB\n"
-	.string "“Calling all fans of POKéMON!”$"
+	.string "KLUB PENGGEMAR POKéMON “Memanggil\n"
+	.string "semua penggemar POKéMON!$"
 
 SlateportCity_Text_OceanicMuseumSign:
-	.string "“The endless sea sustains\n"
-	.string "all life.”\p"
-	.string "OCEANIC MUSEUM$"
+	.string "“Lautan tak berujung menopang semua\n"
+	.string "kehidupan. MUSEUM LAUT$"
 
 SlateportCity_Text_CitySign:
-	.string "SLATEPORT CITY\p"
-	.string "“The port where people and POKéMON\n"
-	.string "cross paths.”$"
+	.string "KOTA SLATEPORT\p"
+	.string "“Pelabuhan tempat manusia dan\n"
+	.string "POKéMON bertemu.$"
 
 SlateportCity_Text_MarketSign:
-	.string "SLATEPORT MARKET\n"
-	.string "“Unique items found nowhere else!”$"
+	.string "PASAR SLATEPORT “Barang unik yang\n"
+	.string "tidak ditemukan di tempat lain!$"
 
 SlateportCity_Text_HarborFerryUnderConstruction:
-	.string "SLATEPORT HARBOR\p"
-	.string "“The ferry S.S. TIDAL is under\n"
-	.string "construction in the SHIPYARD.\p"
-	.string "“Service is scheduled to begin\n"
-	.string "shortly.”$"
+	.string "PELABUHAN SLATEPORT “Kapal feri\n"
+	.string "S.S. TIDAL sedang dalam pembangunan\l"
+	.string "di GALANGAN KAPAL.\p"
+	.string "“Layanan dijadwalkan akan segera\n"
+	.string "dimulai.\p"
+	.string "PELABUHAN SLATEPORT “Nikmati\n"
+	.string "pelayaran menyenangkan di atas feri\l"
+	.string "S.S. TIDAL.$"
 
 SlateportCity_Text_HarborSign:
-	.string "SLATEPORT HARBOR\p"
-	.string "“Enjoy a delightful cruise on\n"
-	.string "the ferry S.S. TIDAL.”$"
+	.string "RUMAH PENILAI NAMA “Nama panggilan\n"
+	.string "POKéMON dinilai.\p"
+	.string "Jika POKéMON liar terluka, ia\n"
+	.string "menyembuhkan dirinya sendiri dengan\l"
+	.string "mengunyah BERI.$"
 
 SlateportCity_Text_NameRatersHouseSign:
-	.string "NAME RATER'S HOUSE\n"
-	.string "“POKéMON nicknames rated.”$"
+	.string "Apa Kamu tahu itu?$"
 
 SlateportCity_Text_ExplainBerries:
-	.string "If a wild POKéMON gets hurt, it heals\n"
-	.string "itself by chewing on BERRIES.\p"
-	.string "Did you know that?\p"
-	.string "Somebody saw that and got the idea\n"
-	.string "of making medicine from BERRIES.\p"
-	.string "Did you know that?\p"
-	.string "To turn BERRIES into medicine,\n"
-	.string "they must be crushed into powder.\p"
-	.string "Did you know that?\p"
-	.string "You seem to have an interest\n"
-	.string "in BERRIES!\p"
-	.string "I've got something good for someone\n"
-	.string "like you.$"
+	.string "Seseorang melihat itu dan mendapat\n"
+	.string "ide untuk membuat obat dari BERI.\p"
+	.string "Apa Kamu tahu itu?\p"
+	.string "Untuk mengubah BERI menjadi obat,\n"
+	.string "mereka harus dihancurkan menjadi\l"
+	.string "bubuk.\p"
+	.string "Apa Kamu tahu itu?\p"
+	.string "Kamu sepertinya tertarik pada BERI!\p"
+	.string "Aku punya sesuatu yang bagus untuk\n"
+	.string "orang seperti Kamu.\p"
+	.string "Aku baru-baru ini memasang mesin di\n"
+	.string "PUSAT POKéMON untuk menghancurkan\l"
+	.string "BERI.\p"
+	.string "Mesin PENGHANCUR BERI ada di SUDUT\n"
+	.string "LANGSUNG di lantai atas.$"
 
 SlateportCity_Text_ExplainBerryPowder:
-	.string "I recently had machines installed at\n"
-	.string "POKéMON CENTERS for crushing BERRIES.\p"
-	.string "The BERRY CRUSH machines are at\n"
-	.string "the DIRECT CORNER upstairs.\p"
-	.string "Did you know?\p"
-	.string "Could you make BERRY POWDER for\n"
-	.string "me using those machines?\p"
-	.string "I can make you all sorts of medicine\n"
-	.string "if you bring me lots of BERRY POWDER.$"
+	.string "Apa Kamu tahu?\p"
+	.string "Bisakah Kamu membuat BUBUK BERI\n"
+	.string "untuk Aku menggunakan mesin-mesin\l"
+	.string "itu?\p"
+	.string "Aku bisa membuatkan Kamu segala\n"
+	.string "macam obat jika Kamu membawakan Aku\l"
+	.string "banyak BUBUK BERI.\p"
+	.string "Apa Kamu membawakan Aku BUBUK BERI?\p"
+	.string "Dengan apa Kamu ingin menukarnya?$"
 
 SlateportCity_Text_BroughtMeSomeBerryPowder:
-	.string "Have you brought me some\n"
-	.string "BERRY POWDER?$"
+	.string "Oke, Kamu ingin menukar BUBUK BERI\n"
+	.string "Kamu dengan satu {STR_VAR_1}?$"
 
 SlateportCity_Text_ExchangeWhatWithIt:
-	.string "What would you like to exchange\n"
-	.string "it with?$"
+	.string "Aduh. Kamu tidak punya cukup BUBUK\n"
+	.string "BERI.$"
 
 SlateportCity_Text_ExchangeBerryPowderForItem:
-	.string "Okay, you want to exchange your\n"
-	.string "BERRY POWDER for one {STR_VAR_1}?$"
+	.string "Ini BUBUK BERI yang bagus. Ini akan\n"
+	.string "menjadi obat yang luar biasa.$"
 
 SlateportCity_Text_DontHaveEnoughBerryPowder:
-	.string "Oh, dear. You don't have enough\n"
-	.string "BERRY POWDER.$"
+	.string "Apakah Kamu ingin menukar lebih\n"
+	.string "banyak BUBUK BERI Kamu dengan\l"
+	.string "sesuatu yang lain?$"
 
 SlateportCity_Text_FineBerryPowderTradeSomethingElse:
-	.string "This is fine BERRY POWDER.\n"
-	.string "It will make excellent medicine.\p"
-	.string "Would you like to trade more of your\n"
-	.string "BERRY POWDER for something else?$"
+	.string "Oke! Jika Kamu mendapatkan lebih\n"
+	.string "banyak BUBUK BERI, bawakan kepada\l"
+	.string "Aku, ya!\p"
+	.string "Kembalilah jika Kamu ingin menukar\n"
+	.string "BUBUK BERI Kamu dengan obat-obatan.$"
 
 SlateportCity_Text_WhenYouGetMoreBringItToMe:
-	.string "Okay! When you get some more\n"
-	.string "BERRY POWDER, bring it to me, please!$"
+	.string "Aku selalu mengadakan bazar di\n"
+	.string "sini.$"
 
 SlateportCity_Text_ComeBackToTradeBerryPowder:
-	.string "Come back if you'd like to trade your\n"
-	.string "BERRY POWDER for some medicine.\p"
-	.string "I'm always running a bazaar here.\p"
-	.string "Did you know?$"
+	.string "Apa Kamu tahu?\p"
+	.string "SCOTT: Hah? Aku yakin Aku pernah\n"
+	.string "bertemu Kamu di suatu tempat\l"
+	.string "sebelumnya.\p"
+	.string "Apa Aku sudah memperkenalkan diri\n"
+	.string "kepada Kamu? Jika belum, nama Aku\l"
+	.string "SCOTT.$"
 
 SlateportCity_Text_YouDroveTeamAquaAway:
-	.string "SCOTT: Huh?\n"
-	.string "I'm sure I met you somewhere before.\p"
-	.string "Have I introduced myself to you?\n"
-	.string "If not, my name's SCOTT.\p"
-	.string "I just saw TEAM AQUA run away from\n"
-	.string "here like they were stung.\p"
-	.string "Let me guess--you drove them away?$"
+	.string "Aku baru saja melihat TIM AQUA lari\n"
+	.string "dari sini seolah mereka tersengat.\p"
+	.string "Coba Aku tebak-Kamu yang mengusir\n"
+	.string "mereka?\p"
+	.string "SCOTT: Hmm… Mungkin, mungkin saja,\n"
+	.string "TRAINER ini…\p"
+	.string "SCOTT: Baiklah! Aku pikir Kamu akan\n"
+	.string "menjadi teman baik.$"
 
 SlateportCity_Text_MaybeThisTrainer:
-	.string "SCOTT: Hmm…\n"
-	.string "Maybe, just maybe, this TRAINER…$"
+	.string "Jadi, mari kita daftarkan satu sama\n"
+	.string "lain di POKéNAV kita.$"
 
 SlateportCity_Text_LetsRegisterEachOther:
-	.string "SCOTT: All right! I think you're going\n"
-	.string "to become a good friend.\p"
-	.string "So, let's register each other in our\n"
-	.string "POKéNAVS.\p"
-	.string "… … … … … …$"
+	.string "… … … … … …\p"
+	.string "Mendaftarkan orang bernama SCOTT\n"
+	.string "ini di POKéNAV.\p"
+	.string "SCOTT: Yang ingin Aku lakukan\n"
+	.string "adalah ikut bersama Kamu, tapi Aku\l"
+	.string "juga ingin mengawasi bakat orang\l"
+	.string "lain.$"
 
 SlateportCity_Text_RegisteredScott:
-	.string "Registered this SCOTT person\n"
-	.string "in the POKéNAV.$"
+	.string "Jadi, Aku akan berkelana ke\n"
+	.string "kota-kota lain sedikit lagi.$"
 
 SlateportCity_Text_KeepEyeOnTrainersBeSeeingYou:
-	.string "SCOTT: What I'd like to do is tag along\n"
-	.string "with you, but I do want to keep an eye\l"
-	.string "on the talents of other people, too.\p"
-	.string "So, I'll be off to roam other towns\n"
-	.string "a bit more.\p"
-	.string "Be seeing you, {PLAYER}{KUN}!$"
+	.string "Sampai jumpa, {PLAYER}{KUN}!\p"
+	.string "SCOTT: Oh, hei! Kalau bukan\n"
+	.string "{PLAYER}{KUN}!\p"
+	.string "{PLAYER}{KUN}, coba Aku tebak-Kamu\n"
+	.string "akan mengikuti tantangan TENTARA\l"
+	.string "PERTARUNGAN?$"
 
 SlateportCity_Text_TakingBattleTentChallenge:
-	.string "SCOTT: Oh, hey!\n"
-	.string "If it isn't {PLAYER}{KUN}!\p"
-	.string "{PLAYER}{KUN}, let me guess--you're going\n"
-	.string "to take the BATTLE TENT challenge?\p"
-	.string "Yeah! That's a good idea!\n"
-	.string "That's a really great idea!\p"
-	.string "After all, a tough TRAINER is\n"
-	.string "the perfect fit for the BATTLE TENT!\p"
-	.string "Give it your best effort!$"
+	.string "Ya! Itu ide yang bagus! Itu ide\n"
+	.string "yang sangat hebat!\p"
+	.string "Bagaimanapun, TRAINER yang tangguh\n"
+	.string "sangat cocok untuk TENTARA\l"
+	.string "PERTARUNGAN!\p"
+	.string "Berikan upaya terbaik Kamu!$"

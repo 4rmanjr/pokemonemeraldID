@@ -68,39 +68,41 @@ LilycoveCity_MoveDeletersHouse_EventScript_LastMonWithSurf::
 
 LilycoveCity_MoveDeletersHouse_Text_ICanMakeMonForgetMove:
 	.string "Uh…\n"
-	.string "Oh, yes, I'm the MOVE DELETER.\p"
-	.string "I can make POKéMON forget their moves.\p"
-	.string "Would you like me to do that?$"
+	.string "Oh, ya, aku adalah PENGHAPUS JURUS.\p"
+	.string "Aku bisa membuat POKéMON melupakan\n"
+	.string "jurus mereka.\p"
+	.string "Apa kamu mau aku melakukannya?$"
 
 LilycoveCity_MoveDeletersHouse_Text_WhichMonShouldForget:
-	.string "Which POKéMON should forget a move?$"
+	.string "POKéMON mana yang harus melupakan\n"
+	.string "jurus?$"
 
 LilycoveCity_MoveDeletersHouse_Text_WhichMoveShouldBeForgotten:
-	.string "Which move should be forgotten?$"
+	.string "Jurus mana yang harus dilupakan?$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonOnlyKnowsOneMove:
-	.string "{STR_VAR_1} knows only one move\n"
-	.string "so it can't be forgotten…$"
+	.string "{STR_VAR_1} hanya tahu satu jurus\n"
+	.string "jadi itu tidak bisa dilupakan…$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonsMoveShouldBeForgotten:
-	.string "Hm! {STR_VAR_1}'s {STR_VAR_2}?\n"
-	.string "That move should be forgotten?$"
+	.string "Hm! {STR_VAR_2} milik {STR_VAR_1}?\n"
+	.string "Jurus itu harus dilupakan?$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonHasForgottenMove:
-	.string "It worked to perfection!\p"
-	.string "{STR_VAR_1} has forgotten\n"
-	.string "{STR_VAR_2} completely.$"
+	.string "Berhasil dengan sempurna!\p"
+	.string "{STR_VAR_1} telah melupakan\n"
+	.string "{STR_VAR_2} sepenuhnya.$"
 
 LilycoveCity_MoveDeletersHouse_Text_ComeAgain:
-	.string "Come again if there are moves that\n"
-	.string "need to be forgotten.$"
+	.string "Datang lagi jika ada jurus yang perlu\n"
+	.string "dilupakan.$"
 
 LilycoveCity_MoveDeletersHouse_Text_EggCantForgetMoves:
-	.string "What?\n"
-	.string "No EGG should know any moves.$"
+	.string "Apa?\n"
+	.string "TELUR tidak seharusnya tahu jurus apa pun.$"
 
 LilycoveCity_MoveDeletersHouse_Text_CantForgetSurf:
 	.string "Hm!\p"
-	.string "Your {STR_VAR_1} doesn't seem willing\n"
-	.string "to forget SURF.$"
+	.string "{STR_VAR_1}-mu sepertinya tidak mau\n"
+	.string "melupakan SURF.$"
 

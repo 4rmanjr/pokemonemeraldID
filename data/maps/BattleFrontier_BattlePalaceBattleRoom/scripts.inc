@@ -1,3 +1,4 @@
+//gemini
 @ On this map the player will automatically walk into the room, but the camera is supposed to remain still.
 @ To do this GF sets the player (LOCALID_PLAYER) invisible and creates a fake player object (LOCALID_PALACE_BATTLE_PLAYER).
 @ The graphics of this fake player object are represented with VAR_OBJ_GFX_ID_1.
@@ -443,134 +444,144 @@ BattleFrontier_BattlePalaceBattleRoom_Movement_SpenserEnter:
 	step_end
 
 BattleFrontier_BattlePalaceBattleRoom_Text_LetMeRestoreYourMons:
-	.string "Excellent…\n"
-	.string "Let me restore your POKéMON.$"
+	.string "Hebat… Biar Aku pulihkan\n"
+	.string "POKéMON-mu.$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor2ndOpponent:
-	.string "The 2nd opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "Lawan ke-2 berikutnya. Apakah Kamu\n"
+	.string "siap?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor3rdOpponent:
-	.string "The 3rd opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "Lawan ke-3 berikutnya. Apakah Kamu\n"
+	.string "siap?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor4thOpponent:
-	.string "The 4th opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "Lawan ke-4 berikutnya. Apakah Kamu\n"
+	.string "siap?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor5thOpponent:
-	.string "The 5th opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "Lawan ke-5 berikutnya. Apakah Kamu\n"
+	.string "siap?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor6thOpponent:
-	.string "The 6th opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "Lawan ke-6 berikutnya. Apakah Kamu\n"
+	.string "siap?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor7thOpponent:
-	.string "The 7th opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "Lawan ke-7 berikutnya. Apakah Kamu\n"
+	.string "siap?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SaveAndQuitGame:
-	.string "Would you like to save and quit\n"
-	.string "the game?$"
+	.string "Apakah Kamu ingin menyimpan dan\n"
+	.string "keluar dari permainan?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_WishToQuitChallenge:
-	.string "Do you wish to quit your challenge?$"
+	.string "Apakah Kamu ingin mengakhiri\n"
+	.string "tantanganmu?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SavingData:
-	.string "Saving the data.\n"
-	.string "Have patience…$"
+	.string "Menyimpan data. Bersabarlah…$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_RecordLastMatch:
-	.string "Do you wish to record your latest\n"
-	.string "match on your FRONTIER PASS?$"
+	.string "Apakah Kamu ingin merekam\n"
+	.string "pertandingan terbarumu pada\l"
+	.string "FRONTIER PASS-mu?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ChallengingPalaceMaven:
-	.string "And now…\p"
-	.string "By winning consistently, you have\n"
-	.string "earned the privilege of challenging\l"
-	.string "our master, the PALACE MAVEN…$"
+	.string "Dan kini…\p"
+	.string "Karena menang secara konsisten,\n"
+	.string "Kamu telah mendapatkan hak istimewa\l"
+	.string "untuk menantang master kami, PALACE\l"
+	.string "MAVEN…$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ReadyForPalaceMaven:
-	.string "I shall send for the PALACE MAVEN.\n"
-	.string "Are you ready?$"
+	.string "Aku akan memanggil PALACE MAVEN.\n"
+	.string "Apakah Kamu siap?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_AnnounceArrivalOfSpenser:
-	.string "Let great fanfare announce the arrival\n"
-	.string "of the PALACE MAVEN, SPENSER!$"
+	.string "Biarkan sorak-sorai meriah\n"
+	.string "mengumumkan kedatangan PALACE\l"
+	.string "MAVEN, SPENSER!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserFirstIntro:
-	.string "SPENSER: My physical being is with\n"
-	.string "POKéMON always!\p"
-	.string "My heart beats as one with\n"
-	.string "POKéMON always!\p"
-	.string "Young one of a TRAINER!\n"
-	.string "Do you believe in your POKéMON?\p"
-	.string "Can you believe them through\n"
-	.string "and through?\p"
-	.string "If your bonds of trust are frail,\n"
-	.string "you will never beat my brethren!$"
+	.string "SPENSER: Keberadaan fisik Aku\n"
+	.string "selalu bersama POKéMON!\p"
+	.string "Jantung Aku berdetak sebagai satu\n"
+	.string "dengan POKéMON selalu!\p"
+	.string "Anak muda TRAINER! Apakah Kamu\n"
+	.string "percaya pada POKéMON-mu?\p"
+	.string "Dapatkah Kamu memercayai mereka\n"
+	.string "seutuhnya?\p"
+	.string "Jika ikatan kepercayaanmu rapuh,\n"
+	.string "Kamu takkan pernah mengalahkan\l"
+	.string "saudaraku!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ProveYourBondWithMons:
-	.string "The bond you share with your POKéMON!\n"
-	.string "Prove it to me here!$"
+	.string "Ikatan yang Kamu bagi dengan\n"
+	.string "POKéMON-mu! Buktikan itu kepada Aku\l"
+	.string "di sini!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserPostSilverBattle:
 	.string "SPENSER: Gwahahah!\p"
-	.string "Hah, you never fell for my bluster!\n"
-	.string "Sorry for trying that stunt!\p"
-	.string "Here!\n"
-	.string "Bring me the thing!$"
+	.string "Hah, Kamu tidak pernah termakan\n"
+	.string "gertakan Aku! Maaf karena mencoba\l"
+	.string "tipuan itu!\p"
+	.string "Ini! Bawa benda itu ke Aku!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_LetsSeeFrontierPass:
-	.string "My, my, if only you could maintain that\n"
-	.string "facade of distinguished authority…\p"
-	.string "Here!\n"
-	.string "Let's see your FRONTIER PASS!$"
+	.string "Astaga, andai saja Kamu bisa\n"
+	.string "mempertahankan penampilan penuh\l"
+	.string "wibawa itu…\p"
+	.string "Ini! Mari kita lihat FRONTIER\n"
+	.string "PASS-mu!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ReceivedSpiritsSymbol:
-	.string "The Spirits Symbol was embossed on\n"
-	.string "the FRONTIER PASS!$"
+	.string "Simbol Spirits dicetak pada\n"
+	.string "FRONTIER PASS!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserAwaitNextTime:
-	.string "SPENSER: Your POKéMON's eyes are \n"
-	.string "truly clear and unclouded.\p"
-	.string "I will eagerly await the next\n"
-	.string "opportunity to see you.$"
+	.string "SPENSER: Mata POKéMON-mu sungguh\n"
+	.string "jernih dan tak keruh.\p"
+	.string "Aku akan menanti dengan antusias\n"
+	.string "kesempatan berikutnya untuk bertemu\l"
+	.string "Kamu.$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserThisTimeWontHoldBack:
-	.string "SPENSER: Gwahahah!\n"
-	.string "You've battled your way up again?\p"
-	.string "You must have developed a truly\n"
-	.string "formidable bond with your POKéMON.\p"
-	.string "So be it!\p"
-	.string "This time, I won't bluster or hold back.\n"
-	.string "This time, there's no fooling around.\p"
-	.string "Ready now?\n"
-	.string "Prepare to lose!$"
+	.string "SPENSER: Gwahahah! Kamu bertarung\n"
+	.string "sampai ke puncak lagi?\p"
+	.string "Kamu pasti telah mengembangkan\n"
+	.string "ikatan yang benar-benar tangguh\l"
+	.string "dengan POKéMON-mu.\p"
+	.string "Baiklah!\p"
+	.string "Kali ini, Aku tidak akan menggertak\n"
+	.string "atau menahan diri. Kali ini, tidak\l"
+	.string "ada main-main.\p"
+	.string "Sudah siap? Bersiaplah untuk kalah!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_Kaaah:
 	.string "… … …Kaaah!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserYourTeamIsAdmirable:
-	.string "SPENSER: Well, that was some display!\n"
-	.string "Even fully unleashed, my brethren\l"
-	.string "could not overpower you.\p"
-	.string "Your team spirit is truly admirable!\p"
-	.string "Here!\n"
-	.string "Bring me that thing, will you?$"
+	.string "SPENSER: Wah, itu sungguh\n"
+	.string "pertunjukan! Bahkan saat dilepas\l"
+	.string "sepenuhnya, saudaraku tidak bisa\l"
+	.string "mengalahkan Kamu.\p"
+	.string "Semangat tim Kamu sungguh\n"
+	.string "mengagumkan!\p"
+	.string "Ini! Bawa benda itu ke Aku, mau?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_HurryWithFrontierPass:
-	.string "My, my, if only you could maintain\n"
-	.string "a certain level of decorum…\p"
-	.string "Gaaah, here!\n"
-	.string "Hurry with that FRONTIER PASS, you!$"
+	.string "Astaga, andai saja Kamu bisa\n"
+	.string "menjaga tingkat kesopanan tertentu…\p"
+	.string "Gaaah, ini! Cepat dengan FRONTIER\n"
+	.string "PASS itu, Kamu!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpiritsSymbolTookGoldenShine:
-	.string "The Spirits Symbol took on\n"
-	.string "a golden shine!$"
+	.string "Simbol Spirits memancarkan kilau\n"
+	.string "keemasan!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserComeSeeMeAgain:
 	.string "SPENSER: Gwahahah!\p"
-	.string "Come see me time and again!\n"
-	.string "My brethren and I will be waiting!$"
+	.string "Datanglah temui Aku lagi dan lagi!\n"
+	.string "Saudara-saudaraku dan Aku akan\l"
+	.string "menunggu!$"

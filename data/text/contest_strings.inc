@@ -1,314 +1,345 @@
+//gemini
 gText_AppealNumWhichMoveWillBePlayed::
-	.string "Appeal no. {STR_VAR_1}!\n"
-	.string "Which move will be played?$"
+	.string "Daya tarik no. undefined Jurus mana\n"
+	.string "yang akan dimainkan?$"
 
 gText_AppealNumButItCantParticipate::
-	.string "Appeal no. {STR_VAR_1}!\n"
-	.string "But it can't participate!$"
+	.string "Daya tarik no. undefined Tapi tidak\n"
+	.string "bisa ikut serta!$"
 
 gText_MonAppealedWithMove::
-	.string "{STR_VAR_1} appealed with\n"
-	.string "{STR_VAR_2}!$"
+	.string "undefined menarik perhatian dengan$"
 
 gText_MonWasWatchingOthers::
-	.string "{STR_VAR_1} was watching\n"
-	.string "the others.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "undefined sedang memperhatikan yang\n"
+	.string "lain.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_AllOutOfAppealTime::
-	.string "We're all out of\n"
-	.string "Appeal Time!{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Waktu Daya Tarik sudah\n"
+	.string "habis!{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 @ Appeal result texts
 
 gText_BecameMoreConsciousOfOtherMons::
-	.string "It became more conscious\n"
-	.string "of the other POKéMON.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Ia menjadi lebih sadar akan POKéMON\n"
+	.string "lain.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonCantMakeAnAppealAfterThis::
-	.string "{STR_VAR_1} can't make an\n"
-	.string "appeal after this.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "undefined tidak bisa membuat daya\n"
+	.string "tarik setelah\l"
+	.string "ini.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_SettledDownJustLittleBit::
-	.string "It settled down just a\n"
-	.string "little bit.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Ia sedikit menenangkan\n"
+	.string "diri.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_BecameObliviousToOtherMons::
-	.string "It became oblivious to\n"
-	.string "the other POKéMON.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Ia menjadi tidak peduli pada\n"
+	.string "POKéMON\l"
+	.string "lain.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_BecameLessAwareOfOtherMons::
-	.string "It became less aware of\n"
-	.string "the other POKéMON.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Ia menjadi kurang sadar akan\n"
+	.string "POKéMON\l"
+	.string "lain.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_StoppedCaringAboutOtherMons::
-	.string "It stopped caring about\n"
-	.string "other POKéMON much.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Ia berhenti terlalu memedulikan\n"
+	.string "POKéMON\l"
+	.string "lain.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_TriedToStartleOtherMons::
-	.string "It tried to startle the\n"
-	.string "other POKéMON.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Ia mencoba mengejutkan POKéMON\n"
+	.string "lain.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_TriedToDazzleOthers::
-	.string "It tried to dazzle the\n"
-	.string "others.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Ia mencoba memukau yang\n"
+	.string "lain.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_JudgeLookedAwayFromMon::
-	.string "The JUDGE looked away\n"
-	.string "from {STR_VAR_1}.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "JURI mengalihkan pandangan dari$"
 
 gText_TriedToUnnerveNextMon::
-	.string "It tried to unnerve the\n"
-	.string "next POKéMON.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Ia mencoba membuat gugup POKéMON\n"
+	.string "berikutnya.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonBecameNervous::
-	.string "{STR_VAR_1} became\n"
-	.string "nervous.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "undefined menjadi\n"
+	.string "gugup.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_AppealTriedToUnnerveWaitingMons::
-	.string "The appeal tried to\n"
-	.string "unnerve waiting POKéMON.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Daya tarik itu mencoba membuat\n"
+	.string "gugup POKéMON yang\l"
+	.string "menunggu.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_TauntedMonsDoingWell::
-	.string "It taunted POKéMON\n"
-	.string "doing well.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Ia mengejek POKéMON yang tampil\n"
+	.string "baik.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonRegainedItsForm::
-	.string "{STR_VAR_1} regained its\n"
-	.string "form.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "undefined mendapatkan kembali\n"
+	.string "performanya.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_TriedToJamMonDoingWell::
-	.string "It tried to jam POKéMON\n"
-	.string "doing well.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Ia mencoba menghalangi POKéMON yang\n"
+	.string "tampil\l"
+	.string "baik.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_StandoutMonHustledEvenMore::
-	.string "The standout {STR_VAR_1}\n"
-	.string "hustled even more.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "undefined yang menonjol berusaha\n"
+	.string "lebih keras\l"
+	.string "lagi.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_LargelyUnnoticedMonWorkedHard::
-	.string "The largely unnoticed\n"
-	.string "{STR_VAR_1} worked hard.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "undefined yang kurang diperhatikan\n"
+	.string "bekerja\l"
+	.string "keras.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_WorkedAsMuchAsMonBefore::
-	.string "It worked as much as\n"
-	.string "POKéMON before it.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Ia bekerja sekeras POKéMON\n"
+	.string "sebelumnya.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealDidNotGoWell::
-	.string "{STR_VAR_1}'s appeal did\n"
-	.string "not go well.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Daya tarik undefined tidak berjalan\n"
+	.string "dengan\l"
+	.string "baik.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_WorkedAsMuchAsPrecedingMon::
-	.string "It worked as much as the\n"
-	.string "preceding POKéMON.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Ia bekerja sekeras POKéMON yang\n"
+	.string "mendahului.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealDidNotGoWell2::
-	.string "{STR_VAR_1}'s appeal did\n"
-	.string "not go well.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Daya tarik undefined tidak berjalan\n"
+	.string "dengan\l"
+	.string "baik.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealDidNotGoWell3::
-	.string "{STR_VAR_1}'s appeal did\n"
-	.string "not go well.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Daya tarik undefined tidak berjalan\n"
+	.string "dengan\l"
+	.string "baik.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealWentSlightlyWell::
-	.string "{STR_VAR_1}'s appeal\n"
-	.string "went slightly well.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Daya tarik undefined berjalan\n"
+	.string "sedikit\l"
+	.string "baik.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealWentPrettyWell::
-	.string "{STR_VAR_1}'s appeal\n"
-	.string "went pretty well.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Daya tarik undefined berjalan cukup\n"
+	.string "baik.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealWentExcellently::
-	.string "{STR_VAR_1}'s appeal\n"
-	.string "went excellently.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Daya tarik undefined berjalan\n"
+	.string "dengan luar\l"
+	.string "biasa.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealWasDud::
-	.string "{STR_VAR_1}'s appeal was\n"
-	.string "a dud.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Daya tarik undefined gagal\n"
+	.string "total.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealDidNotWorkVeryWell::
-	.string "{STR_VAR_1}'s appeal did\n"
-	.string "not work very well.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Daya tarik undefined tidak bekerja\n"
+	.string "terlalu\l"
+	.string "baik.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealWentSlightlyWell2::
-	.string "{STR_VAR_1}'s appeal\n"
-	.string "went slightly well.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Daya tarik undefined berjalan\n"
+	.string "sedikit\l"
+	.string "baik.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealWentPrettyWell2::
-	.string "{STR_VAR_1}'s appeal\n"
-	.string "went pretty well.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Daya tarik undefined berjalan cukup\n"
+	.string "baik.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealWentVeryWell::
-	.string "{STR_VAR_1}'s appeal\n"
-	.string "went very well.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Daya tarik undefined berjalan\n"
+	.string "sangat\l"
+	.string "baik.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealWentExcellently2::
-	.string "{STR_VAR_1}'s appeal\n"
-	.string "went excellently.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Daya tarik undefined berjalan\n"
+	.string "dengan luar\l"
+	.string "biasa.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_SameTypeAsOneBeforeGood::
-	.string "It's the same type as the\n"
-	.string "POKéMON before--good!{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Tipenya sama dengan POKéMON\n"
+	.string "sebelumnya--bagus!{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_NotSameTypeAsOneBeforeGood::
-	.string "It's not the same type as\n"
-	.string "the one before--good!{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Tipenya tidak sama dengan yang\n"
+	.string "sebelumnya--bagus!{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_StoodOutMuchMoreThanMonBefore::
-	.string "It stood out much more\n"
-	.string "than the POKéMON before.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Ia jauh lebih menonjol daripada\n"
+	.string "POKéMON\l"
+	.string "sebelumnya.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_DidntDoAsWellAsMonBefore::
-	.string "It didn't do as well as the\n"
-	.string "POKéMON before.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Penampilannya tidak sebagus POKéMON\n"
+	.string "sebelumnya.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsConditionRoseAboveUsual::
-	.string "{STR_VAR_1}'s condition\n"
-	.string "rose above usual.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Kondisi undefined naik melebihi\n"
+	.string "biasanya.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsHotStatusMadeGreatAppeal::
-	.string "{STR_VAR_1}'s hot status\n"
-	.string "made it a great appeal!{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Status panas undefined membuatnya\n"
+	.string "menjadi daya tarik\l"
+	.string "hebat!{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MovedUpInLineForNextAppeal::
-	.string "It moved up in line for\n"
-	.string "the next appeal.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Ia bergerak maju dalam antrean\n"
+	.string "untuk daya tarik\l"
+	.string "berikutnya.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MovedBackInLineForNextAppeal::
-	.string "It moved back in line once\n"
-	.string "for the next appeal.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Ia mundur satu kali dalam antrean\n"
+	.string "untuk daya tarik\l"
+	.string "berikutnya.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_ScrambledUpOrderForNextTurn::
-	.string "It scrambled up the\n"
-	.string "order for the next turn.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Ia mengacak urutan untuk giliran\n"
+	.string "berikutnya.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_JudgeLookedAtMonExpectantly::
-	.string "The JUDGE looked at\n"
-	.string "{STR_VAR_1} expectantly.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "JURI menatap undefined dengan penuh\n"
+	.string "harap.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_AppealComboWentOverWell::
-	.string "The appeal combo went\n"
-	.string "over well.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Kombo daya tarik berjalan dengan\n"
+	.string "baik.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_AppealComboWentOverVeryWell::
-	.string "The appeal combo went\n"
-	.string "over very well.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Kombo daya tarik berjalan sangat\n"
+	.string "baik.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_AppealComboWentOverExcellently::
-	.string "The appeal combo went\n"
-	.string "over excellently.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Kombo daya tarik berjalan dengan\n"
+	.string "luar\l"
+	.string "biasa.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonManagedToAvertGaze::
-	.string "{STR_VAR_1} managed to\n"
-	.string "avert its gaze.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "undefined berhasil mengalihkan\n"
+	.string "pandangannya.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonManagedToAvoidSeeingIt::
-	.string "{STR_VAR_1} managed to\n"
-	.string "avoid seeing it.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "undefined berhasil menghindari\n"
+	.string "melihatnya.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonIsntFazedByThatSortOfThing::
-	.string "{STR_VAR_1} isn't fazed\n"
-	.string "by that sort of thing.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "undefined tidak terpengaruh oleh\n"
+	.string "hal semacam\l"
+	.string "itu.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonBecameALittleDistracted::
-	.string "{STR_VAR_1} became a\n"
-	.string "little distracted.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "undefined menjadi sedikit\n"
+	.string "terganggu.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_TriedToStartleOtherPokemon::
-	.string "It tried to startle the\n"
-	.string "other POKéMON.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Ia mencoba mengejutkan POKéMON\n"
+	.string "lain.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonLookedDownOutOfDistraction::
-	.string "{STR_VAR_1} looked down\n"
-	.string "out of distraction.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "undefined menunduk karena\n"
+	.string "terganggu.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonTurnedBackOutOfDistraction::
-	.string "{STR_VAR_1} turned back\n"
-	.string "out of distraction.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "undefined berbalik karena\n"
+	.string "terganggu.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonCouldntHelpUtteringCry::
-	.string "{STR_VAR_1} couldn't help\n"
-	.string "uttering a cry.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "undefined tidak bisa menahan diri\n"
+	.string "untuk\l"
+	.string "berteriak.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonCouldntHelpLeapingUp::
-	.string "{STR_VAR_1} couldn't help\n"
-	.string "leaping up.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "undefined tidak bisa menahan diri\n"
+	.string "untuk\l"
+	.string "melompat.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonTrippedOutOfDistraction::
-	.string "{STR_VAR_1} tripped over\n"
-	.string "out of distraction.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "undefined tersandung karena\n"
+	.string "terganggu.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonWasTooNervousToMove::
-	.string "{STR_VAR_1} was too\n"
-	.string "nervous to move.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "undefined terlalu gugup untuk\n"
+	.string "bergerak.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_ButItMessedUp2::
-	.string "But it messed up.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Tapi ia membuat\n"
+	.string "kesalahan.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_ButItFailedToMakeTargetNervous::
-	.string "But it failed to make\n"
-	.string "the target nervous.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Tapi ia gagal membuat target\n"
+	.string "gugup.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_ButItFailedToMakeAnyoneNervous::
-	.string "But it failed to make\n"
-	.string "anyone nervous.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Tapi ia gagal membuat siapa pun\n"
+	.string "gugup.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_ButItWasIgnored::
-	.string "But it was ignored…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Tapi ia\n"
+	.string "diabaikan…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_CouldntImproveItsCondition::
-	.string "But it couldn't improve\n"
-	.string "its condition…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Tapi ia tidak bisa meningkatkan\n"
+	.string "kondisinya…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_BadConditionResultedInWeakAppeal::
-	.string "Its bad condition\n"
-	.string "resulted in a weak appeal.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Kondisinya yang buruk menghasilkan\n"
+	.string "daya tarik yang\l"
+	.string "lemah.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonWasUnaffected::
-	.string "{STR_VAR_1} was\n"
-	.string "unaffected.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "undefined tidak\n"
+	.string "terpengaruh.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_RepeatedAppeal::
-	.string "{STR_VAR_1} disappointed\n"
-	.string "by repeating an appeal.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "undefined mengecewakan karena\n"
+	.string "mengulang daya\l"
+	.string "tarik.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonsXWentOverGreat::
-	.string "{STR_VAR_1}'s {STR_VAR_3}\n"
-	.string "went over great.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "undefined milik undefined berjalan\n"
+	.string "dengan baik\l"
+	.string "sekali.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonsXDidntGoOverWell::
-	.string "{STR_VAR_1}'s {STR_VAR_3}\n"
-	.string "didn't go over well here…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "undefined milik undefined tidak\n"
+	.string "berjalan baik di\l"
+	.string "sini…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonsXGotTheCrowdGoing::
-	.string "{STR_VAR_1}'s {STR_VAR_3}\n"
-	.string "got the crowd going.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "undefined milik undefined\n"
+	.string "menggairahkan\l"
+	.string "penonton.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonCantAppealNextTurn::
-	.string "{STR_VAR_1} can't appeal\n"
-	.string "next turn…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "undefined tidak bisa menarik\n"
+	.string "perhatian giliran\l"
+	.string "berikutnya…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_AttractedCrowdsAttention::
-	.string "It attracted the crowd's\n"
-	.string "attention.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Ia menarik perhatian\n"
+	.string "penonton.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_CrowdContinuesToWatchMon::
-	.string "The crowd continues to\n"
-	.string "watch {STR_VAR_3}.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Penonton terus menyaksikan$"
 
 gText_MonsMoveIsIgnored::
-	.string "{STR_VAR_1}'s\n"
-	.string "{STR_VAR_2} is ignored.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "undefined milik undefined\n"
+	.string "diabaikan.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_Contest_Shyness::
-	.string "shyness$"
+	.string "rasa malu$"
 
 gText_Contest_Anxiety::
-	.string "anxiety$"
+	.string "kecemasan$"
 
 gText_Contest_Laziness::
-	.string "laziness$"
+	.string "kemalasan$"
 
 gText_Contest_Hesitancy::
-	.string "hesitancy$"
+	.string "keraguan$"
 
 gText_Contest_Fear::
-	.string "fear$"
+	.string "rasa takut$"

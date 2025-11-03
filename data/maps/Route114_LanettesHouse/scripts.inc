@@ -1,3 +1,4 @@
+//gemini
 Route114_LanettesHouse_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, Route114_LanettesHouse_OnTransition
 	.byte 0
@@ -47,58 +48,58 @@ Route114_LanettesHouse_EventScript_PC::
 
 Route114_LanettesHouse_Text_EverythingClutteredKeepThis:
 	.string "LANETTE: Oh! {PLAYER}{KUN}!\p"
-	.string "I'm sorry everything is so cluttered…\n"
-	.string "When I get engrossed in research,\l"
-	.string "things end up this way…\p"
-	.string "This is embarrassing… Please keep\n"
-	.string "this a secret in exchange for this.$"
+	.string "Maaf semuanya berantakan…\n"
+	.string "Kalau aku asyik meneliti,\l"
+	.string "jadinya begini…\p"
+	.string "Ini memalukan… Tolong\n"
+	.string "rahasiakan ini sebagai\l"
+	.string "imbalan untuk ini.$"
 
 Route114_LanettesHouse_Text_OrganizeYourBoxes:
-	.string "May I offer advice about my POKéMON\n"
-	.string "Storage System?\p"
-	.string "You should organize your BOXES so you\n"
-	.string "can tell which POKéMON are in them.$"
+	.string "Bolehkah aku beri saran tentang\n"
+	.string "Sistem Penyimpanan Pokémon-ku?\p"
+	.string "Kamu harus atur BOXES-mu agar\n"
+	.string "tahu Pokémon mana di dalamnya.$"
 
 Route114_LanettesHouse_Text_ResearchNotesPage1:
-	.string "It's LANETTE's research notes.\n"
-	.string "There's information about BOXES.\p"
-	.string "Design BOXES to hold 30 POKéMON each.\p"
-	.string "Each TRAINER should be able to store\n"
-	.string "420 POKéMON on the PC system.\p"
-	.string "Keep reading?$"
+	.string "Ini catatan penelitian LANETTE.\n"
+	.string "Ada info tentang BOXES.\p"
+	.string "Rancang BOXES untuk 30 Pokémon.\p"
+	.string "Setiap TRAINER harus bisa simpan\n"
+	.string "420 Pokémon di sistem PC.\p"
+	.string "Lanjutkan membaca?$"
 
 Route114_LanettesHouse_Text_ResearchNotesPage2:
-	.string "A marking system should be added to\n"
-	.string "make POKéMON easier to organize.\p"
-	.string "The name and wallpaper design of each\n"
-	.string "BOX will be made changeable to please\l"
-	.string "the stored POKéMON.\p"
-	.string "Keep reading?$"
+	.string "Sistem penandaan harus ditambah\n"
+	.string "agar Pokémon mudah diatur.\p"
+	.string "Nama & desain wallpaper tiap\n"
+	.string "BOX bisa diubah agar senang\l"
+	.string "Pokémon yang disimpan.\p"
+	.string "Lanjutkan membaca?$"
 
 Route114_LanettesHouse_Text_ResearchNotesPage3:
-	.string "When storing a POKéMON, it should be\n"
-	.string "sent to the BOX inspected last.\p"
-	.string "If that BOX is full, the received\n"
-	.string "POKéMON is stored in the next BOX.\p"
-	.string "In other words, when a BOX is examined,\n"
-	.string "it is automatically selected as the BOX\l"
-	.string "to which POKéMON are sent.$"
+	.string "Saat simpan Pokémon, ia harus\n"
+	.string "dikirim ke BOX terakhir diperiksa.\p"
+	.string "Jika BOX itu penuh, Pokémon\n"
+	.string "diterima disimpan di BOX berikut.\p"
+	.string "Artinya, saat BOX diperiksa,\n"
+	.string "ia otomatis terpilih sebagai BOX\l"
+	.string "tempat Pokémon dikirim.$"
 
 Route114_LanettesHouse_Text_ClosedTheNotebook:
-	.string "{PLAYER} closed the notebook.$"
+	.string "{PLAYER} menutup buku catatan itu.$"
 
 Route114_LanettesHouse_Text_EmailFromBill:
-	.string "There's an e-mail from someone on\n"
-	.string "the PC.\p"
+	.string "Ada e-mail dari seseorang di\n"
+	.string "PC.\p"
 	.string "“… … … … … … …\p"
-	.string "“Your Storage System offers more\n"
-	.string "convenience than mine.\p"
-	.string "“It has a lot of user-friendly features\n"
-	.string "that make it fun and useful, too.\p"
-	.string "“It makes me proud that I played\n"
-	.string "a part in its development.\p"
-	.string "“Here's hoping that you'll continue\n"
-	.string "research in Storage Systems.\p"
-	.string "“From BILL\n"
+	.string "“Sistem Penyimpananmu lebih\n"
+	.string "nyaman dari milikku.\p"
+	.string "“Punya banyak fitur ramah pengguna\n"
+	.string "yang membuatnya asyik & berguna.\p"
+	.string "“Aku bangga telah berperan\n"
+	.string "dalam pengembangannya.\p"
+	.string "“Semoga kamu terus meneliti\n"
+	.string "Sistem Penyimpanan.\p"
+	.string "“Dari BILL\n"
 	.string "… … … … … … … …”$"
-

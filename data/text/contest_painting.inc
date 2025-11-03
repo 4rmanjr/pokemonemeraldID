@@ -1,96 +1,97 @@
+//gemini
 gContestHallPaintingCaption::
-	.string "{STR_VAR_1}\n"
-	.string "{STR_VAR_2}'s {STR_VAR_3}$"
+	.string "{STR_VAR_3} milik {STR_VAR_2}\n"
+	.string "{STR_VAR_1}$"
 
 @ Unused
 gContestPaintingContest::
-	.string "CONTEST$"
+	.string "KONTES$"
 
 gContestRankNormal::
-	.string "NORMAL RANK$"
+	.string "PERINGKAT NORMAL$"
 
 gContestRankSuper::
-	.string "SUPER RANK$"
+	.string "PERINGKAT SUPER$"
 
 gContestRankHyper::
-	.string "HYPER RANK$"
+	.string "PERINGKAT HYPER$"
 
 gContestRankMaster::
-	.string "MASTER RANK$"
+	.string "PERINGKAT MASTER$"
 
 gContestLink::
-	.string "LINK$"
+	.string "TAUTAN$"
 
 gContestCoolness::
-	.string "COOLNESS$"
+	.string "KEREN$"
 
 gContestBeauty::
-	.string "BEAUTY$"
+	.string "KEINDAHAN$"
 
 gContestCuteness::
-	.string "CUTENESS$"
+	.string "KELUCUAN$"
 
 gContestSmartness::
-	.string "SMARTNESS$"
+	.string "KEPINTARAN$"
 
 gContestToughness::
-	.string "TOUGHNESS$"
+	.string "KETANGGUHAN$"
 
 gContestPaintingCool1::
-	.string "Nonstop supercool--\n"
-	.string "the inestimable {STR_VAR_1}$"
+	.string "Terus-menerus superkeren--\n"
+	.string "{STR_VAR_1} yang tak ternilai$"
 
 gContestPaintingCool2::
-	.string "Hey, there!\n"
-	.string "The good-looking POKéMON {STR_VAR_1}$"
+	.string "Hei! POKéMON berpenampilan bagus,\n"
+	.string "{STR_VAR_1}$"
 
 gContestPaintingCool3::
-	.string "The marvelous, wonderful, and\n"
-	.string "very great {STR_VAR_1}$"
+	.string "{STR_VAR_1} yang luar biasa,\n"
+	.string "menakjubkan, dan sangat hebat$"
 
 gContestPaintingBeauty1::
-	.string "This century's last Venus--\n"
-	.string "the beautiful {STR_VAR_1}$"
+	.string "Venus terakhir abad ini--\n"
+	.string "{STR_VAR_1} yang cantik$"
 
 gContestPaintingBeauty2::
-	.string "{STR_VAR_1}'s dazzling,\n"
-	.string "glittering smile$"
+	.string "Senyum {STR_VAR_1} yang memesona\n"
+	.string "dan berkilauan$"
 
 gContestPaintingBeauty3::
-	.string "POKéMON CENTER's super idol--\n"
-	.string "the incomparable {STR_VAR_1}$"
+	.string "Super idol POKéMON CENTER--\n"
+	.string "{STR_VAR_1} yang tak tertandingi$"
 
 gContestPaintingCute1::
-	.string "The lovely and sweet {STR_VAR_1}$"
+	.string "{STR_VAR_1} yang manis dan menawan$"
 
 gContestPaintingCute2::
-	.string "The pretty {STR_VAR_1}'s\n"
-	.string "winning portrait$"
+	.string "Potret kemenangan {STR_VAR_1} yang\n"
+	.string "cantik$"
 
 gContestPaintingCute3::
-	.string "Give us a wink!\n"
-	.string "The cutie POKéMON {STR_VAR_1}$"
+	.string "Beri kami kedipan! POKéMON imut\n"
+	.string "{STR_VAR_1}$"
 
 gContestPaintingSmart1::
-	.string "The smartness maestro--\n"
-	.string "the wise POKéMON {STR_VAR_1}$"
+	.string "Maestro kepintaran-- POKéMON\n"
+	.string "bijaksana {STR_VAR_1}$"
 
 gContestPaintingSmart2::
-	.string "{STR_VAR_1}--the one chosen\n"
-	.string "above all POKéMON$"
+	.string "{STR_VAR_1}--yang terpilih di\n"
+	.string "antara semua POKéMON$"
 
 gContestPaintingSmart3::
-	.string "The excellent {STR_VAR_1}'s\n"
-	.string "moment of elegance$"
+	.string "Momen keanggunan {STR_VAR_1} yang\n"
+	.string "luar biasa$"
 
 gContestPaintingTough1::
-	.string "The powerfully muscular\n"
-	.string "speedster {STR_VAR_1}$"
+	.string "Pelari cepat berotot kuat,\n"
+	.string "{STR_VAR_1}$"
 
 gContestPaintingTough2::
-	.string "The strong, stronger, and\n"
-	.string "strongest {STR_VAR_1}$"
+	.string "{STR_VAR_1} yang kuat, lebih kuat,\n"
+	.string "dan terkuat$"
 
 gContestPaintingTough3::
-	.string "The mighty tough\n"
-	.string "hyper POKéMON {STR_VAR_1}$"
+	.string "POKéMON hyper yang sangat tangguh,\n"
+	.string "{STR_VAR_1}$"

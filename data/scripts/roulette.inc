@@ -1,3 +1,4 @@
+//gemini
 Roulette_EventScript_Table1::
 	checkitem ITEM_COIN_CASE
 	goto_if_eq VAR_RESULT, FALSE, MauvilleCity_GameCorner_EventScript_NoCoinCase
@@ -24,44 +25,44 @@ Roulette_EventScript_Play::
 	end
 
 Roulette_Text_PlayMinimumWagerIsX::
-	.string "The minimum wager at this table\n"
-	.string "is {STR_VAR_1}. Do you want to play?$"
+	.string "Taruhan minimum di meja ini\n"
+	.string "adalah {STR_VAR_1}. Kamu mau main?$"
 
 Roulette_Text_NotEnoughCoins::
-	.string "You don't have enough COINS.$"
+	.string "Kamu tidak punya cukup KOIN.$"
 
 Roulette_Text_SpecialRateTable::
-	.string "Special rate table right now!$"
+	.string "Meja taruhan spesial sekarang!$"
 
 Roulette_Text_ControlsInstruction::
-	.string "Place your wager with the + Control\n"
-	.string "Pad, then press the A Button.$"
+	.string "Pasang taruhanmu dengan + Control\n"
+	.string "Pad, lalu tekan Tombol A.$"
 
 Roulette_Text_ItsAHit::
-	.string "It's a hit!$"
+	.string "Kena!$"
 
 Roulette_Text_Jackpot::
 	.string "Jackpot!$"
 
 Roulette_Text_NothingDoing::
-	.string "Nothing doing!$"
+	.string "Tidak ada apa-apa!$"
 
 Roulette_Text_YouveWonXCoins::
-	.string "You've won {STR_VAR_1} COINS!$"
+	.string "Kamu memenangkan {STR_VAR_1} KOIN!$"
 
 Roulette_Text_NoCoinsLeft::
-	.string "No COINS left…$"
+	.string "Tidak ada KOIN tersisa…$"
 
 Roulette_Text_KeepPlaying::
-	.string "Keep playing?$"
+	.string "Lanjut main?$"
 
 Roulette_Text_BoardWillBeCleared::
-	.string "The ROULETTE board will be cleared.$"
+	.string "Papan ROULETTE akan dibersihkan.$"
 
 @ Unused
 Roulette_Text_YouDontHaveACoinCase::
-	.string "You don't have a COIN CASE.$"
+	.string "Kamu tidak punya KOTAK KOIN.$"
 
 Roulette_Text_CoinCaseIsFull::
-	.string "Your COIN CASE is full!\n"
-	.string "Coins can be exchanged for prizes.$"
+	.string "KOTAK KOIN-mu penuh!\n"
+	.string "Koin bisa ditukar dengan hadiah.$"

@@ -20,17 +20,17 @@ PacifidlogTown_House5_EventScript_Gentleman::
 	end
 
 PacifidlogTown_House5_Text_CantSeeMirageIslandToday:
-	.string "I can't see MIRAGE ISLAND today…$"
+	.string "Aku tidak bisa melihat PULAU FATAMORGANA hari ini…$"
 
 PacifidlogTown_House5_Text_CanSeeMirageIslandToday:
-	.string "Oh! Oh my!\n"
-	.string "I can see MIRAGE ISLAND today!$"
+	.string "Oh! Astaga!\n"
+	.string "Aku bisa melihat PULAU FATAMORGANA hari ini!$"
 
 PacifidlogTown_House5_Text_MirageIslandAppearDependingOnWeather:
-	.string "MIRAGE ISLAND…\p"
-	.string "It must become visible and invisible\n"
-	.string "depending on the weather conditions\l"
-	.string "that make mirages appear.\p"
-	.string "Or is it really appearing and\n"
-	.string "disappearing?$"
+	.string "PULAU FATAMORGANA…\p"
+	.string "Pasti akan terlihat dan tidak terlihat\n"
+	.string "tergantung pada kondisi cuaca\l"
+	.string "yang menyebabkan fatamorgana muncul.\p"
+	.string "Atau apakah ia benar-benar muncul dan\n"
+	.string "menghilang?$"
 

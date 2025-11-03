@@ -1,14 +1,19 @@
+//gemini
 gText_FollowerLovesYou::
-	.string "{STR_VAR_1} is regarding you with\nadoration!$"
+	.string "{STR_VAR_1} menatapmu dengan\n"
+	.string "penuh kekaguman!$"
 
 gText_FollowerLostInThought::
-	.string "{STR_VAR_1} seems lost in thought.$"
+	.string "{STR_VAR_1} tampak melamun.$"
 
 gText_FollowerDefault::
-	.string "ERROR 404: Script not found.$"
+	.string "ERROR 404: Skrip tidak ditemukan.$"
 
 gText_WantsToFly::
-	.string "{STR_VAR_1} looks up at the\nsky restlessly.\pWould you like to use FLY?$"
+	.string "{STR_VAR_1} menatap langit\n"
+	.string "dengan gelisah.\p"
+	.string "Apakah kamu ingin\n"
+	.string "menggunakan FLY?$"
 
 EventScript_Follower::
 	lock

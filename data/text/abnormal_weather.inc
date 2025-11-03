@@ -1,7 +1,7 @@
 gText_AbnormalWeatherEnded_Rain::
-	.string "The massive downpour appears to\n"
-	.string "have stopped…$"
+	.string "Hujan deras tampaknya\n"
+	.string "telah berhenti…$"
 
 gText_AbnormalWeatherEnded_Sun::
-	.string "The intense sunshine appears to\n"
-	.string "have subsided…$"
+	.string "Sinar matahari yang terik tampaknya\n"
+	.string "telah mereda…$"

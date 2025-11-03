@@ -271,32 +271,32 @@ PlayersHouse_2F_EventScript_GameCube::
 	end
 
 PlayersHouse_2F_Text_ClockIsStopped:
-	.string "The clock is stopped…\p"
-	.string "Better set it and start it!$"
+	.string "Jamnya berhenti…\p"
+	.string "Sebaiknya diatur dan dinyalakan!$"
 
 PlayersHouse_2F_Text_HowDoYouLikeYourRoom:
-	.string "MOM: {PLAYER}, how do you like your\n"
-	.string "new room?\p"
-	.string "Good! Everything's put away neatly!\p"
-	.string "They finished moving everything in\n"
-	.string "downstairs, too.\p"
-	.string "POKéMON movers are so convenient!\p"
-	.string "Oh, you should make sure that\n"
-	.string "everything's all there on your desk.$"
+	.string "IBU: {PLAYER}, bagaimana kamarmu\n"
+	.string "yang baru?\p"
+	.string "Bagus! Semuanya tersimpan rapi!\p"
+	.string "Mereka juga sudah selesai memindahkan\n"
+	.string "semuanya di lantai bawah.\p"
+	.string "Jasa pindahan POKéMON sangat praktis!\p"
+	.string "Oh, kamu harus pastikan semuanya\n"
+	.string "ada di mejamu.$"
 
 PlayersHouse_2F_Text_Notebook:
-	.string "{PLAYER} flipped open the notebook.\p"
-	.string "ADVENTURE RULE NO. 1\n"
-	.string "Open the MENU with START.\p"
-	.string "ADVENTURE RULE NO. 2\n"
-	.string "Record your progress with SAVE.\p"
-	.string "The remaining pages are blank…$"
+	.string "{PLAYER} membuka buku catatan.\p"
+	.string "ATURAN PETUALANGAN NO. 1\n"
+	.string "Buka MENU dengan START.\p"
+	.string "ATURAN PETUALANGAN NO. 2\n"
+	.string "Catat kemajuanmu dengan SAVE.\p"
+	.string "Halaman sisanya kosong…$"
 
 Common_Text_LookCloserAtMap:
-	.string "{PLAYER} took a closer look at the\n"
-	.string "HOENN region map.$"
+	.string "{PLAYER} melihat lebih dekat peta\n"
+	.string "wilayah HOENN.$"
 
 PlayersHouse_2F_Text_ItsAGameCube:
-	.string "It's a Nintendo GameCube.\p"
-	.string "A Game Boy Advance is connected to\n"
-	.string "serve as the Controller.$"
+	.string "Ini adalah Nintendo GameCube.\p"
+	.string "Sebuah Game Boy Advance terhubung\n"
+	.string "untuk berfungsi sebagai Controller.$"

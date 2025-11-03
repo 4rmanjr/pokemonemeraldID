@@ -1,3 +1,4 @@
+//gemini
 Route101_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, Route101_OnTransition
 	map_script MAP_SCRIPT_ON_FRAME_TABLE, Route101_OnFrame
@@ -258,42 +259,42 @@ Route101_Movement_BirchApproachPlayer:
 	step_end
 
 Route101_Text_HelpMe:
-	.string "H-help me!$"
+	.string "T-tolong aku!$"
 
 Route101_Text_PleaseHelp:
-	.string "Hello! You over there!\n"
-	.string "Please! Help!\p"
-	.string "In my BAG!\n"
-	.string "There's a POKé BALL!$"
+	.string "Halo! Kamu yang di sana! Kumohon!\n"
+	.string "Tolong!\p"
+	.string "Di TASKU! Ada POKé BALL!$"
 
 Route101_Text_DontLeaveMe:
-	.string "Wh-Where are you going?!\n"
-	.string "Don't leave me like this!$"
+	.string "K-Ke mana kamu pergi?! Jangan\n"
+	.string "tinggalkan aku begini!$"
 
 Route101_Text_YouSavedMe:
-	.string "PROF. BIRCH: Whew…\p"
-	.string "I was in the tall grass studying wild\n"
-	.string "POKéMON when I was jumped.\p"
-	.string "You saved me.\n"
-	.string "Thanks a lot!\p"
+	.string "PROF. BIRCH: Fiuh…\p"
+	.string "Aku sedang berada di rumput tinggi\n"
+	.string "mempelajari POKéMON liar saat aku\l"
+	.string "diserang.\p"
+	.string "Kamu menyelamatkanku. Terima kasih\n"
+	.string "banyak!\p"
 	.string "Oh?\p"
-	.string "Hi, you're {PLAYER}{KUN}!\p"
-	.string "This is not the place to chat, so come\n"
-	.string "by my POKéMON LAB later, okay?$"
+	.string "Hai, kamu {PLAYER} {KUN}!\p"
+	.string "Ini bukan tempatnya untuk mengobrol,\n"
+	.string "jadi datanglah ke POKéMON LAB-ku\l"
+	.string "nanti, oke?$"
 
 Route101_Text_TakeTiredPokemonToPokeCenter:
-	.string "If POKéMON get tired, take them to\n"
-	.string "a POKéMON CENTER.\p"
-	.string "There's a POKéMON CENTER in OLDALE\n"
-	.string "TOWN right close by.$"
+	.string "Jika POKéMON lelah, bawalah mereka ke\n"
+	.string "POKéMON CENTER.\p"
+	.string "Ada POKéMON CENTER di KOTA OLDALE\n"
+	.string "yang letaknya dekat.$"
 
 Route101_Text_WildPokemonInTallGrass:
-	.string "Wild POKéMON will jump out at you in\n"
-	.string "tall grass.\p"
-	.string "If you want to catch POKéMON, you have\n"
-	.string "to go into the tall grass and search.$"
+	.string "POKéMON liar akan melompat keluar di\n"
+	.string "rumput tinggi.\p"
+	.string "Jika kamu ingin menangkap POKéMON,\n"
+	.string "kamu harus masuk ke rumput tinggi dan\l"
+	.string "mencari.$"
 
 Route101_Text_RouteSign:
-	.string "ROUTE 101\n"
-	.string "{UP_ARROW} OLDALE TOWN$"
-
+	.string "RUTE 101 {UP_ARROW} KOTA OLDALE$"

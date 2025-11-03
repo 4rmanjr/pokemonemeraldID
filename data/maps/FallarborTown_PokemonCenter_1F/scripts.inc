@@ -1,3 +1,4 @@
+//aistudio
 FallarborTown_PokemonCenter_1F_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, FallarborTown_PokemonCenter_1F_OnTransition
 	map_script MAP_SCRIPT_ON_RESUME, CableClub_OnResume
@@ -82,30 +83,29 @@ FallarborTown_PokemonCenter_1F_Movement_LanetteExitWest:
 	step_end
 
 FallarborTown_PokemonCenter_1F_Text_LanetteGreeting:
-	.string "Oh, hello.\n"
-	.string "You are?\p"
-	.string "Okay, your name's {PLAYER}{KUN}.\n"
-	.string "I can see that you're a TRAINER.\p"
-	.string "So that means you use the POKéMON\n"
-	.string "Storage System I developed.\p"
-	.string "How I arrived at that conclusion is\n"
-	.string "a simple deductive process.\p"
-	.string "You spoke to me because you wanted\n"
-	.string "to access something on this PC.\p"
-	.string "Oh, I'm sorry. I'm LANETTE.\p"
-	.string "Honestly, I'm glad to meet you--it's\n"
-	.string "great you're using the Storage System.\p"
-	.string "If you could, please visit me at home.\n"
-	.string "My house is on ROUTE 114.$"
+	.string "Oh, halo.\n"
+	.string "Kamu siapa?\p"
+	.string "Oke, namamu {PLAYER}{KUN}.\n"
+	.string "Aku bisa lihat kamu TRAINER.\p"
+	.string "Itu berarti kamu pakai Sistem\n"
+	.string "Penyimpanan POKéMON yang kubuat.\p"
+	.string "Bagaimana aku sampai pada\n"
+	.string "kesimpulan itu sederhana.\p"
+	.string "Kamu bicara padaku karena ingin\n"
+	.string "akses sesuatu di PC ini.\p"
+	.string "Oh, maaf. Aku LANETTE.\p"
+	.string "Sejujurnya, aku senang bertemu--\n"
+	.string "senang kamu pakai Sistem Penyimpanan.\p"
+	.string "Jika bisa, tolong kunjungi aku\n"
+	.string "di rumah. Rumahku di Rute 114.$"
 
 FallarborTown_PokemonCenter_1F_Text_FossilManiacEdgeOfTown:
-	.string "I wonder what POKéMON looked like\n"
-	.string "long, long ago?\p"
-	.string "Maybe the FOSSIL MANIAC at the edge\n"
-	.string "of town will know.$"
+	.string "Aku ingin tahu POKéMON terlihat\n"
+	.string "seperti apa dulu sekali?\p"
+	.string "Mungkin FOSSIL MANIAC di pinggir\n"
+	.string "kota akan tahu.$"
 
 FallarborTown_PokemonCenter_1F_Text_PlantHardyTrees:
-	.string "In the fields of FALLARBOR, we plant\n"
-	.string "seedlings of hardy trees that thrive\l"
-	.string "even in volcanic ash.$"
-
+	.string "Di ladang FALLARBOR, kami tanam\n"
+	.string "bibit pohon kuat yang tumbuh\l"
+	.string "subur bahkan di abu vulkanik.$"

@@ -139,45 +139,47 @@ LilycoveCity_DepartmentStore_1F_EventScript_FloorNamesSign::
 	end
 
 LilycoveCity_DepartmentStore_1F_Text_WelcomeToDeptStore:
-	.string "Welcome to LILYCOVE DEPARTMENT STORE.$"
+	.string "Selamat datang di\n"
+	.string "LILYCOVE DEPARTMENT STORE.$"
 
 LilycoveCity_DepartmentStore_1F_Text_IBuyAllSortsOfThings:
-	.string "Whenever I come to the DEPARTMENT\n"
-	.string "STORE, I always end up buying all sorts\l"
-	.string "of things because it's so fun.$"
+	.string "Setiap kali aku datang ke DEPARTMENT\n"
+	.string "STORE, aku selalu akhirnya membeli\l"
+	.string "berbagai macam barang karena sangat\l"
+	.string "menyenangkan.$"
 
 LilycoveCity_DepartmentStore_1F_Text_MomBuyingMeFurniture:
-	.string "Today, my mom is going to buy me some\n"
-	.string "nice furniture.$"
+	.string "Hari ini, ibuku akan membelikanku\n"
+	.string "beberapa perabotan bagus.$"
 
 LilycoveCity_DepartmentStore_1F_Text_BuyingSomethingForAzumarill:
-	.string "I'm buying something for my AZUMARILL\n"
-	.string "as a reward for winning a CONTEST.$"
+	.string "Aku membeli sesuatu untuk AZUMARILL-ku\n"
+	.string "sebagai hadiah karena memenangkan CONTEST.$"
 
 LilycoveCity_DepartmentStore_1F_Text_Azumarill:
 	.string "AZUMARILL: Maririroo!$"
 
 LilycoveCity_DepartmentStore_1F_Text_FloorNamesSign:
-	.string "1F: SERVICE COUNTER\n"
-	.string "    LOTTERY CORNER\p"
-	.string "2F: TRAINER'S ZONE\p"
-	.string "3F: BATTLE COLLECTION\p"
-	.string "4F: TM CORNER\p"
-	.string "5F: POKé DOLL FLOOR\p"
-	.string "ROOFTOP: ROOFTOP PLAZA$"
+	.string "LT1: MEJA LAYANAN\n"
+	.string "     POJOK LOTERE\p"
+	.string "LT2: ZONA TRAINER\p"
+	.string "LT3: KOLEKSI BATTLE\p"
+	.string "LT4: POJOK TM\p"
+	.string "LT5: LANTAI BONEKA POKé\p"
+	.string "ATAP: PLAZA ATAP$"
 
 @ Unused
 LilycoveCity_DepartmentStore_1F_Text_WirelessCommIsFun:
-	.string "Wireless Communication is a\n"
-	.string "lot of fun, isn't it?\p"
-	.string "I think it lets you do things that\n"
-	.string "weren't possible before.\p"
-	.string "For instance, you can now trade\n"
-	.string "with people you couldn't before.\p"
-	.string "I think it's going to be exciting!$"
+	.string "Komunikasi Nirkabel sangat\n"
+	.string "menyenangkan, bukan?\p"
+	.string "Menurutku itu memungkinkanmu melakukan\n"
+	.string "hal-hal yang sebelumnya tidak mungkin.\p"
+	.string "Misalnya, sekarang kamu bisa bertukar\n"
+	.string "dengan orang yang sebelumnya tidak bisa.\p"
+	.string "Menurutku ini akan seru!$"
 
 @ Unused
 LilycoveCity_DepartmentStore_1F_Text_SpreadWordAboutWirelessComm:
-	.string "I want to spread the word about how\n"
-	.string "fun Wireless Communication can be.$"
+	.string "Aku ingin menyebarkan berita betapa\n"
+	.string "menyenangkannya Komunikasi Nirkabel.$"
 

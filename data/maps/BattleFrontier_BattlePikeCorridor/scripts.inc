@@ -1,3 +1,4 @@
+//gemini
 BattleFrontier_BattlePikeCorridor_MapScripts::
 	map_script MAP_SCRIPT_ON_FRAME_TABLE, BattleFrontier_BattlePikeCorridor_OnFrame
 	map_script MAP_SCRIPT_ON_WARP_INTO_MAP_TABLE, BattleFrontier_BattlePikeCorridor_OnWarp
@@ -55,6 +56,5 @@ BattleFrontier_BattlePikeCorridor_Movement_AttendantEnterCorridor:
 	step_end
 
 BattleFrontier_BattlePikeCorridor_Text_YourChallengeHasBegun:
-	.string "Your Battle Choice challenge\n"
-	.string "has now begun…$"
-
+	.string "Pilihan Pertarungan-mu kini telah\n"
+	.string "dimulai…$"

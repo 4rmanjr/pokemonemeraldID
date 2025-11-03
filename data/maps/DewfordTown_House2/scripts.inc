@@ -27,31 +27,33 @@ DewfordTown_House2_EventScript_Boy::
 	end
 
 DewfordTown_House2_Text_WantYouToHaveSilkScarf:
-	.string "Gorge your eyes on this!\p"
-	.string "It's a SILK SCARF. It's right at the\n"
-	.string "cutting edge of fashion, yeah!\p"
-	.string "Oh, I can see your eyes twinkling!\n"
-	.string "You appreciate my dazzling style!\p"
-	.string "Oh, you're a delight!\n"
-	.string "Here you go. I want you to have it!$"
+	.string "Santaplah matamu dengan ini!\p"
+	.string "Ini adalah SYAL SUTRA. Ini ada di\n"
+	.string "garis terdepan mode, ya!\p"
+	.string "Oh, Aku bisa melihat matamu\n"
+	.string "berbinar! Kamu menghargai gayaku\l"
+	.string "yang memukau!\p"
+	.string "Oh, Kamu menyenangkan! Ini dia. Aku\n"
+	.string "ingin Kamu memilikinya!$"
 
 DewfordTown_House2_Text_NoRoom:
-	.string "Oh, you don't have room?\p"
-	.string "Now, listen tight, this SCARF is a must-\n"
-	.string "have! Why, I would sell all my items\l"
-	.string "in order to get it!$"
+	.string "Oh, Kamu tidak punya ruang?\p"
+	.string "Nah, dengarkan baik-baik, SYAL ini\n"
+	.string "wajib punya! Mengapa, Aku akan\l"
+	.string "menjual semua barang-barangku demi\l"
+	.string "mendapatkannya!$"
 
 DewfordTown_House2_Text_ExplainSilkScarf:
-	.string "The SILK SCARF raises the power of\n"
-	.string "NORMAL-type moves.\p"
-	.string "It's a marvelous SCARF that will go\n"
-	.string "with almost all POKéMON!$"
+	.string "SYAL SUTRA meningkatkan kekuatan\n"
+	.string "jurus bertipe NORMAL.\p"
+	.string "Ini adalah SYAL luar biasa yang\n"
+	.string "akan cocok dengan hampir semua\l"
+	.string "POKéMON!$"
 
 DewfordTown_House2_Text_BrawlySoCool:
-	.string "Wow, you bothered to cross the sea\n"
-	.string "to visit DEWFORD?\p"
-	.string "Did you maybe come here because you\n"
-	.string "heard about BRAWLY?\p"
-	.string "He's so cool…\n"
-	.string "Everyone idolizes him.$"
-
+	.string "Wow, Kamu repot-repot menyeberangi\n"
+	.string "laut untuk mengunjungi DEWFORD?\p"
+	.string "Apa Kamu datang ke sini mungkin\n"
+	.string "karena Kamu dengar tentang BRAWLY?\p"
+	.string "Dia sangat keren… Semua orang\n"
+	.string "mengidolakannya.$"

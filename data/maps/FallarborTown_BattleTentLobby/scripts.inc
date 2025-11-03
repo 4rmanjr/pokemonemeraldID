@@ -1,3 +1,4 @@
+//aistudio
 FallarborTown_BattleTentLobby_MapScripts::
 	map_script MAP_SCRIPT_ON_FRAME_TABLE, FallarborTown_BattleTentLobby_OnFrame
 	map_script MAP_SCRIPT_ON_WARP_INTO_MAP_TABLE, FallarborTown_BattleTentLobby_OnWarp
@@ -302,45 +303,47 @@ FallarborTown_BattleTentLobby_EventScript_ExitRules::
 
 FallarborTown_BattleTentLobby_Text_MakeThinkImJustKid:
 	.string "Fufufufufu.\p"
-	.string "I'm going to make everyone think\n"
-	.string "I'm just a kid and let them play down.\p"
-	.string "Then, I'll shock them and grab\n"
-	.string "the title!$"
+	.string "Aku akan membuat semua orang\n"
+	.string "mengira aku hanya anak kecil\l"
+	.string "& membiarkan mereka meremehkanku.\p"
+	.string "Lalu, aku akan mengejutkan\n"
+	.string "mereka & merebut gelar!$"
 
 FallarborTown_BattleTentLobby_Text_FallarborTentMyFavorite:
-	.string "You know how BATTLE TENTS offer\n"
-	.string "different events in different towns?\p"
-	.string "My favorite is definitely the BATTLE\n"
-	.string "TENT in FALLARBOR TOWN.\p"
-	.string "I think it's fantastic how TRAINERS\n"
-	.string "try to win with all their faith in\l"
-	.string "their POKéMON.$"
+	.string "Kamu tahu kan kalau BATTLE TENTS\n"
+	.string "menawarkan event berbeda di kota\l"
+	.string "yang berbeda?\p"
+	.string "Favoritku jelas BATTLE TENT di\n"
+	.string "KOTA FALLARBOR.\p"
+	.string "Aku rasa luar biasa bagaimana\n"
+	.string "TRAINER berusaha menang dengan\l"
+	.string "seluruh keyakinan mereka pada\l"
+	.string "POKéMON mereka.$"
 
 FallarborTown_BattleTentLobby_Text_CameToCampOut:
-	.string "I heard something about some tent,\n"
-	.string "so I came to camp out.\p"
-	.string "I didn't know that tents these days\n"
-	.string "are so luxurious!\p"
-	.string "Since I'm here, I may as well try\n"
-	.string "my hand at battling!$"
+	.string "Aku dengar sesuatu tentang tenda,\n"
+	.string "jadi aku datang untuk berkemah.\p"
+	.string "Aku tidak tahu kalau tenda zaman\n"
+	.string "sekarang semewah ini!\p"
+	.string "Karena aku sudah di sini, aku\n"
+	.string "mungkin juga mencoba bertarung!$"
 
 FallarborTown_BattleTentLobby_Text_ScottLookingForSomeone:
-	.string "SCOTT: Hi, {PLAYER}{KUN}!\n"
-	.string "So you came out to this BATTLE TENT!\p"
-	.string "The people in these parts tend to be\n"
-	.string "easygoing and laid-back.\p"
-	.string "But, you see, what I'm looking for are\n"
-	.string "people with…\p"
-	.string "How should I say this?\p"
-	.string "Someone bursting with the desire\n"
-	.string "and the drive to win.\p"
-	.string "If there were a TRAINER like that,\n"
-	.string "I'd immediately…\p"
-	.string "Whoops! Never mind!\n"
-	.string "Keep working at it!$"
+	.string "SCOTT: Hai, {PLAYER}{KUN}!\n"
+	.string "Jadi kamu datang ke BATTLE TENT ini!\p"
+	.string "Orang-orang di daerah ini cenderung\n"
+	.string "santai & tenang.\p"
+	.string "Tapi, kamu tahu, yang aku cari\n"
+	.string "adalah orang-orang dengan…\p"
+	.string "Bagaimana aku harus mengatakannya?\p"
+	.string "Seseorang yang penuh dengan\n"
+	.string "keinginan & dorongan untuk menang.\p"
+	.string "Jika ada TRAINER seperti itu,\n"
+	.string "aku akan segera…\p"
+	.string "Ups! Lupakan saja!\n"
+	.string "Teruslah berusaha!$"
 
 FallarborTown_BattleTentLobby_Text_ScottMakeChallenge:
-	.string "SCOTT: Instead of wasting your\n"
-	.string "time with the likes of me, why not\l"
-	.string "make a challenge?$"
-
+	.string "SCOTT: Daripada membuang waktumu\n"
+	.string "denganku, kenapa tidak mencoba\l"
+	.string "tantangan?$"

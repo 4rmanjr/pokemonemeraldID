@@ -1,3 +1,4 @@
+//gemini
 Route115_MapScripts::
 	map_script MAP_SCRIPT_ON_LOAD, Route115_OnLoad
 	map_script MAP_SCRIPT_ON_TRANSITION, Route115_OnTransition
@@ -130,16 +131,14 @@ Route115_EventScript_Marlene::
 	end
 
 Route115_Text_NeverKnowWhenCavePokemonWillAppear:
-	.string "Exploring a cave isn't like walking\n"
-	.string "on a road.\p"
-	.string "You never know when wild POKéMON will\n"
-	.string "appear. It's full of suspense.$"
+	.string "Menjelajahi gua tidak seperti\n"
+	.string "berjalan di jalan.\p"
+	.string "Kamu tidak pernah tahu kapan POKéMON\n"
+	.string "liar akan muncul. Penuh ketegangan.$"
 
 Route115_Text_RouteSignRustboro:
-	.string "ROUTE 115\n"
-	.string "{DOWN_ARROW} RUSTBORO CITY$"
+	.string "ROUTE 115 {DOWN_ARROW} KOTA RUSTBORO$"
 
 Route115_Text_MeteorFallsSign:
-	.string "METEOR FALLS\n"
-	.string "FALLARBOR TOWN THROUGH HERE$"
-
+	.string "AIR TERJUN METEOR KOTA FALLARBOR\n"
+	.string "MELALUI SINI$"

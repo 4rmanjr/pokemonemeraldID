@@ -45,21 +45,21 @@ BattleFrontier_Mart_EventScript_Boy::
 	end
 
 BattleFrontier_Mart_Text_ChaperonGrandson:
-	.string "We came here to chaperon our\n"
-	.string "grandson.\p"
-	.string "But since we're here, we thought\n"
-	.string "we should get some souvenirs.$"
+	.string "Kami datang ke sini untuk menemani\n"
+	.string "cucu kami.\p"
+	.string "Tapi karena sudah di sini, kami pikir\n"
+	.string "harus membeli beberapa oleh-oleh.$"
 
 BattleFrontier_Mart_Text_ProteinMakeNiceGift:
-	.string "Dear, what do you think of this?\n"
-	.string "Wouldn't this make a nice gift?\p"
-	.string "It's…PRO…TE…IN?\n"
-	.string "It sounds delicious, doesn't it?$"
+	.string "Sayang, bagaimana menurutmu tentang ini?\n"
+	.string "Bukankah ini akan menjadi hadiah yang bagus?\p"
+	.string "Ini…PRO…TE…IN?\n"
+	.string "Kedengarannya enak, bukan?$"
 
 BattleFrontier_Mart_Text_FacilitiesDontAllowItems:
-	.string "A lot of the BATTLE FRONTIER's\n"
-	.string "facilities don't allow the use of items\l"
-	.string "during battles.\p"
-	.string "That rule makes things tougher than\n"
-	.string "they already are!$"
+	.string "Banyak fasilitas BATTLE FRONTIER\n"
+	.string "tidak mengizinkan penggunaan item\l"
+	.string "selama pertarungan.\p"
+	.string "Aturan itu membuat segalanya lebih sulit\n"
+	.string "dari yang sudah ada!$"
 

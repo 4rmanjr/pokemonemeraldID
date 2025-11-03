@@ -12,25 +12,25 @@ SeafloorCavern_Room1_EventScript_Grunt2::
 	end
 
 SeafloorCavern_Room1_Text_Grunt1Intro:
-	.string "We don't need a kid around!\n"
-	.string "Go on home already!$"
+	.string "Kami tidak butuh anak kecil di sini!\n"
+	.string "Pulang saja sana!$"
 
 SeafloorCavern_Room1_Text_Grunt1Defeat:
-	.string "I want to go home…$"
+	.string "Aku ingin pulang…$"
 
 SeafloorCavern_Room1_Text_Grunt1PostBattle:
-	.string "I want to get a promotion so I can\n"
-	.string "boss around the GRUNTS…$"
+	.string "Aku ingin naik pangkat agar aku bisa\n"
+	.string "memerintah GRUNT lain…$"
 
 SeafloorCavern_Room1_Text_Grunt2Intro:
-	.string "That submarine… It's tiny inside.\n"
-	.string "I'm sore all over!$"
+	.string "Kapal selam itu… Kecil sekali di dalamnya.\n"
+	.string "Seluruh badanku pegal!$"
 
 SeafloorCavern_Room1_Text_Grunt2Defeat:
-	.string "Losing makes me sore!$"
+	.string "Kalah membuatku pegal!$"
 
 SeafloorCavern_Room1_Text_Grunt2PostBattle:
-	.string "That submarine we jacked, man,\n"
-	.string "it's brutal as a ride.\l"
-	.string "It's way too tight in there!$"
+	.string "Kapal selam yang kami bajak itu, ya,\n"
+	.string "perjalanannya sangat brutal.\l"
+	.string "Terlalu sempit di dalamnya!$"
 

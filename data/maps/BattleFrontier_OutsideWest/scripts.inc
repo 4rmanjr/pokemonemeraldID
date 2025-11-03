@@ -299,219 +299,219 @@ BattleFrontier_OutsideWest_EventScript_PokefanF::
 	end
 
 BattleFrontier_OutsideWest_Text_BattleDomeSign:
-	.string "This is the BATTLE DOME!\n"
-	.string "Your path to the invincible superstar!$"
+	.string "Ini BATTLE DOME!\n"
+	.string "Jalanmu menuju superstar tak terkalahkan!$"
 
 BattleFrontier_OutsideWest_Text_BattleFactorySign:
-	.string "This is the BATTLE FACTORY!\n"
-	.string "Seek out the toughest POKéMON!$"
+	.string "Ini BATTLE FACTORY!\n"
+	.string "Carilah POKéMON terkuat!$"
 
 BattleFrontier_OutsideWest_Text_BattlePikeSign:
-	.string "This is the BATTLE PIKE!\n"
-	.string "Choose one of three paths!$"
+	.string "Ini BATTLE PIKE!\n"
+	.string "Pilih salah satu dari tiga jalur!$"
 
 BattleFrontier_OutsideWest_Text_ThisIsBattleTower:
-	.string "This is the BATTLE TOWER.\p"
-	.string "TRAINERS bring their best-raised\n"
-	.string "POKéMON for elimination-style matches.$"
+	.string "Ini adalah BATTLE TOWER.\p"
+	.string "Para TRAINER membawa POKéMON terbaik\n"
+	.string "mereka untuk pertandingan gaya eliminasi.$"
 
 BattleFrontier_OutsideWest_Text_MayISeeYourTicket:
-	.string "Hello, are you here for the ferry?\n"
-	.string "May I see your TICKET?$"
+	.string "Halo, apa kamu ke sini untuk naik feri?\n"
+	.string "Boleh aku lihat TIKET-mu?$"
 
 BattleFrontier_OutsideWest_Text_MustHaveTicketToBoard:
-	.string "{PLAYER} doesn't have the TICKET…\p"
-	.string "I'm terribly sorry.\p"
-	.string "You must have a TICKET to board\n"
-	.string "the ferry.$"
+	.string "{PLAYER} tidak punya TIKET…\p"
+	.string "Maaf sekali.\p"
+	.string "Kamu harus punya TIKET untuk naik\n"
+	.string "feri.$"
 
 BattleFrontier_OutsideWest_Text_WhereWouldYouLikeToGo:
-	.string "{PLAYER} flashed the TICKET.\p"
-	.string "Perfect! That's all you need!\p"
-	.string "And where would you like to go?$"
+	.string "{PLAYER} menunjukkan TIKET.\p"
+	.string "Sempurna! Hanya itu yang kamu butuhkan!\p"
+	.string "Dan ke mana kamu ingin pergi?$"
 
 BattleFrontier_OutsideWest_Text_SlateportItIs:
-	.string "SLATEPORT CITY it is, then!$"
+	.string "Baiklah, ke SLATEPORT CITY!$"
 
 BattleFrontier_OutsideWest_Text_LilycoveItIs:
-	.string "LILYCOVE CITY it is, then!$"
+	.string "Baiklah, ke LILYCOVE CITY!$"
 
 BattleFrontier_OutsideWest_Text_SailWithUsAnotherTime:
-	.string "Please sail with us another time!$"
+	.string "Silakan berlayar bersama kami lain waktu!$"
 
 BattleFrontier_OutsideWest_Text_PleaseBoardFerry:
-	.string "Please board the ferry and wait for\n"
-	.string "departure.$"
+	.string "Silakan naik ke feri dan tunggu\n"
+	.string "keberangkatan.$"
 
 BattleFrontier_OutsideWest_Text_ThenWhereWouldYouLikeToGo:
-	.string "Then, where would you like to go?$"
+	.string "Jadi, ke mana kamu ingin pergi?$"
 
 BattleFrontier_OutsideWest_Text_BestOutOfAllMyFriends:
-	.string "I'm the best out of all my friends.\n"
-	.string "But here…\l"
-	.string "I've been useless!$"
+	.string "Aku yang terbaik di antara semua temanku.\n"
+	.string "Tapi di sini…\l"
+	.string "Aku tidak berguna!$"
 
 BattleFrontier_OutsideWest_Text_CantFindBattleTower:
-	.string "I want to go to the BATTLE TOWER,\n"
-	.string "but I can't find it even though I have\l"
-	.string "a map of the BATTLE FRONTIER.\p"
-	.string "This place is just too big!$"
+	.string "Aku ingin pergi ke BATTLE TOWER,\n"
+	.string "tapi tidak bisa menemukannya meskipun aku punya\l"
+	.string "peta BATTLE FRONTIER.\p"
+	.string "Tempat ini terlalu besar!$"
 
 BattleFrontier_OutsideWest_Text_GotSeasickOnWayHere:
-	.string "I wanted to take a challenge as soon\n"
-	.string "as I arrived here.\p"
-	.string "But on the way, I got seasick…\n"
+	.string "Aku ingin langsung menerima tantangan\n"
+	.string "setelah tiba di sini.\p"
+	.string "Tapi di perjalanan, aku mabuk laut…\n"
 	.string "Urrrrp…$"
 
 BattleFrontier_OutsideWest_Text_OnlyToughTrainersBroughtHere:
-	.string "It's not as if just anyone can come\n"
-	.string "here, you know?\p"
-	.string "Only those TRAINERS who've been\n"
-	.string "recognized as tough are brought here.\p"
-	.string "That's why many TRAINERS don't even\n"
-	.string "know about the BATTLE FRONTIER.$"
+	.string "Tidak sembarang orang bisa datang\n"
+	.string "ke sini, tahu?\p"
+	.string "Hanya TRAINER yang diakui tangguh\n"
+	.string "yang dibawa ke sini.\p"
+	.string "Itulah sebabnya banyak TRAINER bahkan\n"
+	.string "tidak tahu tentang BATTLE FRONTIER.$"
 
 BattleFrontier_OutsideWest_Text_SureWeCanChallengeWithNoMons:
-	.string "Hey, bro…\p"
-	.string "Are you sure we can make challenges\n"
-	.string "even if we don't have any POKéMON?$"
+	.string "Hei, bro…\p"
+	.string "Apa kamu yakin kita bisa ikut tantangan\n"
+	.string "meskipun kita tidak punya POKéMON?$"
 
 BattleFrontier_OutsideWest_Text_BigGuySaidIllLendYouMons:
 	.string "Uh…\n"
-	.string "I'm sure it'll be okay.\p"
-	.string "I think…\p"
-	.string "But remember that big scary guy?\n"
-	.string "He said, “I'll lend you POKéMON!”$"
+	.string "Aku yakin akan baik-baik saja.\p"
+	.string "Kurasa…\p"
+	.string "Tapi ingat orang besar menakutkan itu?\n"
+	.string "Dia bilang, “Aku akan pinjamkan POKéMON!”$"
 
 BattleFrontier_OutsideWest_Text_WhosRaisingThoseRentalMons:
-	.string "That's the BATTLE FACTORY.\n"
-	.string "You can rent strong POKéMON there.\p"
-	.string "But it makes me wonder.\n"
-	.string "Who's raising those rental POKéMON?$"
+	.string "Itu BATTLE FACTORY.\n"
+	.string "Kamu bisa menyewa POKéMON kuat di sana.\p"
+	.string "Tapi itu membuatku bertanya-tanya.\n"
+	.string "Siapa yang membesarkan POKéMON sewaan itu?$"
 
 BattleFrontier_OutsideWest_Text_ScaredOfPikeBecauseSeviper:
-	.string "I'm scared of going into the BATTLE\n"
-	.string "PIKE because of SEVIPER…\p"
-	.string "B-but I came all the way here, so I will\n"
-	.string "try to conquer everything!\l"
-	.string "…Shudder…$"
+	.string "Aku takut masuk ke BATTLE\n"
+	.string "PIKE karena ada SEVIPER…\p"
+	.string "T-tapi aku sudah datang jauh-jauh ke sini, jadi aku akan\n"
+	.string "mencoba menaklukkan semuanya!\l"
+	.string "…Gemetar…$"
 
 BattleFrontier_OutsideWest_Text_LetsPlayRockPaperScissors:
-	.string "Let's play rock, paper, scissors!\n"
-	.string "One, two, three!\p"
+	.string "Ayo main batu, kertas, gunting!\n"
+	.string "Satu, dua, tiga!\p"
 	.string "… … … … … …$"
 
 BattleFrontier_OutsideWest_Text_WonIllTakePikeChallenge:
-	.string "Yay! I won!\n"
-	.string "I will take the BATTLE PIKE challenge!$"
+	.string "Hore! Aku menang!\n"
+	.string "Aku akan mengambil tantangan BATTLE PIKE!$"
 
 BattleFrontier_OutsideWest_Text_LostIllPutOffPikeChallenge:
-	.string "Oh, no…\n"
-	.string "I lost.\p"
-	.string "I guess I'm not very lucky today.\n"
-	.string "I'll put off my BATTLE PIKE challenge\l"
-	.string "until tomorrow.$"
+	.string "Oh, tidak…\n"
+	.string "Aku kalah.\p"
+	.string "Kurasa aku tidak terlalu beruntung hari ini.\n"
+	.string "Aku akan menunda tantangan BATTLE PIKE-ku\l"
+	.string "sampai besok.$"
 
 BattleFrontier_OutsideWest_Text_ChooseFishingOverBattling:
-	.string "I believe I'm the only person here who,\n"
-	.string "for some unknown reason, would choose\l"
-	.string "fishing over battling.\p"
-	.string "Huh? You can't catch anything here?\n"
-	.string "That's disappointing…$"
+	.string "Aku yakin aku satu-satunya orang di sini yang,\n"
+	.string "untuk alasan yang tidak diketahui, akan memilih\l"
+	.string "memancing daripada bertarung.\p"
+	.string "Hah? Tidak bisa menangkap apa pun di sini?\n"
+	.string "Mengecewakan…$"
 
 BattleFrontier_OutsideWest_Text_KeepBattlingUntilIGetSymbol:
-	.string "Today, I'm going to keep battling, no\n"
-	.string "matter what, until I get a Symbol.$"
+	.string "Hari ini, aku akan terus bertarung, apa\n"
+	.string "pun yang terjadi, sampai aku mendapatkan Symbol.$"
 
 BattleFrontier_OutsideWest_Text_YoureOffToChallengeDome:
-	.string "Oh? You're off to challenge\n"
-	.string "the BATTLE DOME?\p"
-	.string "I'll wish you the best of luck.\n"
-	.string "Let us both win our way up and meet\l"
-	.string "in challenges.$"
+	.string "Oh? Kamu akan menantang\n"
+	.string "BATTLE DOME?\p"
+	.string "Semoga kamu beruntung.\n"
+	.string "Mari kita berdua menang dan bertemu\l"
+	.string "di tantangan.$"
 
 BattleFrontier_OutsideWest_Text_DomeIsHereGrandpa:
-	.string "Grandpa, over here!\n"
-	.string "The BATTLE DOME is here!\l"
-	.string "Go get 'em, Grandpa!$"
+	.string "Kakek, di sini!\n"
+	.string "BATTLE DOME ada di sini!\l"
+	.string "Semangat, Kakek!$"
 
 BattleFrontier_OutsideWest_Text_WontLetGentlemenBeatMe:
-	.string "Ah, so this here is the BATTLE DOME?\n"
-	.string "I won't let GENTLEMEN beat me!\p"
-	.string "But where is the entrance?$"
+	.string "Ah, jadi ini BATTLE DOME?\n"
+	.string "Aku tidak akan membiarkan GENTLEMEN mengalahkanku!\p"
+	.string "Tapi di mana pintu masuknya?$"
 
 BattleFrontier_OutsideWest_Text_NothingHereNotLongAgo:
-	.string "There used to be nothing here not all\n"
-	.string "that long ago.\p"
-	.string "But, now look at this place! Amazing!\n"
-	.string "I'll bring my mother out to see this.$"
+	.string "Dulu tidak ada apa-apa di sini belum\n"
+	.string "lama ini.\p"
+	.string "Tapi, sekarang lihat tempat ini! Luar biasa!\n"
+	.string "Aku akan mengajak ibuku untuk melihat ini.$"
 
 BattleFrontier_OutsideWest_Text_FinallyArrivedAtFrontier:
-	.string "I've finally arrived at the BATTLE\n"
+	.string "Akhirnya aku tiba di BATTLE\n"
 	.string "FRONTIER!\p"
-	.string "I'm sure to grab attention with\n"
-	.string "my looks and ability!$"
+	.string "Aku yakin akan menarik perhatian dengan\n"
+	.string "penampilan dan kemampuanku!$"
 
 BattleFrontier_OutsideWest_Text_SquareFilledWithToughPeople:
-	.string "Munch, munch…\p"
-	.string "It looks like this square's filled with\n"
-	.string "tough people.\p"
-	.string "Munch, munch…$"
+	.string "Nyam, nyam…\p"
+	.string "Sepertinya alun-alun ini dipenuhi\n"
+	.string "orang-orang tangguh.\p"
+	.string "Nyam, nyam…$"
 
 BattleFrontier_OutsideWest_Text_MetOlderGirlAtPike:
-	.string "Crunch, munch…\p"
-	.string "A while back, I met this older girl\n"
-	.string "at the BATTLE PIKE.\p"
-	.string "She had these eyes that were scary\n"
-	.string "in a real ornery way.\p"
-	.string "Crunch, munch…\p"
-	.string "She got all furious: “Will you quit\n"
-	.string "eating!” Then she whaled on me.\p"
-	.string "It was a hair-raising kind of\n"
-	.string "scary experience, sure enough.\p"
-	.string "Crunch, munch…$"
+	.string "Kres, nyam…\p"
+	.string "Beberapa waktu lalu, aku bertemu seorang gadis\n"
+	.string "di BATTLE PIKE.\p"
+	.string "Dia punya mata yang menakutkan\n"
+	.string "dengan cara yang sangat galak.\p"
+	.string "Kres, nyam…\p"
+	.string "Dia menjadi sangat marah: “Berhenti\n"
+	.string "makan!” Lalu dia memukulku.\p"
+	.string "Itu adalah pengalaman menakutkan\n"
+	.string "yang membuat bulu kuduk berdiri.\p"
+	.string "Kres, nyam…$"
 
 BattleFrontier_OutsideWest_Text_LastTimeOurEyesMet:
-	.string "Huh? Will you listen to yourself?\n"
-	.string "That's nothing!\p"
-	.string "Why, the last time I cheered for him,\n"
-	.string "our eyes met and sparks flew!$"
+	.string "Hah? Coba dengarkan dirimu sendiri!\n"
+	.string "Itu bukan apa-apa!\p"
+	.string "Terakhir kali aku menyemangatinya,\n"
+	.string "mata kami bertemu dan bunga api beterbangan!$"
 
 BattleFrontier_OutsideWest_Text_DomeAceLookedBecauseOfMyCheering:
-	.string "Whaaaaaat?!\n"
+	.string "Apaaaaaa?!\n"
 	.string "Pfft!\p"
-	.string "That only happened because\n"
-	.string "I happened to be sitting next to you!\p"
-	.string "The DOME ACE only looked our way\n"
-	.string "because my cheering was so loud!$"
+	.string "Itu hanya terjadi karena\n"
+	.string "aku kebetulan duduk di sebelahmu!\p"
+	.string "DOME ACE hanya melihat ke arah kita\n"
+	.string "karena sorakanku sangat keras!$"
 
 BattleFrontier_OutsideWest_Text_DomeAceIsMine:
-	.string "Oh, shush!\n"
-	.string "Keep that racket down!\p"
-	.string "You fair-weather fans should stick\n"
-	.string "to cheering for some GYM LEADER!\p"
-	.string "The DOME ACE is mine!\n"
-	.string "The only idol for me!$"
+	.string "Oh, diam!\n"
+	.string "Jangan berisik!\p"
+	.string "Penggemar musiman sepertimu sebaiknya\n"
+	.string "menyemangati GYM LEADER saja!\p"
+	.string "DOME ACE adalah milikku!\n"
+	.string "Satu-satunya idola untukku!$"
 
 BattleFrontier_OutsideWest_Text_FansOverThereUsedToBeTrainers:
-	.string "Those people squabbling over there…\p"
-	.string "It's hard to believe, but they once\n"
-	.string "were TRAINERS, and good ones, too.\p"
-	.string "They used to be incredibly tough,\n"
-	.string "and they were famous, too.\p"
-	.string "But they were obliterated by this\n"
-	.string "certain TRAINER at a tournament.\p"
-	.string "They were so thoroughly whipped,\n"
-	.string "they became smitten by the TRAINER.\p"
-	.string "Now they're just fans of the TRAINER.\n"
-	.string "They go cheer for their idol at the\l"
-	.string "BATTLE DOME every day now.$"
+	.string "Orang-orang yang bertengkar di sana itu…\p"
+	.string "Sulit dipercaya, tapi mereka dulunya\n"
+	.string "adalah TRAINER, dan yang hebat juga.\p"
+	.string "Mereka dulu sangat tangguh,\n"
+	.string "dan mereka juga terkenal.\p"
+	.string "Tapi mereka dihancurkan oleh\n"
+	.string "TRAINER tertentu di sebuah turnamen.\p"
+	.string "Mereka begitu telak dikalahkan,\n"
+	.string "hingga mereka terpikat oleh TRAINER itu.\p"
+	.string "Sekarang mereka hanya penggemar TRAINER itu.\n"
+	.string "Mereka pergi menyemangati idola mereka di\l"
+	.string "BATTLE DOME setiap hari sekarang.$"
 
 BattleFrontier_OutsideWest_Text_MonWithLongTailInFrontier:
-	.string "I heard a rumor that someone saw\n"
-	.string "a POKéMON with an unusually long tail\l"
-	.string "somewhere in the BATTLE FRONTIER.\p"
-	.string "It must be adorable. I'm sure of it…\p"
-	.string "Oh, challenges can wait. I feel driven\n"
-	.string "to find the delightful creature!$"
+	.string "Aku dengar rumor bahwa seseorang melihat\n"
+	.string "POKéMON dengan ekor yang sangat panjang\l"
+	.string "di suatu tempat di BATTLE FRONTIER.\p"
+	.string "Pasti menggemaskan. Aku yakin itu…\p"
+	.string "Oh, tantangan bisa menunggu. Aku merasa terdorong\n"
+	.string "untuk menemukan makhluk yang menyenangkan itu!$"
 

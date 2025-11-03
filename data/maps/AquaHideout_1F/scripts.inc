@@ -1,3 +1,4 @@
+//gemini
 AquaHideout_1F_MapScripts::
 	.byte 0
 
@@ -51,69 +52,68 @@ AquaHideout_1F_EventScript_Grunt1Defeated::
 	end
 
 AquaHideout_1F_Text_OurBossIsSnatchingSomething:
-	.string "What? What? What do you want with \n"
-	.string "TEAM AQUA?\p"
-	.string "Our BOSS isn't here! He's gone off to\n"
-	.string "snatch something important!\p"
-	.string "… …\n"
-	.string "Where did he go?\p"
-	.string "Wahaha! Do you really think I'd tell\n"
-	.string "you something that crucial?$"
+	.string "Apa? Apa? Apa mau Kamu dengan TIM\n"
+	.string "AQUA?\p"
+	.string "BOS kami tidak ada! Dia pergi untuk\n"
+	.string "mengambil sesuatu yang penting!\p"
+	.string "… … Ke mana dia pergi?\p"
+	.string "Wahaha! Apa Kamu benar-benar\n"
+	.string "berpikir aku akan memberitahu Kamu\l"
+	.string "hal sepenting itu?$"
 
 AquaHideout_1F_Text_WhereMightMagmaHideoutBe:
-	.string "What? What?\n"
-	.string "Are you a TEAM MAGMA grunt?\p"
-	.string "I hear that TEAM MAGMA is trying to\n"
-	.string "awaken an awesome POKéMON at their\l"
-	.string "HIDEOUT.\p"
-	.string "But where might their HIDEOUT be?$"
+	.string "Apa? Apa? Apa Kamu anggota rendahan\n"
+	.string "TIM MAGMA?\p"
+	.string "Aku dengar TIM MAGMA berusaha\n"
+	.string "membangunkan POKéMON hebat di\l"
+	.string "MARKAS mereka.\p"
+	.string "Tapi di mana kira-kira MARKAS\n"
+	.string "mereka?$"
 
 AquaHideout_1F_Text_BossWentToJackASubmarine:
-	.string "What? What? What do you want with \n"
-	.string "TEAM AQUA?\p"
-	.string "Our BOSS isn't here!\n"
-	.string "He's gone off to jack a submarine!\p"
-	.string "… …\n"
-	.string "Where did he go?\p"
-	.string "Wahaha! Do you really think I'd tell\n"
-	.string "you something that crucial?$"
+	.string "Apa? Apa? Apa mau Kamu dengan TIM\n"
+	.string "AQUA?\p"
+	.string "BOS kami tidak ada! Dia pergi untuk\n"
+	.string "merampas kapal selam!\p"
+	.string "… … Ke mana dia pergi?\p"
+	.string "Wahaha! Apa Kamu benar-benar\n"
+	.string "berpikir aku akan memberitahu Kamu\l"
+	.string "hal sepenting itu?$"
 
 AquaHideout_1F_Text_BossIsOnRoute122:
-	.string "What? What? What do you want with \n"
-	.string "TEAM AQUA?\p"
-	.string "Our BOSS isn't here! He's on his way to\n"
-	.string "MT. PYRE on ROUTE 122!\p"
-	.string "… …\n"
-	.string "Why did he go?\p"
-	.string "Wahaha! Do you really think I'd tell\n"
-	.string "you something that crucial?$"
+	.string "Apa? Apa? Apa mau Kamu dengan TIM\n"
+	.string "AQUA?\p"
+	.string "BOS kami tidak ada! Dia sedang\n"
+	.string "menuju ke G.N. ABU di RUTE 122!\p"
+	.string "… … Mengapa dia pergi?\p"
+	.string "Wahaha! Apa Kamu benar-benar\n"
+	.string "berpikir aku akan memberitahu Kamu\l"
+	.string "hal sepenting itu?$"
 
 AquaHideout_1F_Text_TeamMagmaAtMtChimney:
-	.string "What? What?\n"
-	.string "Are you a TEAM MAGMA grunt?\p"
-	.string "I hear that TEAM MAGMA is after\n"
-	.string "an awesome POKéMON at MT. CHIMNEY.\p"
-	.string "But what is that POKéMON like?$"
+	.string "Apa? Apa? Apa Kamu anggota rendahan\n"
+	.string "TIM MAGMA?\p"
+	.string "Aku dengar TIM MAGMA mengincar\n"
+	.string "POKéMON hebat di G. CEROBONG.\p"
+	.string "Tapi POKéMON seperti apa itu?$"
 
 AquaHideout_1F_Text_BossIsInSlateportCity:
-	.string "What? What? What do you want with\n"
-	.string "TEAM AQUA?\p"
-	.string "Our BOSS isn't here!\n"
-	.string "He's on his way to SLATEPORT CITY!\p"
-	.string "… …\n"
-	.string "Why did he go?\p"
-	.string "Wahaha! Do you really think I'd tell\n"
-	.string "you something that crucial?$"
+	.string "Apa? Apa? Apa mau Kamu dengan TIM\n"
+	.string "AQUA?\p"
+	.string "BOS kami tidak ada! Dia sedang\n"
+	.string "menuju ke KOTA SLATEPORT!\p"
+	.string "… … Mengapa dia pergi?\p"
+	.string "Wahaha! Apa Kamu benar-benar\n"
+	.string "berpikir aku akan memberitahu Kamu\l"
+	.string "hal sepenting itu?$"
 
 AquaHideout_1F_Text_Grunt1Intro:
-	.string "Ayiyiyi!\n"
-	.string "Suspicious character spotted!$"
+	.string "Ayiyiyi! Karakter mencurigakan\n"
+	.string "terdeteksi!$"
 
 AquaHideout_1F_Text_Grunt1Defeat:
-	.string "Grrrrr…\n"
-	.string "I lost it!$"
+	.string "Grrrrr… Aku kalah!$"
 
 AquaHideout_1F_Text_Grunt1PostBattle:
-	.string "I took the loss for the TEAM,\n"
-	.string "but I did my job…$"
-
+	.string "Aku kalah demi TIM, tapi aku sudah\n"
+	.string "melakukan tugasku…$"

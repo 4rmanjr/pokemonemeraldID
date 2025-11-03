@@ -1,3 +1,4 @@
+//gemini
 Route104_MrBrineysHouse_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, Route104_MrBrineysHouse_OnTransition
 	.byte 0
@@ -95,64 +96,67 @@ Route104_MrBrineysHouse_EventScript_Peeko::
 	end
 
 Route104_MrBrineysHouse_Text_WaitUpPeeko:
-	.string "MR. BRINEY: Hold on, lass!\n"
-	.string "Wait up, PEEKO!$"
+	.string "MR. BRINEY: Tahan, Nona! Tunggu,\n"
+	.string "PEEKO!$"
 
 Route104_MrBrineysHouse_Text_ItsYouLetsSailToDewford:
-	.string "Hm? You're {PLAYER}{KUN}!\n"
-	.string "You saved my darling PEEKO!\l"
-	.string "We owe so much to you!\p"
-	.string "What's that?\n"
-	.string "You want to sail with me?\p"
+	.string "Hm? Kamu {PLAYER} {KUN}! Kamu\n"
+	.string "menyelamatkan PEEKO-ku tersayang!\l"
+	.string "Kami sangat berutang budi padamu!\p"
+	.string "Apa itu? Km ingin berlayar denganku?\p"
 	.string "Hmhm…\p"
-	.string "You have a LETTER bound for DEWFORD\n"
-	.string "and a package for SLATEPORT, then?\p"
-	.string "Quite the busy life you must lead!\p"
-	.string "But, certainly, what you're asking is\n"
-	.string "no problem at all.\p"
-	.string "You've come to the right man!\n"
-	.string "We'll set sail for DEWFORD.$"
+	.string "Kamu punya SURAT tujuan DEWFORD dan\n"
+	.string "paket untuk SLATEPORT, begitu?\p"
+	.string "Sungguh kehidupan yang sibuk yang\n"
+	.string "kamu jalani!\p"
+	.string "Tapi, tentu saja, yang kamu minta\n"
+	.string "sama sekali bukan masalah.\p"
+	.string "Kamu datang ke orang yang tepat! Kita\n"
+	.string "akan berlayar ke DEWFORD.$"
 
 Route104_MrBrineysHouse_Text_SetSailForDewford:
-	.string "MR. BRINEY: DEWFORD it is, then!\p"
-	.string "Anchors aweigh!\n"
-	.string "PEEKO, we're setting sail, my darling!$"
+	.string "MR. BRINEY: DEWFORD, kalau begitu!\p"
+	.string "Angkat jangkar! PEEKO, kita akan\n"
+	.string "berlayar, Sayangku!$"
 
 Route104_MrBrineysHouse_Text_DeclineDeliverySail:
-	.string "MR. BRINEY: Is that so?\n"
-	.string "Your deliveries can wait?\p"
-	.string "You just go on and tell me whenever\n"
-	.string "you want to set sail!$"
+	.string "MR. BRINEY: Begitu ya? Kirimanmu bisa\n"
+	.string "menunggu?\p"
+	.string "Kamu tinggal bilang padaku kapan saja\n"
+	.string "kamu ingin berlayar!$"
 
 Route104_MrBrineysHouse_Text_NeedToMakeDeliveriesSailToDewford:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "I know exactly what you want to say!\p"
-	.string "You're to deliver a LETTER to DEWFORD\n"
-	.string "and a package to SLATEPORT.\p"
-	.string "What you need me to do is no problem\n"
-	.string "at all--I'm the man for the job!\p"
-	.string "First, we'll set sail for DEWFORD.$"
+	.string "MR. BRINEY: Hoy! Aku tahu persis apa\n"
+	.string "yang ingin kamu katakan!\p"
+	.string "Kamu harus mengantarkan SURAT ke\n"
+	.string "DEWFORD dan paket ke SLATEPORT.\p"
+	.string "Apa yang kamu butuhkan dariku sama\n"
+	.string "sekali bukan masalah--Aku orang yang\l"
+	.string "tepat untuk pekerjaan ini!\p"
+	.string "Pertama, kita akan berlayar ke\n"
+	.string "DEWFORD.$"
 
 Route104_MrBrineysHouse_Text_NeedToDeliverPackageSailToDewford:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "I know exactly what you want to say!\p"
-	.string "You're to deliver a package to\n"
-	.string "CAPT. STERN in SLATEPORT.\p"
-	.string "What you need me to do is no problem\n"
-	.string "at all--I'm the man for the job!\p"
-	.string "First, we'll set sail for DEWFORD.$"
+	.string "MR. BRINEY: Hoy! Aku tahu persis apa\n"
+	.string "yang ingin kamu katakan!\p"
+	.string "Kamu harus mengantarkan paket kepada\n"
+	.string "KAPTEN STERN di SLATEPORT.\p"
+	.string "Apa yang kamu butuhkan dariku sama\n"
+	.string "sekali bukan masalah--Aku orang yang\l"
+	.string "tepat untuk pekerjaan ini!\p"
+	.string "Pertama, kita akan berlayar ke\n"
+	.string "DEWFORD.$"
 
 Route104_MrBrineysHouse_Text_WhereAreWeBound:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "For you, I'll go out to sea anytime!\p"
-	.string "Now, my friend, where are we bound?$"
+	.string "MR. BRINEY: Hoy! Untukmu, aku akan\n"
+	.string "melaut kapan saja!\p"
+	.string "Nah, temanku, ke mana tujuan kita?$"
 
 Route104_MrBrineysHouse_Text_TellMeWheneverYouWantToSail:
-	.string "MR. BRINEY: Is that so?\n"
-	.string "Well, PEEKO owes her life to you.\p"
-	.string "You just go on and tell me whenever\n"
-	.string "you want to set sail!$"
+	.string "MR. BRINEY: Begitu ya? Yah, PEEKO\n"
+	.string "berutang nyawa padamu.\p"
+	.string "Kamu tinggal bilang padaku kapan saja\n"
+	.string "kamu ingin berlayar!$"
 
 Route104_MrBrineysHouse_Text_Peeko:
 	.string "PEEKO: Pii piihyoro!$"
-

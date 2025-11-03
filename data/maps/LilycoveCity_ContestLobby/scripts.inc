@@ -977,104 +977,112 @@ LilycoveCity_ContestLobby_EventScript_LittleGirlHaveCase::
 	end
 
 LilycoveCity_ContestLobby_Text_LadyGaveMePokeblockCase:
-	.string "Yippee!\p"
-	.string "The lady at the reception counter\n"
-	.string "gave me a case for {POKEBLOCK}S!$"
+	.string "Hore!\p"
+	.string "Wanita di meja resepsionis memberiku\n"
+	.string "wadah untuk {POKEBLOCK}!$"
 
 LilycoveCity_ContestLobby_Text_MakePokeblocksDifferentBerries:
-	.string "Make {POKEBLOCK}S and put them in there.\p"
-	.string "When you make a {POKEBLOCK}, everyone\n"
-	.string "has to put in a different BERRY.$"
+	.string "Buat {POKEBLOCK} dan masukkan ke\n"
+	.string "dalamnya.\p"
+	.string "Saat membuat {POKEBLOCK}, semua orang\n"
+	.string "harus memasukkan BERRY yang berbeda.$"
 
 LilycoveCity_ContestLobby_Text_YourPokemonSpurredMeToPaint:
-	.string "Congratulations!\p"
-	.string "I did a painting of your POKéMON to\n"
-	.string "commemorate its victory…\p"
-	.string "Well, your POKéMON's appeals were\n"
-	.string "so fantastic, it spurred me into\l"
-	.string "painting better than I usually do.\l"
-	.string "Look, see?$"
+	.string "Selamat!\p"
+	.string "Aku membuat lukisan POKéMON-mu untuk\n"
+	.string "merayakan kemenangannya…\p"
+	.string "Yah, daya tarik POKéMON-mu begitu\n"
+	.string "fantastis, itu mendorongku untuk\l"
+	.string "melukis lebih baik dari biasanya.\l"
+	.string "Lihat, kan?$"
 
 LilycoveCity_ContestLobby_Text_ShouldITakePaintingToMuseum:
-	.string "What do you think? I'm confident in\n"
-	.string "what I've done, but do you like it?\p"
-	.string "A work of this caliber, it wouldn't look\n"
-	.string "out of place in an art museum.\p"
-	.string "Huh? An art museum really is looking\n"
-	.string "for paintings?\p"
-	.string "Do you think I should take this there?$"
+	.string "Bagaimana menurutmu? Aku percaya diri\n"
+	.string "dengan hasil karyaku, tapi apa kamu\l"
+	.string "suka?\p"
+	.string "Karya sekaliber ini, tidak akan\n"
+	.string "terlihat aneh di museum seni.\p"
+	.string "Hah? Museum seni benar-benar\n"
+	.string "mencari lukisan?\p"
+	.string "Menurutmu haruskah aku membawanya\n"
+	.string "ke sana?$"
 
 LilycoveCity_ContestLobby_Text_IllTakePaintingToMuseum:
-	.string "What, really? Then, sure, I will take\n"
-	.string "this painting there right now.\p"
-	.string "I'll give it a proper title, too.\p"
-	.string "I hope they'll like it and consider\n"
-	.string "exhibiting this.\p"
-	.string "Please check if they did accept this.\n"
-	.string "Thank you!$"
+	.string "Apa, benarkah? Kalau begitu, tentu,\n"
+	.string "aku akan membawa lukisan ini ke sana\l"
+	.string "sekarang juga.\p"
+	.string "Aku akan memberinya judul yang\n"
+	.string "pantas juga.\p"
+	.string "Kuharap mereka akan menyukainya dan\n"
+	.string "mempertimbangkan untuk memamerkannya.\p"
+	.string "Tolong periksa apakah mereka\n"
+	.string "menerimanya. Terima kasih!$"
 
 LilycoveCity_ContestLobby_Text_TakeMementoOfPainting:
-	.string "Oh, that's right!\p"
-	.string "As a memento of me painting your\n"
-	.string "POKéMON, please take this.$"
+	.string "Oh, benar juga!\p"
+	.string "Sebagai kenang-kenangan aku melukis\n"
+	.string "POKéMON-mu, tolong ambil ini.$"
 
 LilycoveCity_ContestLobby_Text_ReceivedARibbon:
-	.string "{PLAYER} received a RIBBON.$"
+	.string "{PLAYER} mendapatkan PITA.$"
 
 LilycoveCity_ContestLobby_Text_PutTheRibbonOnMon:
-	.string "{PLAYER} put the RIBBON on\n"
+	.string "{PLAYER} memasangkan PITA pada\n"
 	.string "{STR_VAR_1}.$"
 
 LilycoveCity_ContestLobby_Text_OkaySeeYou:
-	.string "Okay, see you!$"
+	.string "Oke, sampai jumpa!$"
 
 LilycoveCity_ContestLobby_Text_TakeHomeButIdLikeToTakeToMuseum:
-	.string "Oh… Then, I guess I'll just take\n"
-	.string "this home with me…\p"
-	.string "But, you know, I would like to take\n"
-	.string "this to the art museum… Okay?$"
+	.string "Oh… Kalau begitu, kurasa aku akan\n"
+	.string "membawanya pulang saja…\p"
+	.string "Tapi, kamu tahu, aku ingin membawanya\n"
+	.string "ke museum seni… Oke?$"
 
 LilycoveCity_ContestLobby_Text_FineThatsTheWayItIs:
-	.string "Oh, fine, that's the way it is.\n"
-	.string "I will hang this in my own house.\p"
-	.string "I'll just have to try harder next time.\n"
-	.string "Well, be seeing you.$"
+	.string "Oh, baiklah, begitulah adanya.\n"
+	.string "Aku akan menggantungnya di rumahku\l"
+	.string "sendiri.\p"
+	.string "Aku hanya harus berusaha lebih keras\n"
+	.string "lain kali. Yah, sampai jumpa.$"
 
 LilycoveCity_ContestLobby_Text_MasterRankHereICome:
-	.string "Hoo, boy… Master Rank CONTESTS,\n"
-	.string "here I come.\p"
-	.string "The world will know that my dearest\n"
-	.string "POKéMON is the cutest being in all\l"
-	.string "existence. The time has come!\l"
-	.string "Uheheheh.$"
+	.string "Hoo, ampun… CONTESTS Master Rank,\n"
+	.string "aku datang.\p"
+	.string "Dunia akan tahu bahwa POKéMON\n"
+	.string "kesayanganku adalah makhluk terimut\l"
+	.string "di seluruh dunia. Waktunya telah\l"
+	.string "tiba! Uheheheh.$"
 
 LilycoveCity_ContestLobby_Text_WholeVarietyOfPokemonHere:
-	.string "You can see a whole variety of\n"
-	.string "POKéMON here.\p"
-	.string "That's why I make this place a regular\n"
-	.string "part of my daily stroll.$"
+	.string "Kamu bisa melihat berbagai macam\n"
+	.string "POKéMON di sini.\p"
+	.string "Itulah mengapa aku menjadikan tempat\n"
+	.string "ini bagian rutin dari jalan-jalan\l"
+	.string "harianku.$"
 
 LilycoveCity_ContestLobby_Text_ContestFeastForEyes:
-	.string "Wow, coming out to a CONTEST is\n"
-	.string "a feast for these eyes!\p"
-	.string "Would you look at all the POKéMON\n"
-	.string "that just scream to be painted?$"
+	.string "Wow, datang ke CONTEST benar-benar\n"
+	.string "memanjakan mata!\p"
+	.string "Coba lihat semua POKéMON yang\n"
+	.string "seolah-olah minta dilukis?$"
 
 LilycoveCity_ContestLobby_Text_ToughContestIsExtreme:
-	.string "The TOUGHNESS CONTEST is like\n"
-	.string "extreme, man!\p"
-	.string "Those muscular appeals…\n"
-	.string "Cascading sweat… I swoon!$"
+	.string "TOUGHNESS CONTEST itu seperti\n"
+	.string "ekstrim, bung!\p"
+	.string "Daya tarik berotot itu…\n"
+	.string "Keringat yang bercucuran… Aku\l"
+	.string "pingsan!$"
 
 LilycoveCity_ContestLobby_Text_LavishedCareOnMon:
-	.string "Day in and day out, I lavished my care\n"
-	.string "on this POKéMON.\p"
-	.string "Its condition is peaking.\n"
-	.string "Today, victory is mine!$"
+	.string "Siang dan malam, aku mencurahkan\n"
+	.string "perawatanku pada POKéMON ini.\p"
+	.string "Kondisinya sedang di puncak.\n"
+	.string "Hari ini, kemenangan adalah milikku!$"
 
 LilycoveCity_ContestLobby_Text_MadePokeblocksWithFamily:
-	.string "I made {POKEBLOCK}S with Mom, Dad, and\n"
-	.string "Big Sister. They turned out great!\p"
-	.string "I bet you can make smoother, better\n"
-	.string "{POKEBLOCK}S if you have more people.$"
-
+	.string "Aku membuat {POKEBLOCK} bersama Ibu,\n"
+	.string "Ayah, dan Kakak. Hasilnya bagus!\p"
+	.string "Aku yakin kamu bisa membuat {POKEBLOCK}\n"
+	.string "yang lebih halus dan lebih baik jika\l"
+	.string "ada lebih banyak orang.$"

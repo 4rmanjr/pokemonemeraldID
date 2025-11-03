@@ -1,341 +1,397 @@
+//gemini
 BattleDome_Text_Potential1::
-	.string "The best candidate to be a champ!$"
+	.string "Kandidat terbaik untuk menjadi\n"
+	.string "juara!$"
 
 BattleDome_Text_Potential2::
-	.string "A sure-finalist team.$"
+	.string "Tim yang pasti masuk final.$"
 
 BattleDome_Text_Potential3::
-	.string "A likely top-three finisher.$"
+	.string "Kemungkinan besar finis tiga besar.$"
 
 BattleDome_Text_Potential4::
-	.string "A candidate to finish first.$"
+	.string "Kandidat untuk finis pertama.$"
 
 BattleDome_Text_Potential5::
-	.string "A team with top-class potential.$"
+	.string "Tim dengan potensi kelas atas.$"
 
 BattleDome_Text_Potential6::
-	.string "The dark horse team this tournament.$"
+	.string "Tim kuda hitam turnamen ini.$"
 
 BattleDome_Text_Potential7::
-	.string "A better-than-average team.$"
+	.string "Tim di atas rata-rata.$"
 
 BattleDome_Text_Potential8::
-	.string "This tournament's average team.$"
+	.string "Tim rata-rata turnamen ini.$"
 
 BattleDome_Text_Potential9::
-	.string "A team with average potential.$"
+	.string "Tim dengan potensi rata-rata.$"
 
 BattleDome_Text_Potential10::
-	.string "A weaker-than-average team.$"
+	.string "Tim di bawah rata-rata.$"
 
 BattleDome_Text_Potential11::
-	.string "A team looking for its first win.$"
+	.string "Tim yang mencari kemenangan\n"
+	.string "pertamanya.$"
 
 BattleDome_Text_Potential12::
-	.string "One win will make this team proud.$"
+	.string "Satu kemenangan akan membuat tim\n"
+	.string "ini bangga.$"
 
 BattleDome_Text_Potential13::
-	.string "Overall, a weak team.$"
+	.string "Secara keseluruhan, tim yang lemah.$"
 
 BattleDome_Text_Potential14::
-	.string "A team with very low potential.$"
+	.string "Tim dengan potensi sangat rendah.$"
 
 BattleDome_Text_Potential15::
-	.string "A team unlikely to win the tournament.$"
+	.string "Tim yang mustahil menjuarai\n"
+	.string "turnamen.$"
 
 BattleDome_Text_Potential16::
-	.string "The team most unlikely to win.$"
+	.string "Tim yang paling kecil\n"
+	.string "kemungkinannya untuk menang.$"
 
 BattleDome_Text_PotentialDomeAceTucker::
-	.string "The perfect, invincible superstar!$"
+	.string "Superstar yang sempurna dan tak\n"
+	.string "terkalahkan!$"
 
 BattleDome_Text_StyleRiskDisaster::
-	.string "Willing to risk total disaster at times.$"
+	.string "Terkadang rela mengambil risiko\n"
+	.string "bencana total.$"
 
 BattleDome_Text_StyleEndureLongBattles::
-	.string "Skilled at enduring long battles.$"
+	.string "Terampil dalam menahan pertarungan\n"
+	.string "panjang.$"
 
 BattleDome_Text_StyleVariesTactics::
-	.string "Varies tactics to suit the opponent.$"
+	.string "Mengubah taktik agar sesuai dengan\n"
+	.string "lawan.$"
 
 BattleDome_Text_StyleToughWinningPattern::
-	.string "Has a tough winning pattern.$"
+	.string "Memiliki pola kemenangan yang\n"
+	.string "tangguh.$"
 
 BattleDome_Text_StyleUsesVeryRareMove::
-	.string "Occasionally uses a very rare move.$"
+	.string "Kadang-kadang menggunakan jurus\n"
+	.string "yang sangat langka.$"
 
 BattleDome_Text_StyleUsesStartlingMoves::
-	.string "Uses startling and disruptive moves.$"
+	.string "Menggunakan jurus yang mengejutkan\n"
+	.string "dan mengganggu.$"
 
 BattleDome_Text_StyleConstantlyWatchesHP::
-	.string "Constantly watches HP in battle.$"
+	.string "Selalu memperhatikan HP dalam\n"
+	.string "pertarungan.$"
 
 BattleDome_Text_StyleStoresAndLoosesPower::
-	.string "Good at storing then loosing power.$"
+	.string "Pandai menyimpan lalu melepaskan\n"
+	.string "kekuatan.$"
 
 BattleDome_Text_StyleEnfeeblesFoes::
-	.string "Skilled at enfeebling foes.$"
+	.string "Terampil melemahkan musuh.$"
 
 BattleDome_Text_StylePrefersLuckTactics::
-	.string "Prefers tactics that rely on luck.$"
+	.string "Lebih suka taktik yang mengandalkan\n"
+	.string "keberuntungan.$"
 
 BattleDome_Text_StyleRegalAtmosphere::
-	.string "Attacks with a regal atmosphere.$"
+	.string "Menyerang dengan suasana yang\n"
+	.string "berwibawa.$"
 
 BattleDome_Text_StylePowerfulLowPPMoves::
-	.string "Attacks with powerful, low-PP moves.$"
+	.string "Menyerang dengan jurus kuat ber-PP\n"
+	.string "rendah.$"
 
 BattleDome_Text_StyleEnfeebleThenAttack::
-	.string "Skilled at enfeebling, then attacking.$"
+	.string "Terampil melemahkan, lalu\n"
+	.string "menyerang.$"
 
 BattleDome_Text_StyleBattlesWhileEnduring::
-	.string "Battles while enduring all attacks.$"
+	.string "Bertarung sambil menahan semua\n"
+	.string "serangan.$"
 
 BattleDome_Text_StyleUpsetsFoesEmotionally::
-	.string "Skilled at upsetting foes emotionally.$"
+	.string "Terampil mengganggu emosi musuh.$"
 
 BattleDome_Text_StyleStrongAndStraightforward::
-	.string "Uses strong and straightforward moves.$"
+	.string "Menggunakan jurus yang kuat dan\n"
+	.string "lugas.$"
 
 BattleDome_Text_StyleAggressivelyStrongMoves::
-	.string "Aggressively uses strong moves.$"
+	.string "Menggunakan jurus kuat secara\n"
+	.string "agresif.$"
 
 BattleDome_Text_StyleCleverlyDodgesAttacks::
-	.string "Battles while cleverly dodging attacks.$"
+	.string "Bertarung sambil menghindari\n"
+	.string "serangan dengan cerdik.$"
 
 BattleDome_Text_StyleUsesUpsettingMoves::
-	.string "Skilled at using upsetting attacks.$"
+	.string "Terampil menggunakan serangan yang\n"
+	.string "mengganggu.$"
 
 BattleDome_Text_StyleUsesPopularMoves::
-	.string "Uses many popular moves.$"
+	.string "Menggunakan banyak jurus populer.$"
 
 BattleDome_Text_StyleHasPowerfulComboMoves::
-	.string "Has moves for powerful combinations.$"
+	.string "Memiliki jurus untuk kombinasi yang\n"
+	.string "kuat.$"
 
 BattleDome_Text_StyleUsesHighProbabilityMoves::
-	.string "Uses high-probability attacks.$"
+	.string "Menggunakan serangan\n"
+	.string "berprobabilitas tinggi.$"
 
 BattleDome_Text_StyleAggressivelySpectacularMoves::
-	.string "Aggressively uses spectacular moves.$"
+	.string "Menggunakan jurus spektakuler\n"
+	.string "secara agresif.$"
 
 BattleDome_Text_StyleEmphasizesOffenseOverDefense::
-	.string "Emphasizes offense over defense.$"
+	.string "Lebih mengutamakan serangan\n"
+	.string "daripada pertahanan.$"
 
 BattleDome_Text_StyleEmphasizesDefenseOverOffense::
-	.string "Emphasizes defense over offense.$"
+	.string "Lebih mengutamakan pertahanan\n"
+	.string "daripada serangan.$"
 
 BattleDome_Text_StyleAttacksQuicklyStrongMoves::
-	.string "Attacks quickly with strong moves.$"
+	.string "Menyerang cepat dengan jurus kuat.$"
 
 BattleDome_Text_StyleUsesAddedEffectMoves::
-	.string "Often uses moves with added effects.$"
+	.string "Sering menggunakan jurus dengan\n"
+	.string "efek tambahan.$"
 
 BattleDome_Text_StyleUsesBalancedMixOfMoves::
-	.string "Uses a well-balanced mix of moves.$"
+	.string "Menggunakan campuran jurus yang\n"
+	.string "seimbang.$"
 
 BattleDome_Text_StyleSampleMessage1::
-	.string "This is sample message 1.$"
+	.string "Ini adalah pesan contoh 1.$"
 
 BattleDome_Text_StyleSampleMessage2::
-	.string "This is sample message 2.$"
+	.string "Ini adalah pesan contoh 2.$"
 
 BattleDome_Text_StyleSampleMessage3::
-	.string "This is sample message 3.$"
+	.string "Ini adalah pesan contoh 3.$"
 
 BattleDome_Text_StyleSampleMessage4::
-	.string "This is sample message 4.$"
+	.string "Ini adalah pesan contoh 4.$"
 
 BattleDome_Text_EmphasizesHPAndAtk::
-	.string "Emphasizes HP and ATTACK.$"
+	.string "Mengutamakan HP dan SERANGAN.$"
 
 BattleDome_Text_EmphasizesHPAndDef::
-	.string "Emphasizes HP and DEFENSE.$"
+	.string "Mengutamakan HP dan PERTAHANAN.$"
 
 BattleDome_Text_EmphasizesHPAndSpeed::
-	.string "Emphasizes HP and SPEED.$"
+	.string "Mengutamakan HP dan KECEPATAN.$"
 
 BattleDome_Text_EmphasizesHPAndSpAtk::
-	.string "Emphasizes HP and SP. ATTACK.$"
+	.string "Mengutamakan HP dan SERANGAN SP.$"
 
 BattleDome_Text_EmphasizesHPAndSpDef::
-	.string "Emphasizes HP and SP. DEFENSE.$"
+	.string "Mengutamakan HP dan PERTAHANAN SP.$"
 
 BattleDome_Text_EmphasizesAtkAndDef::
-	.string "Emphasizes ATTACK and DEFENSE.$"
+	.string "Mengutamakan SERANGAN dan\n"
+	.string "PERTAHANAN.$"
 
 BattleDome_Text_EmphasizesAtkAndSpeed::
-	.string "Emphasizes ATTACK and SPEED.$"
+	.string "Mengutamakan SERANGAN dan\n"
+	.string "KECEPATAN.$"
 
 BattleDome_Text_EmphasizesAtkAndSpAtk::
-	.string "Emphasizes ATTACK and SP. ATTACK.$"
+	.string "Mengutamakan SERANGAN dan SERANGAN\n"
+	.string "SP.$"
 
 BattleDome_Text_EmphasizesAtkAndSpDef::
-	.string "Emphasizes ATTACK and SP. DEFENSE.$"
+	.string "Mengutamakan SERANGAN dan\n"
+	.string "PERTAHANAN SP.$"
 
 BattleDome_Text_EmphasizesDefAndSpeed::
-	.string "Emphasizes DEFENSE and SPEED.$"
+	.string "Mengutamakan PERTAHANAN dan\n"
+	.string "KECEPATAN.$"
 
 BattleDome_Text_EmphasizesDefAndSpAtk::
-	.string "Emphasizes DEFENSE and SP. ATTACK.$"
+	.string "Mengutamakan PERTAHANAN dan\n"
+	.string "SERANGAN SP.$"
 
 BattleDome_Text_EmphasizesDefAndSpDef::
-	.string "Emphasizes DEFENSE and SP. DEFENSE.$"
+	.string "Mengutamakan PERTAHANAN dan\n"
+	.string "PERTAHANAN SP.$"
 
 BattleDome_Text_EmphasizesSpeedAndSpAtk::
-	.string "Emphasizes SPEED and SP. ATTACK.$"
+	.string "Mengutamakan KECEPATAN dan SERANGAN\n"
+	.string "SP.$"
 
 BattleDome_Text_EmphasizesSpeedAndSpDef::
-	.string "Emphasizes SPEED and SP. DEFENSE.$"
+	.string "Mengutamakan KECEPATAN dan\n"
+	.string "PERTAHANAN SP.$"
 
 BattleDome_Text_EmphasizesSpAtkAndSpDef::
-	.string "Emphasizes SP. ATTACK and SP. DEFENSE.$"
+	.string "Mengutamakan SERANGAN SP. dan\n"
+	.string "PERTAHANAN SP.$"
 
 BattleDome_Text_EmphasizesHP::
-	.string "Emphasizes HP.$"
+	.string "Mengutamakan HP.$"
 
 BattleDome_Text_EmphasizesAtk::
-	.string "Emphasizes ATTACK.$"
+	.string "Mengutamakan SERANGAN.$"
 
 BattleDome_Text_EmphasizesDef::
-	.string "Emphasizes DEFENSE.$"
+	.string "Mengutamakan PERTAHANAN.$"
 
 BattleDome_Text_EmphasizesSpeed::
-	.string "Emphasizes SPEED.$"
+	.string "Mengutamakan KECEPATAN.$"
 
 BattleDome_Text_EmphasizesSpAtk::
-	.string "Emphasizes SP. ATTACK.$"
+	.string "Mengutamakan SERANGAN SP.$"
 
 BattleDome_Text_EmphasizesSpDef::
-	.string "Emphasizes SP. DEFENSE.$"
+	.string "Mengutamakan PERTAHANAN SP.$"
 
 BattleDome_Text_NeglectsHPAndAtk::
-	.string "Neglects HP and ATTACK.$"
+	.string "Mengabaikan HP dan SERANGAN.$"
 
 BattleDome_Text_NeglectsHPAndDef::
-	.string "Neglects HP and DEFENSE.$"
+	.string "Mengabaikan HP dan PERTAHANAN.$"
 
 BattleDome_Text_NeglectsHPAndSpeed::
-	.string "Neglects HP and SPEED.$"
+	.string "Mengabaikan HP dan KECEPATAN.$"
 
 BattleDome_Text_NeglectsHPAndSpAtk::
-	.string "Neglects HP and SP. ATTACK.$"
+	.string "Mengabaikan HP dan SERANGAN SP.$"
 
 BattleDome_Text_NeglectsHPAndSpDef::
-	.string "Neglects HP and SP. DEFENSE.$"
+	.string "Mengabaikan HP dan PERTAHANAN SP.$"
 
 BattleDome_Text_NeglectsAtkAndDef::
-	.string "Neglects ATTACK and DEFENSE.$"
+	.string "Mengabaikan SERANGAN dan\n"
+	.string "PERTAHANAN.$"
 
 BattleDome_Text_NeglectsAtkAndSpeed::
-	.string "Neglects ATTACK and SPEED.$"
+	.string "Mengabaikan SERANGAN dan KECEPATAN.$"
 
 BattleDome_Text_NeglectsAtkAndSpAtk::
-	.string "Neglects ATTACK and SP. ATTACK.$"
+	.string "Mengabaikan SERANGAN dan SERANGAN\n"
+	.string "SP.$"
 
 BattleDome_Text_NeglectsAtkAndSpDef::
-	.string "Neglects ATTACK and SP. DEFENSE.$"
+	.string "Mengabaikan SERANGAN dan PERTAHANAN\n"
+	.string "SP.$"
 
 BattleDome_Text_NeglectsDefAndSpeed::
-	.string "Neglects DEFENSE and SPEED.$"
+	.string "Mengabaikan PERTAHANAN dan\n"
+	.string "KECEPATAN.$"
 
 BattleDome_Text_NeglectsDefAndSpAtk::
-	.string "Neglects DEFENSE and SP. ATTACK.$"
+	.string "Mengabaikan PERTAHANAN dan SERANGAN\n"
+	.string "SP.$"
 
 BattleDome_Text_NeglectsDefAndSpDef::
-	.string "Neglects DEFENSE and SP. DEFENSE.$"
+	.string "Mengabaikan PERTAHANAN dan\n"
+	.string "PERTAHANAN SP.$"
 
 BattleDome_Text_NeglectsSpeedAndSpAtk::
-	.string "Neglects SPEED and SP. ATTACK.$"
+	.string "Mengabaikan KECEPATAN dan SERANGAN\n"
+	.string "SP.$"
 
 BattleDome_Text_NeglectsSpeedAndSpDef::
-	.string "Neglects SPEED and SP. DEFENSE.$"
+	.string "Mengabaikan KECEPATAN dan\n"
+	.string "PERTAHANAN SP.$"
 
 BattleDome_Text_NeglectsSpAtkAndSpDef::
-	.string "Neglects SP. ATTACK and SP. DEFENSE.$"
+	.string "Mengabaikan SERANGAN SP. dan\n"
+	.string "PERTAHANAN SP.$"
 
 BattleDome_Text_NeglectsHP::
-	.string "Neglects HP.$"
+	.string "Mengabaikan HP.$"
 
 BattleDome_Text_NeglectsAtk::
-	.string "Neglects ATTACK.$"
+	.string "Mengabaikan SERANGAN.$"
 
 BattleDome_Text_NeglectsDef::
-	.string "Neglects DEFENSE.$"
+	.string "Mengabaikan PERTAHANAN.$"
 
 BattleDome_Text_NeglectsSpeed::
-	.string "Neglects SPEED.$"
+	.string "Mengabaikan KECEPATAN.$"
 
 BattleDome_Text_NeglectsSpAtk::
-	.string "Neglects SP. ATTACK.$"
+	.string "Mengabaikan SERANGAN SP.$"
 
 BattleDome_Text_NeglectsSpDef::
-	.string "Neglects SP. DEFENSE.$"
+	.string "Mengabaikan PERTAHANAN SP.$"
 
 BattleDome_Text_RaisesMonsWellBalanced::
-	.string "Raises POKéMON in a well-balanced way.$"
+	.string "Melatih POKéMON dengan cara yang\n"
+	.string "seimbang.$"
 
 BattleDome_Text_LetTheBattleBegin::
-	.string "Let the battle begin!$"
+	.string "Biarkan pertarungan dimulai!$"
 
 BattleDome_Text_TrainerWonUsingMove::
-	.string "{STR_VAR_1} won using {STR_VAR_2}!$"
+	.string "{STR_VAR_1} menang menggunakan\n"
+	.string "{STR_VAR_2}!$"
 
 BattleDome_Text_TrainerBecameChamp::
-	.string "{STR_VAR_1} became the champ!$"
+	.string "{STR_VAR_1} menjadi juara!$"
 
 BattleDome_Text_TrainerWonByDefault::
-	.string "{STR_VAR_1} won by default!$"
+	.string "{STR_VAR_1} menang secara\n"
+	.string "default!$"
 
 BattleDome_Text_TrainerWonOutrightByDefault::
-	.string "{STR_VAR_1} won outright by default!$"
+	.string "{STR_VAR_1} menang telak secara\n"
+	.string "default!$"
 
 BattleDome_Text_TrainerWonNoMoves::
-	.string "{STR_VAR_1} won without using a move!$"
+	.string "{STR_VAR_1} menang tanpa\n"
+	.string "menggunakan jurus!$"
 
 BattleDome_Text_TrainerWonOutrightNoMoves::
-	.string "{STR_VAR_1} won outright with no moves!$"
+	.string "{STR_VAR_1} menang telak tanpa\n"
+	.string "jurus!$"
 
 BattleDome_Text_Round1Match1::
-	.string "Round 1, Match 1$"
+	.string "Ronde 1, Laga 1$"
 
 BattleDome_Text_Round1Match2::
-	.string "Round 1, Match 2$"
+	.string "Ronde 1, Laga 2$"
 
 BattleDome_Text_Round1Match3::
-	.string "Round 1, Match 3$"
+	.string "Ronde 1, Laga 3$"
 
 BattleDome_Text_Round1Match4::
-	.string "Round 1, Match 4$"
+	.string "Ronde 1, Laga 4$"
 
 BattleDome_Text_Round1Match5::
-	.string "Round 1, Match 5$"
+	.string "Ronde 1, Laga 5$"
 
 BattleDome_Text_Round1Match6::
-	.string "Round 1, Match 6$"
+	.string "Ronde 1, Laga 6$"
 
 BattleDome_Text_Round1Match7::
-	.string "Round 1, Match 7$"
+	.string "Ronde 1, Laga 7$"
 
 BattleDome_Text_Round1Match8::
-	.string "Round 1, Match 8$"
+	.string "Ronde 1, Laga 8$"
 
 BattleDome_Text_Round2Match1::
-	.string "Round 2, Match 1$"
+	.string "Ronde 2, Laga 1$"
 
 BattleDome_Text_Round2Match2::
-	.string "Round 2, Match 2$"
+	.string "Ronde 2, Laga 2$"
 
 BattleDome_Text_Round2Match3::
-	.string "Round 2, Match 3$"
+	.string "Ronde 2, Laga 3$"
 
 BattleDome_Text_Round2Match4::
-	.string "Round 2, Match 4$"
+	.string "Ronde 2, Laga 4$"
 
 BattleDome_Text_SemifinalMatch1::
-	.string "Semifinal Match 1$"
+	.string "Laga Semifinal 1$"
 
 BattleDome_Text_SemifinalMatch2::
-	.string "Semifinal Match 2$"
+	.string "Laga Semifinal 2$"
 
 BattleDome_Text_FinalMatch::
-	.string "Final Match$"
+	.string "Laga Final$"

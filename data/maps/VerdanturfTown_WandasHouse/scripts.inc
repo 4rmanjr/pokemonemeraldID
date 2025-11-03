@@ -1,3 +1,4 @@
+//gemini
 VerdanturfTown_WandasHouse_MapScripts::
 	.byte 0
 
@@ -83,86 +84,84 @@ VerdanturfTown_WandasHouse_EventScript_WallysAuntEverGrande::
 	end
 
 VerdanturfTown_WandasHouse_Text_StrongerSpeech:
-	.string "WALLY: I lost to you, {PLAYER}, but I'm\n"
-	.string "not feeling down anymore.\p"
-	.string "Because I have a new purpose in life.\n"
-	.string "Together with my RALTS, I'm going\l"
-	.string "to challenge POKéMON GYMS and become\l"
-	.string "a great TRAINER.\p"
-	.string "Please watch me, {PLAYER}.\n"
-	.string "I'm going to be stronger than you.\p"
-	.string "When I do, I'm going to challenge you\n"
-	.string "to another battle.$"
+	.string "WALLY: Aku kalah darimu, {PLAYER},\n"
+	.string "tapi aku tidak sedih lagi.\p"
+	.string "Karena aku punya tujuan baru\n"
+	.string "dalam hidup.\p"
+	.string "Bersama RALTS-ku, aku akan menantang\n"
+	.string "GYM POKéMON & menjadi TRAINER hebat.\p"
+	.string "Tolong perhatikan aku, {PLAYER}.\n"
+	.string "Aku akan lebih kuat darimu.\p"
+	.string "Jika itu terjadi, aku akan menantangmu\n"
+	.string "untuk bertarung lagi.$"
 
 VerdanturfTown_WandasHouse_Text_StrongerSpeechShort:
-	.string "WALLY: Please watch me, {PLAYER}.\n"
-	.string "I'm going to get stronger than you.\p"
-	.string "When I do, I'm going to challenge you\n"
-	.string "to another battle.$"
+	.string "WALLY: Tolong perhatikan aku, {PLAYER}.\n"
+	.string "Aku akan lebih kuat darimu.\p"
+	.string "Jika itu terjadi, aku akan menantangmu\n"
+	.string "untuk bertarung lagi.$"
 
 VerdanturfTown_WandasHouse_Text_WallysNextDoor:
-	.string "UNCLE: Oh! {PLAYER}{KUN}!\n"
-	.string "WALLY's next door.\p"
-	.string "But, boy, there's something I have to\n"
-	.string "tell you.\p"
-	.string "This natural environment is doing\n"
-	.string "wonders for WALLY's health.\p"
-	.string "Maybe it's not just the environment.\n"
-	.string "It could be POKéMON that are giving\l"
-	.string "the boy hope.$"
+	.string "PAMAN: Oh! {PLAYER}{KUN}!\n"
+	.string "WALLY ada di sebelah.\p"
+	.string "Tapi, Nak, ada sesuatu yang harus\n"
+	.string "kukatakan padamu.\p"
+	.string "Lingkungan alami ini sangat baik\n"
+	.string "untuk kesehatan WALLY.\p"
+	.string "Mungkin bukan hanya lingkungannya.\n"
+	.string "Bisa jadi POKéMON yang memberinya\l"
+	.string "harapan.$"
 
 VerdanturfTown_WandasHouse_Text_WallySlippedOff:
-	.string "WALLY's gone away…\n"
-	.string "He slipped off on his own…$"
+	.string "WALLY sudah pergi…\n"
+	.string "Dia menyelinap pergi sendiri…$"
 
 VerdanturfTown_WandasHouse_Text_WallyGoneThatFar:
-	.string "UNCLE: Is that right?\n"
-	.string "WALLY's gone away that far all by\l"
-	.string "himself…\p"
-	.string "Well, I have to give him credit--he is\n"
-	.string "my little brother's son.$"
+	.string "PAMAN: Benarkah?\n"
+	.string "WALLY pergi sejauh itu sendirian…\p"
+	.string "Yah, aku harus memberinya pujian-dia\n"
+	.string "putra adikku.$"
 
 VerdanturfTown_WandasHouse_Text_MeetWanda:
-	.string "WANDA: You are?\n"
-	.string "Oh, right, I get it!\p"
-	.string "You're the {PLAYER} who WALLY was\n"
-	.string "telling me about.\p"
-	.string "I'm WALLY's cousin.\n"
-	.string "Glad to meet you!\p"
-	.string "I think WALLY's become a lot more lively\n"
-	.string "and healthy since he came here.$"
+	.string "WANDA: Kamu siapa?\n"
+	.string "Oh, benar, aku mengerti!\p"
+	.string "Kamu {PLAYER} yang WALLY ceritakan\n"
+	.string "padaku.\p"
+	.string "Aku sepupu WALLY.\n"
+	.string "Senang bertemu denganmu!\p"
+	.string "Kurasa WALLY jadi lebih ceria &\n"
+	.string "sehat sejak dia datang ke sini.$"
 
 VerdanturfTown_WandasHouse_Text_DontWorryAboutWally:
-	.string "WANDA: Don't worry about WALLY.\n"
-	.string "He'll be just fine.\p"
-	.string "I know my little cousin, and he has\n"
-	.string "POKéMON with him, too.$"
+	.string "WANDA: Jangan khawatirkan WALLY.\n"
+	.string "Dia akan baik-baik saja.\p"
+	.string "Aku kenal sepupu kecilku, & dia\n"
+	.string "juga punya POKéMON bersamanya.$"
 
 VerdanturfTown_WandasHouse_Text_CanSeeGirlfriendEveryDay:
-	.string "Thanks to you, I can see my girlfriend\n"
-	.string "every day.\l"
-	.string "Happy? You bet I am!$"
+	.string "Berkat kamu, aku bisa bertemu pacarku\n"
+	.string "setiap hari.\l"
+	.string "Senang? Tentu saja!$"
 
 VerdanturfTown_WandasHouse_Text_DaughtersBoyfriendDriven:
-	.string "My daughter's boyfriend is a very\n"
-	.string "driven and passionate sort of person.\p"
-	.string "He's been digging a tunnel nonstop\n"
-	.string "just so he can see my daughter.\p"
-	.string "My daughter's a little concerned,\n"
-	.string "so she goes out to the tunnel a lot.$"
+	.string "Pacar putriku adalah orang yang\n"
+	.string "sangat gigih & penuh gairah.\p"
+	.string "Dia menggali terowongan tanpa henti\n"
+	.string "hanya agar bisa bertemu putriku.\p"
+	.string "Putriku sedikit khawatir, jadi dia\n"
+	.string "sering pergi ke terowongan.$"
 
 VerdanturfTown_WandasHouse_Text_DaughtersBoyfriendWasDigging:
-	.string "It's amazing. My daughter's boyfriend\n"
-	.string "was digging the tunnel by hand!\p"
-	.string "It's so incredible!$"
+	.string "Sungguh menakjubkan. Pacar putriku\n"
+	.string "menggali terowongan dengan tangan!\p"
+	.string "Sungguh luar biasa!$"
 
 VerdanturfTown_WandasHouse_Text_IfAnythingHappenedToWally:
-	.string "If anything were to happen to WALLY,\n"
-	.string "I would never be able to look his\l"
-	.string "parents in PETALBURG in the eye…$"
+	.string "Jika sesuatu terjadi pada WALLY,\n"
+	.string "aku tidak akan pernah bisa menatap\l"
+	.string "orang tuanya di PETALBURG…$"
 
 VerdanturfTown_WandasHouse_Text_WallyWasInEverGrande:
-	.string "WALLY was in EVER GRANDE?\p"
-	.string "His parents in PETALBURG would be\n"
-	.string "astonished to hear that!$"
-
+	.string "WALLY ada di EVER GRANDE?\p"
+	.string "Orang tuanya di PETALBURG pasti\n"
+	.string "akan terkejut mendengarnya!$"

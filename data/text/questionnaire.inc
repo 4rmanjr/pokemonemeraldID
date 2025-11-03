@@ -1,43 +1,42 @@
+//gemini
 Questionnaire_Text_FillOut::
-	.string "There is a questionnaire.\n"
-	.string "Would you like to fill it out?$"
+	.string "Ada kuesioner. Apakah Kamu ingin\n"
+	.string "mengisinya?$"
 
 Questionnaire_Text_ThankYou::
-	.string "Thank you for taking the time to\n"
-	.string "fill out our questionnaire.\p"
-	.string "Your feedback will be used for\n"
-	.string "future reference.$"
+	.string "Terima kasih telah meluangkan waktu\n"
+	.string "untuk mengisi kuesioner kami.\p"
+	.string "Umpan balik Kamu akan digunakan\n"
+	.string "untuk referensi di masa depan.$"
 
 Questionnaire_Text_YouKnowThoseWordsGift::
-	.string "Oh, hello!\n"
-	.string "You know those words?\p"
-	.string "That means you must know about\n"
-	.string "the MYSTERY GIFT.\p"
-	.string "From now on, you should be\n"
-	.string "receiving MYSTERY GIFTS!$"
+	.string "Oh, halo! Kamu tahu kata- kata itu?\p"
+	.string "Itu berarti Kamu pasti tahu tentang\n"
+	.string "MYSTERY GIFT.\p"
+	.string "Mulai sekarang, Kamu seharusnya\n"
+	.string "bisa menerima MYSTERY GIFTS!$"
 
 Questionnaire_Text_YouCanAccessMysteryGift::
-	.string "Once you save your game, you can\n"
-	.string "access the MYSTERY GIFT.$"
+	.string "Setelah Kamu menyimpan permainan,\n"
+	.string "Kamu dapat mengakses MYSTERY GIFT.$"
 
 Questionnaire_Text_YouKnowThoseWordsEvent::
-	.string "Oh, hello!\n"
-	.string "You know those words?\p"
-	.string "That means you must know about\n"
-	.string "the MYSTERY EVENT.$"
+	.string "Oh, halo! Kamu tahu kata- kata itu?\p"
+	.string "Itu berarti Kamu pasti tahu tentang\n"
+	.string "MYSTERY EVENT.$"
 
 Questionnaire_Text_YouCanAccessMysteryEvent::
-	.string "Once you save your game, you can\n"
-	.string "access the MYSTERY EVENT.$"
+	.string "Setelah Kamu menyimpan permainan,\n"
+	.string "Kamu dapat mengakses MYSTERY EVENT.$"
 
 MysteryGift_Text_TheresATicketForYou::
-	.string "Thank you for using the MYSTERY\n"
-	.string "EVENT System.\p"
-	.string "You must be {PLAYER}.\n"
-	.string "There is a ticket here for you.$"
+	.string "Terima kasih telah menggunakan\n"
+	.string "Sistem MYSTERY EVENT.\p"
+	.string "Kamu pasti {PLAYER}. Ada tiket di\n"
+	.string "sini untuk Kamu.$"
 
 MysteryGift_Text_TryUsingItAtLilycovePort::
-	.string "It appears to be for use at\n"
-	.string "the LILYCOVE CITY port.\p"
-	.string "Why not give it a try and see what\n"
-	.string "it is about?$"
+	.string "Tampaknya ini untuk digunakan di\n"
+	.string "pelabuhan KOTA LILYCOVE.\p"
+	.string "Kenapa tidak Kamu coba dan lihat\n"
+	.string "tentang apa itu?$"

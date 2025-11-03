@@ -22,57 +22,58 @@ MagmaHideout_2F_2R_EventScript_Grunt8::
 	end
 
 MagmaHideout_2F_2R_Text_Grunt15Intro:
-	.string "I don't have a bone to pick with you.\n"
-	.string "I'm just following orders!$"
+	.string "Aku tidak punya masalah denganmu.\n"
+	.string "Aku hanya mengikuti perintah!$"
 
 MagmaHideout_2F_2R_Text_Grunt15Defeat:
-	.string "I may have lost, but…$"
+	.string "Aku mungkin kalah, tapi…$"
 
 MagmaHideout_2F_2R_Text_Grunt15PostBattle:
-	.string "We dug up something beyond belief!\n"
-	.string "And, we got the BLUE ORB!\p"
-	.string "All that's left is for our leader to…\n"
+	.string "Kami menggali sesuatu yang luar biasa!\n"
+	.string "Dan, kami mendapatkan BLUE ORB!\p"
+	.string "Tinggal pemimpin kami yang…\n"
 	.string "Fufufu… Fwahahaha!$"
 
 MagmaHideout_2F_2R_Text_Grunt6Intro:
-	.string "I can't stand heat. Maybe I should've\n"
-	.string "joined TEAM AQUA instead…$"
+	.string "Aku tidak tahan panas. Mungkin seharusnya\n"
+	.string "aku bergabung dengan TEAM AQUA saja…$"
 
 MagmaHideout_2F_2R_Text_Grunt6Defeat:
-	.string "Yeah, I really may not be right for\n"
-	.string "TEAM MAGMA…$"
+	.string "Ya, aku mungkin benar-benar tidak cocok\n"
+	.string "untuk TEAM MAGMA…$"
 
 MagmaHideout_2F_2R_Text_Grunt6PostBattle:
-	.string "Don't you get lonely for the sea\n"
-	.string "being in a place like this?$"
+	.string "Apa kamu tidak merindukan laut jika\n"
+	.string "berada di tempat seperti ini?$"
 
 MagmaHideout_2F_2R_Text_Grunt7Intro:
-	.string "You can hear tremors here sometimes.\p"
-	.string "Could it be the volcano rattling?\n"
-	.string "Or is it GROU…\p"
-	.string "Whoops!\n"
-	.string "No, no, never mind!$"
+	.string "Terkadang kamu bisa mendengar getaran\n"
+	.string "di sini.\p"
+	.string "Mungkinkah itu gemuruh gunung berapi?\n"
+	.string "Atau itu GROU…\p"
+	.string "Ups!\n"
+	.string "Tidak, tidak, lupakan saja!$"
 
 MagmaHideout_2F_2R_Text_Grunt7Defeat:
-	.string "You're a fiery battler.\n"
-	.string "Just like a volcano!$"
+	.string "Kamu petarung yang berapi-api.\n"
+	.string "Seperti gunung berapi!$"
 
 MagmaHideout_2F_2R_Text_Grunt7PostBattle:
-	.string "You just happened to win this time,\n"
-	.string "but that doesn't matter.\p"
-	.string "TEAM MAGMA's goal is about to be\n"
-	.string "reached!$"
+	.string "Kamu hanya kebetulan menang kali ini,\n"
+	.string "tapi itu tidak masalah.\p"
+	.string "Tujuan TEAM MAGMA akan segera\n"
+	.string "tercapai!$"
 
 MagmaHideout_2F_2R_Text_Grunt8Intro:
-	.string "One of our guys was freaking out that\n"
-	.string "he lost his MAGMA EMBLEM…\p"
-	.string "Wait a minute!\n"
-	.string "Was it you who found it?$"
+	.string "Salah satu dari kami panik karena\n"
+	.string "kehilangan MAGMA EMBLEM…\p"
+	.string "Tunggu sebentar!\n"
+	.string "Apa kamu yang menemukannya?$"
 
 MagmaHideout_2F_2R_Text_Grunt8Defeat:
-	.string "I'm having trouble believing this…$"
+	.string "Aku sulit mempercayai ini…$"
 
 MagmaHideout_2F_2R_Text_Grunt8PostBattle:
-	.string "I'm getting this feeling that our plan\n"
-	.string "is going to end in failure…$"
+	.string "Aku punya firasat rencana kita akan\n"
+	.string "berakhir dengan kegagalan…$"
 

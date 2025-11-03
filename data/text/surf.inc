@@ -1,6 +1,6 @@
 gText_WantToUseSurf::
-	.string "The water is dyed a deep blue…\n"
-	.string "Would you like to SURF?$"
+	.string "Airnya berwarna biru tua…\n"
+	.string "Maukah kamu BERSELANCAR?$"
 
 gText_PlayerUsedSurf::
-	.string "{STR_VAR_1} used SURF!$"
+	.string "{STR_VAR_1} menggunakan SURF!$"

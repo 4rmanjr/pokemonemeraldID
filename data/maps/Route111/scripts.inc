@@ -1,3 +1,4 @@
+//aistudio
 Route111_MapScripts::
 	map_script MAP_SCRIPT_ON_LOAD, Route111_OnLoad
 	map_script MAP_SCRIPT_ON_TRANSITION, Route111_OnTransition
@@ -566,156 +567,160 @@ Route111_EventScript_TrainerHillSign::
 	end
 
 Route111_Text_BattleOurFamily:
-	.string "Hello! I take it you're a traveler.\p"
-	.string "How's this? What do you say to taking\n"
-	.string "on our family of four in a series of\l"
-	.string "POKéMON battles?$"
+	.string "Halo! Aku rasa kamu seorang\n"
+	.string "petualang.\p"
+	.string "Bagaimana kalau begini? Apa\n"
+	.string "pendapatmu tentang menghadapi\l"
+	.string "keluarga kami yang berempat dalam\l"
+	.string "serangkaian pertarungan POKéMON?$"
 
 Route111_Text_IsThatSo:
-	.string "Is that so?\n"
-	.string "Drop in, if you change your mind!$"
+	.string "Begitu?\n"
+	.string "Mampirlah, jika kamu berubah pikiran!$"
 
 Route111_Text_VictorIntro:
-	.string "That's the spirit! I like you!$"
+	.string "Semangat! Aku suka kamu!$"
 
 Route111_Text_VictorDefeat:
 	.string "Aiyah!\n"
-	.string "You're a lot tougher than I expected!$"
+	.string "Kamu lebih tangguh dari dugaan!$"
 
 Route111_Text_VictorPostBattle:
-	.string "Hey, all!\n"
-	.string "I've found a pretty strong TRAINER!$"
+	.string "Hei, semuanya!\n"
+	.string "Aku menemukan TRAINER yang cukup kuat!$"
 
 Route111_Text_VictoriaIntro:
-	.string "Oh, my goodness! Aren't you young?\p"
-	.string "You must be quite the TRAINER to beat\n"
-	.string "my husband, though.\p"
-	.string "It's my turn to battle now!$"
+	.string "Astaga! Kamu masih muda sekali, ya?\p"
+	.string "Kamu pasti TRAINER yang hebat\n"
+	.string "sampai bisa mengalahkan suamiku.\p"
+	.string "Sekarang giliranku bertarung!$"
 
 Route111_Text_VictoriaDefeat:
-	.string "Oh, gosh!\n"
-	.string "I can't get over how strong you are!$"
+	.string "Astaga!\n"
+	.string "Aku tidak percaya betapa kuatnya kamu!$"
 
 Route111_Text_VictoriaPostBattle:
-	.string "There's a strong TRAINER here!\n"
-	.string "This one's really strong!$"
+	.string "Ada TRAINER kuat di sini!\n"
+	.string "Yang satu ini benar-benar kuat!$"
 
 Route111_Text_ViviIntro:
-	.string "You're stronger than Mommy? Wow!\p"
-	.string "But I'm strong, too!\n"
-	.string "Really! Honestly!$"
+	.string "Kamu lebih kuat dari Ibu? Wow!\p"
+	.string "Tapi aku juga kuat!\n"
+	.string "Sungguh! Jujur!$"
 
 Route111_Text_ViviDefeat:
-	.string "Huh? Did I just lose?$"
+	.string "Hah? Aku baru saja kalah?$"
 
 Route111_Text_ViviPostBattle:
-	.string "This stinks…\p"
-	.string "…Snivel… Grandma!$"
+	.string "Ini menyebalkan…\p"
+	.string "…Hiks… Nenek!$"
 
 Route111_Text_VickyIntro:
-	.string "How dare you make my granddaughter\n"
-	.string "cry!\p"
-	.string "For that, I'm going to smack you!\n"
-	.string "Prepare to lose!$"
+	.string "Beraninya kamu membuat cucuku\n"
+	.string "menangis!\p"
+	.string "Karena itu, aku akan menghajarmu!\n"
+	.string "Bersiaplah untuk kalah!$"
 
 Route111_Text_VickyDefeat:
-	.string "Kwah! You are strong…\n"
-	.string "My granddaughter was right…$"
+	.string "Kwah! Kamu kuat sekali…\n"
+	.string "Cucuku benar…$"
 
 Route111_Text_VickyPostBattle:
-	.string "If you're not in any hurry,\n"
-	.string "visit with us awhile.$"
+	.string "Jika kamu tidak terburu-buru,\n"
+	.string "mampirlah sebentar bersama kami.$"
 
 Route111_Text_ToughToKeepWinningUpTheRanks:
-	.string "If you don't raise your POKéMON some\n"
-	.string "more, it could be tough to keep winning\l"
-	.string "up through the ranks.\p"
-	.string "I've heard the POKéMON LEAGUE's\n"
-	.string "ELITE FOUR are far stronger than\l"
-	.string "any GYM LEADER.$"
+	.string "Jika kamu tidak melatih POKéMON-mu\n"
+	.string "lebih banyak lagi, akan sulit untuk\l"
+	.string "terus menang di peringkat atas.\p"
+	.string "Aku dengar ELITE FOUR di POKéMON\n"
+	.string "LEAGUE jauh lebih kuat dari\l"
+	.string "GYM LEADER mana pun.$"
 
 Route111_Text_WinstrateFamilyDestroyedMe:
-	.string "I challenged the WINSTRATE family,\n"
-	.string "but four matches in a row is tough\l"
-	.string "going… They destroyed me.$"
+	.string "Aku menantang keluarga WINSTRATE,\n"
+	.string "tapi empat pertandingan berturut-\l"
+	.string "turut itu berat… Mereka\l"
+	.string "menghancurkanku.$"
 
 Route111_Text_RouteSignMauville:
-	.string "ROUTE 111\n"
-	.string "{DOWN_ARROW} MAUVILLE CITY$"
+	.string "RUTE 111\n"
+	.string "{DOWN_ARROW} KOTA MAUVILLE$"
 
 Route111_Text_WinstrateHouseSign:
-	.string "“Our family's hearts beat as one!”\n"
-	.string "THE WINSTRATE'S HOUSE$"
+	.string "“Hati keluarga kami berdetak satu!”\n"
+	.string "RUMAH KELUARGA WINSTRATE$"
 
 Route111_Text_RouteSign112:
-	.string "ROUTE 111\n"
-	.string "{LEFT_ARROW} ROUTE 112$"
+	.string "RUTE 111\n"
+	.string "{LEFT_ARROW} RUTE 112$"
 
 Route111_Text_RouteSign113:
-	.string "ROUTE 111\n"
-	.string "{LEFT_ARROW} ROUTE 113$"
+	.string "RUTE 111\n"
+	.string "{LEFT_ARROW} RUTE 113$"
 
 Route111_Text_OldLadysRestStopSign:
-	.string "OLD LADY'S REST STOP\n"
-	.string "“Come in and rest your tired bones.”$"
+	.string "TEMPAT ISTIRAHAT NENEK TUA\n"
+	.string "“Masuklah & istirahatkan tulangmu\l"
+	.string "yang lelah.”$"
 
 Route111_Text_TrainerTipsSpAtkSpDef:
-	.string "TRAINER TIPS\p"
-	.string "One of the indicators of a POKéMON's\n"
-	.string "powerfulness is SP. ATK. It stands for\l"
-	.string "“SPECIAL ATTACK.”\p"
-	.string "Likewise, SP. DEF stands for “SPECIAL\n"
-	.string "DEFENSE.”$"
+	.string "TIPS TRAINER\p"
+	.string "Salah satu indikator kekuatan\n"
+	.string "POKéMON adalah SP. ATK. Itu\l"
+	.string "singkatan dari “SERANGAN SPESIAL.”\p"
+	.string "Demikian pula, SP. DEF adalah\n"
+	.string "singkatan dari “PERTAHANAN SPESIAL.”$"
 
 Route111_Text_ShouldBeMirageTowerAroundHere:
-	.string "There should be a tower made of sand\n"
-	.string "around here somewhere.\p"
-	.string "But for some reason, it can be seen\n"
-	.string "sometimes, and sometimes not.\p"
-	.string "That's why I call it the MIRAGE TOWER.$"
+	.string "Seharusnya ada menara yang terbuat\n"
+	.string "dari pasir di sekitar sini.\p"
+	.string "Tapi entah kenapa, kadang terlihat,\n"
+	.string "kadang tidak.\p"
+	.string "Itulah mengapa aku menyebutnya\n"
+	.string "MENARA MIRAGE.$"
 
 Route111_Text_MirageTowerClearlyVisible:
-	.string "I see it!\n"
-	.string "The tower of sand!\p"
-	.string "The sand tower they called a mirage\n"
-	.string "is clearly visible!\p"
-	.string "But it looks so fragile…\n"
-	.string "It could crumble away anytime…\p"
-	.string "I want to go inside it, but I can't\n"
-	.string "get my courage up for it…$"
+	.string "Aku melihatnya!\n"
+	.string "Menara pasir itu!\p"
+	.string "Menara pasir yang mereka sebut\n"
+	.string "fatamorgana itu terlihat jelas!\p"
+	.string "Tapi kelihatannya sangat rapuh…\n"
+	.string "Bisa runtuh kapan saja…\p"
+	.string "Aku ingin masuk ke dalamnya, tapi\n"
+	.string "aku tidak berani…$"
 
 Route111_Text_ThatWasShockingSandRainedDown:
 	.string "Whoa…\n"
-	.string "That was shocking.\p"
-	.string "Sand rained down in chunks all of\n"
-	.string "a sudden.\p"
-	.string "What was it like inside?\n"
-	.string "Were there sandy ghosts and such?$"
+	.string "Itu mengejutkan.\p"
+	.string "Pasir berjatuhan dalam bongkahan\n"
+	.string "tiba-tiba.\p"
+	.string "Seperti apa di dalamnya?\n"
+	.string "Apakah ada hantu pasir & semacamnya?$"
 
 Route111_Text_MirageTowerHasntBeenSeenSince:
-	.string "Since I spoke to you, the tower of sand\n"
-	.string "hasn't been seen.\p"
-	.string "Perhaps it really was\n"
-	.string "the MIRAGE TOWER…$"
+	.string "Sejak aku berbicara denganmu,\n"
+	.string "menara pasir itu belum terlihat.\p"
+	.string "Mungkin itu memang\n"
+	.string "MENARA MIRAGE…$"
 
 Route111_Text_ClawFossilDisappeared:
-	.string "The CLAW FOSSIL disappeared into\n"
-	.string "the sand…$"
+	.string "CLAW FOSSIL menghilang ke dalam\n"
+	.string "pasir…$"
 
 Route111_Text_RootFossilDisappeared:
-	.string "The ROOT FOSSIL disappeared into\n"
-	.string "the sand…$"
+	.string "ROOT FOSSIL menghilang ke dalam\n"
+	.string "pasir…$"
 
 Route111_Text_MauvilleUncleToldMeToTakeRockSmash:
-	.string "Oh, no!\p"
-	.string "My uncle in MAUVILLE told me to take\n"
-	.string "ROCK SMASH with me if I was going to\l"
-	.string "ROUTE 111!\p"
-	.string "My uncle? He lives across from\n"
-	.string "the bike shop in MAUVILLE.$"
+	.string "Oh, tidak!\p"
+	.string "Pamanku di MAUVILLE menyuruhku\n"
+	.string "membawa ROCK SMASH jika aku pergi\l"
+	.string "ke RUTE 111!\p"
+	.string "Pamanku? Dia tinggal di seberang\n"
+	.string "toko sepeda di MAUVILLE.$"
 
 Route111_Text_TrainerHillSign:
-	.string "{RIGHT_ARROW} TRAINER HILL ENTRANCE\p"
-	.string "“Scale the heights, you hot-blooded\n"
-	.string "TRAINERS!”$"
-
+	.string "{RIGHT_ARROW} PINTU MASUK TRAINER HILL\p"
+	.string "“Daki ketinggian, wahai TRAINER\n"
+	.string "bersemangat!”$"

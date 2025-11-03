@@ -1,27 +1,27 @@
+//gemini
 Text_PictureBookShelf:
-	.string "There's a set of POKéMON picture books.$"
+	.string "Ada satu set buku bergambar\n"
+	.string "POKéMON.$"
 
 Text_BookShelf:
-	.string "It's filled with all sorts of books.$"
+	.string "Penuh dengan segala macam buku.$"
 
 Text_PokemonCenterBookShelf:
-	.string "POKéMON magazines!\n"
-	.string "POKéMON PAL…\p"
-	.string "POKéMON HANDBOOK…\n"
-	.string "ADORABLE POKéMON…$"
+	.string "Majalah POKéMON! POKéMON PAL…\p"
+	.string "POKéMON HANDBOOK… POKéMON\n"
+	.string "MENGGEMASKAN…$"
 
 Text_Vase:
-	.string "This vase looks expensive…\n"
-	.string "Peered inside…\p"
-	.string "But, it was empty.$"
+	.string "Vas ini terlihat mahal… Mengintip\n"
+	.string "ke dalamnya…\p"
+	.string "Tapi, itu kosong.$"
 
 Text_EmptyTrashCan:
-	.string "It's empty.$"
+	.string "Kosong.$"
 
 Text_ShopShelf:
-	.string "The shelves brim with all sorts of\n"
-	.string "POKéMON merchandise.$"
+	.string "Rak-rak itu penuh sesak dengan\n"
+	.string "segala macam suvenir POKéMON.$"
 
 Text_Blueprint:
-	.string "A blueprint of some sort?\n"
-	.string "It's too complicated!$"
+	.string "Semacam cetak biru? Terlalu rumit!$"

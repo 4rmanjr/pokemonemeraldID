@@ -1,3 +1,4 @@
+//gemini
 MauvilleCity_PokemonCenter_2F_MapScripts::
 	map_script MAP_SCRIPT_ON_FRAME_TABLE, CableClub_OnFrame
 	map_script MAP_SCRIPT_ON_WARP_INTO_MAP_TABLE, CableClub_OnWarp
@@ -23,10 +24,9 @@ MauvilleCity_PokemonCenter_2F_EventScript_Youngster::
 	end
 
 MauvilleCity_PokemonCenter_2F_Text_Youngster:
-	.string "Did you know that you can link battle\n"
-	.string "at the COLOSSEUM here?\p"
-	.string "They put up your record on the wall\n"
-	.string "for everyone to see.\p"
-	.string "It's embarrassing if you lose more\n"
-	.string "often than you win…$"
-
+	.string "Tahukah kamu bahwa kamu bisa\n"
+	.string "bertarung tautan di KOLOSEUM ini?\p"
+	.string "Mereka memajang rekormu di dinding\n"
+	.string "agar semua orang bisa melihat.\p"
+	.string "Malu sekali jika kamu lebih sering\n"
+	.string "kalah daripada menang…$"

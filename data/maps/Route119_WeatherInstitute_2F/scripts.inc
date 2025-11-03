@@ -1,3 +1,4 @@
+//gemini
 Route119_WeatherInstitute_2F_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, Route119_WeatherInstitute_2F_OnTransition
 	.byte 0
@@ -204,123 +205,127 @@ Route119_WeatherInstitute_2F_EventScript_WeatherScientist::
 	end
 
 Route119_WeatherInstitute_2F_Text_Grunt2Intro:
-	.string "The INSTITUTE created a type of\n"
-	.string "POKéMON that has something to do with\l"
-	.string "the weather. We're here to take them!$"
+	.string "INSTITUT ini menciptakan jenis\n"
+	.string "POKéMON yang berhubungan dengan\l"
+	.string "cuaca. Kami di sini untuk mengambilnya!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt2Defeat:
-	.string "Our plan's being spoiled by a kid?$"
+	.string "Rencana kami digagalkan anak kecil?$"
 
 Route119_WeatherInstitute_2F_Text_Grunt2PostBattle:
-	.string "If the POKéMON they made here can\n"
-	.string "control the weather freely, then we of\l"
-	.string "TEAM AQUA definitely need it!$"
+	.string "Jika POKéMON yang mereka buat di sini\n"
+	.string "bisa mengendalikan cuaca dengan bebas,\l"
+	.string "maka kami dari TEAM AQUA pasti\n"
+	.string "membutuhkannya!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt3Intro:
-	.string "We're TEAM AQUA!\n"
-	.string "We appear wherever anything rare is\l"
-	.string "found!$"
+	.string "Kami TEAM AQUA!\n"
+	.string "Kami muncul di mana pun ada hal\l"
+	.string "langka ditemukan!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt3Defeat:
-	.string "You got me!$"
+	.string "Aku kalah!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt3PostBattle:
-	.string "You don't have any idea what we of\n"
-	.string "TEAM AQUA are working towards!\l"
-	.string "You stay out of our way!$"
+	.string "Kamu tidak tahu apa yang sedang kami\n"
+	.string "dari TEAM AQUA kerjakan!\l"
+	.string "Jangan menghalangi kami!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt5Intro:
-	.string "Don't tell me you're looking for that\n"
-	.string "weather POKéMON, too?\p"
-	.string "That's a no-no!\n"
-	.string "We were here to get it first!$"
+	.string "Jangan bilang Kamu mencari POKéMON\n"
+	.string "cuaca itu juga?\p"
+	.string "Tidak boleh!\n"
+	.string "Kami di sini untuk mendapatkannya\l"
+	.string "lebih dulu!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt5Defeat:
-	.string "Oh, will you look at my POKéMON?$"
+	.string "Oh, lihat POKéMON-ku!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt5PostBattle:
-	.string "Humph, so what?\n"
-	.string "What we want…\p"
-	.string "What we really want isn't here…\n"
-	.string "Ihihihihi…$"
+	.string "Cih, jadi kenapa?\n"
+	.string "Yang kami inginkan…\p"
+	.string "Yang sebenarnya kami inginkan tidak\n"
+	.string "ada di sini… Ihihihihi…$"
 
 Route119_WeatherInstitute_2F_Text_ShellyIntro:
 	.string "Ahahahaha!\p"
-	.string "You're going to meddle in TEAM AQUA's\n"
-	.string "affairs?\p"
-	.string "You're either absolutely fearless,\n"
-	.string "simply ignorant, or both!\p"
-	.string "You're so cute, you're disgusting!\n"
-	.string "I'll put you down, kiddy!$"
+	.string "Kamu mau ikut campur urusan TEAM\n"
+	.string "AQUA?\p"
+	.string "Kamu benar-benar tidak takut, atau\n"
+	.string "hanya bodoh, atau keduanya!\p"
+	.string "Kamu sangat lucu, menjijikkan!\n"
+	.string "Aku akan mengalahkanmu, bocah!$"
 
 Route119_WeatherInstitute_2F_Text_ShellyDefeat:
 	.string "Ahahahaha!\n"
-	.string "You're disgustingly strong!$"
+	.string "Kamu kuat sekali!$"
 
 Route119_WeatherInstitute_2F_Text_ShellyPostBattle:
-	.string "It's bad enough to have TEAM MAGMA\n"
-	.string "blunder about, but now there's you!\p"
-	.string "What makes you want to sniff around\n"
-	.string "in our business, anyway?$"
+	.string "Sudah cukup buruk TEAM MAGMA\n"
+	.string "mengacau, sekarang ada Kamu!\p"
+	.string "Kenapa Kamu ingin ikut campur\n"
+	.string "urusan kami?$"
 
 Route119_WeatherInstitute_2F_Text_TeamMagmaJustPassedBy:
-	.string "We have a situation here!\p"
-	.string "A TEAM MAGMA mob just passed\n"
-	.string "the WEATHER INSTITUTE.\p"
-	.string "They appear to be headed for\n"
-	.string "MT. PYRE!$"
+	.string "Ada situasi di sini!\p"
+	.string "Sekelompok TEAM MAGMA baru saja\n"
+	.string "melewati INSTITUT CUACA.\p"
+	.string "Mereka sepertinya menuju ke\n"
+	.string "GUNUNG PYRE!$"
 
 Route119_WeatherInstitute_2F_Text_WeHaveToHurryToMtPyre:
-	.string "What?!\p"
-	.string "We can't waste any more time here!\n"
-	.string "We have to hurry to MT. PYRE, too!\p"
+	.string "Apa?!\p"
+	.string "Kita tidak bisa membuang waktu lagi\n"
+	.string "di sini! Kita harus cepat ke GUNUNG\l"
+	.string "PYRE juga!\p"
 	.string "Ahahahaha!\n"
-	.string "TEAM MAGMA, just you wait!$"
+	.string "TEAM MAGMA, tunggu saja!$"
 
 Route119_WeatherInstitute_2F_Text_ThanksPleaseTakePokemon:
-	.string "Thanks!\n"
-	.string "Thanks to you, we're safe!\p"
-	.string "It might be an odd way of thanking you,\n"
-	.string "but take this POKéMON.$"
+	.string "Terima kasih!\n"
+	.string "Berkat Kamu, kami aman!\p"
+	.string "Ini mungkin cara aneh untuk\n"
+	.string "berterima kasih, tapi ambillah\l"
+	.string "POKéMON ini.$"
 
 @ Unused
 Route119_WeatherInstitute_2F_Text_NoRoomForPokemon:
-	.string "Hm? You don't seem to have any room\n"
-	.string "for this POKéMON.$"
+	.string "Hm? Kamu sepertinya tidak punya\n"
+	.string "tempat untuk POKéMON ini.$"
 
 Route119_WeatherInstitute_2F_Text_PlayerReceivedCastform:
-	.string "{PLAYER} received CASTFORM!$"
+	.string "{PLAYER} menerima CASTFORM!$"
 
 Route119_WeatherInstitute_2F_Text_PokemonChangesWithWeather:
-	.string "That POKéMON changes shape according\n"
-	.string "to the weather conditions.\p"
-	.string "There're plenty of them in the\n"
-	.string "INSTITUTE--go ahead and take it.$"
+	.string "POKéMON itu berubah bentuk sesuai\n"
+	.string "kondisi cuaca.\p"
+	.string "Ada banyak dari mereka di INSTITUT--\n"
+	.string "silakan ambil saja.$"
 
 Route119_WeatherInstitute_2F_Text_ChangingWeatherRidiculous:
-	.string "I've been researching rain for many\n"
-	.string "years, but it's ridiculous to think that\l"
-	.string "humans can freely change the weather.$"
+	.string "Aku sudah meneliti hujan selama\n"
+	.string "bertahun-tahun, tapi konyol jika\l"
+	.string "berpikir manusia bisa mengubah\n"
+	.string "cuaca dengan bebas.$"
 
 Route119_WeatherInstitute_2F_Text_GroudonWeather:
-	.string "I track weather patterns over\n"
-	.string "the HOENN region.\p"
-	.string "Presently, a drought has been recorded\n"
-	.string "in {STR_VAR_1}.\p"
-	.string "Could that mean, somewhere near\n"
-	.string "{STR_VAR_1}…$"
+	.string "Aku melacak pola cuaca di wilayah\n"
+	.string "HOENN.\p"
+	.string "Saat ini, kekeringan telah tercatat\n"
+	.string "di {STR_VAR_1}.\p"
+	.string "Mungkinkah itu berarti, di suatu\n"
+	.string "tempat dekat {STR_VAR_1}…$"
 
 Route119_WeatherInstitute_2F_Text_KyogreWeather:
-	.string "I track weather patterns over\n"
-	.string "the HOENN region.\p"
-	.string "Presently, heavy rainfall has been\n"
-	.string "recorded over {STR_VAR_1}.\p"
-	.string "Could that mean, somewhere near\n"
-	.string "{STR_VAR_1}…$"
+	.string "Aku melacak pola cuaca di wilayah\n"
+	.string "HOENN.\p"
+	.string "Saat ini, curah hujan tinggi telah\n"
+	.string "tercatat di {STR_VAR_1}.\p"
+	.string "Mungkinkah itu berarti, di suatu\n"
+	.string "tempat dekat {STR_VAR_1}…$"
 
 Route119_WeatherInstitute_2F_Text_NoAbnormalWeather:
-	.string "Abnormal weather conditions are\n"
-	.string "no longer being reported.\p"
-	.string "The occasional rainfall is a blessing,\n"
-	.string "really.$"
-
+	.string "Kondisi cuaca abnormal tidak lagi\n"
+	.string "dilaporkan.\p"
+	.string "Hujan sesekali adalah berkah,\n"
+	.string "sungguh.$"

@@ -1,3 +1,4 @@
+//gemini
 Route116_TunnelersRestHouse_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, Route116_TunnelersRestHouse_OnTransition
 	.byte 0
@@ -28,35 +29,35 @@ Route116_TunnelersRestHouse_EventScript_TunnelOpened::
 	end
 
 Route116_TunnelersRestHouse_Text_WeHadToStopBoring:
-	.string "That RUSTURF TUNNEL there…\p"
-	.string "At first, we had a huge work crew boring\n"
-	.string "through rock with the latest machinery.\l"
-	.string "But, we had to stop.\p"
-	.string "It turns out that we would have had\n"
-	.string "a negative effect on wild POKéMON in\l"
-	.string "the area.\p"
-	.string "So, we've got nothing to do but loll\n"
-	.string "around here doing nothing.$"
+	.string "Terowongan RUSTURF itu…\p"
+	.string "Awalnya, kami punya kru besar yang\n"
+	.string "mengebor batu pakai mesin terbaru.\l"
+	.string "Tapi, kami harus berhenti.\p"
+	.string "Ternyata, kami akan berdampak\n"
+	.string "negatif pada POKéMON liar di area\l"
+	.string "ini.\p"
+	.string "Jadi, kami hanya bermalas-malasan\n"
+	.string "di sini tanpa melakukan apa-apa.$"
 
 Route116_TunnelersRestHouse_Text_ManDiggingHisWayToVerdanturf:
-	.string "There's a man digging his way to\n"
-	.string "VERDANTURF all by his lonesome.\l"
-	.string "He's desperate to get through.\p"
-	.string "He says that if he digs little by little\n"
-	.string "without using machines, he won't\l"
-	.string "disturb POKéMON, and he'll avoid\l"
-	.string "harming the natural environment.\p"
-	.string "I wonder if he made it through yet.$"
+	.string "Ada pria yang menggali jalannya ke\n"
+	.string "VERDANTURF sendirian.\l"
+	.string "Dia sangat ingin menembus.\p"
+	.string "Dia bilang kalau dia menggali sedikit\n"
+	.string "demi sedikit tanpa pakai mesin, dia\l"
+	.string "tidak akan mengganggu POKéMON &\l"
+	.string "menghindari merusak lingkungan alami.\p"
+	.string "Aku ingin tahu apakah dia sudah\n"
+	.string "berhasil menembus.$"
 
 Route116_TunnelersRestHouse_Text_GetToVerdanturfWithoutTunnel:
-	.string "To get to VERDANTURF without using\n"
-	.string "this TUNNEL, you'd have to cross the\l"
-	.string "sea to DEWFORD, sail on to SLATEPORT,\l"
-	.string "then travel through MAUVILLE.$"
+	.string "Untuk ke VERDANTURF tanpa pakai\n"
+	.string "Terowongan ini, Kamu harus menyeberang\l"
+	.string "laut ke DEWFORD, berlayar ke SLATEPORT,\l"
+	.string "lalu melewati MAUVILLE.$"
 
 Route116_TunnelersRestHouse_Text_TunnelHasGoneThrough:
-	.string "Did you hear? The TUNNEL to VERDANTURF\n"
-	.string "has gone through!\p"
-	.string "Sometimes, if you hope strongly enough,\n"
-	.string "dreams do come true.$"
-
+	.string "Sudah dengar? Terowongan ke\n"
+	.string "VERDANTURF sudah tembus!\p"
+	.string "Kadang, kalau Kamu berharap cukup\n"
+	.string "kuat, impian bisa jadi kenyataan.$"

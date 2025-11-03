@@ -28,26 +28,26 @@ PacifidlogTown_House4_EventScript_No::
 	end
 
 PacifidlogTown_House4_Text_PeopleSawHighFlyingPokemon:
-	.string "People were saying they saw a POKéMON\n"
-	.string "flying high above HOENN.\p"
-	.string "Is it flying around all the time?\n"
-	.string "Doesn't it need to rest somewhere?$"
+	.string "Orang-orang bilang mereka melihat POKéMON\n"
+	.string "terbang tinggi di atas HOENN.\p"
+	.string "Apakah ia terbang terus-menerus?\n"
+	.string "Apakah ia tidak butuh istirahat?$"
 
 PacifidlogTown_House4_Text_SkyPokemon:
-	.string "A sky POKéMON!\n"
-	.string "A sky POKéMON!$"
+	.string "POKéMON langit!\n"
+	.string "POKéMON langit!$"
 
 PacifidlogTown_House4_Text_WhereDidYouComeFrom:
-	.string "Where did you come from?$"
+	.string "Dari mana kamu berasal?$"
 
 PacifidlogTown_House4_Text_YesTown:
-	.string "Yes?\n"
-	.string "YES TOWN?\p"
-	.string "I've never heard of a place like that.$"
+	.string "Ya?\n"
+	.string "KOTA YA?\p"
+	.string "Aku belum pernah mendengar tempat seperti itu.$"
 
 PacifidlogTown_House4_Text_YouHaveToComeFromSomewhere:
-	.string "No? That doesn't make any sense.\n"
-	.string "You have to come from somewhere.\p"
-	.string "Oh! Wait! You're not going to say you\n"
-	.string "were born at the bottom of the sea?$"
+	.string "Tidak? Itu tidak masuk akal.\n"
+	.string "Kamu pasti berasal dari suatu tempat.\p"
+	.string "Oh! Tunggu! Kamu tidak akan bilang kamu\n"
+	.string "lahir di dasar laut?$"
 

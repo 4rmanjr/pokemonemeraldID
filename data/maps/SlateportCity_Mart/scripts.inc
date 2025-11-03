@@ -1,3 +1,4 @@
+//gemini
 SlateportCity_Mart_MapScripts::
 	.byte 0
 
@@ -33,14 +34,14 @@ SlateportCity_Mart_EventScript_Man::
 	end
 
 SlateportCity_Mart_Text_SomeItemsOnlyAtMart:
-	.string "The MARKET does have some interesting\n"
-	.string "merchandise.\p"
-	.string "But there are some items you can only\n"
-	.string "get at a POKéMON MART.$"
+	.string "PASAR memang punya beberapa barang\n"
+	.string "menarik.\p"
+	.string "Tapi ada beberapa item yang hanya\n"
+	.string "bisa Kamu dapatkan di POKéMON MART.$"
 
 SlateportCity_Mart_Text_GreatBallIsBetter:
-	.string "A GREAT BALL is better than a POKé BALL\n"
-	.string "at catching POKéMON.\p"
-	.string "With this, I should be able to get that\n"
-	.string "elusive POKéMON…$"
-
+	.string "Sebuah GREAT BALL lebih baik dari\n"
+	.string "POKé BALL dalam menangkap POKéMON.\p"
+	.string "Dengan ini, Aku seharusnya bisa\n"
+	.string "mendapatkan POKéMON yang sulit\l"
+	.string "ditangkap itu…$"

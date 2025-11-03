@@ -7,20 +7,20 @@ MagmaHideout_3F_2R_EventScript_Grunt10::
 	end
 
 MagmaHideout_3F_2R_Text_Grunt10Intro:
-	.string "I understand everything our leader\n"
-	.string "says. But you know what?\p"
-	.string "Doing stuff like digging up a super-\n"
-	.string "ancient POKéMON and ripping off\l"
-	.string "someone's METEORITE…\p"
-	.string "I think we're going a little too far.\n"
-	.string "What do you think?$"
+	.string "Aku mengerti semua yang dikatakan\n"
+	.string "pemimpin. Tapi tahu tidak?\p"
+	.string "Melakukan hal seperti menggali POKéMON\n"
+	.string "purba dan merebut METEORITE seseorang…\p"
+	.string "Kurasa kita sudah keterlaluan.\n"
+	.string "Bagaimana menurutmu?$"
 
 MagmaHideout_3F_2R_Text_Grunt10Defeat:
-	.string "Yeah, I think we are doing something\n"
-	.string "wrong somehow.$"
+	.string "Ya, kurasa kita melakukan sesuatu yang\n"
+	.string "salah.$"
 
 MagmaHideout_3F_2R_Text_Grunt10PostBattle:
-	.string "You know, losing to you cleared my mind.\p"
-	.string "The next time I see our leader,\n"
-	.string "I'm going to ask him about what we do.$"
+	.string "Tahu tidak, kalah darimu menjernihkan\n"
+	.string "pikiranku.\p"
+	.string "Lain kali aku bertemu pemimpin, aku akan\n"
+	.string "bertanya tentang apa yang kita lakukan.$"
 

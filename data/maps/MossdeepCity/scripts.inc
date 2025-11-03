@@ -304,125 +304,125 @@ MossdeepCity_Movement_ScottExitEast:
 	step_end
 
 MossdeepCity_Text_WantKingsRockStevenGaveMe:
-	.string "I got this from STEVEN, but I don't\n"
-	.string "know what it's good for.\p"
-	.string "I think it's called KING'S ROCK.\n"
-	.string "Do you want it?$"
+	.string "Aku dapat ini dari STEVEN, tapi aku\n"
+	.string "tidak tahu apa gunanya.\p"
+	.string "Sepertinya ini disebut KING'S ROCK.\n"
+	.string "Kamu mau?$"
 
 MossdeepCity_Text_YouCanKeepIt:
-	.string "Why would you want it?\n"
-	.string "You're weird.\p"
-	.string "You can keep it, but keep it a secret\n"
-	.string "from STEVEN.$"
+	.string "Kenapa kamu menginginkannya?\n"
+	.string "Kamu aneh.\p"
+	.string "Kamu boleh menyimpannya, tapi\n"
+	.string "rahasiakan dari STEVEN.$"
 
 MossdeepCity_Text_StevensHouseOverThere:
-	.string "STEVEN's house is right over there!$"
+	.string "Rumah STEVEN ada di sebelah sana!$"
 
 MossdeepCity_Text_WhatToDoWithWeirdRock:
-	.string "Yeah, you think so, too! What are you\n"
-	.string "supposed to do with some weird rock?$"
+	.string "Ya, kamu juga berpikir begitu! Apa yang\n"
+	.string "harus dilakukan dengan batu aneh ini?$"
 
 MossdeepCity_Text_WailmerWatching:
-	.string "Around MOSSDEEP, you can see wild\n"
-	.string "WAILMER.\p"
-	.string "It's called, uh…\n"
-	.string "What was it now…\p"
+	.string "Di sekitar MOSSDEEP, kamu bisa\n"
+	.string "melihat WAILMER liar.\p"
+	.string "Itu disebut, uh…\n"
+	.string "Apa ya namanya…\p"
 	.string "WAI, WAI, WAI…\p"
-	.string "WAILMER watching!$"
+	.string "Menonton WAILMER!$"
 
 MossdeepCity_Text_SpaceCenterReceivedLetter:
-	.string "The island's SPACE CENTER has been\n"
-	.string "launching huge rockets.\p"
-	.string "There's been some kind of an uproar\n"
-	.string "over a letter they received recently.$"
+	.string "SPACE CENTER di pulau ini telah\n"
+	.string "meluncurkan roket-roket besar.\p"
+	.string "Ada semacam keributan karena surat\n"
+	.string "yang mereka terima baru-baru ini.$"
 
 MossdeepCity_Text_SpaceCenterLaunchingRockets:
-	.string "The island's SPACE CENTER has been\n"
-	.string "launching huge rockets.$"
+	.string "SPACE CENTER di pulau ini telah\n"
+	.string "meluncurkan roket-roket besar.$"
 
 MossdeepCity_Text_MossdeepTargetedByMagma:
-	.string "I heard from a SAILOR buddy that\n"
-	.string "TEAM AQUA set up shop in LILYCOVE.\p"
-	.string "I also heard that someone came along\n"
-	.string "and wiped the floor with them!\p"
-	.string "But MOSSDEEP here's been targeted\n"
-	.string "by that TEAM MAGMA.\p"
-	.string "If you want to know what they're up to,\n"
-	.string "go visit the SPACE CENTER.$"
+	.string "Aku dengar dari teman SAILOR bahwa\n"
+	.string "TIM AQUA mendirikan markas di LILYCOVE.\p"
+	.string "Aku juga dengar ada seseorang yang\n"
+	.string "datang dan mengalahkan mereka!\p"
+	.string "Tapi MOSSDEEP di sini telah menjadi\n"
+	.string "target oleh TIM MAGMA itu.\p"
+	.string "Jika kamu ingin tahu apa yang mereka\n"
+	.string "rencanakan, kunjungi SPACE CENTER.$"
 
 MossdeepCity_Text_FeelReliefOnLand:
-	.string "I'm a SAILOR, so the sea's obviously\n"
-	.string "more important to me.\p"
-	.string "But you know? When I get back on land\n"
-	.string "after a long voyage, I do feel relief!$"
+	.string "Aku seorang SAILOR, jadi laut jelas\n"
+	.string "lebih penting bagiku.\p"
+	.string "Tapi tahu tidak? Saat aku kembali ke\n"
+	.string "darat setelah pelayaran panjang, aku\l"
+	.string "merasa lega!$"
 
 MossdeepCity_Text_NiceIfWorldCoveredByFlowers:
-	.string "Wouldn't it be nice?\p"
-	.string "If the whole world was covered in\n"
-	.string "plants and flowers like this island?$"
+	.string "Bukankah akan menyenangkan?\p"
+	.string "Jika seluruh dunia tertutup oleh\n"
+	.string "tanaman dan bunga seperti pulau ini?$"
 
 MossdeepCity_Text_LifeNeedsSeaToLive:
-	.string "All life needs the sea to live, even\n"
-	.string "though it makes its home on the land.\p"
-	.string "Life, having run its course, becomes\n"
-	.string "soil and returns to the land.\p"
-	.string "And the sea is always connected to\n"
-	.string "the land.\p"
-	.string "Yes, like the very shoreline here.$"
+	.string "Semua kehidupan membutuhkan laut untuk\n"
+	.string "hidup, meskipun rumahnya di darat.\p"
+	.string "Kehidupan, setelah selesai, menjadi\n"
+	.string "tanah dan kembali ke daratan.\p"
+	.string "Dan laut selalu terhubung dengan\n"
+	.string "daratan.\p"
+	.string "Ya, seperti garis pantai di sini.$"
 
 MossdeepCity_Text_SurfExhilarating:
-	.string "A voyage on a ship is fine.\p"
-	.string "But crossing the sea with POKéMON\n"
-	.string "using SURF…\p"
-	.string "Now that's an exhilarating trip!\n"
-	.string "Wouldn't you agree, youngster?$"
+	.string "Perjalanan dengan kapal baik-baik saja.\p"
+	.string "Tapi menyeberangi laut dengan POKéMON\n"
+	.string "menggunakan SURF…\p"
+	.string "Nah, itu perjalanan yang mengasyikkan!\n"
+	.string "Tidakkah kamu setuju, anak muda?$"
 
 MossdeepCity_Text_SpecialSpaceCenterRock:
-	.string "This rock has a special meaning to\n"
-	.string "the people at the SPACE CENTER.\p"
-	.string "They put it here as their wish for\n"
-	.string "their rockets to fly safely.\p"
-	.string "When you make a wish, what do you use?\n"
-	.string "Do you wish upon a star?\p"
-	.string "I use a wish tag to make it happen.\n"
-	.string "That's what I do.$"
-
+	.string "Batu ini punya arti khusus bagi\n"
+	.string "orang-orang di SPACE CENTER.\p"
+	.string "Mereka meletakkannya di sini sebagai\n"
+	.string "harapan agar roket mereka terbang\l"
+	.string "dengan aman.\p"
+	.string "Saat kamu membuat permohonan, apa yang\n"
+	.string "kamu gunakan? Apakah kamu berharap\l"
+	.string "pada bintang?\p"
+	.string "Aku menggunakan wish tag untuk\n"
+	.string "mewujudkannya. Itulah yang aku lakukan.$"
+	
 MossdeepCity_Text_ItsAWhiteRock:
-	.string "It's a white rock.$"
+	.string "Ini adalah batu putih.$"
 
 MossdeepCity_Text_GymSign:
 	.string "MOSSDEEP CITY POKéMON GYM\n"
 	.string "LEADERS: LIZA & TATE\p"
-	.string "“The mystic combination!”$"
+	.string "“Kombinasi mistis!”$"
 
 MossdeepCity_Text_CitySign:
 	.string "MOSSDEEP CITY\n"
-	.string "“Our slogan: Cherish POKéMON!”$"
+	.string "“Slogan kami: Sayangi POKéMON!”$"
 
 MossdeepCity_Text_SpaceCenterSign:
 	.string "MOSSDEEP SPACE CENTER\n"
-	.string "“The closest place to space.”$"
+	.string "“Tempat terdekat ke luar angkasa.”$"
 
 MossdeepCity_Text_ScottSomethingWrongWithTown:
-	.string "SCOTT: {PLAYER}{KUN}, feeling good?\n"
-	.string "I'm doing great!\p"
-	.string "I'd heard MOSSDEEP's GYM LEADER is\n"
-	.string "pretty strong, so I decided to come\l"
-	.string "take a look-see for myself.\p"
-	.string "But there's something wrong about\n"
-	.string "this town.\p"
-	.string "People are going on about a warning\n"
-	.string "letter and the SPACE CENTER…\p"
-	.string "I don't think it concerns me in any\n"
-	.string "way, though.$"
+	.string "SCOTT: {PLAYER}{KUN}, apa kabar?\n"
+	.string "Aku baik-baik saja!\p"
+	.string "Aku dengar GYM LEADER MOSSDEEP cukup\n"
+	.string "kuat, jadi aku memutuskan untuk datang\l"
+	.string "melihatnya sendiri.\p"
+	.string "Tapi ada yang aneh dengan kota ini.\p"
+	.string "Orang-orang membicarakan tentang surat\n"
+	.string "peringatan dan SPACE CENTER…\p"
+	.string "Tapi kurasa itu bukan urusanku.$"
 
 MossdeepCity_Text_SootopolisNewGymLeader:
-	.string "Ahh… It feels great letting the waves\n"
-	.string "wash over my feet…\p"
-	.string "Speaking of the waves, you know that\n"
-	.string "island city SOOTOPOLIS?\p"
-	.string "I think the GYM there had a new\n"
-	.string "LEADER come in.\p"
-	.string "People tell me the new LEADER once\n"
-	.string "mentored WALLACE.$"
-
+	.string "Ahh… Rasanya menyenangkan membiarkan\n"
+	.string "ombak membasahi kakiku…\p"
+	.string "Bicara soal ombak, kamu tahu kota\n"
+	.string "pulau SOOTOPOLIS?\p"
+	.string "Sepertinya GYM di sana punya LEADER\n"
+	.string "baru.\p"
+	.string "Orang-orang bilang LEADER baru itu\n"
+	.string "pernah menjadi mentor WALLACE.$"

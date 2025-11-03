@@ -132,24 +132,24 @@ AbandonedShip_HiddenFloorCorridors_EventScript_TheDoorIsOpen::
 	end
 
 AbandonedShip_HiddenFloorCorridors_Text_Rm1DoorIsLocked:
-	.string "The door is locked.\p"
-	.string "“RM. 1” is painted on the door.$"
+	.string "Pintunya terkunci.\p"
+	.string "Ada tulisan “KM. 1” di pintunya.$"
 
 AbandonedShip_HiddenFloorCorridors_Text_Rm2DoorIsLocked:
-	.string "The door is locked.\p"
-	.string "“RM. 2” is painted on the door.$"
+	.string "Pintunya terkunci.\p"
+	.string "Ada tulisan “KM. 2” di pintunya.$"
 
 AbandonedShip_HiddenFloorCorridors_Text_Rm4DoorIsLocked:
-	.string "The door is locked.\p"
-	.string "“RM. 4” is painted on the door.$"
+	.string "Pintunya terkunci.\p"
+	.string "Ada tulisan “KM. 4” di pintunya.$"
 
 AbandonedShip_HiddenFloorCorridors_Text_Rm6DoorIsLocked:
-	.string "The door is locked.\p"
-	.string "“RM. 6” is painted on the door.$"
+	.string "Pintunya terkunci.\p"
+	.string "Ada tulisan “KM. 6” di pintunya.$"
 
 AbandonedShip_HiddenFloorCorridors_Text_InsertedKey:
-	.string "{PLAYER} inserted and turned the\n"
-	.string "KEY.\p"
-	.string "The inserted KEY stuck fast,\n"
-	.string "but the door opened.$"
+	.string "{PLAYER} memasukkan dan memutar\n"
+	.string "KUNCI.\p"
+	.string "Kunci itu macet,\n"
+	.string "tapi pintunya terbuka.$"
 

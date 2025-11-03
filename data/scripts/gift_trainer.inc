@@ -1,3 +1,4 @@
+//gemini
 MysteryGiftScript_VisitingTrainer::
 	setvaddress MysteryGiftScript_VisitingTrainer
 	special ValidateEReaderTrainer
@@ -20,29 +21,29 @@ MysteryGiftScript_VisitingTrainerArrived:
 	end
 
 sText_MysteryGiftVisitingTrainerInstructions:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "By holding this WONDER CARD, you\n"
-	.string "may take part in a survey at a\l"
+	.string "Terima kasih telah menggunakan\n"
+	.string "Sistem MYSTERY GIFT.\p"
+	.string "Dengan memegang WONDER CARD ini,\n"
+	.string "kamu bisa ikut survei di\l"
 	.string "POKéMON MART.\p"
-	.string "Use these surveys to invite\n"
-	.string "TRAINERS to SOOTOPOLIS CITY.\p"
-	.string "…Let me give you a secret\n"
-	.string "password for a survey:\p"
+	.string "Gunakan survei ini untuk\n"
+	.string "mengundang TRAINER ke KOTA SOOTOPOLIS.\p"
+	.string "…Aku akan memberimu kata sandi\n"
+	.string "rahasia untuk survei:\p"
 	.string "“GIVE ME\n"
 	.string "AWESOME TRAINER”\p"
-	.string "Write that in on a survey and send\n"
-	.string "it to the WIRELESS\l"
-	.string "COMMUNICATION SYSTEM.$"
+	.string "Tulis itu di survei & kirim ke\n"
+	.string "SISTEM KOMUNIKASI\l"
+	.string "NIRKABEL.$"
 
 sText_MysteryGiftVisitingTrainerArrived:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "A TRAINER has arrived in\n"
-	.string "SOOTOPOLIS CITY looking for you.\p"
-	.string "We hope you will enjoy\n"
-	.string "battling the visiting TRAINER.\p"
-	.string "You may invite other TRAINERS by\n"
-	.string "entering other passwords.\p"
-	.string "Try looking for other passwords\n"
-	.string "that may work.$"
+	.string "Terima kasih telah menggunakan\n"
+	.string "Sistem MYSTERY GIFT.\p"
+	.string "Seorang TRAINER telah tiba di\n"
+	.string "KOTA SOOTOPOLIS mencarimu.\p"
+	.string "Kami harap kamu akan menikmati\n"
+	.string "pertarungan melawan TRAINER tamu.\p"
+	.string "Kamu bisa mengundang TRAINER lain\n"
+	.string "dengan memasukkan kata sandi lain.\p"
+	.string "Coba cari kata sandi lain yang\n"
+	.string "mungkin berfungsi.$"

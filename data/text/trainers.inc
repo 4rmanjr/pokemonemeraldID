@@ -1,4796 +1,4869 @@
 Route102_Text_CalvinIntro:
-	.string "If you have POKéMON with you, then\n"
-	.string "you're an official POKéMON TRAINER!\l"
-	.string "You can't say no to my challenge!$"
+	.string "Kalau bawa POKéMON,\n"
+	.string "Kamu TRAINER resmi!\l"
+	.string "Tak bisa tolak tantangan Aku!$"
 
 Route102_Text_CalvinDefeated:
-	.string "Arrgh, I lost…\n"
-	.string "I should have trained mine more…$"
+	.string "Argh, Aku kalah…\n"
+	.string "Harusnya latih lebih giat…$"
 
 Route102_Text_CalvinPostBattle:
-	.string "Listen, you. If you're strong,\n"
-	.string "you should have told me before!$"
+	.string "Dengar, kalau Kamu kuat,\n"
+	.string "harusnya bilang dari dulu!$"
 
 Route102_Text_CalvinRegister:
-	.string "I've been working hard at this since\n"
-	.string "I saw you before.\p"
-	.string "I'd like to battle you again, so can\n"
-	.string "you register me in your POKéNAV?$"
+	.string "Aku latihan keras sejak\n"
+	.string "melihat Kamu sebelumnya.\p"
+	.string "Aku ingin lawan Kamu lagi,\n"
+	.string "daftarkan Aku di POKéNAV-Mu?$"
 
 Route102_Text_CalvinRegisterShort:
-	.string "I'd like to battle you again, so can\n"
-	.string "you register me in your POKéNAV?$"
+	.string "Aku ingin lawan Kamu lagi,\n"
+	.string "daftarkan Aku di POKéNAV-Mu?$"
 
 Route102_Text_CalvinRematchIntro:
-	.string "Ever since I lost to you, I desperately\n"
-	.string "trained my POKéMON.\l"
-	.string "You can't say no to my challenge!$"
+	.string "Sejak kalah dari Kamu, Aku\n"
+	.string "latih POKéMON habis-habisan!\l"
+	.string "Tak bisa tolak tantangan Aku!$"
 
 Route102_Text_CalvinRematchDefeated:
-	.string "Arrgh, I lost…\n"
-	.string "Is my training method not right?$"
+	.string "Argh, Aku kalah…\n"
+	.string "Metode latihan Aku salah?$"
 
 Route102_Text_CalvinRematchPostBattle:
-	.string "If you're going to get stronger,\n"
-	.string "I'll get stronger, too.$"
+	.string "Kalau Kamu makin kuat,\n"
+	.string "Aku juga akan makin kuat!$"
 
 Route102_Text_AllenIntro:
-	.string "Did you just become a TRAINER?\n"
-	.string "We're both beginners!$"
+	.string "Apa Kamu baru jadi TRAINER?\n"
+	.string "Kita sama-sama pemula!$"
 
 Route102_Text_AllenDefeated:
-	.string "I called you because I thought\n"
-	.string "I could beat you…$"
+	.string "Aku tantang karena kira\n"
+	.string "bisa kalahkan Kamu…$"
 
 Route102_Text_AllenPostBattle:
-	.string "I haven't won once yet…\n"
-	.string "I wish I would win soon…$"
+	.string "Belum pernah menang sekali pun…\n"
+	.string "Aku ingin segera menang…$"
 
 Route102_Text_RickIntro:
-	.string "Hahah! Our eyes met!\n"
-	.string "I'll take you on with my BUG POKéMON!$"
+	.string "Hahah! Mata kita bertemu!\n"
+	.string "Aku tantang pakai BUG POKéMON!$"
 
 Route102_Text_RickDefeated:
-	.string "Ow! Down and out!$"
+	.string "Ow! KO!$"
 
 Route102_Text_RickPostBattle:
-	.string "If you lock eyes with a TRAINER,\n"
-	.string "you have to challenge! It's a rule!$"
+	.string "Kalau pandangan TRAINER bertemu,\n"
+	.string "harus tantang! Itu aturannya!$"
 
 Route102_Text_TianaIntro:
-	.string "I'm going to keep winning and aim\n"
-	.string "to be the best TRAINER.\p"
-	.string "Help me further my career!$"
+	.string "Aku akan terus menang dan jadi\n"
+	.string "TRAINER terbaik.\p"
+	.string "Bantu Aku raih mimpiku!$"
 
 Route102_Text_TianaDefeated:
-	.string "I ended up furthering your career…$"
+	.string "Malahan karier Kamu yang maju…$"
 
 Route102_Text_TianaPostBattle:
-	.string "To keep winning my way up, I see that\n"
-	.string "I have to catch more POKéMON.$"
+	.string "Agar terus menang, Aku sadar\n"
+	.string "harus tangkap lebih banyak POKéMON.$"
 
 Route103_Text_DaisyIntro:
-	.string "Did you feel the tug of our\n"
-	.string "soul-soothing fragrance?$"
+	.string "Kamu rasakan tarikan\n"
+	.string "wangi menenangkan kami?$"
 
 Route103_Text_DaisyDefeated:
-	.string "You weren't led astray by our aroma…$"
+	.string "Kamu tak tergoda aromanya…$"
 
 Route103_Text_DaisyPostBattle:
-	.string "Aromatherapy is a form of mental\n"
-	.string "healing that works with fragrances.$"
+	.string "Aromaterapi adalah penyembuhan\n"
+	.string "jiwa lewat wewangian.$"
 
 Route103_Text_AmyIntro:
-	.string "AMY: I'm AMY.\n"
-	.string "And this is my little sister LIV.\l"
-	.string "We battle together!$"
+	.string "AMY: Aku AMY.\n"
+	.string "Ini adik Aku, LIV.\l"
+	.string "Kami bertarung bersama!$"
 
 Route103_Text_AmyDefeated:
-	.string "AMY: Uh-oh, we lost.$"
+	.string "AMY: Uh-oh, kami kalah.$"
 
 Route103_Text_AmyPostBattle:
-	.string "AMY: You have to think about all\n"
-	.string "kinds of things when you're battling\l"
-	.string "against two TRAINERS.$"
+	.string "AMY: Saat lawan dua TRAINER,\n"
+	.string "Kamu harus pikirkan banyak hal!\l"
+	.string "Itu tantangannya.$"
 
 Route103_Text_AmyNotEnoughPokemon:
-	.string "AMY: Uh-oh, you have only one\n"
-	.string "POKéMON with you.\l"
-	.string "You can't battle us like that.$"
+	.string "AMY: Uh-oh, Kamu cuma bawa\n"
+	.string "satu POKéMON.\l"
+	.string "Tak bisa lawan kami begitu.$"
 
 Route103_Text_LivIntro:
-	.string "LIV: We battle together as one\n"
-	.string "team.$"
+	.string "LIV: Kami bertarung sebagai\n"
+	.string "satu tim.$"
 
 Route103_Text_LivDefeated:
-	.string "LIV: Oh, we lost, big sister…$"
+	.string "LIV: Ah, kita kalah, Kak…$"
 
 Route103_Text_LivPostBattle:
-	.string "LIV: We work perfectly together,\n"
-	.string "me and my big sister…\p"
-	.string "But we still lost…$"
+	.string "LIV: Kami kompak banget,\n"
+	.string "Aku dan Kakak…\p"
+	.string "Tapi tetap kalah…$"
 
 Route103_Text_AmyLivRegister:
-	.string "LIV: Really, we're a lot better…\n"
-	.string "It's true! We'll show you next time!$"
+	.string "LIV: Serius, kami jauh lebih\n"
+	.string "hebat sekarang!\l"
+	.string "Nanti kami tunjukkan!$"
 
 Route103_Text_LivNotEnoughPokemon:
-	.string "LIV: If you want to battle us,\n"
-	.string "you have to have two POKéMON!\l"
-	.string "It's not fair if you don't!$"
+	.string "LIV: Kalau mau lawan kami,\n"
+	.string "Kamu butuh dua POKéMON!\l"
+	.string "Tak adil kalau tidak!$"
 
 Route103_Text_AmyRematchIntro:
-	.string "AMY: I'm AMY.\n"
-	.string "And this is my little sister LIV.\l"
-	.string "We battle together!$"
+	.string "AMY: Aku AMY.\n"
+	.string "Ini adik Aku, LIV.\l"
+	.string "Kami bertarung bersama!$"
 
 Route103_Text_AmyRematchDefeated:
-	.string "AMY: Aww, boo!\n"
-	.string "We couldn't win again…$"
+	.string "AMY: Aww, tidak!\n"
+	.string "Kami tak menang lagi…$"
 
 Route103_Text_AmyRematchPostBattle:
-	.string "AMY: You have to think about all\n"
-	.string "kinds of things when you're battling\l"
-	.string "against two TRAINERS.$"
+	.string "AMY: Saat lawan dua TRAINER,\n"
+	.string "Kamu harus pikirkan banyak hal!\l"
+	.string "Itu tantangannya.$"
 
 Route103_Text_AmyRematchNotEnoughPokemon:
-	.string "AMY: Uh-oh, you have only one\n"
-	.string "POKéMON with you.\l"
-	.string "You can't battle us like that.$"
+	.string "AMY: Uh-oh, Kamu cuma bawa\n"
+	.string "satu POKéMON.\l"
+	.string "Tak bisa lawan kami begitu.$"
 
 Route103_Text_LivRematchIntro:
-	.string "LIV: We battle together as one\n"
-	.string "team.$"
+	.string "LIV: Kami bertarung sebagai\n"
+	.string "satu tim.$"
 
 Route103_Text_LivRematchDefeated:
-	.string "LIV: Awww, we lost again…\n"
-	.string "Big sister…$"
+	.string "LIV: Awww, kalah lagi…\n"
+	.string "Kakak…$"
 
 Route103_Text_LivRematchPostBattle:
-	.string "LIV: We work perfectly together,\n"
-	.string "me and my big sister…\p"
-	.string "But why did we lose again?$"
+	.string "LIV: Kami kompak banget,\n"
+	.string "Aku dan Kakak…\p"
+	.string "Tapi kenapa kalah lagi?$"
 
 Route103_Text_LivRematchNotEnoughPokemon:
-	.string "LIV: If you want to battle us, you\n"
-	.string "have to have two POKéMON!\l"
-	.string "It's not fair if you don't!$"
+	.string "LIV: Kalau mau lawan kami,\n"
+	.string "Kamu butuh dua POKéMON!\l"
+	.string "Tak adil kalau tidak!$"
 
 Route103_Text_AndrewIntro:
-	.string "Gah! My fishing line's all snarled up!\n"
-	.string "I'm getting frustrated and mean!\l"
-	.string "That's it! Battle me!$"
+	.string "Gah! Pancing Aku kusut!\n"
+	.string "Aku kesal dan marah!\l"
+	.string "Ayo bertarung!$"
 
 Route103_Text_AndrewDefeated:
-	.string "Gah! Lost it!\n"
-	.string "I'm even more annoyed now!$"
+	.string "Gah! Kalah!\n"
+	.string "Makin kesal sekarang!$"
 
 Route103_Text_AndrewPostBattle:
-	.string "Gah, I'm still boiling mad…\n"
+	.string "Gah, Aku masih kesal…\n"
 	.string "Grrrrr…$"
 
 Route103_Text_MiguelIntro:
-	.string "My POKéMON is delightfully adorable!\n"
-	.string "Don't be shy--I'll show you!$"
+	.string "POKéMON Aku sangat imut!\n"
+	.string "Jangan malu-Aku tunjukkan!$"
 
 Route103_Text_MiguelDefeated:
-	.string "Oh, my gosh!\n"
-	.string "My darling POKéMON!$"
+	.string "Oh, astaga!\n"
+	.string "POKéMON kesayangan Aku!$"
 
 Route103_Text_MiguelPostBattle:
-	.string "My delightful POKéMON looks darling\n"
-	.string "even when it's fainted!$"
+	.string "POKéMON Aku tetap imut\n"
+	.string "meski pingsan!$"
 
 Route103_Text_MiguelRegister:
-	.string "I'll get you to come out and look in\n"
-	.string "on my delightful POKéMON again!$"
+	.string "Aku akan buat Kamu datang lagi\n"
+	.string "lihat POKéMON imut Aku!$"
 
 Route103_Text_MiguelRematchIntro:
-	.string "Hi, you! My delightfully adorable\n"
-	.string "POKéMON has become more darling!$"
+	.string "Hai, Kamu! POKéMON imut Aku\n"
+	.string "makin menggemaskan!$"
 
 Route103_Text_MiguelRematchDefeated:
 	.string "Oh!\n"
-	.string "My darling POKéMON!$"
+	.string "POKéMON kesayangan Aku!$"
 
 Route103_Text_MiguelRematchPostBattle:
-	.string "The more I spend time with it,\n"
-	.string "the more adorable my POKéMON becomes.$"
+	.string "Makin lama bersama,\n"
+	.string "makin imut POKéMON Aku.$"
 
 Route103_Text_PeteIntro:
-	.string "This sort of distance…\n"
-	.string "You should just swim it!$"
+	.string "Jarak segini…\n"
+	.string "Kamu harusnya berenang!$"
 
 Route103_Text_PeteDefeated:
-	.string "Oh, that's good going!$"
+	.string "Oh, hebat sekali!$"
 
 Route103_Text_PetePostBattle:
-	.string "Oh, I understand where you're coming\n"
-	.string "from now.\p"
-	.string "If I had a POKéMON that trusty,\n"
-	.string "I'd want to SURF on it, too!$"
+	.string "Oh, Aku paham maksud Kamu\n"
+	.string "sekarang.\p"
+	.string "Kalau Aku punya POKéMON\n"
+	.string "sehebat itu, Aku juga mau SURF!$"
 
 Route103_Text_IsabelleIntro:
-	.string "Watch where you're going!\n"
-	.string "We're going to crash!$"
+	.string "Hati-hati jalan!\n"
+	.string "Kita hampir tabrakan!$"
 
 Route103_Text_IsabelleDefeated:
-	.string "Groan…$"
+	.string "Aduh…$"
 
 Route103_Text_IsabellePostBattle:
-	.string "I'm a poor swimmer so I was practicing…\n"
-	.string "Sorry for almost crashing into you.$"
+	.string "Aku kurang jago berenang,\n"
+	.string "jadi latihan…\l"
+	.string "Maaf hampir nabrak Kamu.$"
 
 Route103_Text_RhettIntro:
 	.string "Whoa!\n"
-	.string "How'd you get into a space this small?$"
+	.string "Kamu masuk dari mana?$"
 
 Route103_Text_RhettDefeated:
 	.string "Whoa!\n"
-	.string "The kid can rock!$"
+	.string "Anak ini hebat!$"
 
 Route103_Text_RhettPostBattle:
-	.string "Do you like cramped quarters\n"
-	.string "like this?$"
+	.string "Apa Kamu suka tempat\n"
+	.string "sempit kayak gini?$"
 
 Route103_Text_MarcosIntro:
-	.string "Did my guitar's wailing draw you in?$"
+	.string "Apakah suara gitarku\n"
+	.string "menarikmu ke sini?$"
 
 Route103_Text_MarcosDefeated:
-	.string "My one-man show is ruined…$"
+	.string "Pertunjukan solo Aku hancur…$"
 
 Route103_Text_MarcosPostBattle:
-	.string "I was playing my guitar where few\n"
-	.string "people were around, but a lot of fans\l"
-	.string "have gathered.\p"
-	.string "Heh, maybe I should turn pro.$"
+	.string "Aku main gitar di tempat\n"
+	.string "sepi, tapi fans berkumpul!\l"
+	.string "\p"
+	.string "Heh, mungkin Aku jadi pro.$"
 
 Route104_Text_GinaIntro:
-	.string "GINA: Okay, let's battle with our\n"
-	.string "POKéMON!$"
+	.string "GINA: Ayo bertarung pakai\n"
+	.string "POKéMON kita!$"
 
 Route104_Text_GinaDefeat:
-	.string "GINA: Losing upsets me!$"
+	.string "GINA: Kalah bikin kesal!$"
 
 Route104_Text_GinaPostBattle:
-	.string "GINA: You are strong!\n"
-	.string "We have to train lots more!$"
+	.string "GINA: Kamu kuat!\n"
+	.string "Kita harus latihan lebih giat!$"
 
 Route104_Text_GinaNotEnoughMons:
-	.string "GINA: Oh? Only one POKéMON?\n"
-	.string "Then, we don't battle with you.\p"
-	.string "If there's only one POKéMON, it will\n"
-	.string "be lonesome. That's not nice.$"
+	.string "GINA: Hah? Cuma satu POKéMON?\n"
+	.string "Berarti tak bisa lawan Kamu.\p"
+	.string "Kalau cuma satu, nanti\n"
+	.string "kesepian. Tak baik.$"
 
 Route104_Text_MiaIntro:
-	.string "MIA: We are twins, so we battle\n"
-	.string "POKéMON together.$"
+	.string "MIA: Kami kembar, jadi\n"
+	.string "bertarung bersama.$"
 
 Route104_Text_MiaDefeat:
-	.string "MIA: We battled together, but we\n"
-	.string "both lost…$"
+	.string "MIA: Kami bertarung bareng,\n"
+	.string "tapi tetap kalah…$"
 
 Route104_Text_MiaPostBattle:
-	.string "MIA: We will train our POKéMON more\n"
-	.string "and be strong like you.$"
+	.string "MIA: Kami akan latih POKéMON\n"
+	.string "lebih giat, biar sekuat Kamu.$"
 
 Route104_Text_MiaNotEnoughMons:
-	.string "MIA: You want to battle with us?\p"
-	.string "It's a big no-no if you don't have two\n"
-	.string "POKéMON with you.\l"
-	.string "We're too strong for you!$"
+	.string "MIA: Mau lawan kami?\p"
+	.string "Kalau cuma bawa satu\n"
+	.string "POKéMON, jangan coba-coba!\l"
+	.string "Kami terlalu kuat!$"
 
 Route104_Text_IvanIntro:
-	.string "Why keep it a secret?\n"
-	.string "I'm the WATER POKéMON expert!\p"
-	.string "Huh?\n"
-	.string "You don't know me?$"
+	.string "Kenapa rahasiakan?\n"
+	.string "Aku ahli WATER POKéMON!\p"
+	.string "Hah?\n"
+	.string "Kamu tak kenal Aku?$"
 
 Route104_Text_IvanDefeat:
-	.string "I thought I wasn't too bad, if I may\n"
-	.string "say so, but I guess not… Bleah…$"
+	.string "Aku kira Aku lumayan,\n"
+	.string "tapi ternyata tidak… Bleah…$"
 
 Route104_Text_IvanPostBattle:
-	.string "I got too into fishing.\n"
-	.string "I forgot I had to raise my POKéMON…$"
+	.string "Aku terlalu asyik mancing.\n"
+	.string "Lupa rawat POKéMON Aku…$"
 
 Route104_Text_BillyIntro:
-	.string "Leaving footprints in the sand is\n"
-	.string "so fun!$"
+	.string "Jejak kaki di pasir itu\n"
+	.string "seru banget!$"
 
 Route104_Text_BillyDefeat:
-	.string "Waah! I got sand in my runners!\n"
-	.string "They're all gritty!$"
+	.string "Waah! Pasir masuk sepatu!\n"
+	.string "Jadi berisik!$"
 
 Route104_Text_BillyPostBattle:
-	.string "I want to leave my footprints in\n"
-	.string "the sand everywhere, but they\l"
-	.string "disappear quickly…$"
+	.string "Aku ingin tinggalkan jejak\n"
+	.string "di mana-mana, tapi\l"
+	.string "cepat hilang…$"
 
 Route104_Text_HaleyIntro:
-	.string "Should I…\n"
-	.string "Or shouldn't I?\p"
-	.string "Okay, sure, I will battle!$"
+	.string "Haruskah Aku…\n"
+	.string "atau tidak?\p"
+	.string "Oke, Aku tantang Kamu!$"
 
 Route104_Text_HaleyDefeat:
-	.string "I shouldn't have battled…$"
+	.string "Seharusnya Aku tak bertarung…$"
 
 Route104_Text_HaleyPostBattle:
-	.string "If you're faced with a decision and\n"
-	.string "you let someone else choose for you,\l"
-	.string "you will regret it, however things\l"
-	.string "turn out.$"
+	.string "Kalau Kamu biarkan orang lain\n"
+	.string "putuskan untukmu,\l"
+	.string "Kamu akan menyesal,\l"
+	.string "apa pun hasilnya.$"
 
 Route104_Text_HaleyRegister1:
-	.string "You're strong, but should I register\n"
-	.string "you in my POKéNAV?\l"
-	.string "Maybe I shouldn't…\p"
-	.string "Okay, sure, I will register you!$"
+	.string "Kamu kuat, tapi daftarkan\n"
+	.string "di POKéNAV Aku?\l"
+	.string "Mungkin jangan…\p"
+	.string "Oke, Aku daftarkan!$"
 
 Route104_Text_HaleyRegister2:
-	.string "You're strong, but should I register\n"
-	.string "you in my POKéNAV?\l"
-	.string "Maybe I shouldn't…\p"
-	.string "Okay, sure, I will register you!$"
+	.string "Kamu kuat, tapi daftarkan\n"
+	.string "di POKéNAV Aku?\l"
+	.string "Mungkin jangan…\p"
+	.string "Oke, Aku daftarkan!$"
 
 Route104_Text_HaleyRematchIntro:
-	.string "Come on, battle with me!$"
+	.string "Ayo, bertarung lagi!$"
 
 Route104_Text_HaleyRematchDefeat:
 	.string "Ohh…\n"
-	.string "I thought I could win…$"
+	.string "Aku kira bisa menang…$"
 
 Route104_Text_HaleyPostRematch:
-	.string "I made the decision to battle, so\n"
-	.string "I can accept this loss with grace.\p"
-	.string "I am still upset about losing!$"
+	.string "Aku yang putuskan bertarung,\n"
+	.string "jadi Aku terima kekalahan.\p"
+	.string "Tapi tetap kesal kalah!$"
 
 Route104_Text_WinstonIntro:
-	.string "Oh, sure, I'll accept your challenge.\n"
-	.string "I have a lot of money.$"
+	.string "Tentu, Aku terima tantangan.\n"
+	.string "Aku punya banyak uang.$"
 
 Route104_Text_WinstonDefeat:
-	.string "Why couldn't I win?$"
+	.string "Kenapa Aku kalah?$"
 
 Route104_Text_WinstonPostBattle:
-	.string "There are some things money can't buy.\n"
-	.string "That's POKéMON…$"
+	.string "Ada hal yang tak bisa\n"
+	.string "dibeli uang.\l"
+	.string "Itu POKéMON…$"
 
 Route104_Text_WinstonRegister1:
 	.string "Hm?\n"
-	.string "Ah, you've obtained a POKéNAV.\p"
-	.string "I will gladly register you.\n"
-	.string "After all, I have plenty of money.$"
+	.string "Ah, Kamu punya POKéNAV.\p"
+	.string "Aku daftarkan dengan senang.\n"
+	.string "Toh, uang Aku banyak.$"
 
 Route104_Text_WinstonRegister2:
 	.string "Hm?\n"
-	.string "Ah, you've obtained a POKéNAV.\p"
-	.string "I will gladly register you.\n"
-	.string "After all, I have plenty of money.$"
+	.string "Ah, Kamu punya POKéNAV.\p"
+	.string "Aku daftarkan dengan senang.\n"
+	.string "Toh, uang Aku banyak.$"
 
 Route104_Text_WinstonRematchIntro:
-	.string "After I lost to you, I learned a bunch\n"
-	.string "of things about POKéMON.$"
+	.string "Sejak kalah dari Kamu, Aku\n"
+	.string "belajar banyak soal POKéMON.$"
 
 Route104_Text_WinstonRematchDefeat:
-	.string "I lost again?\n"
-	.string "Why couldn't I win?$"
+	.string "Kalah lagi?\n"
+	.string "Kenapa Aku tak menang?$"
 
 Route104_Text_WinstonPostRematch:
-	.string "I'm fabulously wealthy, but I can't\n"
-	.string "seem to win at POKéMON…\p"
-	.string "It's so deep, the world of POKéMON…$"
+	.string "Aku sangat kaya, tapi tak\n"
+	.string "bisa menang di POKéMON…\p"
+	.string "Dunia POKéMON itu dalam…$"
 
 Route104_Text_CindyIntro:
-	.string "We must have been fated to meet.\n"
-	.string "May I ask you for a battle?$"
+	.string "Kita pasti ditakdirkan bertemu.\n"
+	.string "Boleh Aku tantang Kamu?$"
 
 Route104_Text_CindyDefeat:
-	.string "Oh, my!$"
+	.string "Astaga!$"
 
 Route104_Text_CindyPostBattle:
-	.string "“Hello” is the beginning of “good-bye.”\n"
-	.string "I hope we meet again.$"
+	.string "“Halo” awal dari “selamat tinggal.”\n"
+	.string "Semoga kita bertemu lagi.$"
 
 Route104_Text_CindyRegister1:
-	.string "Hello, we meet again.\p"
-	.string "We seem to be drawn together. Let's\n"
-	.string "register each other in our POKéNAVS.$"
+	.string "Halo, kita bertemu lagi.\p"
+	.string "Seperti ada ikatan.\n"
+	.string "Daftarkan Aku di POKéNAV-Mu.$"
 
 Route104_Text_CindyRegister2:
-	.string "We should commemorate how we seem\n"
-	.string "to be drawn to each other.\p"
-	.string "Let's register each other in our\n"
-	.string "POKéNAVS.$"
+	.string "Mari rayakan ikatan ini.\p"
+	.string "Daftarkan Aku di POKéNAV-Mu,\n"
+	.string "dan Aku daftarkan Kamu juga.$"
 
 Route104_Text_CindyRematchIntro:
-	.string "Hello, we meet again.\n"
-	.string "May I ask you for a battle?$"
+	.string "Halo, kita bertemu lagi.\n"
+	.string "Boleh Aku tantang Kamu?$"
 
 Route104_Text_CindyRematchDefeat:
-	.string "Oh, my…\n"
-	.string "I did the best that I could…$"
+	.string "Astaga…\n"
+	.string "Aku sudah berusaha maksimal…$"
 
 Route104_Text_CindyPostRematch:
-	.string "“Hello” is the beginning of “good-bye.”\n"
-	.string "I hope we meet again.$"
+	.string "“Halo” awal dari “selamat tinggal.”\n"
+	.string "Semoga kita bertemu lagi.$"
 
 Route104_Text_DarianIntro:
-	.string "I fished up a tough-looking POKéMON!\p"
-	.string "It has this magical quality to it!\n"
-	.string "It surely looks tough, yes it does!$"
+	.string "Aku dapat POKéMON tangguh!\p"
+	.string "Ada aura ajaibnya!\n"
+	.string "Pasti kuat, iya kan?$"
 
 Route104_Text_DarianDefeat:
-	.string "What the…$"
+	.string "Apa-apaan…$"
 
 Route104_Text_DarianPostBattle:
-	.string "Hey, MAGIKARP, you sure don't live up\n"
-	.string "to your name, do you?$"
+	.string "Hei, MAGIKARP, Kamu tak sesuai\n"
+	.string "namamu, ya?$"
 
 Route105_Text_FosterIntro:
-	.string "There's supposed to be a mystical\n"
-	.string "rock around here.\l"
-	.string "Do you know anything about it?$"
+	.string "Katanya ada batu mistis\n"
+	.string "di sekitar sini.\l"
+	.string "Kamu tahu soal itu?$"
 
 Route105_Text_FosterDefeated:
-	.string "I was thinking too much about that\n"
-	.string "rock, while my POKéMON remained weak…$"
+	.string "Aku terlalu fokus pada batu itu,\n"
+	.string "sampai POKéMON Aku lemah…$"
 
 Route105_Text_FosterPostBattle:
-	.string "I can spend hours and hours staring\n"
-	.string "at a nice rock without growing bored.$"
+	.string "Aku bisa menatap batu bagus\n"
+	.string "berjam-jam tanpa bosan.$"
 
 Route105_Text_LuisIntro:
-	.string "Whew! I was worried that a kid was\n"
-	.string "drowning when I saw you.\p"
-	.string "You seem to be okay, so what do you\n"
-	.string "say to a battle?$"
+	.string "Wah! Aku kira Kamu tenggelam!\n"
+	.string "Ternyata baik-baik saja.\p"
+	.string "Mau bertarung?$"
 
 Route105_Text_LuisDefeated:
 	.string "Glub… Glub…$"
 
 Route105_Text_LuisPostBattle:
-	.string "If you are drowning, the signal is to\n"
-	.string "wave one arm toward the beach.$"
+	.string "Kalau tenggelam, lambaikan\n"
+	.string "satu tangan ke pantai.$"
 
 Route105_Text_DominikIntro:
-	.string "Swimming the deep blue sea…\n"
-	.string "It feels the greatest!$"
+	.string "Berenang di laut biru…\n"
+	.string "Rasanya luar biasa!$"
 
 Route105_Text_DominikDefeated:
-	.string "I lost…\n"
-	.string "Now I'm feeling blue…$"
+	.string "Aku kalah…\n"
+	.string "Jadi sedih…$"
 
 Route105_Text_DominikPostBattle:
-	.string "Why is the sea blue?\p"
-	.string "I learned about that at the MUSEUM in\n"
-	.string "SLATEPORT, but I forgot.$"
+	.string "Kenapa laut biru?\p"
+	.string "Aku belajar di MUSEUM SLATEPORT,\n"
+	.string "tapi lupa.$"
 
 Route105_Text_BeverlyIntro:
-	.string "My body feels lighter in the water.\n"
-	.string "It's as if I've gotten slimmer!$"
+	.string "Badan Aku terasa ringan di air.\n"
+	.string "Kayak langsing!$"
 
 Route105_Text_BeverlyDefeated:
-	.string "I'm floating…$"
+	.string "Aku melayang…$"
 
 Route105_Text_PostBattle:
-	.string "Your body weight is reduced to just\n"
-	.string "one tenth in the water.\p"
-	.string "That would make me…\n"
-	.string "Whoops! I'm not telling you my weight!$"
+	.string "Berat badan jadi sepersepuluh\n"
+	.string "di air.\p"
+	.string "Berarti Aku jadi…\n"
+	.string "Ups! Rahasia!$"
 
 Route105_Text_ImaniIntro:
-	.string "The blue, blue sky…\n"
-	.string "The vast sea…\l"
-	.string "It's so peaceful…$"
+	.string "Langit biru…\n"
+	.string "Laut luas…\l"
+	.string "Damai sekali…$"
 
 Route105_Text_ImaniDefeated:
-	.string "I lost while I was lounging!$"
+	.string "Aku kalah saat santai!$"
 
 Route105_Text_ImaniPostBattle:
-	.string "I want to be told I'm relaxing to be\n"
-	.string "with. Giggle.$"
+	.string "Aku ingin disebut teman\n"
+	.string "yang menenangkan. Hihi.$"
 
 Route105_Text_AndresIntro:
-	.string "I'm convinced that the sea keeps\n"
-	.string "secrets from us.$"
+	.string "Laut menyimpan rahasia\n"
+	.string "dari kita.$"
 
 Route105_Text_AndresDefeated:
-	.string "Yes…\n"
-	.string "I am no good at battling…$"
+	.string "Ya…\n"
+	.string "Aku payah bertarung…$"
 
 Route105_Text_AndresPostBattle:
-	.string "I'm sure there are many secrets to be\n"
-	.string "discovered in the world's seas.\p"
-	.string "I mean to find them all!$"
+	.string "Pasti banyak rahasia di lautan.\p"
+	.string "Aku akan temukan semuanya!$"
 
 Route105_Text_AndresRegister:
-	.string "Huh? I'm so weak, but you're willing\n"
-	.string "to register me in your POKéNAV?$"
+	.string "Hah? Aku lemah, tapi Kamu mau\n"
+	.string "daftarkan Aku di POKéNAV-Mu?$"
 
 Route105_Text_AndresRematchIntro:
-	.string "I've told you that I'm weak…\n"
-	.string "Are you sure you want to do this?$"
+	.string "Aku bilang Aku lemah…\n"
+	.string "Kamu yakin mau bertarung?$"
 
 Route105_Text_AndresRematchDefeated:
-	.string "Yes…\n"
-	.string "I didn't think I could win.$"
+	.string "Ya…\n"
+	.string "Aku tahu tak akan menang.$"
 
 Route105_Text_AndresRematchPostBattle:
-	.string "I may be weak at battling, but my\n"
-	.string "drive to explore can't be bested.\p"
-	.string "I will travel the seas all around\n"
-	.string "the world!$"
+	.string "Aku mungkin lemah bertarung,\n"
+	.string "tapi semangat jelajah Aku tak\l"
+	.string "terkalahkan.\p"
+	.string "Aku akan keliling lautan dunia!$"
 
 Route105_Text_JosueIntro:
-	.string "I'm exhausted from swimming.\n"
-	.string "I'm just not used to it.\p"
-	.string "I need a battle for a change of pace!$"
+	.string "Aku lelah berenang.\n"
+	.string "Belum terbiasa.\p"
+	.string "Ayo bertarung biar segar!$"
 
 Route105_Text_JosueDefeated:
-	.string "I lost because I battled at sea.$"
+	.string "Aku kalah karena bertarung di laut.$"
 
 Route105_Text_JosuePostBattle:
-	.string "Yeah, for me, the sky is a much better\n"
-	.string "match than the sea.$"
+	.string "Bagi Aku, langit lebih cocok\n"
+	.string "daripada laut.$"
 
 Route106_Text_ElliotIntro:
-	.string "Which do you prefer, fishing in the\n"
-	.string "sea or a stream?$"
+	.string "Lebih suka mancing di laut\n"
+	.string "atau sungai?$"
 
 Route106_Text_ElliotDefeated:
-	.string "Like in deep-sea fishing, I lost\n"
-	.string "spectacularly!$"
+	.string "Seperti mancing laut dalam,\n"
+	.string "Aku kalah spektakuler!$"
 
 Route106_Text_ElliotPostBattle:
-	.string "Fishing is the greatest whether it's\n"
-	.string "in the sea or a stream.\l"
-	.string "You agree with me, right?$"
+	.string "Mancing itu seru,\n"
+	.string "di laut atau sungai.\l"
+	.string "Kamu setuju, kan?$"
 
 Route106_Text_ElliotRegister:
-	.string "Fishing's great, but so is battling.\n"
-	.string "If you don't mind, can we meet again?$"
+	.string "Mancing seru, bertarung juga.\n"
+	.string "Boleh ketemu lagi?$"
 
 Route106_Text_ElliotRematchIntro:
-	.string "I caught a bunch of POKéMON fishing.\n"
-	.string "I'll show you an impressive battle!$"
+	.string "Aku dapat banyak POKéMON.\n"
+	.string "Ayo lihat pertarungan keren!$"
 
 Route106_Text_ElliotRematchDefeated:
-	.string "I lost again spectacularly!$"
+	.string "Aku kalah spektakuler lagi!$"
 
 Route106_Text_ElliotRematchPostBattle:
-	.string "Win or lose, POKéMON are the greatest!\n"
-	.string "You agree with me, right?$"
+	.string "Menang atau kalah, POKéMON\n"
+	.string "tetap yang terbaik!\l"
+	.string "Kamu setuju, kan?$"
 
 Route106_Text_NedIntro:
-	.string "What do people do if they need to go\n"
-	.string "to a washroom?\p"
-	.string "What if my ROD hooks a big one while\n"
-	.string "I'm in the washroom? I just can't go…$"
+	.string "Kalau ke toilet di laut,\n"
+	.string "gimana?\p"
+	.string "Kalau ROD Aku kena ikan besar\n"
+	.string "saat Aku di toilet? Takut!$"
 
 Route106_Text_NedDefeated:
-	.string "I lost because I'm trying to not go\n"
-	.string "to the washroom…$"
+	.string "Aku kalah karena takut\n"
+	.string "ke toilet…$"
 
 Route106_Text_NedPostBattle:
-	.string "Oh, no! I've got this feeling I'll hook\n"
-	.string "a big one!$"
+	.string "Wah! Rasanya Aku dapat\n"
+	.string "ikan besar!$"
 
 Route106_Text_DouglasIntro:
-	.string "Hahahah! I'm a lousy runner, but in\n"
-	.string "the water you can't catch me!$"
+	.string "Hahahah! Aku pelari payah,\n"
+	.string "tapi di air Kamu tak menangkap Aku!$"
 
 Route106_Text_DouglasDefeated:
-	.string "I give up!$"
+	.string "Aku menyerah!$"
 
 Route106_Text_DouglasPostBattle:
-	.string "I wouldn't lose in a swim race…$"
+	.string "Aku tak kalah di lomba renang…$"
 
 Route106_Text_KylaIntro:
-	.string "The sea is my backyard. I'm not going\n"
-	.string "to take it easy because you're a kid!$"
+	.string "Laut halaman belakang Aku.\n"
+	.string "Tak akan kasi ampun!$"
 
 Route106_Text_KylaDefeated:
-	.string "Did you take it easy on me by any\n"
-	.string "chance?$"
+	.string "Apa Kamu sengaja kasi\n"
+	.string "menang?$"
 
 Route106_Text_KylaPostBattle:
-	.string "Drifting along with the waves…\n"
-	.string "I love it! Why don't you give it a try?$"
+	.string "Hanyut bersama ombak…\n"
+	.string "Coba deh, seru!$"
 
 Route107_Text_DarrinIntro:
-	.string "Yawn…\p"
-	.string "I must have drifted off to sleep while\n"
-	.string "I was drifting in the waves.$"
+	.string "Ngantuk…\p"
+	.string "Aku tertidur saat hanyut\n"
+	.string "di ombak.$"
 
 Route107_Text_DarrinDefeated:
-	.string "Ahaha, I lost…\n"
-	.string "I'll take a snooze, I think…$"
+	.string "Ahaha, Aku kalah…\n"
+	.string "Aku tidur dulu…$"
 
 Route107_Text_DarrinPostBattle:
-	.string "Floating and being rocked by\n"
-	.string "the waves--it's like sleeping in\l"
-	.string "a plush, comfy bed.$"
+	.string "Hanyut dan diayun ombak-\n"
+	.string "seperti tidur di kasur empuk.\l"
+	.string "Nyaman sekali.$"
 
 Route107_Text_TonyIntro:
-	.string "The sea is like my backyard.\n"
-	.string "Let's battle!$"
+	.string "Laut seperti halaman Aku.\n"
+	.string "Ayo bertarung!$"
 
 Route107_Text_TonyDefeated:
-	.string "I lost on my home field…\n"
-	.string "I'm in shock!$"
+	.string "Kalah di kandang sendiri…\n"
+	.string "Syok!$"
 
 Route107_Text_TonyPostBattle:
-	.string "I swim the seas with a heart full of\n"
-	.string "dreams…\p"
-	.string "It's a song!\n"
-	.string "Anyways, I'm swimming some more.$"
+	.string "Aku berenang dengan mimpi\n"
+	.string "di hati…\p"
+	.string "Itu lagu!\n"
+	.string "Aku lanjut berenang.$"
 
 Route107_Text_TonyRegister:
-	.string "You've shocked me to the bone!\n"
-	.string "Well, so you won't forget me…$"
+	.string "Kamu bikin Aku syok!\n"
+	.string "Agar Kamu tak lupa Aku…$"
 
 Route107_Text_TonyRematchIntro:
-	.string "Swimming in the big, wide sea,\n"
-	.string "my POKéMON has grown stronger!$"
+	.string "Berenang di laut luas,\n"
+	.string "POKéMON Aku makin kuat!$"
 
 Route107_Text_TonyRematchDefeated:
-	.string "What a shock!\p"
-	.string "My POKéMON has gotten stronger, but\n"
-	.string "I stayed weak as a TRAINER!$"
+	.string "Syok!\p"
+	.string "POKéMON Aku kuat,\n"
+	.string "tapi Aku tetap lemah!$"
 
 Route107_Text_TonyRematchPostBattle:
-	.string "What you learn in battle makes you\n"
-	.string "a stronger TRAINER.\l"
-	.string "The waves taught me that.$"
+	.string "Yang dipelajari dari pertarungan\n"
+	.string "buat Kamu jadi TRAINER kuat.\l"
+	.string "Ombak mengajarkanku itu.$"
 
 Route107_Text_DeniseIntro:
-	.string "Do you know a little town called\n"
+	.string "Kamu tahu kota kecil\n"
 	.string "DEWFORD?$"
 
 Route107_Text_DeniseDefeated:
-	.string "I hate this!$"
+	.string "Aku benci ini!$"
 
 Route107_Text_DenisePostBattle:
-	.string "A weird saying is getting really\n"
-	.string "trendy at DEWFORD HALL.$"
+	.string "Ada pepatah aneh lagi ngetren\n"
+	.string "di DEWFORD HALL.$"
 
 Route107_Text_BethIntro:
-	.string "Did you want to battle me?\n"
-	.string "Sure, I'll go with you!$"
+	.string "Kamu ingin tantang Aku?\n"
+	.string "Baik, Aku ikut!$"
 
 Route107_Text_BethDefeated:
-	.string "I wasn't good enough for you.$"
+	.string "Aku tak cukup hebat untukmu.$"
 
 Route107_Text_BethPostBattle:
-	.string "I think you're going to keep getting\n"
-	.string "better. I'll go for it, too!$"
+	.string "Kamu pasti makin kuat.\n"
+	.string "Aku juga akan berusaha!$"
 
 Route107_Text_LisaIntro:
-	.string "LISA: We challenge you as a sister\n"
-	.string "and brother!$"
+	.string "LISA: Kami tantang sebagai\n"
+	.string "kakak-adik!$"
 
 Route107_Text_LisaDefeated:
-	.string "LISA: Awesome.\n"
-	.string "You're in a different class of tough.$"
+	.string "LISA: Keren.\n"
+	.string "Kamu di level berbeda!$"
 
 Route107_Text_LisaPostBattle:
-	.string "LISA: Do you have any friends who\n"
-	.string "would go to the beach with you?$"
+	.string "LISA: Apa Kamu punya teman\n"
+	.string "yang mau main ke pantai?$"
 
 Route107_Text_LisaNotEnoughPokemon:
-	.string "LISA: If you want to battle with us,\n"
-	.string "bring more POKéMON.$"
+	.string "LISA: Kalau mau lawan kami,\n"
+	.string "bawa lebih banyak POKéMON.$"
 
 Route107_Text_RayIntro:
-	.string "RAY: We always battle POKéMON,\n"
-	.string "me and my sister.\p"
-	.string "I always lose, but we can beat you\n"
-	.string "2-on-2!$"
+	.string "RAY: Aku dan Kakak selalu\n"
+	.string "bertarung POKéMON.\p"
+	.string "Aku selalu kalah, tapi kami\n"
+	.string "bisa kalahkan Kamu 2 lawan 2!$"
 
 Route107_Text_RayDefeated:
-	.string "RAY: Wowee, you're at a higher level\n"
-	.string "than us!$"
+	.string "RAY: Wah, Kamu jauh lebih\n"
+	.string "hebat dari kami!$"
 
 Route107_Text_RayPostBattle:
-	.string "RAY: My sister gave me my POKéMON.\n"
-	.string "I raised it, and now it's my important\l"
-	.string "partner!$"
+	.string "RAY: POKéMON ini pemberian\n"
+	.string "Kakak. Aku rawat sendiri,\l"
+	.string "dan kini jadi partner Aku!$"
 
 Route107_Text_RayNotEnoughPokemon:
-	.string "RAY: If you want to battle us,\n"
-	.string "go bring some more POKéMON!$"
+	.string "RAY: Kalau mau lawan kami,\n"
+	.string "bawa lebih banyak POKéMON!$"
 
 Route107_Text_CamronIntro:
-	.string "I'm in the middle of a triathlon,\n"
-	.string "but I'm nowhere near tired!$"
+	.string "Aku sedang triathlon,\n"
+	.string "tapi belum capek!$"
 
 Route107_Text_CamronDefeated:
-	.string "That exhausted me…$"
+	.string "Itu melelahkan…$"
 
 Route107_Text_CamronPostBattle:
-	.string "I still have swimming and running left\n"
-	.string "to do after this.\p"
-	.string "Am I going to be okay?$"
+	.string "Aku masih harus renang\n"
+	.string "dan lari setelah ini.\p"
+	.string "Apa Aku sanggup?$"
 
 Route108_Text_JeromeIntro:
-	.string "My dream is to swim the world's seven\n"
-	.string "seas!$"
+	.string "Impian Aku berenang di\n"
+	.string "tujuh samudra dunia!$"
 
 Route108_Text_JeromeDefeated:
-	.string "I won't be able to swim the seven seas\n"
-	.string "like this…$"
+	.string "Aku tak bisa berenang\n"
+	.string "di tujuh samudra begini…$"
 
 Route108_Text_JeromePostBattle:
-	.string "Playing with marine POKéMON is one of\n"
-	.string "the pleasures of swimming!$"
+	.string "Main dengan POKéMON laut\n"
+	.string "salah satu kesenangan berenang!$"
 
 Route108_Text_MatthewIntro:
-	.string "Ahoy, there! Are you going out to\n"
-	.string "the ABANDONED SHIP, too?$"
+	.string "Hoi! Kamu juga mau ke\n"
+	.string "ABANDONED SHIP?$"
 
 Route108_Text_MatthewDefeated:
-	.string "I'm sinking!\n"
+	.string "Aku tenggelam!\n"
 	.string "Glub… Glub…$"
 
 Route108_Text_MatthewPostBattle:
-	.string "Some people even go inside that\n"
-	.string "ABANDONED SHIP.$"
+	.string "Ada yang masuk ke dalam\n"
+	.string "ABANDONED SHIP itu.$"
 
 Route108_Text_TaraIntro:
-	.string "My liar of a boyfriend told me that\n"
-	.string "I look great in a bikini…$"
+	.string "Pacar Aku bohong bilang\n"
+	.string "Aku cakep pakai bikini…$"
 
 Route108_Text_TaraDefeated:
-	.string "Oh, boo!$"
+	.string "Ah, tidak!$"
 
 Route108_Text_TaraPostBattle:
-	.string "Even if it's a lie, I love being told\n"
-	.string "I look great…\l"
-	.string "We girls are so complex…$"
+	.string "Meski bohong, Aku suka\n"
+	.string "dibilang cakep…\l"
+	.string "Cewek itu rumit, ya…$"
 
 Route108_Text_MissyIntro:
-	.string "I love the sea!\n"
-	.string "I forget all my worries when I swim!$"
+	.string "Aku suka laut!\n"
+	.string "Semua stres hilang saat berenang!$"
 
 Route108_Text_MissyDefeated:
-	.string "When I lose a battle, I get all\n"
-	.string "stressed out!$"
+	.string "Kalau kalah, Aku jadi\n"
+	.string "stres berat!$"
 
 Route108_Text_MissyPostBattle:
-	.string "Work off your stress by swimming!\n"
-	.string "It's so healthy!$"
+	.string "Hilangkan stres dengan renang!\n"
+	.string "Sehat banget!$"
 
 Route108_Text_CoryIntro:
-	.string "I love WATER-type POKéMON.\n"
-	.string "I love other POKéMON, too!$"
+	.string "Aku suka POKéMON tipe AIR.\n"
+	.string "Suka semua POKéMON!$"
 
 Route108_Text_CoryDefeated:
-	.string "Waaah! I lost!\n"
+	.string "Waaah! Aku kalah!\n"
 	.string "Waaah! Waaah!$"
 
 Route108_Text_CoryPostBattle:
-	.string "Shouting is good for me!\n"
-	.string "It uplifts me!$"
+	.string "Teriak itu bagus buat Aku!\n"
+	.string "Bikin semangat!$"
 
 Route108_Text_CoryRegister:
-	.string "I love tough TRAINERS, too!\n"
-	.string "Register me in your POKéNAV!$"
+	.string "Aku suka TRAINER tangguh!\n"
+	.string "Daftarkan Aku di POKéNAV-Mu!$"
 
 Route108_Text_CoryRematchIntro:
-	.string "Win or lose, I love battling at sea!$"
+	.string "Menang atau kalah, Aku suka\n"
+	.string "bertarung di laut!$"
 
 Route108_Text_CoryRematchDefeated:
-	.string "Waaah! I lost again!\n"
+	.string "Waaah! Kalah lagi!\n"
 	.string "Waaah! Waaah!$"
 
 Route108_Text_CoryRematchPostBattle:
-	.string "If you're faced with a challenge,\n"
-	.string "try shouting at the sea!$"
+	.string "Kalau ada tantangan,\n"
+	.string "teriaklah ke laut!$"
 
 Route108_Text_CarolinaIntro:
-	.string "I take huge pride in my POKéMON.\n"
-	.string "We'll show you one speedy battle!$"
+	.string "Aku bangga pada POKéMON Aku.\n"
+	.string "Kami tunjukkan pertarungan cepat!$"
 
 Route108_Text_CarolinaDefeated:
-	.string "That wasn't cute at all.$"
+	.string "Itu tak lucu sama sekali.$"
 
 Route108_Text_CarolinaPostBattle:
-	.string "Since I'm at sea like this, I wouldn't\n"
-	.string "mind putting on a pink, frilly swimsuit…$"
+	.string "Kalau di laut begini, Aku mau\n"
+	.string "pakai baju renang pink berenda…$"
 
 Route109_Text_DavidIntro:
-	.string "Hiyah! Look at my chiseled abs!\n"
-	.string "This is what you call “cut”!$"
+	.string "Hiyah! Lihat otot perut Aku!\n"
+	.string "Ini namanya “cut”!$"
 
 Route109_Text_DavidDefeated:
 	.string "Aiyah!\n"
-	.string "Flubbed out!$"
+	.string "Gagal total!$"
 
 Route109_Text_DavidPostBattle:
 	.string "Hiyah!\p"
-	.string "My sculpted abs have nothing to do\n"
-	.string "with POKéMON battles!$"
+	.string "Otot perut Aku tak ada\n"
+	.string "hubungannya dengan POKéMON!$"
 
 Route109_Text_AliceIntro:
-	.string "Are you properly protected against\n"
-	.string "the sun?$"
+	.string "Kamu pakai pelindung\n"
+	.string "matahari yang cukup?$"
 
 Route109_Text_AliceDefeated:
-	.string "Ouch, ouch, ouch!$"
+	.string "Aduh, aduh, aduh!$"
 
 Route109_Text_AlicePostBattle:
-	.string "Cheeks are the most prone to burning!$"
+	.string "Pipi paling gampang terbakar!$"
 
 Route109_Text_HueyIntro:
-	.string "I've laid anchor in ports around\n"
-	.string "the world, but SLATEPORT's the best.$"
+	.string "Aku singgah di banyak pelabuhan,\n"
+	.string "tapi SLATEPORT yang terbaik.$"
 
 Route109_Text_HueyDefeated:
-	.string "You're the best!$"
+	.string "Kamu yang terbaik!$"
 
 Route109_Text_HueyPostBattle:
-	.string "In the best port was the best\n"
-	.string "TRAINER…$"
+	.string "Di pelabuhan terbaik ada\n"
+	.string "TRAINER terbaik…$"
 
 Route109_Text_EdmondIntro:
 	.string "Urrrrppp…\n"
-	.string "Battle? With me?$"
+	.string "Bertarung? Dengan Aku?$"
 
 Route109_Text_EdmondDefeated:
 	.string "Urp… Ooooooohhhhhh…\n"
 	.string "Urrrrpppp…$"
 
 Route109_Text_EdmondPostBattle:
-	.string "I'm usually stronger than this!\n"
-	.string "I'm just seasick as a dog!\p"
-	.string "I'm a SAILOR, but…$"
+	.string "Biasanya Aku lebih kuat!\n"
+	.string "Tapi Aku mabuk laut!\p"
+	.string "Padahal Aku SAILOR…$"
 
 Route109_Text_RickyIntro:
-	.string "I'm thirsty… I could go for a SODA POP\n"
-	.string "at the SEASHORE HOUSE…$"
+	.string "Aku haus… Mau SODA POP\n"
+	.string "di SEASHORE HOUSE…$"
 
 Route109_Text_RickyDefeated:
-	.string "Groan…$"
+	.string "Aduh…$"
 
 Route109_Text_RickyPostBattle:
-	.string "I'm getting famished… My inner tube\n"
-	.string "looks like a giant doughnut…$"
+	.string "Aku lapar… Ban renang Aku\n"
+	.string "kelihatan kayak donat raksasa…$"
 
 Route109_Text_RickyRegister:
-	.string "Will you have another match with me\n"
-	.string "when I'm not all thirsty?$"
+	.string "Mau bertarung lagi saat\n"
+	.string "Aku tak haus?$"
 
 Route109_Text_RickyRematchIntro:
-	.string "I'm hungry, but I've got enough pep in\n"
-	.string "me for a battle!$"
+	.string "Aku lapar, tapi masih\n"
+	.string "semangat bertarung!$"
 
 Route109_Text_RickyRematchDefeated:
-	.string "I lost…\n"
-	.string "It's because I'm hungry…$"
+	.string "Aku kalah…\n"
+	.string "Karena lapar…$"
 
 Route109_Text_RickyRematchPostBattle:
-	.string "When you eat on a beach, everything\n"
-	.string "seems to taste a little better.$"
+	.string "Makan di pantai rasanya\n"
+	.string "lebih enak.$"
 
 Route109_Text_LolaIntro:
-	.string "Doesn't a beach umbrella look like\n"
-	.string "a giant flower?$"
+	.string "Payung pantai kayak\n"
+	.string "bunga raksasa, ya?$"
 
 Route109_Text_LolaDefeated:
-	.string "Mommy!$"
+	.string "Mama!$"
 
 Route109_Text_LolaPostBattle:
-	.string "If you look at the beach from the sky,\n"
-	.string "it looks like a big flower garden!$"
+	.string "Kalau dilihat dari langit,\n"
+	.string "pantai kayak taman bunga!$"
 
 Route109_Text_LolaRegister:
-	.string "Me?\n"
-	.string "I'm here every day!$"
+	.string "Aku?\n"
+	.string "Di sini tiap hari!$"
 
 Route109_Text_LolaRematchIntro:
-	.string "I'm not losing to you again!\n"
-	.string "That's why I have my inner tube!$"
+	.string "Aku tak mau kalah lagi!\n"
+	.string "Makanya Aku bawa ban renang!$"
 
 Route109_Text_LolaRematchDefeated:
-	.string "Mommy!$"
+	.string "Mama!$"
 
 Route109_Text_LolaRematchPostBattle:
-	.string "If I have an inner tube, me and my\n"
-	.string "POKéMON's cuteness goes way up!$"
+	.string "Kalau pakai ban renang,\n"
+	.string "kelucuan Aku dan POKéMON naik!$"
 
 Route109_Text_AustinaIntro:
-	.string "I can't swim without my inner tube,\n"
-	.string "but I won't lose at POKéMON!$"
+	.string "Aku tak bisa renang tanpa\n"
+	.string "ban renang, tapi tak akan kalah!$"
 
 Route109_Text_AustinaDefeated:
-	.string "Did I lose because I have an inner\n"
-	.string "tube?$"
+	.string "Apa Aku kalah karena\n"
+	.string "pakai ban renang?$"
 
 Route109_Text_AustinaPostBattle:
-	.string "My inner tube is a fashion item.\n"
-	.string "I can't be seen without it.$"
+	.string "Ban renang Aku aksesori.\n"
+	.string "Tak lengkap tanpanya.$"
 
 Route109_Text_GwenIntro:
-	.string "Hi, big TRAINER.\n"
-	.string "Will you battle with me?$"
+	.string "Hai, TRAINER hebat.\n"
+	.string "Mau bertarung?$"
 
 Route109_Text_GwenDefeated:
-	.string "Oh, you're strong.$"
+	.string "Oh, Kamu kuat.$"
 
 Route109_Text_GwenPostBattle:
-	.string "How did you get to be so strong?$"
+	.string "Bagaimana Kamu jadi\n"
+	.string "sekuat ini?$"
 
 Route109_Text_CarterIntro:
-	.string "Wahahah! This dude's going to catch\n"
-	.string "himself a big one!$"
+	.string "Wahahah! Orang ini akan\n"
+	.string "dapat ikan besar!$"
 
 Route109_Text_CarterDefeated:
-	.string "This dude just lost one…$"
+	.string "Orang ini baru saja\n"
+	.string "kehilangan satu…$"
 
 Route109_Text_CarterPostBattle:
-	.string "This dude thinks you're a big one.\n"
-	.string "No, you're a big-one-to-be!$"
+	.string "Orang ini kira Kamu ikan besar.\n"
+	.string "Tidak, Kamu calon ikan besar!$"
 
 Route109_Text_PaulIntro:
-	.string "PAUL: Well, this is a mood-breaker.\p"
-	.string "I wish you wouldn't disturb our\n"
-	.string "precious time together.$"
+	.string "PAUL: Wah, ini merusak suasana.\p"
+	.string "Jangan ganggu waktu berharga\n"
+	.string "kami berdua.$"
 
 Route109_Text_PaulDefeated:
-	.string "PAUL: Well, I give up.$"
+	.string "PAUL: Ya sudah, Aku menyerah.$"
 
 Route109_Text_PaulPostBattle:
-	.string "PAUL: Well, don't tell anyone that\n"
-	.string "we're here.\l"
-	.string "This is just our private world of two!$"
+	.string "PAUL: Jangan bilang siapa-siapa\n"
+	.string "kami di sini.\l"
+	.string "Ini dunia pribadi kami berdua!$"
 
 Route109_Text_PaulNotEnoughPokemon:
-	.string "PAUL: We're totally, deeply in love.\n"
-	.string "That's why we make our POKéMON battle\l"
-	.string "together.$"
+	.string "PAUL: Kami sangat, sangat cinta.\n"
+	.string "Makanya POKéMON kami bertarung\l"
+	.string "bersama.$"
 
 Route109_Text_MelIntro:
-	.string "MEL: We're, like, totally in love.\n"
-	.string "Our romance is heating up all of HOENN!$"
+	.string "MEL: Kami, kayaknya, sangat cinta.\n"
+	.string "Romansa kami panaskan HOENN!$"
 
 Route109_Text_MelDefeated:
-	.string "MEL: We lost, and it's my fault!\n"
-	.string "PAUL will hate me!$"
+	.string "MEL: Kita kalah, salah Aku!\n"
+	.string "PAUL pasti benci Aku!$"
 
 Route109_Text_MelPostBattle:
-	.string "MEL: Um, PAUL, are you angry with me?\n"
-	.string "Please don't be angry.$"
+	.string "MEL: PAUL, Kamu marah?\n"
+	.string "Jangan marah, ya.$"
 
 Route109_Text_MelNotEnoughPokemon:
-	.string "MEL: We're, like, deeply and truly in love.\n"
-	.string "That's why we make our POKéMON\l"
-	.string "battle together.$"
+	.string "MEL: Kami sangat dan benar-benar\n"
+	.string "cinta.\l"
+	.string "Makanya POKéMON kami bertarung.$"
 
 Route109_Text_ChandlerIntro:
-	.string "Tadaah! See?\n"
-	.string "My inner tube's round!$"
+	.string "Tadaah! Lihat?\n"
+	.string "Ban renang Aku bulat!$"
 
 Route109_Text_ChandlerDefeated:
 	.string "Oh, oh!\n"
-	.string "Too bad!$"
+	.string "Sayang sekali!$"
 
 Route109_Text_ChandlerPostBattle:
-	.string "After I showed you my round inner\n"
-	.string "tube, too…$"
+	.string "Setelah Aku tunjukkan ban\n"
+	.string "renang bulat Aku juga…$"
 
 Route109_Text_HaileyIntro:
-	.string "I can't swim, so I'm pretending\n"
-	.string "to swim.$"
+	.string "Aku tak bisa renang, jadi\n"
+	.string "berpura-pura saja.$"
 
 Route109_Text_HaileyDefeated:
-	.string "I thought so!\n"
-	.string "I didn't think we could win.$"
+	.string "Seperti dugaan Aku!\n"
+	.string "Kami tak mungkin menang.$"
 
 Route109_Text_HaileyPostBattle:
-	.string "When I learn how to swim, I think\n"
-	.string "my POKéMON will become tougher.$"
+	.string "Kalau Aku bisa renang, POKéMON\n"
+	.string "Aku pasti makin kuat.$"
 
 Route109_Text_ElijahIntro:
-	.string "For a guy as macho as me, this kind\n"
-	.string "of POKéMON is the perfect match!$"
+	.string "Untuk pria macho kayak Aku,\n"
+	.string "POKéMON ini pas banget!$"
 
 Route109_Text_ElijahDefeated:
-	.string "I'm cool even in defeat, hey?$"
+	.string "Aku tetap keren meski kalah, ya?$"
 
 Route109_Text_ElijahPostBattle:
-	.string "For a guy as macho as me, a port\n"
-	.string "is the perfect setting!\p"
-	.string "I guess I'll head for SLATEPORT.$"
+	.string "Untuk pria macho kayak Aku,\n"
+	.string "pelabuhan itu latar sempurna!\p"
+	.string "Aku ke SLATEPORT saja.$"
 
 Route110_Text_JacobIntro:
-	.string "Whoa! Watch it!\n"
-	.string "I guess you're not used to BIKE racing.$"
+	.string "Whoa! Hati-hati!\n"
+	.string "Kamu belum terbiasa balap BIKE.$"
 
 Route110_Text_JacobDefeated:
 	.string "Whoa!\n"
-	.string "My brakes failed!$"
+	.string "Rem Aku blong!$"
 
 Route110_Text_JacobPostBattle:
-	.string "Flat tires and brake problems can\n"
-	.string "cause serious injury!\l"
-	.string "Inspect your BIKE for problems!$"
+	.string "Ban kempes dan rem rusak bisa\n"
+	.string "sebabkan cedera serius!\l"
+	.string "Periksa BIKE-mu!$"
 
 Route110_Text_AnthonyIntro:
-	.string "Yo, you!\n"
-	.string "Can you keep up with my speed?$"
+	.string "Hei, Kamu!\n"
+	.string "Bisa ikuti kecepatan Aku?$"
 
 Route110_Text_AnthonyDefeated:
-	.string "Crash and burn!$"
+	.string "Hancur lebur!$"
 
 Route110_Text_AnthonyPostBattle:
-	.string "Speed alone won't let me win at POKéMON.\n"
-	.string "I need to reconsider this…$"
+	.string "Kecepatan saja tak cukup\n"
+	.string "untuk menang. Aku perlu\l"
+	.string "evaluasi ulang…$"
 
 Route110_Text_BenjaminIntro:
-	.string "Don't panic if your BIKE's going fast!$"
+	.string "Jangan panik kalau BIKE-mu\n"
+	.string "melaju kencang!$"
 
 Route110_Text_BenjaminDefeated:
-	.string "I shouldn't panic during POKéMON\n"
-	.string "battles…$"
+	.string "Aku tak boleh panik saat\n"
+	.string "bertarung…$"
 
 Route110_Text_BenjaminPostBattle:
-	.string "There's no need to panic or stress.\n"
-	.string "Take it easy. There's plenty of time.$"
+	.string "Tak perlu panik atau stres.\n"
+	.string "Santai saja. Masih banyak waktu.$"
 
 Route110_Text_BenjaminRegister:
-	.string "I'll keep chugging on without stressing.\n"
-	.string "Give me a shout if you're up to it.$"
+	.string "Aku terus jalan tanpa stres.\n"
+	.string "Panggil Aku kalau mau bertarung.$"
 
 Route110_Text_BenjaminRematchIntro:
-	.string "Aren't you going a little too fast?\n"
-	.string "Take it easy and let's battle.$"
+	.string "Kamu terlalu cepat, ya?\n"
+	.string "Santai dulu, ayo bertarung.$"
 
 Route110_Text_BenjaminRematchDefeated:
-	.string "I didn't panic, but I still lost…$"
+	.string "Aku tak panik, tapi tetap kalah…$"
 
 Route110_Text_BenjaminRematchPostBattle:
-	.string "There's no need to panic or stress.\n"
-	.string "Take it easy. There's plenty of time.$"
+	.string "Tak perlu panik atau stres.\n"
+	.string "Santai saja. Masih banyak waktu.$"
 
 Route110_Text_AbigailIntro:
-	.string "The triathlon is hard in the extreme.\p"
-	.string "You have to complete the three events\n"
-	.string "of swimming, cycling, and running.$"
+	.string "Triathlon itu sangat berat.\p"
+	.string "Harus renang, sepeda,\n"
+	.string "dan lari berturut-turut.$"
 
 Route110_Text_AbigailDefeated:
-	.string "POKéMON battles are hard, too!$"
+	.string "Bertarung POKéMON juga berat!$"
 
 Route110_Text_AbigailPostBattle:
-	.string "I'm exhausted, so I need a break.\n"
-	.string "It's important to get proper rest.$"
+	.string "Aku lelah, butuh istirahat.\n"
+	.string "Istirahat itu penting.$"
 
 Route110_Text_AbigailRegister:
-	.string "You know, I like you!\n"
-	.string "Let's have a rematch on CYCLING ROAD.$"
+	.string "Aku suka Kamu!\n"
+	.string "Ayo rematch di CYCLING ROAD.$"
 
 Route110_Text_AbigailRematchIntro:
-	.string "Isn't it neat to hold a battle while\n"
-	.string "cycling?$"
+	.string "Seru ya bertarung sambil\n"
+	.string "naik sepeda?$"
 
 Route110_Text_AbigailRematchDefeated:
-	.string "Wow…\n"
-	.string "How could you be so strong?$"
+	.string "Wah…\n"
+	.string "Kok Kamu sekuat ini?$"
 
 Route110_Text_AbigailRematchPostBattle:
-	.string "Were you going after a record?\p"
-	.string "I'm sorry if I held you up!$"
+	.string "Apa Kamu kejar rekor?\p"
+	.string "Maaf kalau Aku menghambat!$"
 
 Route110_Text_JasmineIntro:
-	.string "I've been riding without stopping.\n"
-	.string "My thighs are like rocks!$"
+	.string "Aku terus mengayuh tanpa henti.\n"
+	.string "Paha Aku sekeras batu!$"
 
 Route110_Text_JasmineDefeated:
-	.string "I'm worried about muscle cramps…$"
+	.string "Aku khawatir kram otot…$"
 
 Route110_Text_JasminePostBattle:
-	.string "Oh, you have some GYM BADGES?\n"
-	.string "No wonder you're so strong!$"
+	.string "Oh, Kamu punya GYM BADGES?\n"
+	.string "Wajar saja Kamu kuat!$"
 
 Route110_Text_EdwardIntro:
-	.string "I have foreseen your intentions!\n"
-	.string "I cannot possibly lose!$"
+	.string "Aku sudah lihat niatmu!\n"
+	.string "Mustahil Aku kalah!$"
 
 Route110_Text_EdwardDefeated:
-	.string "I failed to prophesize my own demise!$"
+	.string "Aku gagal ramal kekalahan Aku!$"
 
 Route110_Text_EdwardPostBattle:
-	.string "I see your future…\p"
+	.string "Aku lihat masa depanmu…\p"
 	.string "Hmm…\n"
-	.string "I see a shining light…$"
+	.string "Ada cahaya bersinar…$"
 
 Route110_Text_JaclynIntro:
 	.string "Ahahahaha!\n"
-	.string "I'll dazzle you with my wonders!$"
+	.string "Aku akan buat Kamu takjub!$"
 
 Route110_Text_JaclynDefeated:
-	.string "I wondrously lost!$"
+	.string "Aku kalah dengan ajaib!$"
 
 Route110_Text_JaclynPostBattle:
-	.string "You managed to win only because it was\n"
-	.string "a wonder! Yes, a wonder!\l"
-	.string "Don't think you can win all the time!$"
+	.string "Kamu menang hanya karena\n"
+	.string "keajaiban! Ya, keajaiban!\l"
+	.string "Jangan kira selalu menang!$"
 
 Route110_Text_EdwinIntro:
-	.string "Could I see your POKéMON?\n"
-	.string "Just one look, please?$"
+	.string "Boleh lihat POKéMON-mu?\n"
+	.string "Sekilas saja, ya?$"
 
 Route110_Text_EdwinDefeated:
-	.string "I wanted to complete\n"
-	.string "my collection…$"
+	.string "Aku ingin lengkapi\n"
+	.string "koleksi Aku…$"
 
 Route110_Text_EdwinPostBattle:
-	.string "When I see a POKéMON that I don't know,\n"
-	.string "my passion as a collector is ignited!$"
+	.string "Kalau lihat POKéMON baru,\n"
+	.string "semangat kolektor Aku bangkit!$"
 
 Route110_Text_EdwinRegister:
-	.string "I like collecting MATCH CALL\n"
-	.string "registrations, too…$"
+	.string "Aku suka kumpulkan data\n"
+	.string "MATCH CALL juga…$"
 
 Route110_Text_EdwinRematchIntro:
-	.string "Hi, have you caught any new POKéMON?\p"
-	.string "Could I see your POKéMON?\n"
-	.string "Just one look, please?$"
+	.string "Hai, dapat POKéMON baru?\p"
+	.string "Boleh lihat POKéMON-mu?\n"
+	.string "Sekilas saja, ya?$"
 
 Route110_Text_EdwinRematchDefeated:
-	.string "Your POKéMON…\n"
-	.string "I envy you.$"
+	.string "POKéMON-mu…\n"
+	.string "Aku iri.$"
 
 Route110_Text_EdwinRematchPostBattle:
-	.string "Oh, I long to make all rare POKéMON\n"
-	.string "mine!$"
+	.string "Aku ingin miliki semua\n"
+	.string "POKéMON langka!$"
 
 Route110_Text_DaleIntro:
-	.string "Hey!\n"
-	.string "Don't sneak up behind me like that!$"
+	.string "Hei!\n"
+	.string "Jangan mengintip dari belakang!$"
 
 Route110_Text_DaleDefeated:
-	.string "I lost!\n"
-	.string "Drat!$"
+	.string "Aku kalah!\n"
+	.string "Sial!$"
 
 Route110_Text_DalePostBattle:
-	.string "Fishing is all about concentration.\n"
-	.string "You have to focus on the floater.$"
+	.string "Mancing butuh konsentrasi.\n"
+	.string "Fokus pada pelampungnya.$"
 
 Route110_Text_IsabelIntro:
-	.string "Ahahaha! I would go anywhere to show\n"
-	.string "off my delightful POKéMON.$"
+	.string "Ahahaha! Aku rela ke mana saja\n"
+	.string "untuk pamer POKéMON Aku.$"
 
 Route110_Text_IsabelDefeated:
-	.string "Oh, dear, this won't do.$"
+	.string "Oh, tidak, ini tak boleh terjadi.$"
 
 Route110_Text_IsabelPostBattle:
-	.string "Rather than battling, perhaps I should\n"
-	.string "show off my POKéMON at the FAN CLUB.$"
+	.string "Daripada bertarung, mungkin Aku\n"
+	.string "harus pamer di FAN CLUB.$"
 
 Route110_Text_IsabelRegister:
-	.string "That wasn't close to what I could\n"
-	.string "do to show off my POKéMON.\p"
-	.string "I'll have you as my captive audience\n"
-	.string "as often as possible!$"
+	.string "Itu belum menunjukkan\n"
+	.string "kehebatan POKéMON Aku.\p"
+	.string "Aku akan jadikan Kamu penonton\n"
+	.string "tetap Aku!$"
 
 Route110_Text_IsabelRematchIntro:
-	.string "Ahahahaha! I would be happy to show\n"
-	.string "off my POKéMON as often as you like!$"
+	.string "Ahahahaha! Aku senang pamer\n"
+	.string "POKéMON Aku kapan saja!$"
 
 Route110_Text_IsabelRematchDefeated:
-	.string "Oh, dear, this won't do.$"
+	.string "Oh, tidak, ini tak boleh terjadi.$"
 
 Route110_Text_IsabelRematchPostBattle:
-	.string "I don't think that I could ever stop\n"
-	.string "from showing off my POKéMON.\p"
-	.string "But I like to battle, too!$"
+	.string "Aku tak bisa berhenti pamer\n"
+	.string "POKéMON Aku.\p"
+	.string "Tapi Aku juga suka bertarung!$"
 
 Route110_Text_TimmyIntro:
-	.string "I found some cool POKéMON in the grass\n"
-	.string "around here!$"
+	.string "Aku temukan POKéMON keren\n"
+	.string "di rerumputan sini!$"
 
 Route110_Text_TimmyDefeated:
-	.string "Being cool isn't enough to win…$"
+	.string "Keren saja tak cukup\n"
+	.string "untuk menang…$"
 
 Route110_Text_TimmyPostBattle:
-	.string "It's hard to battle with POKéMON you\n"
-	.string "just caught.$"
+	.string "Sulit bertarung pakai POKéMON\n"
+	.string "yang baru ditangkap.$"
 
 Route110_Text_AlyssaIntro:
-	.string "I fell off CYCLING ROAD…\p"
-	.string "I'll get over my embarrassment by\n"
-	.string "battling with you!$"
+	.string "Aku jatuh dari CYCLING ROAD…\p"
+	.string "Aku akan lupakan malu dengan\n"
+	.string "bertarung melawan Kamu!$"
 
 Route110_Text_AlyssaDefeated:
-	.string "Oops!\n"
-	.string "I ended up losing!$"
+	.string "Ups!\n"
+	.string "Malahan kalah!$"
 
 Route110_Text_AlyssaPostBattle:
-	.string "Falling… Losing…\n"
-	.string "This is so humiliating for me!$"
+	.string "Jatuh… Kalah…\n"
+	.string "Ini memalukan sekali!$"
 
 Route110_Text_JosephIntro:
-	.string "Okay! Full-throttle time! If you can't\n"
-	.string "groove, you get left behind!$"
+	.string "Waktunya gas pol! Kalau tak\n"
+	.string "nyambung, Kamu ketinggalan!$"
 
 Route110_Text_JosephDefeated:
-	.string "You got into the groove all right…$"
+	.string "Kamu benar-benar nyambung…$"
 
 Route110_Text_JosephPostBattle:
-	.string "This isn't going to bring me down!\n"
-	.string "Losing has made me a better man!$"
+	.string "Ini tak bikin Aku patah semangat!\n"
+	.string "Kalah justru buat Aku lebih baik!$"
 
 Route110_Text_KalebIntro:
-	.string "When cute POKéMON help each other…\n"
-	.string "You won't see a more adorable sight!$"
+	.string "Kalau POKéMON lucu saling bantu…\n"
+	.string "Tak ada yang lebih menggemaskan!$"
 
 Route110_Text_KalebDefeated:
-	.string "Have you no compassion or pity?$"
+	.string "Apa Kamu tak punya belas kasihan?$"
 
 Route110_Text_KalebPostBattle:
-	.string "Okay, okay, you've done the best you\n"
-	.string "could, my pretties.$"
+	.string "Sudahlah, kalian sudah\n"
+	.string "berusaha maksimal, sayang.$"
 
 Route111_Text_DrewIntro:
-	.string "Oh, hey! Those GO-GOGGLES suit you.\n"
-	.string "But I think they look better on me.\p"
-	.string "Let's decide who they look better on\n"
-	.string "with a battle!$"
+	.string "Hei! GO-GOGGLES itu cocok\n"
+	.string "buat Kamu.\l"
+	.string "Tapi menurut Aku, lebih cocok\n"
+	.string "di Aku.\p"
+	.string "Ayo bertarung buat lihat\n"
+	.string "siapa yang lebih cocok!$"
 
 Route111_Text_DrewDefeat:
-	.string "I couldn't see what was happening at\n"
-	.string "my sides because of the GO-GOGGLES.$"
+	.string "Aku tak lihat sisi karena\n"
+	.string "GO-GOGGLES ini.$"
 
 Route111_Text_DrewPostBattle:
-	.string "The GO-GOGGLES make it possible to\n"
-	.string "get through sandstorms.\l"
-	.string "That makes me happy!$"
+	.string "GO-GOGGLES bikin Aku bisa\n"
+	.string "lewati badai pasir.\l"
+	.string "Itu bikin Aku senang!$"
 
 Route111_Text_HeidiIntro:
-	.string "I'm having a picnic in the desert.\p"
-	.string "You can always find a TRAINER,\n"
-	.string "so I can enjoy a battle here, too!$"
+	.string "Aku piknik di gurun.\p"
+	.string "Selalu ada TRAINER di sini,\n"
+	.string "jadi Aku bisa bertarung juga!$"
 
 Route111_Text_HeidiDefeat:
-	.string "Ohhh! You're mean!$"
+	.string "Duh! Kamu kejam!$"
 
 Route111_Text_HeidiPostBattle:
-	.string "When you're battling in a sandstorm,\n"
-	.string "watch out for your POKéMON's HP.\p"
-	.string "It can faint if you don't keep\n"
-	.string "an eye on it!$"
+	.string "Saat bertarung di badai pasir,\n"
+	.string "awasi HP POKéMON-mu.\p"
+	.string "Bisa pingsan kalau\n"
+	.string "Kamu lengah!$"
 
 Route111_Text_BeauIntro:
-	.string "Wearing these GO-GOGGLES makes me\n"
-	.string "feel like a superhero.\l"
-	.string "Right now, nobody can beat me!$"
+	.string "Pakai GO-GOGGLES bikin Aku\n"
+	.string "kayak pahlawan super.\l"
+	.string "Sekarang, tak ada yang menang!$"
 
 Route111_Text_BeauDefeat:
-	.string "I can't win on spirit alone…$"
+	.string "Semangat saja tak cukup…$"
 
 Route111_Text_BeauPostBattle:
-	.string "I'm going to be a real hero one day.\n"
-	.string "I'm going to work harder to make me\l"
-	.string "and my POKéMON stronger.$"
+	.string "Suatu hari Aku jadi pahlawan\n"
+	.string "beneran.\l"
+	.string "Aku akan latih diri dan POKéMON\n"
+	.string "biar makin kuat.$"
 
 Route111_Text_BeckyIntro:
-	.string "I heard there are fossils to be found\n"
-	.string "in the desert. Where could they be?$"
+	.string "Katanya ada fosil di gurun.\n"
+	.string "Di mana ya letaknya?$"
 
 Route111_Text_BeckyDefeat:
-	.string "I came up short…$"
+	.string "Aku gagal…$"
 
 Route111_Text_BeckyPostBattle:
-	.string "If they can find fossils in the desert,\n"
-	.string "it must have been a sea before.$"
+	.string "Kalau ada fosil di gurun,\n"
+	.string "dulu pasti laut di sini.$"
 
 Route111_Text_DustyIntro:
-	.string "For thirty years I have searched for\n"
-	.string "ancient ruins!\l"
-	.string "I am to be challenged?$"
+	.string "Tiga puluh tahun Aku cari\n"
+	.string "reruntuhan kuno!\l"
+	.string "Apa Aku harus ditantang?$"
 
 Route111_Text_DustyDefeat:
-	.string "While I have searched for ruins,\n"
-	.string "I've not searched for strong POKéMON.$"
+	.string "Selama cari reruntuhan,\n"
+	.string "Aku lupa cari POKéMON kuat.$"
 
 Route111_Text_DustyPostBattle:
-	.string "For thirty years I have searched for\n"
-	.string "ancient ruins!\p"
-	.string "No, wait, was that forty years?\n"
-	.string "Which was it now?$"
+	.string "Tiga puluh tahun Aku cari\n"
+	.string "reruntuhan kuno!\p"
+	.string "Tunggu, apa empat puluh tahun?\n"
+	.string "Mana yang benar?$"
 
 Route111_Text_DustyRegister:
-	.string "I haven't been searching for any\n"
-	.string "tough POKéMON.\p"
-	.string "But, for some reason, I sure do like\n"
-	.string "POKéNAVS.$"
+	.string "Aku tak cari POKéMON kuat.\p"
+	.string "Tapi entah kenapa, Aku suka\n"
+	.string "banget POKéNAVS.$"
 
 Route111_Text_DustyRematchIntro:
-	.string "For thirty years I have searched for\n"
-	.string "ancient ruins!\p"
-	.string "No, wait, was that forty years?\n"
-	.string "Anyway, am I to be challenged?$"
+	.string "Tiga puluh tahun Aku cari\n"
+	.string "reruntuhan kuno!\p"
+	.string "Tunggu, apa empat puluh tahun?\n"
+	.string "Pokoknya, tantang Aku?$"
 
 Route111_Text_DustyRematchDefeat:
-	.string "I've found no ruins, nor have I found\n"
-	.string "any strong POKéMON…$"
+	.string "Aku tak temukan reruntuhan,\n"
+	.string "juga tak punya POKéMON kuat…$"
 
 Route111_Text_DustyPostRematch:
-	.string "For thirty years I have searched for\n"
-	.string "ancient ruins!\p"
-	.string "No, wait, was that forty years\n"
-	.string "I've searched?\p"
-	.string "Hmm… It could even be fifty…\n"
-	.string "How long have I been at this?$"
+	.string "Tiga puluh tahun Aku cari\n"
+	.string "reruntuhan kuno!\p"
+	.string "Tunggu, apa empat puluh tahun?\n"
+	.string "Atau malah lima puluh?\p"
+	.string "Sudah berapa lama ya?\n"
+	.string "Aku lupa…$"
 
 Route111_Text_TravisIntro:
-	.string "I'm full of pep!\n"
-	.string "And my POKéMON is peppy, too!$"
+	.string "Aku penuh semangat!\n"
+	.string "POKéMON Aku juga!$"
 
 Route111_Text_TravisDefeat:
-	.string "My POKéMON lost its pep…$"
+	.string "POKéMON Aku kehilangan\n"
+	.string "semangatnya…$"
 
 Route111_Text_TravisPostBattle:
-	.string "When I see a TRAINER with a lot of pep,\n"
-	.string "I can't help looking.$"
+	.string "Kalau lihat TRAINER semangat,\n"
+	.string "Aku tak bisa berhenti melihat.$"
 
 Route111_Text_IreneIntro:
-	.string "I don't know where you're going,\n"
-	.string "but would you like to battle?$"
+	.string "Aku tak tahu tujuanmu,\n"
+	.string "tapi mau bertarung?$"
 
 Route111_Text_IreneDefeat:
-	.string "Oh, you're disgustingly good!$"
+	.string "Duh, Kamu jago banget!$"
 
 Route111_Text_IrenePostBattle:
-	.string "I'm thinking that I should go to\n"
-	.string "MT. CHIMNEY, but the view around\l"
-	.string "here is very nice, too.$"
+	.string "Aku mau ke MT. CHIMNEY,\n"
+	.string "tapi pemandangan sini juga\l"
+	.string "indah sekali.$"
 
 Route111_Text_DaisukeIntro:
-	.string "To train myself, I challenge all\n"
-	.string "whom I meet!$"
+	.string "Untuk latih diri, Aku tantang\n"
+	.string "semua yang Aku temui!$"
 
 Route111_Text_DaisukeDefeat:
-	.string "Uncle! I give up!$"
+	.string "Aduh! Aku menyerah!$"
 
 Route111_Text_DaisukePostBattle:
-	.string "All I can do is keep training until\n"
-	.string "I can defeat strong TRAINERS such\l"
-	.string "as yourself.$"
+	.string "Aku hanya bisa terus latihan\n"
+	.string "sampai bisa kalahkan TRAINER\l"
+	.string "sekuat Kamu.$"
 
 Route111_Text_WiltonIntro:
-	.string "Show me how much you've toughened\n"
-	.string "your POKéMON.$"
+	.string "Tunjukkan seberapa kuat\n"
+	.string "POKéMON-mu.$"
 
 Route111_Text_WiltonDefeat:
-	.string "I see, you've toughened them\n"
-	.string "considerably.$"
+	.string "Rupanya Kamu latih mereka\n"
+	.string "dengan serius.$"
 
 Route111_Text_WiltonPostBattle:
-	.string "POKéMON and TRAINERS learn much\n"
-	.string "through battling.\p"
-	.string "What's important is to never give up\n"
-	.string "even if you lose.$"
+	.string "POKéMON dan TRAINER belajar\n"
+	.string "banyak lewat pertarungan.\p"
+	.string "Yang penting jangan menyerah,\n"
+	.string "meski kalah.$"
 
 Route111_Text_WiltonRegister:
-	.string "There is much to be learned from\n"
-	.string "your training style.\p"
-	.string "I request a rematch if it\n"
-	.string "behooves you.$"
+	.string "Aku bisa belajar banyak dari\n"
+	.string "cara latihanmu.\p"
+	.string "Boleh rematch kalau Kamu\n"
+	.string "berkenan.$"
 
 Route111_Text_WiltonRematchIntro:
-	.string "We're training here to elevate our\n"
-	.string "game to the next level.\l"
-	.string "Stay and train with us!$"
+	.string "Kami latihan di sini biar\n"
+	.string "makin hebat.\l"
+	.string "Tinggal dan latihan bareng!$"
 
 Route111_Text_WiltonRematchDefeat:
-	.string "Ooh, you're decent!$"
+	.string "Wah, Kamu hebat!$"
 
 Route111_Text_WiltonPostRematch:
-	.string "Since you're that strong, you should\n"
-	.string "aim for the POKéMON LEAGUE.$"
+	.string "Karena Kamu sekuat ini,\n"
+	.string "arahkan ke POKéMON LEAGUE.$"
 
 Route111_Text_BrookeIntro:
-	.string "Oh, your POKéMON look like serious\n"
-	.string "actors.\l"
-	.string "I have to ask you for an engagement.$"
+	.string "POKéMON-mu kayak aktor\n"
+	.string "serius.\l"
+	.string "Aku harus tantang Kamu!$"
 
 Route111_Text_BrookeDefeat:
-	.string "They didn't just look strong,\n"
-	.string "they are strong!$"
+	.string "Mereka tak cuma kelihatan\n"
+	.string "kuat-memang kuat!$"
 
 Route111_Text_BrookePostBattle:
-	.string "I thought I was raising my POKéMON\n"
-	.string "diligently, but, oh no, there is still\l"
-	.string "much to be done.$"
+	.string "Aku kira sudah rawat POKéMON\n"
+	.string "dengan baik, tapi ternyata\l"
+	.string "masih kurang.$"
 
 Route111_Text_BrookeRegister:
-	.string "I wish I could become friends with\n"
-	.string "more strong people like you!$"
+	.string "Aku ingin berteman dengan\n"
+	.string "lebih banyak orang kuat kayak Kamu!$"
 
 Route111_Text_BrookeRematchIntro:
-	.string "You can make POKéMON stronger or\n"
-	.string "weaker depending on the moves you\l"
-	.string "teach them.\p"
-	.string "What kinds of moves do your POKéMON\n"
-	.string "know?$"
+	.string "Kamu bisa bikin POKéMON\n"
+	.string "lebih kuat atau lemah\l"
+	.string "tergantung jurus yang diajarkan.\p"
+	.string "Jurus apa yang POKéMON-mu\n"
+	.string "kuasai?$"
 
 Route111_Text_BrookeRematchDefeat:
-	.string "You've taught them good moves!$"
+	.string "Kamu ajarkan jurus bagus!$"
 
 Route111_Text_BrookePostRematch:
-	.string "Maybe I should have stopped my\n"
-	.string "POKéMON from evolving until they\l"
-	.string "learned better moves…$"
+	.string "Mungkin Aku harus tunda evolusi\n"
+	.string "POKéMON Aku sampai mereka\l"
+	.string "belajar jurus lebih baik…$"
 
 Route111_Text_CeliaIntro:
-	.string "I shouldn't have come to a place like\n"
-	.string "this for a picnic!$"
+	.string "Seharusnya Aku tak piknik\n"
+	.string "di tempat begini!$"
 
 Route111_Text_CeliaDefeat:
-	.string "Aww!\n"
-	.string "I really shouldn't have come!$"
+	.string "Aduh!\n"
+	.string "Benar-benar salah tempat!$"
 
 Route111_Text_CeliaPostBattle:
-	.string "In a sandstorm like this, I can't set\n"
-	.string "the places for a picnic even with my\l"
-	.string "GO-GOGGLES on…$"
+	.string "Di badai pasir begini, Aku\n"
+	.string "tak bisa siapkan piknik meski\l"
+	.string "pakai GO-GOGGLES…$"
 
 Route111_Text_BryanIntro:
-	.string "How tough are you?\n"
-	.string "We shall expose that secret!$"
+	.string "Seberapa kuat Kamu?\n"
+	.string "Akan Aku ungkap rahasianya!$"
 
 Route111_Text_BryanDefeat:
-	.string "Oh! Your strength!\n"
-	.string "It is shrouded in mystery!$"
+	.string "Wah! Kekuatanmu!\n"
+	.string "Penuh misteri!$"
 
 Route111_Text_BryanPostBattle:
-	.string "This desert hoards mysteries in\n"
-	.string "its shifting sands!$"
+	.string "Gurun ini simpan misteri\n"
+	.string "di balik pasirnya yang bergerak!$"
 
 Route111_Text_BrandenIntro:
-	.string "I'll give you some of my sandwich\n"
-	.string "if you'll lose.$"
+	.string "Aku kasih sandwich kalau\n"
+	.string "Kamu kalah.$"
 
 Route111_Text_BrandenDefeat:
-	.string "Tch! I thought a sandwich would be\n"
-	.string "enough of a bribe…$"
+	.string "Huh! Aku kira sandwich cukup\n"
+	.string "jadi suap…$"
 
 Route111_Text_BrandenPostBattle:
-	.string "My SANDSHREW loves eating\n"
-	.string "my sandwiches.$"
+	.string "SANDSHREW Aku suka makan\n"
+	.string "sandwich buatan Aku.$"
 
 Route111_Text_TyronIntro:
-	.string "This is my favorite kind of POKéMON!$"
+	.string "Ini jenis POKéMON favorit Aku!$"
 
 Route111_Text_TyronDefeat:
-	.string "Wait!\n"
-	.string "Did you get a good look at my POKéMON?$"
+	.string "Tunggu!\n"
+	.string "Kamu lihat baik-baik POKéMON Aku?$"
 
 Route111_Text_TyronPostBattle:
-	.string "When having a battle, I get a kick out\n"
-	.string "of showing off my POKéMON.\p"
-	.string "I bet everyone feels that way when\n"
-	.string "they enter a battle!$"
+	.string "Saat bertarung, Aku senang\n"
+	.string "pamer POKéMON Aku.\p"
+	.string "Pasti semua TRAINER merasa\n"
+	.string "sama saat bertarung!$"
 
 Route111_Text_CelinaIntro:
-	.string "Show me how to put a little excitement\n"
-	.string "into my life.$"
+	.string "Tunjukkan cara bikin hidup Aku\n"
+	.string "lebih seru.$"
 
 Route111_Text_CelinaDefeat:
-	.string "Oh… My…\n"
-	.string "That was too much excitement.$"
+	.string "Oh… Astaga…\n"
+	.string "Terlalu seru!$"
 
 Route111_Text_CelinaPostBattle:
-	.string "My pulse is still racing.\n"
-	.string "You're one fabulous TRAINER.$"
+	.string "Jantung Aku masih berdebar.\n"
+	.string "Kamu TRAINER luar biasa.$"
 
 Route111_Text_HaydenIntro:
-	.string "When you're as famished as I am,\n"
-	.string "there is no room for pity!$"
+	.string "Kalau lapar kayak Aku,\n"
+	.string "tak ada belas kasihan!$"
 
 Route111_Text_HaydenDefeat:
-	.string "Groan…$"
+	.string "Aduh…$"
 
 Route111_Text_HaydenPostBattle:
-	.string "My stomach is grumbling!\n"
-	.string "Maybe I can grill some BERRIES…$"
+	.string "Perut Aku keroncongan!\n"
+	.string "Mungkin Aku panggang BERRIES…$"
 
 Route111_Text_BiancaIntro:
-	.string "Did you come from MAUVILLE?\n"
-	.string "Then you should be full of energy!$"
+	.string "Kamu dari MAUVILLE?\n"
+	.string "Pasti penuh energi!$"
 
 Route111_Text_BiancaDefeat:
-	.string "Ooh lala!\n"
-	.string "That's a lot to take!$"
+	.string "Wah lala!\n"
+	.string "Itu terlalu hebat!$"
 
 Route111_Text_BiancaPostBattle:
-	.string "This road here…\n"
-	.string "You have quite a ways to travel.$"
+	.string "Jalan ini panjang sekali…\n"
+	.string "Kamu harus tempuh jauh.$"
 
 Route112_Text_BriceIntro:
 	.string "Hahahaha!\n"
-	.string "How about we have a battle?\l"
-	.string "You and me!\l"
+	.string "Mau bertarung?\l"
+	.string "Kamu lawan Aku!\l"
 	.string "Hahahaha!$"
 
 Route112_Text_BriceDefeat:
-	.string "I lost!\n"
+	.string "Aku kalah!\n"
 	.string "Hahahaha!$"
 
 Route112_Text_BricePostBattle:
-	.string "Hahahahaha! Something flew up my nose!\n"
+	.string "Hahahahaha! Ada yang masuk hidung!\n"
 	.string "Hahahaha-hatchoo!$"
 
 Route112_Text_TrentIntro:
-	.string "My legs are solid from pounding up\n"
-	.string "and down the mountains.\p"
-	.string "They're not going to buckle easily,\n"
-	.string "friend!$"
+	.string "Kaki Aku kuat dari naik-turun\n"
+	.string "gunung.\p"
+	.string "Tak mudah goyah,\n"
+	.string "teman!$"
 
 Route112_Text_TrentDefeat:
-	.string "Ouch! My legs cramped up!$"
+	.string "Aduh! Kaki Aku kram!$"
 
 Route112_Text_TrentPostBattle:
-	.string "Try hiking, and I mean really\n"
-	.string "pounding, on these mountain trails\l"
-	.string "with a heavy pack weighing dozens of\l"
-	.string "pounds.\p"
-	.string "That, my friend, will get your body\n"
-	.string "into serious shape.$"
+	.string "Coba hiking-beneran jalan\n"
+	.string "di jalur gunung\l"
+	.string "dengan ransel berat puluhan\l"
+	.string "kilogram.\p"
+	.string "Itu, teman, bikin tubuh\n"
+	.string "jadi super kuat.$"
 
 Route112_Text_TrentRegister:
-	.string "Ow, my legs have cramped up.\n"
-	.string "Can you grab me some bandages from\l"
-	.string "my backpack?\p"
-	.string "No, that's my POKéNAV!\n"
-	.string "Oh, fine, I'll register you.$"
+	.string "Aduh, kaki Aku kram.\n"
+	.string "Ambilkan perban di ransel Aku?\l"
+	.string "\p"
+	.string "Eh, itu POKéNAV Aku!\n"
+	.string "Ya sudah, Aku daftarkan Kamu.$"
 
 Route112_Text_TrentRematchIntro:
-	.string "I've been keeping fit by hiking.\n"
-	.string "Power, I have in spades!$"
+	.string "Aku tetap fit dengan hiking.\n"
+	.string "Tenaga Aku melimpah!$"
 
 Route112_Text_TrentRematchDefeat:
-	.string "I got trumped in power?$"
+	.string "Tenaga Aku kalah?$"
 
 Route112_Text_TrentRematchPostBattle:
-	.string "I hear there are some seriously tough\n"
-	.string "TRAINERS on top of MT. CHIMNEY.\p"
-	.string "I intend to get up there and give them\n"
-	.string "a challenge!$"
+	.string "Katanya ada TRAINER tangguh\n"
+	.string "di puncak MT. CHIMNEY.\p"
+	.string "Aku akan tantang mereka!$"
 
 Route112_Text_LarryIntro:
-	.string "I'm strong.\n"
-	.string "I won't cry if I lose.$"
+	.string "Aku kuat.\n"
+	.string "Tak akan nangis kalau kalah.$"
 
 Route112_Text_LarryDefeat:
 	.string "Waaaah!$"
 
 Route112_Text_LarryPostBattle:
-	.string "I'm not crying because I miss my mommy!\n"
-	.string "Snivel…$"
+	.string "Aku nangis bukan karena kangen Mama!\n"
+	.string "Hiks…$"
 
 Route112_Text_CarolIntro:
-	.string "When you're out on a picnic, why,\n"
-	.string "you simply have to sing!\l"
-	.string "Come on, sing with me!$"
+	.string "Saat piknik, wajib nyanyi!\l"
+	.string "Ayo nyanyi bareng Aku!$"
 
 Route112_Text_CarolDefeat:
-	.string "Oh, you're so strong!$"
+	.string "Wah, Kamu kuat sekali!$"
 
 Route112_Text_CarolPostBattle:
-	.string "It doesn't matter if you're good or bad\n"
-	.string "at singing or POKéMON.\p"
-	.string "If you have the most fun, you win!$"
+	.string "Tak peduli Kamu jago atau tidak\n"
+	.string "nyanyi atau bertarung.\p"
+	.string "Yang penting senang-itu menang!$"
 
 Route112_Text_BryantIntro:
-	.string "I caught hot POKéMON in FIERY PATH!\n"
-	.string "Take a look!$"
+	.string "Aku dapat POKéMON keren di\n"
+	.string "FIERY PATH!\l"
+	.string "Lihat ini!$"
 
 Route112_Text_BryantDefeat:
-	.string "What a bumpy ride that was!$"
+	.string "Wah, tadi seru banget!$"
 
 Route112_Text_BryantPostBattle:
-	.string "I like the way you battle.\n"
-	.string "It has a certain flair to it.$"
+	.string "Aku suka cara Kamu bertarung.\n"
+	.string "Ada gaya tersendiri.$"
 
 Route112_Text_ShaylaIntro:
-	.string "Oh, aren't you an adorable TRAINER!\n"
-	.string "Please, I need a romantic battle!\l"
-	.string "I'm somewhat decent!$"
+	.string "Wah, Kamu TRAINER imut!\n"
+	.string "Ayo bertarung romantis!\l"
+	.string "Aku lumayan jago!$"
 
 Route112_Text_ShaylaDefeat:
-	.string "Oh, how strong you are!\n"
-	.string "You've given me quite a shock!$"
+	.string "Wah, Kamu kuat sekali!\n"
+	.string "Aku kaget!$"
 
 Route112_Text_ShaylaPostBattle:
-	.string "Are you busy right now?\n"
-	.string "I was thinking that maybe we can have\l"
-	.string "a rematch right now…\l"
-	.string "But it's all right if you're busy.$"
+	.string "Kamu sibuk?\n"
+	.string "Aku mau rematch sekarang…\l"
+	.string "Tapi tak apa kalau sibuk.$"
 
 Route113_Text_JaylenIntro:
-	.string "Can you guess why it's so cool\n"
-	.string "around here?$"
+	.string "Tebak kenapa di sini sejuk?\n"
+	.string "Ayo tebak!$"
 
 Route113_Text_JaylenDefeat:
 	.string "Peeuuw!\n"
-	.string "That stinks!$"
+	.string "Bau banget!$"
 
 Route113_Text_JaylenPostBattle:
-	.string "The volcanic ash blocks the sun,\n"
-	.string "so it doesn't get very warm.\p"
-	.string "That's good for me--I can't stand heat!$"
+	.string "Abu vulkanik halangi matahari,\n"
+	.string "jadi tak panas.\p"
+	.string "Bagus buat Aku-Aku benci panas!$"
 
 Route113_Text_DillonIntro:
-	.string "The volcano's eruption is proof that\n"
-	.string "the earth is alive.$"
+	.string "Letusan gunung bukti bumi\n"
+	.string "itu hidup.$"
 
 Route113_Text_DillonDefeat:
-	.string "You're some kind of strong!$"
+	.string "Kamu kuat banget!$"
 
 Route113_Text_DillonPostBattle:
-	.string "Ouch! Owww! I can't see!\n"
-	.string "I got ashes in my eyelashes!\p"
-	.string "Get it? Ashes and eyelashes?\p"
-	.string "Okay, that was bad, sorry…$"
+	.string "Aduh! Aku tak bisa lihat!\n"
+	.string "Abu masuk bulu mata!\p"
+	.string "Ngerti? Abu dan bulu mata?\p"
+	.string "Ya, garing banget. Maaf…$"
 
 Route113_Text_MadelineIntro:
-	.string "I use this parasol to ward off this\n"
-	.string "filthy, yucky volcanic ash from\l"
-	.string "my dear NUMEL.$"
+	.string "Payung ini lindungi NUMEL\n"
+	.string "kesayangan Aku\l"
+	.string "dari abu vulkanik kotor.$"
 
 Route113_Text_MadelineDefeat:
-	.string "Huff, huff…\n"
-	.string "I am exhausted…$"
+	.string "Huh, huh…\n"
+	.string "Aku lelah…$"
 
 Route113_Text_MadelinePostBattle:
-	.string "You're very good at this.\n"
-	.string "I must say I'm impressed!$"
+	.string "Kamu sangat jago.\n"
+	.string "Aku terkesan!$"
 
 Route113_Text_MadelineRegister:
-	.string "Here, slide under my parasol.\n"
-	.string "Let me register you in my POKéNAV.$"
+	.string "Masuk di bawah payung Aku.\n"
+	.string "Aku daftarkan Kamu di POKéNAV.$"
 
 Route113_Text_MadelineRematchIntro:
-	.string "Oh, hello, hasn't it been a while?\n"
-	.string "May I invite you to battle?$"
+	.string "Hai, sudah lama ya?\n"
+	.string "Boleh Aku tantang Kamu?$"
 
 Route113_Text_MadelineRematchDefeat:
-	.string "Oh, how super!$"
+	.string "Wah, luar biasa!$"
 
 Route113_Text_MadelinePostRematch:
-	.string "You've remained very good at this.\n"
-	.string "I must say I'm impressed!$"
+	.string "Kamu tetap jago sekali.\n"
+	.string "Aku terkesan!$"
 
 Route113_Text_LaoIntro:
-	.string "From out of the ashes I leap! Hiyah!\n"
-	.string "I challenge thee!$"
+	.string "Dari abu, Aku muncul! Hiyah!\n"
+	.string "Aku tantang Kamu!$"
 
 Route113_Text_LaoDefeat:
-	.string "With honor I admit defeat!$"
+	.string "Dengan hormat, Aku mengaku kalah!$"
 
 Route113_Text_LaoPostBattle:
-	.string "I must refine the art of concealment.\n"
-	.string "I bid thee farewell.$"
+	.string "Aku harus sempurnakan seni\n"
+	.string "bersembunyi.\l"
+	.string "Sampai jumpa.$"
 
 Route113_Text_LaoRegister:
-	.string "Yiiyaah! Witness the ancient ninja\n"
-	.string "technique of POKéNAV registration!$"
+	.string "Yiiyaah! Saksikan teknik ninja\n"
+	.string "kuno: daftar POKéNAV!$"
 
 Route113_Text_LaoRematchIntro:
-	.string "From out of the ashes I leap! Hiyah!\n"
-	.string "I challenge thee!$"
+	.string "Dari abu, Aku muncul! Hiyah!\n"
+	.string "Aku tantang Kamu!$"
 
 Route113_Text_LaoRematchDefeat:
-	.string "With honor I admit defeat!$"
+	.string "Dengan hormat, Aku mengaku kalah!$"
 
 Route113_Text_LaoPostRematch:
-	.string "My flawless concealment was let down\n"
-	.string "by my immature battle skills…\p"
-	.string "I bid thee farewell.$"
+	.string "Sembunyi Aku sempurna,\n"
+	.string "tapi skill bertarung Aku lemah…\p"
+	.string "Sampai jumpa.$"
 
 Route113_Text_LungIntro:
-	.string "Thanks for finding me!\n"
-	.string "But we still have to battle!$"
+	.string "Makasih sudah temukan Aku!\n"
+	.string "Tapi kita tetap bertarung!$"
 
 Route113_Text_LungDefeat:
-	.string "I'll use my ninjutsu on you…\n"
-	.string "“VOLCANIC ASH SWIRL CLOAK”!\p"
-	.string "…What?\n"
-	.string "It's already over?$"
+	.string "Aku pakai ninjutsu:\n"
+	.string "“JUBAH ABU VULKANIK”!\p"
+	.string "…Hah?\n"
+	.string "Sudah selesai?$"
 
 Route113_Text_LungPostBattle:
-	.string "You know what's crummy about hiding?\n"
-	.string "It's lonely if no one comes along.$"
+	.string "Masalah bersembunyi itu…\n"
+	.string "sepi kalau tak ada yang datang.$"
 
 Route113_Text_ToriIntro:
-	.string "TORI: Both of us, we collect ashes.\n"
-	.string "We battle POKéMON, too.$"
+	.string "TORI: Kami kumpulkan abu.\n"
+	.string "Juga bertarung POKéMON.$"
 
 Route113_Text_ToriDefeat:
-	.string "TORI: We lost… It's boring, so I'm going\n"
-	.string "to get some more ashes.$"
+	.string "TORI: Kami kalah… Bosan.\n"
+	.string "Aku cari abu lagi.$"
 
 Route113_Text_ToriPostBattle:
-	.string "TORI: How much ash do we have?\n"
-	.string "Enough for a WHITE FLUTE, I hope.$"
+	.string "TORI: Berapa abu kita?\n"
+	.string "Cukup buat WHITE FLUTE?$"
 
 Route113_Text_ToriNotEnoughMons:
-	.string "TORI: We want to battle 2-on-2.\n"
-	.string "If we didn't, we would lose!$"
+	.string "TORI: Kami mau 2 lawan 2.\n"
+	.string "Kalau tidak, kami kalah!$"
 
 Route113_Text_TiaIntro:
-	.string "TIA: Both of us, we collect ashes.\n"
-	.string "We battle POKéMON, too.$"
+	.string "TIA: Kami kumpulkan abu.\n"
+	.string "Juga bertarung POKéMON.$"
 
 Route113_Text_TiaDefeat:
-	.string "TIA: We couldn't win… It's boring,\n"
-	.string "so I'm getting some more ashes.$"
+	.string "TIA: Tak menang… Bosan.\n"
+	.string "Aku cari abu lagi.$"
 
 Route113_Text_TiaPostBattle:
-	.string "TIA: We have a lot of ashes!\n"
-	.string "I think enough for a WHITE FLUTE!$"
+	.string "TIA: Abu kita banyak!\n"
+	.string "Cukup buat WHITE FLUTE!$"
 
 Route113_Text_TiaNotEnoughMons:
-	.string "TIA: We want to battle 2-on-2.\n"
-	.string "If we don't, we won't win!$"
+	.string "TIA: Kami mau 2 lawan 2.\n"
+	.string "Kalau tidak, tak menang!$"
 
 Route113_Text_CobyIntro:
-	.string "Pfft, with these wings I can\n"
-	.string "flick you away!$"
+	.string "Pfft, dengan sayap ini,\n"
+	.string "Aku usir Kamu!$"
 
 Route113_Text_CobyDefeat:
-	.string "A… What?$"
+	.string "Eh… Apa?$"
 
 Route113_Text_CobyPostBattle:
-	.string "I don't know what to say when I get\n"
-	.string "beaten so easily…$"
+	.string "Aku bingung mau bilang apa\n"
+	.string "kalau dikalahkan gampang…$"
 
 Route113_Text_SophieIntro:
-	.string "The warmth here is making me drowsy.\n"
-	.string "Battle with me so I can stay awake.$"
+	.string "Panas di sini bikin ngantuk.\n"
+	.string "Ayo bertarung biar Aku melek.$"
 
 Route113_Text_SophieDefeat:
-	.string "This is a dream.\n"
-	.string "I'm sure of it…$"
+	.string "Ini mimpi.\n"
+	.string "Pasti itu…$"
 
 Route113_Text_SophiePostBattle:
-	.string "Losing burns me up…\n"
-	.string "I'm just going to sleep right here!\l"
+	.string "Kalah bikin Aku kesal…\n"
+	.string "Aku tidur di sini saja!\l"
 	.string "Zzz!$"
 
 Route113_Text_LawrenceIntro:
-	.string "Were you maybe in the middle\n"
-	.string "of gathering volcanic ashes?$"
+	.string "Apa Kamu sedang kumpulkan\n"
+	.string "abu vulkanik?$"
 
 Route113_Text_LawrenceDefeat:
 	.string "Ehehe.\n"
-	.string "We got beaten cleanly.$"
+	.string "Kami dikalahkan bersih.$"
 
 Route113_Text_LawrencePostBattle:
-	.string "I ought to hide under the ashes, too.$"
+	.string "Mungkin Aku juga sembunyi\n"
+	.string "di bawah abu.$"
 
 Route113_Text_WyattIntro:
-	.string "Y-you want to battle with me?\n"
-	.string "Even though I just caught my POKéMON?$"
+	.string "K-Kamu mau tantang Aku?\n"
+	.string "Padahal POKéMON Aku baru ditangkap?$"
 
 Route113_Text_WyattDefeat:
-	.string "Y-you're all happy to win?\n"
-	.string "Even though it's only me?$"
+	.string "K-Kamu senang menang?\n"
+	.string "Padahal cuma lawan Aku?$"
 
 Route113_Text_WyattPostBattle:
-	.string "Oh, so now you want to say a word to\n"
-	.string "the loser?\p"
-	.string "Aren't you just the coolest?\n"
-	.string "Humph!$"
+	.string "Oh, sekarang mau kasih\n"
+	.string "nasihat ke yang kalah?\p"
+	.string "Keren banget, ya?\n"
+	.string "Hmph!$"
 
 Route114_Text_LennyIntro:
 	.string "Yodelayhihoo!\p"
 	.string "… …\p"
-	.string "You're supposed to shout\n"
-	.string "“yodelayhihoo” since it doesn't\l"
-	.string "echo here!$"
+	.string "Kamu harus teriak\n"
+	.string "“yodelayhihoo” karena\l"
+	.string "tak ada gema di sini!$"
 
 Route114_Text_LennyDefeat:
 	.string "Yodelayhihoo!$"
 
 Route114_Text_LennyPostBattle:
-	.string "When I was a wee tyke, I believed there\n"
-	.string "was someone copying me and shouting\l"
-	.string "back, “Yodelayhihoo.”$"
+	.string "Dulu, Aku percaya ada yang\n"
+	.string "meniru Aku teriak,\l"
+	.string "“Yodelayhihoo.”$"
 
 Route114_Text_LucasIntro:
-	.string "If you're not prepared, you shouldn't\n"
-	.string "be up in the mountains!$"
+	.string "Kalau tak siap, jangan\n"
+	.string "naik gunung!$"
 
 Route114_Text_LucasDefeat:
-	.string "The mountains are unforgiving…$"
+	.string "Gunung tak kenal ampun…$"
 
 Route114_Text_LucasPostBattle:
-	.string "In the winter, mountains turn deadly\n"
-	.string "with blizzards and avalanches.$"
+	.string "Musim dingin, gunung jadi\n"
+	.string "mematikan-badai salju\l"
+	.string "dan longsor salju.$"
 
 Route114_Text_ShaneIntro:
-	.string "Camping's fun! You can fish, roast\n"
-	.string "marshmallows, and tell spooky stories!\p"
-	.string "But the best of all are the POKéMON\n"
-	.string "battles!$"
+	.string "Kemah itu seru! Mancing,\n"
+	.string "panggang marshmallow,\l"
+	.string "cerita seram!\p"
+	.string "Tapi yang terbaik: pertarungan\n"
+	.string "POKéMON!$"
 
 Route114_Text_ShaneDefeat:
-	.string "Way too strong!$"
+	.string "Terlalu kuat!$"
 
 Route114_Text_ShanePostBattle:
-	.string "I think it's great that I can go\n"
-	.string "camping with my POKéMON.$"
+	.string "Senang bisa berkemah\n"
+	.string "bareng POKéMON Aku.$"
 
 Route114_Text_NancyIntro:
-	.string "I need to exercise after a meal.\n"
-	.string "Let's have a match!$"
+	.string "Aku perlu olahraga setelah makan.\n"
+	.string "Ayo bertarung!$"
 
 Route114_Text_NancyDefeat:
-	.string "Oh, no!$"
+	.string "Aduh, tidak!$"
 
 Route114_Text_NancyPostBattle:
-	.string "I just had a tasty meal.\n"
-	.string "I'm getting drowsy…$"
+	.string "Tadi makan enak.\n"
+	.string "Jadi ngantuk…$"
 
 Route114_Text_SteveIntro:
 	.string "Ufufufufufu…\n"
-	.string "Want to battle against my POKéMON?$"
+	.string "Mau lawan POKéMON Aku?$"
 
 Route114_Text_SteveDefeat:
-	.string "M-My POKéMON…$"
+	.string "P-POKéMON Aku…$"
 
 Route114_Text_StevePostBattle:
-	.string "A big body that's all lumpy and hard,\n"
-	.string "enormous horns, and vicious fangs…\p"
+	.string "Badan besar, berbenjol keras,\n"
+	.string "tanduk raksasa, taring ganas…\p"
 	.string "Ufufufufu…\n"
-	.string "I wish I had a POKéMON like that…$"
+	.string "Aku ingin POKéMON kayak gitu…$"
 
 Route114_Text_SteveRegister:
-	.string "Don't forget what you've done to me!\n"
-	.string "I'll make it so you can't forget!$"
+	.string "Jangan lupa apa yang Kamu\n"
+	.string "lakukan pada Aku!\l"
+	.string "Aku bikin Kamu tak bisa lupa!$"
 
 Route114_Text_SteveRematchIntro:
 	.string "Ufufufufufu…\n"
-	.string "Come on, battle my POKéMON…$"
+	.string "Ayo, lawan POKéMON Aku…$"
 
 Route114_Text_SteveRematchDefeat:
-	.string "I feel so lucky getting to see your\n"
-	.string "POKéMON…$"
+	.string "Aku beruntung lihat\n"
+	.string "POKéMON-mu…$"
 
 Route114_Text_StevePostRematch:
 	.string "Ufufufufufu…\p"
-	.string "When I see POKéMON battling, I get all\n"
-	.string "shivery and shaky…$"
+	.string "Kalau lihat POKéMON bertarung,\n"
+	.string "Aku jadi gemetar…$"
 
 Route114_Text_BernieIntro:
-	.string "If you're lighting a campfire,\n"
-	.string "make sure you have water handy.$"
+	.string "Kalau bikin api unggun,\n"
+	.string "siapkan air di dekatnya.$"
 
 Route114_Text_BernieDefeat:
-	.string "Thanks for dousing my fire!$"
+	.string "Makasih sudah padamkan\n"
+	.string "apiku!$"
 
 Route114_Text_BerniePostBattle:
-	.string "You really do have to be careful with\n"
-	.string "any sort of fire in a forest.\p"
-	.string "Don't ever underestimate the power\n"
-	.string "of fire.$"
+	.string "Kamu harus hati-hati\n"
+	.string "dengan api di hutan.\p"
+	.string "Jangan remehkan kekuatan\n"
+	.string "api.$"
 
 Route114_Text_BernieRegister:
-	.string "You set my spirit on fire.\n"
-	.string "Let's register each other!$"
+	.string "Kamu bakar semangat Aku.\n"
+	.string "Daftarkan Aku!$"
 
 Route114_Text_BernieRematchIntro:
-	.string "Have you learned to keep water handy\n"
-	.string "for campfires?$"
+	.string "Sudah siapkan air untuk\n"
+	.string "api unggunmu?$"
 
 Route114_Text_BernieRematchDefeat:
-	.string "I got hosed down before I could\n"
-	.string "flare up, I guess.$"
+	.string "Aku keburu disiram sebelum\n"
+	.string "sempat menyala.$"
 
 Route114_Text_BerniePostRematch:
-	.string "You really do have to be careful with\n"
-	.string "any sort of fire in a forest.\p"
-	.string "Don't ever underestimate the power\n"
-	.string "of fire.$"
+	.string "Kamu harus hati-hati\n"
+	.string "dengan api di hutan.\p"
+	.string "Jangan remehkan kekuatan\n"
+	.string "api.$"
 
 Route114_Text_ClaudeIntro:
-	.string "If we were fishing, you wouldn't stand\n"
-	.string "a chance against me.\l"
-	.string "So, bring on your POKéMON!$"
+	.string "Kalau mancing, Kamu tak\n"
+	.string "berdaya lawan Aku.\l"
+	.string "Ayo, keluarkan POKéMON-mu!$"
 
 Route114_Text_ClaudeDefeat:
-	.string "If we were fishing, I would've won…$"
+	.string "Kalau mancing, Aku pasti\n"
+	.string "menang…$"
 
 Route114_Text_ClaudePostBattle:
-	.string "I think I'll try my luck at landing\n"
-	.string "a big one at METEOR FALLS.\p"
-	.string "There has to be something in there.\n"
-	.string "I just know it.$"
+	.string "Aku coba peruntungan di\n"
+	.string "METEOR FALLS.\p"
+	.string "Pasti ada ikan besar di sana.\n"
+	.string "Aku yakin!$"
 
 Route114_Text_NolanIntro:
-	.string "I like to fish. But I also like to\n"
-	.string "battle!\p"
-	.string "If anyone challenges me, I'm there,\n"
-	.string "even if I'm fishing.$"
+	.string "Aku suka mancing. Tapi juga\n"
+	.string "suka bertarung!\p"
+	.string "Siapa tantang, Aku terima,\n"
+	.string "meski lagi mancing.$"
 
 Route114_Text_NolanDefeat:
-	.string "I like to battle, but that doesn't\n"
-	.string "mean I'm good at it…$"
+	.string "Suka bertarung bukan berarti\n"
+	.string "jago…$"
 
 Route114_Text_NolanPostBattle:
-	.string "This time I'll do it!\p"
-	.string "I always think that, so I can't walk\n"
-	.string "away from fishing or POKéMON.$"
+	.string "Kali ini pasti berhasil!\p"
+	.string "Aku selalu berpikir begitu,\n"
+	.string "jadi tak bisa berhenti mancing\n"
+	.string "atau main POKéMON.$"
 
 Route114_Text_TyraIntro:
-	.string "TYRA: Well, sure.\n"
-	.string "I'm in the mood for it.\l"
-	.string "I'll teach you a little about POKéMON.$"
+	.string "TYRA: Baiklah.\n"
+	.string "Aku sedang mood.\l"
+	.string "Aku ajari Kamu soal POKéMON.$"
 
 Route114_Text_TyraDefeat:
-	.string "TYRA: What an amazing battle style!$"
+	.string "TYRA: Gaya bertarungmu\n"
+	.string "luar biasa!$"
 
 Route114_Text_TyraPostBattle:
-	.string "TYRA: I was teaching my junior IVY\n"
-	.string "about POKéMON.$"
+	.string "TYRA: Aku ajari IVY,\n"
+	.string "murid Aku, soal POKéMON.$"
 
 Route114_Text_TyraNotEnoughMons:
-	.string "TYRA: Giggle…\n"
-	.string "If you want to battle with us, just one\l"
-	.string "POKéMON isn't enough!$"
+	.string "TYRA: Hihi…\n"
+	.string "Kalau mau lawan kami, satu\l"
+	.string "POKéMON tak cukup!$"
 
 Route114_Text_IvyIntro:
-	.string "IVY: Who taught you about POKéMON?$"
+	.string "IVY: Siapa yang ajari Kamu\n"
+	.string "soal POKéMON?$"
 
 Route114_Text_IvyDefeat:
-	.string "IVY: What an amazing battle style!$"
+	.string "IVY: Gaya bertarungmu\n"
+	.string "luar biasa!$"
 
 Route114_Text_IvyPostBattle:
-	.string "IVY: I started training POKéMON\n"
-	.string "because TYRA, my student mentor,\l"
-	.string "taught me!$"
+	.string "IVY: Aku latih POKéMON karena\n"
+	.string "TYRA, mentor Aku,\l"
+	.string "mengajari Aku!$"
 
 Route114_Text_IvyNotEnoughMons:
-	.string "IVY: Do you only have one POKéMON?\n"
-	.string "I think it must feel lonesome.$"
+	.string "IVY: Kamu cuma punya satu\n"
+	.string "POKéMON?\l"
+	.string "Pasti kesepian.$"
 
 Route114_Text_KaiIntro:
-	.string "I landed a big one!\n"
-	.string "A huge one, I tell you!$"
+	.string "Aku dapat ikan besar!\n"
+	.string "Raksasa, sungguh!$"
 
 Route114_Text_KaiDefeat:
-	.string "What was that about?\n"
-	.string "Did mine lose in size?$"
+	.string "Apa tadi?\n"
+	.string "Apakah milik Aku kalah besar?$"
 
 Route114_Text_KaiPostBattle:
-	.string "Okay!\n"
-	.string "I'll just fish me a bigger one!$"
+	.string "Oke!\n"
+	.string "Aku cari ikan yang lebih besar!$"
 
 Route114_Text_CharlotteIntro:
-	.string "Me!\n"
-	.string "I'm not just a pretty face!$"
+	.string "Aku!\n"
+	.string "Bukan cuma cantik doang!$"
 
 Route114_Text_CharlotteDefeat:
-	.string "That wasn't cute in the least!$"
+	.string "Itu sama sekali tak lucu!$"
 
 Route114_Text_CharlottePostBattle:
-	.string "I don't want a POKéMON that's\n"
-	.string "just cute.\p"
-	.string "I adore cute ones that have a quirk\n"
-	.string "or two!$"
+	.string "Aku tak mau POKéMON yang\n"
+	.string "cuma lucu.\p"
+	.string "Aku suka yang lucu tapi\n"
+	.string "unik!$"
 
 Route114_Text_AngelinaIntro:
-	.string "Have you made your POKéMON evolve\n"
-	.string "very much?$"
+	.string "Apa Kamu sering evolusikan\n"
+	.string "POKéMON-mu?$"
 
 Route114_Text_AngelinaDefeat:
-	.string "Oh, I see.\n"
-	.string "That's good to know.$"
+	.string "Oh, jadi begitu.\n"
+	.string "Bagus tahu ini.$"
 
 Route114_Text_AngelinaPostBattle:
-	.string "Some POKéMON change so much when\n"
-	.string "they evolve, it's startling!$"
+	.string "Beberapa POKéMON berubah\n"
+	.string "drastis saat berevolusi-\l"
+	.string "mengagetkan!$"
 
 Route115_Text_TimothyIntro:
 	.string "Hm…\n"
-	.string "You seem rather capable…\l"
-	.string "Let me keep you company!$"
+	.string "Kamu kelihatan hebat…\l"
+	.string "Izinkan Aku temani Kamu!$"
 
 Route115_Text_TimothyDefeat:
-	.string "You're much stronger than\n"
-	.string "I'd imagined!$"
+	.string "Kamu jauh lebih kuat dari\n"
+	.string "perkiraan Aku!$"
 
 Route115_Text_TimothyPostBattle:
-	.string "There is no such thing as a born genius.\n"
-	.string "It all depends on effort!\l"
-	.string "That is what I believe…$"
+	.string "Tak ada jenius bawaan.\n"
+	.string "Semua butuh usaha!\l"
+	.string "Itu keyakinan Aku…$"
 
 Route115_Text_TimothyRegister:
-	.string "Hmm… A loss this thorough has been\n"
-	.string "a distant memory.\p"
-	.string "If you would allow it, I wish for\n"
-	.string "another opportunity to do battle.$"
+	.string "Hm… Kekalahan sebesar ini\n"
+	.string "sudah lama tak Aku alami.\p"
+	.string "Bolehkah Aku minta kesempatan\n"
+	.string "bertarung lagi?$"
 
 Route115_Text_TimothyRematchIntro:
-	.string "Hm… As always, your agility speaks\n"
-	.string "for itself.\l"
-	.string "Come, keep me company!$"
+	.string "Hm… Seperti biasa, Kamu\n"
+	.string "lincah luar biasa.\l"
+	.string "Ayo, temani Aku!$"
 
 Route115_Text_TimothyRematchDefeat:
-	.string "As strong as ever!$"
+	.string "Masih sekuat dulu!$"
 
 Route115_Text_TimothyPostRematch:
-	.string "All it takes is effort!\p"
-	.string "I lost because I haven't put in enough\n"
-	.string "effort!$"
+	.string "Cukup dengan usaha!\p"
+	.string "Aku kalah karena belum cukup\n"
+	.string "berusaha!$"
 
 Route115_Text_KoichiIntro:
-	.string "You!\p"
-	.string "My MACHOP!\p"
-	.string "Demand a battle!$"
+	.string "Kamu!\p"
+	.string "MACHOP Aku!\p"
+	.string "Minta bertarung!$"
 
 Route115_Text_KoichiDefeat:
-	.string "Ouch, ouch, ouch!$"
+	.string "Aduh, aduh, aduh!$"
 
 Route115_Text_KoichiPostBattle:
-	.string "My MACHOP crew!\p"
-	.string "So long as they seek power, I will\n"
-	.string "grow strong with them!$"
+	.string "Pasukan MACHOP Aku!\p"
+	.string "Selama mereka cari kekuatan,\n"
+	.string "Aku akan kuat bersama mereka!$"
 
 Route115_Text_NobIntro:
-	.string "My strongest skill is busting bricks\n"
-	.string "with my forehead!$"
+	.string "Keahlian terbaik Aku adalah\n"
+	.string "membelah batu pakai dahi!$"
 
 Route115_Text_NobDefeat:
 	.string "Ugwaaaah!\n"
-	.string "My head is busted!$"
+	.string "Kepala Aku pecah!$"
 
 Route115_Text_NobPostBattle:
-	.string "I've been teaching my POKéMON karate.\p"
-	.string "It looks like they'll get a lot better\n"
-	.string "than me. I'm excited about that.$"
+	.string "Aku ajari POKéMON Aku karate.\p"
+	.string "Kayaknya mereka akan jauh\n"
+	.string "lebih jago dari Aku. Seru!$"
 
 Route115_Text_NobRegister:
-	.string "You impress me! Give me a rematch\n"
-	.string "after I redo my training!$"
+	.string "Kamu mengesankan! Ayo rematch\n"
+	.string "setelah Aku latihan ulang!$"
 
 Route115_Text_NobRematchIntro:
-	.string "After you beat me, we trained hard to\n"
-	.string "improve our skills.\l"
-	.string "Come on, give us a rematch!$"
+	.string "Setelah kalah, kami latihan\n"
+	.string "keras untuk maju.\l"
+	.string "Ayo, rematch lagi!$"
 
 Route115_Text_NobRematchDefeat:
 	.string "Ugwaaah!\n"
-	.string "We lost again!$"
+	.string "Kalah lagi!$"
 
 Route115_Text_NobPostRematch:
-	.string "My POKéMON will grow stronger!\n"
-	.string "I'll redouble my training!$"
+	.string "POKéMON Aku makin kuat!\n"
+	.string "Aku gandakan latihan!$"
 
 Route115_Text_CyndyIntro:
-	.string "This beach is my secret training spot!\n"
-	.string "Don't come butting in!$"
+	.string "Pantai ini tempat latihan\n"
+	.string "rahasia Aku!\l"
+	.string "Jangan ganggu!$"
 
 Route115_Text_CyndyDefeat:
-	.string "I haven't trained enough!$"
+	.string "Latihan Aku belum cukup!$"
 
 Route115_Text_CyndyPostBattle:
-	.string "The sand acts as a cushion to reduce\n"
-	.string "impact and prevent injury.\l"
-	.string "This is the perfect place to train.$"
+	.string "Pasir jadi bantalan yang\n"
+	.string "kurangi benturan dan cedera.\l"
+	.string "Tempat latihan sempurna.$"
 
 Route115_Text_CyndyRegister:
-	.string "Okay, fine, you're free to come here.\n"
-	.string "In return, I'd like to battle you again.$"
+	.string "Baiklah, Kamu boleh ke sini.\n"
+	.string "Tapi Aku mau rematch!$"
 
 Route115_Text_CyndyRematchIntro:
-	.string "Okay, let's get this battle on!$"
+	.string "Ayo, mulai pertarungannya!$"
 
 Route115_Text_CyndyRematchDefeat:
-	.string "I can battle but my POKéMON…$"
+	.string "Aku bisa bertarung, tapi\n"
+	.string "POKéMON Aku…$"
 
 Route115_Text_CyndyPostRematch:
-	.string "Even when I lose, I still get some\n"
-	.string "enjoyment out of it.\l"
-	.string "It must be that I love POKéMON.$"
+	.string "Meski kalah, Aku tetap\n"
+	.string "senang.\l"
+	.string "Mungkin karena Aku cinta\n"
+	.string "POKéMON.$"
 
 Route115_Text_HectorIntro:
-	.string "I have a rare POKéMON!\n"
-	.string "Would you like me to show you?$"
+	.string "Aku punya POKéMON langka!\n"
+	.string "Mau lihat?$"
 
 Route115_Text_HectorDefeat:
-	.string "You…\n"
-	.string "You want my POKéMON, don't you?$"
+	.string "Kamu…\n"
+	.string "Mau POKéMON Aku, ya?$"
 
 Route115_Text_HectorPostBattle:
-	.string "I have this rare POKéMON.\n"
-	.string "It's enough to keep me satisfied.$"
+	.string "Aku punya POKéMON langka ini.\n"
+	.string "Cukup bikin Aku puas.$"
 
 Route115_Text_KyraIntro:
-	.string "I'll battle while I'm running!\n"
-	.string "Try to keep up with me!$"
+	.string "Aku bertarung sambil lari!\n"
+	.string "Coba kejar Aku!$"
 
 Route115_Text_KyraDefeat:
-	.string "Gasp, gasp…$"
+	.string "Ngos-ngosan…$"
 
 Route115_Text_KyraPostBattle:
-	.string "I made the mistake of trying to battle\n"
-	.string "while running!\p"
-	.string "I should take a run to calm down…$"
+	.string "Salah besar bertarung\n"
+	.string "sambil lari!\p"
+	.string "Aku lari dulu biar tenang…$"
 
 Route115_Text_JaidenIntro:
-	.string "Take that!\n"
-	.string "Ultra POKéMON ninja attack!$"
+	.string "Terima ini!\n"
+	.string "Serangan ninja POKéMON ultra!$"
 
 Route115_Text_JaidenDefeat:
 	.string "Waaah!\n"
-	.string "Our strategy failed!$"
+	.string "Strategi kami gagal!$"
 
 Route115_Text_JaidenPostBattle:
-	.string "But my POKéMON were ultra,\n"
-	.string "weren't they?$"
+	.string "Tapi POKéMON Aku keren,\n"
+	.string "kan?$"
 
 Route115_Text_HeleneIntro:
-	.string "My POKéMON have black belt-level\n"
-	.string "strength!$"
+	.string "POKéMON Aku sekuat\n"
+	.string "sabuk hitam!$"
 
 Route115_Text_HeleneDefeat:
-	.string "This is too humiliating!$"
+	.string "Ini memalukan sekali!$"
 
 Route115_Text_HelenePostBattle:
-	.string "I rarely meet anyone who's better\n"
-	.string "than me…\p"
-	.string "I get it now!\n"
-	.string "You're a GYM LEADER, aren't you?$"
+	.string "Jarang Aku ketemu yang\n"
+	.string "lebih hebat…\p"
+	.string "Aku tahu!\n"
+	.string "Kamu GYM LEADER, kan?$"
 
 Route115_Text_AlixIntro:
-	.string "Our eyes met!\n"
-	.string "There's no getting away now!$"
+	.string "Mata kita bertemu!\n"
+	.string "Tak bisa kabur lagi!$"
 
 Route115_Text_AlixDefeat:
 	.string "Gah!\n"
-	.string "Not bad!$"
+	.string "Keren!$"
 
 Route115_Text_AlixPostBattle:
-	.string "Oh, well.\n"
-	.string "I think I will TELEPORT home.$"
+	.string "Yah, sudahlah.\n"
+	.string "Aku TELEPORT pulang saja.$"
 
 Route115_Text_MarleneIntro:
-	.string "You've disturbed my meditation…\n"
-	.string "You'll be punished for it.$"
+	.string "Kamu ganggu meditasi Aku…\n"
+	.string "Akan Aku hukum!$"
 
 Route115_Text_MarleneDefeat:
-	.string "You've broken my concentration!$"
+	.string "Konsentrasi Aku hancur!$"
 
 Route115_Text_MarlenePostBattle:
-	.string "I was meditating with my POKéMON.\n"
-	.string "But this place isn't very peaceful…$"
+	.string "Aku meditasi bareng POKéMON.\n"
+	.string "Tapi tempat ini tak tenang…$"
 
 Route116_Text_ClarkIntro:
-	.string "If the tunnel doesn't go through, then\n"
-	.string "I'll just go over the top.$"
+	.string "Kalau terowongan tak tembus,\n"
+	.string "Aku lewat atas gunung saja.$"
 
 Route116_Text_ClarkDefeat:
-	.string "Gasp… Gasp…\n"
-	.string "Losing made me tired…$"
+	.string "Ngos-ngosan…\n"
+	.string "Kalah bikin capek…$"
 
 Route116_Text_ClarkPostBattle:
-	.string "It's no big deal if there's no tunnel.\n"
-	.string "To a HIKER, mountains are roads!$"
+	.string "Tak masalah kalau tak ada\n"
+	.string "terowongan.\l"
+	.string "Bagi HIKER, gunung itu jalan!$"
 
 Route116_Text_JoeyIntro:
-	.string "My POKéMON rule!\n"
-	.string "Check them out!$"
+	.string "POKéMON Aku keren!\n"
+	.string "Lihat sendiri!$"
 
 Route116_Text_JoeyDefeat:
-	.string "Ouch! A scrape!\n"
-	.string "I have to put on a bandage!$"
+	.string "Aduh! Luka lecet!\n"
+	.string "Harus pasang perban!$"
 
 Route116_Text_JoeyPostBattle:
-	.string "Bandages are signs of toughness!\n"
-	.string "I've got another one!$"
+	.string "Perban itu tanda kekerasan!\n"
+	.string "Aku punya lagi!$"
 
 Route116_Text_JoseIntro:
-	.string "My BUG POKéMON are tough!\n"
-	.string "Let's battle!$"
+	.string "BUG POKéMON Aku tangguh!\n"
+	.string "Ayo bertarung!$"
 
 Route116_Text_JoseDefeat:
-	.string "I lost!\n"
-	.string "I thought I had you!$"
+	.string "Aku kalah!\n"
+	.string "Kira-kira menang!$"
 
 Route116_Text_JosePostBattle:
-	.string "BUG POKéMON evolve quickly.\n"
-	.string "So they get strong quickly, too.$"
+	.string "BUG POKéMON berevolusi cepat.\n"
+	.string "Jadi cepat kuat juga.$"
 
 Route116_Text_JaniceIntro:
-	.string "Let me teach you how strong my\n"
-	.string "adorable POKéMON is!$"
+	.string "Aku tunjukkan betapa kuatnya\n"
+	.string "POKéMON imut Aku!$"
 
 Route116_Text_JaniceDefeat:
-	.string "You're a notch above me…$"
+	.string "Kamu selangkah di atas Aku…$"
 
 Route116_Text_JanicePostBattle:
-	.string "POKéMON that possess cuteness and\n"
-	.string "power, that's ideal, I think.$"
+	.string "POKéMON yang lucu dan kuat-\n"
+	.string "itu ideal, menurut Aku.$"
 
 Route116_Text_JerryIntro:
-	.string "We learn all sorts of things at the\n"
-	.string "TRAINER'S SCHOOL.\p"
-	.string "I want to test things out for real!$"
+	.string "Di TRAINER'S SCHOOL, Aku\n"
+	.string "belajar banyak hal.\p"
+	.string "Aku ingin coba di dunia nyata!$"
 
 Route116_Text_JerryDefeat:
-	.string "I slacked off in school…\n"
-	.string "That's why I lost.$"
+	.string "Aku malas di sekolah…\n"
+	.string "Makanya kalah.$"
 
 Route116_Text_JerryPostBattle:
-	.string "I'll have to redo some courses at\n"
-	.string "the TRAINER'S SCHOOL.\l"
-	.string "If I don't, ROXANNE will be steamed.$"
+	.string "Aku harus ulang pelajaran di\n"
+	.string "TRAINER'S SCHOOL.\l"
+	.string "Kalau tidak, ROXANNE marah.$"
 
 Route116_Text_JerryRegister1:
-	.string "I learned at the TRAINER'S SCHOOL\n"
-	.string "that a POKéNAV can register TRAINERS.\p"
-	.string "I don't really get what that means,\n"
-	.string "so can I just try it?$"
+	.string "Di TRAINER'S SCHOOL, Aku\n"
+	.string "tahu POKéNAV bisa daftar TRAINER.\p"
+	.string "Aku belum ngerti maksudnya,\n"
+	.string "boleh coba daftar?$"
 
 Route116_Text_JerryRegister2:
-	.string "I learned at the TRAINER'S SCHOOL\n"
-	.string "that a POKéNAV can register TRAINERS.\p"
-	.string "I don't really get what that means,\n"
-	.string "so can I just try it?$"
+	.string "Di TRAINER'S SCHOOL, Aku\n"
+	.string "tahu POKéNAV bisa daftar TRAINER.\p"
+	.string "Aku belum ngerti maksudnya,\n"
+	.string "boleh coba daftar?$"
 
 Route116_Text_JerryRematchIntro:
-	.string "I've been studying seriously at the\n"
+	.string "Aku belajar serius di\n"
 	.string "TRAINER'S SCHOOL.\l"
-	.string "I won't lose like I did last time.$"
+	.string "Tak akan kalah seperti dulu.$"
 
 Route116_Text_JerryRematchDefeat:
-	.string "Hunh?\n"
-	.string "I studied diligently.$"
+	.string "Hah?\n"
+	.string "Aku belajar rajin.$"
 
 Route116_Text_JerryPostRematch:
-	.string "I'll have to redo some courses at\n"
-	.string "the TRAINER'S SCHOOL.\l"
-	.string "If I don't, ROXANNE will be steamed.$"
+	.string "Aku harus ulang pelajaran di\n"
+	.string "TRAINER'S SCHOOL.\l"
+	.string "Kalau tidak, ROXANNE marah.$"
 
 Route116_Text_KarenIntro:
-	.string "I study at school, and I study on\n"
-	.string "the way home, too!$"
+	.string "Aku belajar di sekolah,\n"
+	.string "dan di jalan pulang juga!$"
 
 Route116_Text_KarenDefeat:
-	.string "I'm in shock--I lost?$"
+	.string "Syok-Aku kalah?$"
 
 Route116_Text_KarenPostBattle:
-	.string "Awww, I'll never become an elegant\n"
-	.string "TRAINER like ROXANNE this way!$"
+	.string "Aduh, Aku tak akan jadi\n"
+	.string "TRAINER elegan kayak ROXANNE\l"
+	.string "kalau begini!$"
 
 Route116_Text_KarenRegister1:
-	.string "Oh, wow! Isn't that a POKéNAV?\n"
-	.string "I have one, too! Please register me!$"
+	.string "Wah! Itu POKéNAV, kan?\n"
+	.string "Aku juga punya! Daftarkan Aku!$"
 
 Route116_Text_KarenRegister2:
-	.string "Oh, wow! Isn't that a POKéNAV?\n"
-	.string "I have one, too! Please register me!$"
+	.string "Wah! Itu POKéNAV, kan?\n"
+	.string "Aku juga punya! Daftarkan Aku!$"
 
 Route116_Text_KarenRematchIntro:
-	.string "I studied a whole lot since I saw you.\n"
-	.string "You must see my achievements!$"
+	.string "Aku belajar banyak sejak\n"
+	.string "terakhir ketemu Kamu.\l"
+	.string "Lihat pencapaian Aku!$"
 
 Route116_Text_KarenRematchDefeat:
-	.string "I'm in shock.\n"
-	.string "I lost again?$"
+	.string "Syok.\n"
+	.string "Kalah lagi?$"
 
 Route116_Text_KarenPostRematch:
-	.string "You've beaten ROXANNE?\n"
-	.string "I can't beat you, then. Not yet.$"
+	.string "Kamu sudah kalahkan ROXANNE?\n"
+	.string "Berarti Aku belum bisa menang.$"
 
 Route116_Text_SarahIntro:
-	.string "Just so you know, I've never once been\n"
-	.string "bested by anyone at anything.$"
+	.string "Aku tak pernah kalah\n"
+	.string "dalam apa pun-sekali pun!$"
 
 Route116_Text_SarahDefeat:
-	.string "Oh, my goodness.\n"
-	.string "This is a new experience for me.$"
+	.string "Astaga.\n"
+	.string "Ini pengalaman baru buat Aku.$"
 
 Route116_Text_SarahPostBattle:
-	.string "My life of luxury affords me all that\n"
-	.string "I could possibly desire.\p"
-	.string "However, when it comes to POKéMON,\n"
-	.string "my wealth has no meaning.$"
+	.string "Hidup mewah Aku beri semua\n"
+	.string "yang Aku inginkan.\p"
+	.string "Tapi soal POKéMON,\n"
+	.string "kekayaan tak berarti.$"
 
 Route116_Text_DawsonIntro:
-	.string "When you lay your eyes on my POKéMON's\n"
-	.string "gorgeous fur, their beauty will render\l"
-	.string "you helpless!$"
+	.string "Begitu lihat bulu indah\n"
+	.string "POKéMON Aku,\l"
+	.string "Kamu akan terpesona!$"
 
 Route116_Text_DawsonDefeat:
-	.string "Oh, baby, say it isn't so!$"
+	.string "Oh, sayang, jangan bilang\n"
+	.string "begitu!$"
 
 Route116_Text_DawsonPostBattle:
-	.string "Oh, no, no, no!\n"
-	.string "You've mussed up my POKéMON's fur!\l"
-	.string "You've ruined my hairdo, too!\l"
-	.string "I'll have to call my stylist now!$"
+	.string "Oh, tidak, tidak, tidak!\n"
+	.string "Bulu POKéMON Aku acak-acakan!\l"
+	.string "Rambut Aku juga rusak!\l"
+	.string "Aku harus telepon penata rambut!$"
 
 Route116_Text_DevanIntro:
-	.string "We'll rock you hard!$"
+	.string "Kami akan hajar Kamu habis-habisan!$"
 
 Route116_Text_DevanDefeat:
 	.string "Aiyiyi!\n"
-	.string "No contest at all!$"
+	.string "Tak seimbang sama sekali!$"
 
 Route116_Text_DevanPostBattle:
-	.string "I should try different POKéMON\n"
-	.string "types, that's what I ought to do.$"
+	.string "Aku harus coba tipe POKéMON\n"
+	.string "lain. Itu yang harus Aku lakukan.$"
 
 Route116_Text_JohnsonIntro:
-	.string "It's a dead end up here.\n"
-	.string "I'm bored, so can we battle?$"
+	.string "Jalan buntu di sini.\n"
+	.string "Bosan. Mau bertarung?$"
 
 Route116_Text_JohnsonDefeat:
-	.string "That was fun even though I lost.$"
+	.string "Seru juga, meski Aku kalah.$"
 
 Route116_Text_JohnsonPostBattle:
-	.string "Want to stay here and keep\n"
-	.string "me company?$"
+	.string "Mau tinggal di sini temani\n"
+	.string "Aku?$"
 
 Route117_Text_IsaacIntro:
-	.string "Listen, could I get you to battle\n"
-	.string "the POKéMON I'm raising?$"
+	.string "Boleh Aku minta Kamu lawan\n"
+	.string "POKéMON yang Aku rawat?$"
 
 Route117_Text_IsaacDefeat:
-	.string "You've raised yours superbly…$"
+	.string "Kamu rawat POKéMON-mu\n"
+	.string "dengan luar biasa…$"
 
 Route117_Text_IsaacPostBattle:
-	.string "POKéMON isn't all about power.\p"
-	.string "Polishing a unique aspect of one's\n"
-	.string "character is another way of enjoying\l"
+	.string "POKéMON bukan cuma soal kekuatan.\p"
+	.string "Asah keunikan karakter mereka-\n"
+	.string "itu juga cara menikmati\l"
 	.string "POKéMON.$"
 
 Route117_Text_IsaacRegister:
-	.string "I'm going to redouble my training.\n"
-	.string "Would you come look in on us?$"
+	.string "Aku akan gandakan latihan.\n"
+	.string "Datang lagi lihat Aku, ya?$"
 
 Route117_Text_IsaacRematchIntro:
-	.string "The POKéMON I've been raising are\n"
-	.string "looking good, just like before.$"
+	.string "POKéMON yang Aku rawat\n"
+	.string "kelihatan bagus, seperti dulu.$"
 
 Route117_Text_IsaacRematchDefeat:
-	.string "You know how to raise them properly.\n"
-	.string "You might have DAY CARE skills…$"
+	.string "Kamu tahu cara merawatnya.\n"
+	.string "Kamu cocok jadi staf DAY CARE…$"
 
 Route117_Text_IsaacPostRematch:
-	.string "Your POKéMON are growing good!\n"
-	.string "You should enter them in CONTESTS.$"
+	.string "POKéMON-mu tumbuh bagus!\n"
+	.string "Ikutkan mereka di CONTESTS!$"
 
 Route117_Text_LydiaIntro:
-	.string "Please, allow me to evaluate if you\n"
-	.string "have raised your POKéMON properly.$"
+	.string "Boleh Aku nilai apakah Kamu\n"
+	.string "rawat POKéMON dengan benar?$"
 
 Route117_Text_LydiaDefeat:
-	.string "Yes, they are growing properly.$"
+	.string "Ya, mereka tumbuh dengan baik.$"
 
 Route117_Text_LydiaPostBattle:
-	.string "Try raising POKéMON with more\n"
-	.string "attention to their character traits.$"
+	.string "Coba rawat POKéMON dengan\n"
+	.string "lebih perhatikan sifat mereka.$"
 
 Route117_Text_LydiaRegister:
-	.string "I'm glad I met a superb TRAINER in you.\n"
-	.string "I hope to see you again.$"
+	.string "Senang bertemu TRAINER hebat\n"
+	.string "seperti Kamu.\l"
+	.string "Semoga kita ketemu lagi.$"
 
 Route117_Text_LydiaRematchIntro:
-	.string "Allow me to reevaluate if you have\n"
-	.string "raised your POKéMON properly.$"
+	.string "Boleh Aku nilai ulang apakah\n"
+	.string "Kamu rawat POKéMON dengan benar?$"
 
 Route117_Text_LydiaRematchDefeat:
-	.string "They are growing admirably.$"
+	.string "Mereka tumbuh luar biasa.$"
 
 Route117_Text_LydiaPostRematch:
-	.string "POKéMON seem to like different kinds\n"
-	.string "of {POKEBLOCK}S, depending on their nature.$"
+	.string "POKéMON suka {POKEBLOCK} berbeda\n"
+	.string "tergantung sifatnya.$"
 
 Route117_Text_DylanIntro:
-	.string "I'm in the middle of a triathlon, but,\n"
-	.string "whatever, let's have a battle!$"
+	.string "Aku sedang triathlon, tapi\n"
+	.string "ayo bertarung!$"
 
 Route117_Text_DylanDefeat:
-	.string "I ran out of energy!$"
+	.string "Energi Aku habis!$"
 
 Route117_Text_DylanPostBattle:
-	.string "I may have blown it…\p"
-	.string "I might have dropped to last during\n"
-	.string "that battle…$"
+	.string "Mungkin Aku gagal…\p"
+	.string "Mungkin Aku jadi yang terakhir\n"
+	.string "gara-gara pertarungan tadi…$"
 
 Route117_Text_DylanRegister:
-	.string "POKéMON have to be strong, too?\n"
-	.string "I'd like you to train me!$"
+	.string "POKéMON juga harus kuat?\n"
+	.string "Latih Aku, dong!$"
 
 Route117_Text_DylanRematchIntro:
-	.string "I'm smack in the middle of a triathlon,\n"
-	.string "but I'm comfortably ahead.\l"
-	.string "Let's make this a quick battle!$"
+	.string "Aku di tengah triathlon,\n"
+	.string "tapi unggul jauh.\l"
+	.string "Ayo cepat bertarung!$"
 
 Route117_Text_DylanRematchDefeat:
-	.string "I ran out of energy again!$"
+	.string "Energi Aku habis lagi!$"
 
 Route117_Text_DylanPostRematch:
-	.string "I was tops in swimming and cycling,\n"
-	.string "but I'm not quite that confident with\l"
-	.string "POKéMON yet.$"
+	.string "Aku juara renang dan sepeda,\n"
+	.string "tapi belum percaya diri\l"
+	.string "soal POKéMON.$"
 
 Route117_Text_MariaIntro:
-	.string "I do my triathlon training with POKéMON,\n"
-	.string "so I'm pretty confident about my speed.$"
+	.string "Aku latih triathlon bareng\n"
+	.string "POKéMON, jadi percaya diri\l"
+	.string "soal kecepatan.$"
 
 Route117_Text_MariaDefeat:
-	.string "I need to get more practices in,\n"
-	.string "I guess.$"
+	.string "Kayaknya Aku perlu latihan\n"
+	.string "lebih banyak.$"
 
 Route117_Text_MariaPostBattle:
-	.string "Training is meaningful only if you\n"
-	.string "keep it up regularly.\p"
-	.string "Okay! I'll resume my training!\n"
-	.string "Tomorrow!$"
+	.string "Latihan hanya berarti\n"
+	.string "kalau dilakukan rutin.\p"
+	.string "Oke! Besok Aku lanjut latihan!\n"
+	.string "Besok!$"
 
 Route117_Text_MariaRegister:
-	.string "You appear to be training properly…\n"
-	.string "If you'd like, I'll battle you later!$"
+	.string "Kamu latihan dengan benar…\n"
+	.string "Kalau mau, Aku tantang lagi!$"
 
 Route117_Text_MariaRematchIntro:
-	.string "Are you keeping up with your training?\n"
-	.string "I sure am!\l"
-	.string "Let me show you the evidence!$"
+	.string "Kamu tetap latihan?\n"
+	.string "Aku pasti iya!\l"
+	.string "Lihat buktinya!$"
 
 Route117_Text_MariaRematchDefeat:
-	.string "I need to get more practices in,\n"
-	.string "I guess.$"
+	.string "Kayaknya Aku perlu latihan\n"
+	.string "lebih banyak.$"
 
 Route117_Text_MariaPostRematch:
-	.string "I'll resume training tomorrow.\n"
-	.string "Let's battle again sometime!$"
+	.string "Besok Aku lanjut latihan.\n"
+	.string "Ayo bertarung lagi lain kali!$"
 
 Route117_Text_DerekIntro:
-	.string "Once a BUG CATCHER!\n"
-	.string "And now a BUG MANIAC!\p"
-	.string "But my love for POKéMON remains\n"
-	.string "unchanged!$"
+	.string "Dulu BUG CATCHER!\n"
+	.string "Kini BUG MANIAC!\p"
+	.string "Tapi cinta Aku pada POKéMON\n"
+	.string "tetap sama!$"
 
 Route117_Text_DerekDefeat:
-	.string "My ineptitude also remains\n"
-	.string "unchanged…$"
+	.string "Ketidakmampuan Aku juga\n"
+	.string "tetap sama…$"
 
 Route117_Text_DerekPostBattle:
-	.string "All I did was follow my heart, and now\n"
-	.string "they call me a BUG MANIAC…\p"
-	.string "Still, I am an expert on BUG POKéMON,\n"
-	.string "so it's only natural that they call me\l"
-	.string "a BUG MANIAC.$"
+	.string "Aku hanya ikuti hati, dan kini\n"
+	.string "disebut BUG MANIAC…\p"
+	.string "Tapi Aku memang ahli\n"
+	.string "BUG POKéMON,\l"
+	.string "jadi wajar disebut BUG MANIAC.$"
 
 Route117_Text_AnnaIntro:
-	.string "ANNA: I'm with my pretty junior student\n"
-	.string "partner. I have to do good!$"
+	.string "ANNA: Aku bareng murid junior\n"
+	.string "cantik Aku. Harus menang!$"
 
 Route117_Text_AnnaDefeat:
-	.string "ANNA: I'm with my pretty junior student\n"
-	.string "partner! Let me win!$"
+	.string "ANNA: Aku bareng murid junior\n"
+	.string "cantik Aku! Biar Aku menang!$"
 
 Route117_Text_AnnaPostBattle:
-	.string "ANNA: Your POKéMON have some good\n"
-	.string "combinations.\p"
-	.string "I'd say you're second only to us!$"
+	.string "ANNA: Kombinasi POKéMON-mu\n"
+	.string "bagus.\p"
+	.string "Kamu nomor dua setelah kami!$"
 
 Route117_Text_AnnaAndMegRegister:
-	.string "ANNA: We can't take this lying down!\n"
-	.string "You will come back, won't you?$"
+	.string "ANNA: Kami tak terima kalah!\n"
+	.string "Kamu akan kembali, kan?$"
 
 Route117_Text_AnnaNotEnoughMons:
-	.string "ANNA: If you want to battle us,\n"
-	.string "bring two POKéMON with you.$"
+	.string "ANNA: Kalau mau lawan kami,\n"
+	.string "bawa dua POKéMON.$"
 
 Route117_Text_MegIntro:
-	.string "MEG: I'm going to tag up with my super\n"
-	.string "senior student partner and beat you!$"
+	.string "MEG: Aku tag team bareng\n"
+	.string "senior hebat Aku dan menang!$"
 
 Route117_Text_MegDefeat:
-	.string "MEG: Oh, no!\n"
-	.string "I'm sorry, ANNA! I let you down…$"
+	.string "MEG: Oh, tidak!\n"
+	.string "Maaf, ANNA! Aku gagal…$"
 
 Route117_Text_MegPostBattle:
-	.string "MEG: I dragged ANNA down…\n"
-	.string "If I didn't, she would have won!$"
+	.string "MEG: Aku tarik ANNA turun…\n"
+	.string "Kalau tidak, dia pasti menang!$"
 
 Route117_Text_MegNotEnoughMons:
-	.string "MEG: Do you only have one POKéMON?\n"
-	.string "We can't battle with you, then.\p"
-	.string "We want to have a 2-on-2 battle.$"
+	.string "MEG: Kamu cuma punya satu\n"
+	.string "POKéMON?\p"
+	.string "Kami tak bisa lawan.\l"
+	.string "Kami mau 2 lawan 2.$"
 
 Route117_Text_AnnaRematchIntro:
-	.string "ANNA: I can't keep losing in front of\n"
-	.string "my junior partner, right?$"
+	.string "ANNA: Tak bisa terus kalah\n"
+	.string "di depan murid Aku, kan?$"
 
 Route117_Text_AnnaRematchDefeat:
-	.string "ANNA: I couldn't get into the groove.$"
+	.string "ANNA: Aku tak bisa fokus.$"
 
 Route117_Text_AnnaPostRematch:
-	.string "ANNA: Your POKéMON have some good\n"
-	.string "combinations.\p"
-	.string "I'd say you're second only to us!$"
+	.string "ANNA: Kombinasi POKéMON-mu\n"
+	.string "bagus.\p"
+	.string "Kamu nomor dua setelah kami!$"
 
 Route117_Text_AnnaRematchNotEnoughMons:
-	.string "ANNA: If you want to battle us,\n"
-	.string "bring two POKéMON with you.$"
+	.string "ANNA: Kalau mau lawan kami,\n"
+	.string "bawa dua POKéMON.$"
 
 Route117_Text_MegRematchIntro:
-	.string "MEG: I'm going to tag up with my\n"
-	.string "senior partner and win this time!$"
+	.string "MEG: Aku tag team bareng\n"
+	.string "senior Aku dan menang kali ini!$"
 
 Route117_Text_MegRematchDefeat:
-	.string "MEG: Too strong!$"
+	.string "MEG: Terlalu kuat!$"
 
 Route117_Text_MegPostRematch:
-	.string "MEG: I battled together with my\n"
-	.string "senior partner, but we lost…\p"
-	.string "That's so discouraging…$"
+	.string "MEG: Aku bertarung bareng\n"
+	.string "senior Aku, tapi kalah…\p"
+	.string "Sungguh mengecewakan…$"
 
 Route117_Text_MegRematchNotEnoughMons:
-	.string "MEG: Do you only have one POKéMON?\n"
-	.string "We can't battle with you, then.\p"
-	.string "We want to have a 2-on-2 battle.$"
+	.string "MEG: Kamu cuma punya satu\n"
+	.string "POKéMON?\p"
+	.string "Kami tak bisa lawan.\l"
+	.string "Kami mau 2 lawan 2.$"
 
 Route117_Text_MelinaIntro:
-	.string "Isn't it nice? To battle while looking\n"
-	.string "at pretty flowers?$"
+	.string "Asyik ya bertarung sambil\n"
+	.string "lihat bunga cantik?$"
 
 Route117_Text_MelinaDefeat:
-	.string "Oh, that's quite impressive!$"
+	.string "Wah, itu mengesankan!$"
 
 Route117_Text_MelinaPostBattle:
-	.string "It feels wonderful to go for a jog\n"
-	.string "while looking at flowers.$"
+	.string "Enak rasanya joging sambil\n"
+	.string "lihat bunga.$"
 
 Route117_Text_BrandiIntro:
-	.string "Let me demonstrate the power\n"
-	.string "hidden within a PSYCHIC POKéMON!$"
+	.string "Aku tunjukkan kekuatan\n"
+	.string "tersembunyi PSYCHIC POKéMON!$"
 
 Route117_Text_BrandiDefeat:
-	.string "Astonishing!$"
+	.string "Mengagumkan!$"
 
 Route117_Text_BrandiPostBattle:
-	.string "PSYCHIC POKéMON are complex.\n"
-	.string "You should try catching some.$"
+	.string "PSYCHIC POKéMON itu rumit.\n"
+	.string "Coba tangkap sendiri.$"
 
 Route117_Text_AishaIntro:
-	.string "Concentrate on getting the win.\n"
-	.string "That's how I battle!$"
+	.string "Fokus menang.\n"
+	.string "Itu cara Aku bertarung!$"
 
 Route117_Text_AishaDefeat:
-	.string "I don't waste any time being angry\n"
-	.string "over a loss--I would rather train.$"
+	.string "Aku tak buang waktu marah\n"
+	.string "karena kalah-Aku latihan.$"
 
 Route117_Text_AishaPostBattle:
-	.string "I think that if you worry about losing,\n"
-	.string "you're more likely to lose.$"
+	.string "Kalau Kamu takut kalah,\n"
+	.string "Kamu justru makin kalah.$"
 
 Route118_Text_RoseIntro:
-	.string "The aroma of flowers has a magical\n"
-	.string "power. It cleanses us body and soul.$"
+	.string "Aroma bunga punya kekuatan\n"
+	.string "ajaib. Membersihkan jiwa raga.$"
 
 Route118_Text_RoseDefeat:
-	.string "Oh, dear me.\n"
-	.string "I seem to have lost.$"
+	.string "Astaga.\n"
+	.string "Rupanya Aku kalah.$"
 
 Route118_Text_RosePostBattle:
-	.string "Flowers, POKéMON…\n"
-	.string "I love whatever smells nice.\p"
-	.string "Stinky things…\n"
-	.string "I'll pass.$"
+	.string "Bunga, POKéMON…\n"
+	.string "Aku suka yang harum.\p"
+	.string "Yang bau…\n"
+	.string "Aku lewat saja.$"
 
 Route118_Text_RoseRegister:
-	.string "Sniff… That odor--it's a POKéNAV!\n"
-	.string "We must register each other!$"
+	.string "Hirup… Bau itu-POKéNAV!\n"
+	.string "Ayo daftarkan satu sama lain!$"
 
 Route118_Text_RoseRematchIntro:
-	.string "Were you drawn here by the sweet\n"
-	.string "aroma?$"
+	.string "Apa Kamu tertarik oleh\n"
+	.string "aroma manis ini?$"
 
 Route118_Text_RoseRematchDefeat:
-	.string "The power of aroma…\n"
-	.string "It didn't seem to do much.$"
+	.string "Kekuatan aroma…\n"
+	.string "Tak terlalu berguna.$"
 
 Route118_Text_RosePostRematch:
-	.string "If you use a sweet aroma properly,\n"
-	.string "POKéMON will be attracted by it.$"
+	.string "Kalau pakai aroma manis\n"
+	.string "dengan benar,\l"
+	.string "POKéMON akan tertarik.$"
 
 Route118_Text_PerryIntro:
-	.string "BIRD POKéMON that FLY elegantly in\n"
-	.string "the sky… They're the best!$"
+	.string "BIRD POKéMON yang terbang\n"
+	.string "elegan di langit… Terbaik!$"
 
 Route118_Text_PerryDefeat:
-	.string "Urgh…\n"
-	.string "I crashed…$"
+	.string "Ugh…\n"
+	.string "Jatuh…$"
 
 Route118_Text_PerryPostBattle:
-	.string "You've got great POKéMON.\n"
-	.string "I'll have to train mine better.$"
+	.string "POKéMON-mu hebat.\n"
+	.string "Aku harus latih lebih baik.$"
 
 Route118_Text_ChesterIntro:
-	.string "Take flight!\n"
-	.string "My BIRD POKéMON!$"
+	.string "Terbanglah!\n"
+	.string "BIRD POKéMON Aku!$"
 
 Route118_Text_ChesterDefeat:
-	.string "They did take flight…$"
+	.string "Mereka memang terbang…$"
 
 Route118_Text_ChesterPostBattle:
-	.string "If they'd get stronger, they'd be able\n"
-	.string "to fly more freely…$"
+	.string "Kalau makin kuat, mereka bisa\n"
+	.string "terbang lebih bebas…$"
 
 Route118_Text_BarnyIntro:
-	.string "I'm a FISHERMAN, but also a TRAINER.\n"
-	.string "I'm raising the POKéMON I caught.$"
+	.string "Aku FISHERMAN, juga TRAINER.\n"
+	.string "Aku rawat POKéMON hasil tangkapan.$"
 
 Route118_Text_BarnyDefeat:
-	.string "I thought I was doing okay in my\n"
-	.string "training…$"
+	.string "Aku kira latihan Aku\n"
+	.string "sudah cukup…$"
 
 Route118_Text_BarnyPostBattle:
-	.string "I couldn't win by training POKéMON\n"
-	.string "while I fished…\p"
-	.string "Was I doing things in half measures?$"
+	.string "Tak bisa menang kalau latih\n"
+	.string "POKéMON sambil mancing…\p"
+	.string "Apa Aku setengah hati?$"
 
 Route118_Text_WadeIntro:
-	.string "For FISHERMEN, equipment is the key.\p"
-	.string "But for TRAINERS, the key ingredients\n"
-	.string "are POKéMON and heart, of course!$"
+	.string "Bagi FISHERMAN, peralatan\n"
+	.string "itu kunci.\p"
+	.string "Tapi bagi TRAINER, kuncinya\n"
+	.string "POKéMON dan hati!$"
 
 Route118_Text_WadeDefeat:
-	.string "I was beaten in heart?$"
+	.string "Apa Aku kalah dalam hati?$"
 
 Route118_Text_WadePostBattle:
-	.string "Come to think of it, fishing is a battle\n"
-	.string "between a FISHERMAN and a POKéMON.$"
+	.string "Kalau dipikir, mancing itu\n"
+	.string "pertarungan antara FISHERMAN\l"
+	.string "dan POKéMON.$"
 
 Route118_Text_DaltonIntro:
-	.string "Let my melody rock your soul!$"
+	.string "Biarkan melodi Aku goyang\n"
+	.string "jiwamu!$"
 
 Route118_Text_DaltonDefeat:
 	.string "La-lalala…$"
 
 Route118_Text_DaltonPostBattle:
-	.string "An electric guitar doesn't always\n"
-	.string "have to be noisy…\p"
-	.string "It can be strummed to squeeze out\n"
-	.string "this heart-stirring melody…$"
+	.string "Gitar listrik tak selalu\n"
+	.string "harus ribut…\p"
+	.string "Bisa dipetik pelan untuk\n"
+	.string "hasilkan melodi menyentuh.$"
 
 Route118_Text_DaltonRegister:
-	.string "When I compose better melodies,\n"
-	.string "you have to come listen, okay?$"
+	.string "Kalau Aku ciptakan melodi\n"
+	.string "lebih bagus,\l"
+	.string "Kamu harus datang dengar, ya?$"
 
 Route118_Text_DaltonRematchIntro:
-	.string "A melody from my POKéMON and me…\n"
-	.string "Let us deliver it to your soul.$"
+	.string "Melodi dari POKéMON Aku\n"
+	.string "dan Aku…\l"
+	.string "Kami sampaikan ke jiwamu.$"
 
 Route118_Text_DaltonRematchDefeat:
 	.string "La-lalala…$"
 
 Route118_Text_DaltonPostRematch:
-	.string "When I play, my emotions should reach\n"
-	.string "you through my electric guitar…$"
+	.string "Saat Aku main, perasaan Aku\n"
+	.string "harus sampai lewat gitar listrik.$"
 
 Route118_Text_DeandreIntro:
-	.string "Go, go, go!\n"
-	.string "POKéMON 1, 2, and 3!$"
+	.string "Maju, maju, maju!\n"
+	.string "POKéMON 1, 2, dan 3!$"
 
 Route118_Text_DeandreDefeat:
-	.string "Come in, POKéMON! Are you okay?\n"
-	.string "POKéMON 1, 2, and 3?!$"
+	.string "Masuk, POKéMON! Baik-baik?\n"
+	.string "POKéMON 1, 2, dan 3?!$"
 
 Route118_Text_DeandrePostBattle:
-	.string "Isn't it cool that I have a POKéMON\n"
-	.string "battle team?\p"
-	.string "You can copy me--I don't mind!$"
+	.string "Keren kan punya tim\n"
+	.string "pertarungan POKéMON?\p"
+	.string "Boleh tiru Aku-tak masalah!$"
 
 Route119_Text_BrentIntro:
-	.string "We're the MIMIC CIRCLE!\n"
-	.string "We MIMIC what you do!$"
+	.string "Kami MIMIC CIRCLE!\n"
+	.string "Kami TIRU apa yang Kamu lakukan!$"
 
 Route119_Text_BrentDefeat:
-	.string "Whoopsie!\n"
-	.string "I lost!$"
+	.string "Ups!\n"
+	.string "Aku kalah!$"
 
 Route119_Text_BrentPostBattle:
-	.string "What's so good about mimicry?\p"
+	.string "Apa enaknya meniru?\p"
 	.string "Fufufu…\n"
-	.string "You'll never understand…$"
+	.string "Kamu takkan paham…$"
 
 Route119_Text_DonaldIntro:
-	.string "So, we finally meet!\n"
-	.string "My BUG POKéMON will keep you company!$"
+	.string "Akhirnya ketemu!\n"
+	.string "BUG POKéMON Aku temani Kamu!$"
 
 Route119_Text_DonaldDefeat:
-	.string "I wish we'd never met…$"
+	.string "Sebaiknya kita tak pernah\n"
+	.string "ketemu…$"
 
 Route119_Text_DonaldPostBattle:
-	.string "I want to MIMIC you some more.\n"
-	.string "Can you hurry up and move?$"
+	.string "Aku ingin TIRU Kamu lagi.\n"
+	.string "Cepat pergi, dong!$"
 
 Route119_Text_TaylorIntro:
-	.string "If you step forward, we step forward.\p"
-	.string "If you turn right, we turn, too…$"
+	.string "Kalau Kamu maju, kami maju.\p"
+	.string "Kalau Kamu belok kanan,\n"
+	.string "kami juga belok…$"
 
 Route119_Text_TaylorDefeat:
-	.string "But if you win, I lose…$"
+	.string "Tapi kalau Kamu menang,\n"
+	.string "Aku kalah…$"
 
 Route119_Text_TaylorPostBattle:
-	.string "I can't MIMIC you winning the match.\n"
-	.string "That's just impossible…\l"
-	.string "It's burning me up…$"
+	.string "Aku tak bisa TIRU Kamu\n"
+	.string "menang.\l"
+	.string "Itu mustahil…\l"
+	.string "Bikin Aku kesal…$"
 
 Route119_Text_DougIntro:
-	.string "Yep, you've finally caught me!\n"
-	.string "Or were you trying to avoid me?$"
+	.string "Yup, akhirnya Kamu tangkap Aku!\n"
+	.string "Atau malah hindari Aku?$"
 
 Route119_Text_DougDefeat:
-	.string "Whoop, that was a great match!$"
+	.string "Wah, pertarungan seru!$"
 
 Route119_Text_DougPostBattle:
-	.string "We're the MIMIC CIRCLE!\n"
-	.string "I hope you enjoyed our performance.$"
+	.string "Kami MIMIC CIRCLE!\n"
+	.string "Semoga Kamu nikmati aksi kami.$"
 
 Route119_Text_GregIntro:
-	.string "You don't know who I am, do you?\p"
-	.string "But, I also don't know you.\n"
-	.string "So, we'll battle!$"
+	.string "Kamu tak tahu siapa Aku, kan?\p"
+	.string "Tapi Aku juga tak tahu Kamu.\n"
+	.string "Jadi, ayo bertarung!$"
 
 Route119_Text_GregDefeat:
-	.string "You're pretty strong!$"
+	.string "Kamu cukup kuat!$"
 
 Route119_Text_GregPostBattle:
-	.string "Until you go away somewhere, we'll\n"
-	.string "keep on mimicking your every move.$"
+	.string "Sampai Kamu pergi, kami akan\n"
+	.string "terus meniru gerakanmu.$"
 
 Route119_Text_KentIntro:
-	.string "The MIMIC CIRCLE was formed by people\n"
-	.string "who like to MIMIC.\p"
-	.string "A battle starts the instant we meet!$"
+	.string "MIMIC CIRCLE dibentuk oleh\n"
+	.string "orang yang suka TIRU.\p"
+	.string "Pertarungan dimulai begitu\n"
+	.string "kita bertemu!$"
 
 Route119_Text_KentDefeat:
-	.string "I give up!$"
+	.string "Aku menyerah!$"
 
 Route119_Text_KentPostBattle:
-	.string "Won't you join our MIMIC CIRCLE?$"
+	.string "Mau gabung MIMIC CIRCLE kami?$"
 
 Route119_Text_JacksonIntro:
-	.string "Who has the knowledge and\n"
-	.string "the technique for survival?\p"
-	.string "POKéMON RANGERS, that's who!$"
+	.string "Siapa punya ilmu dan teknik\n"
+	.string "bertahan hidup?\p"
+	.string "POKéMON RANGERS, itu jawabannya!$"
 
 Route119_Text_JacksonDefeat:
-	.string "I didn't have enough POKéMON\n"
-	.string "know-how…$"
+	.string "Ilmu POKéMON Aku kurang…$"
 
 Route119_Text_JacksonPostBattle:
-	.string "To break away from civilization and\n"
-	.string "awaken the wild spirit within!\p"
-	.string "That's our vision.$"
+	.string "Lepas dari peradaban,\n"
+	.string "bangkitkan jiwa liar dalam diri!\p"
+	.string "Itu visi kami.$"
 
 Route119_Text_JacksonRegister:
-	.string "I hope you'll give me a rematch without\n"
-	.string "mocking my lack of knowledge.$"
+	.string "Boleh rematch tanpa mengejek\n"
+	.string "ketidaktahuan Aku?$"
 
 Route119_Text_JacksonRematchIntro:
-	.string "I'm going to regain my wild spirit by\n"
-	.string "being together with POKéMON.$"
+	.string "Aku bangkitkan jiwa liar\n"
+	.string "bareng POKéMON.$"
 
 Route119_Text_JacksonRematchDefeat:
-	.string "You've remained strong!$"
+	.string "Kamu tetap kuat!$"
 
 Route119_Text_JacksonPostRematch:
-	.string "Believe in your POKéMON.\n"
-	.string "Believe in yourself.\p"
-	.string "The road will reveal itself to you.$"
+	.string "Percaya pada POKéMON-mu.\n"
+	.string "Percaya pada dirimu.\p"
+	.string "Jalan akan terbuka sendiri.$"
 
 Route119_Text_CatherineIntro:
-	.string "Oh? Look at you.\p"
-	.string "For someone on an adventure,\n"
-	.string "you're traveling awfully light.$"
+	.string "Oh? Lihat Kamu.\p"
+	.string "Untuk petualang,\n"
+	.string "barangmu sangat sedikit.$"
 
 Route119_Text_CatherineDefeat:
-	.string "Accidents happen when you're not\n"
-	.string "prepared!$"
+	.string "Kecelakaan terjadi kalau\n"
+	.string "tak siap!$"
 
 Route119_Text_CatherinePostBattle:
-	.string "You're traveling light but you have\n"
-	.string "everything you need.\p"
-	.string "You're on top of things mentally and\n"
-	.string "physically, too.$"
+	.string "Barangmu sedikit, tapi\n"
+	.string "cukup.\p"
+	.string "Kamu siap mental dan fisik\n"
+	.string "juga.$"
 
 Route119_Text_CatherineRegister:
-	.string "Do you have a POKéNAV?\n"
-	.string "It's a must-have tool for any TRAINER.\p"
-	.string "Oh, you do have one!\n"
-	.string "Let's register each other, then!$"
+	.string "Kamu punya POKéNAV?\n"
+	.string "Wajib punya buat TRAINER.\p"
+	.string "Oh, ternyata punya!\n"
+	.string "Ayo daftarkan satu sama lain!$"
 
 Route119_Text_CatherineRematchIntro:
-	.string "How's your journey with POKéMON\n"
-	.string "going?$"
+	.string "Bagaimana perjalananmu\n"
+	.string "dengan POKéMON?$"
 
 Route119_Text_CatherineRematchDefeat:
-	.string "I'm still missing something…$"
+	.string "Aku masih kurang sesuatu…$"
 
 Route119_Text_CatherinePostRematch:
-	.string "In the same way that you, as a TRAINER,\n"
-	.string "rely on your POKéMON, your POKéMON\l"
-	.string "rely on you.$"
+	.string "Seperti Kamu, sebagai TRAINER,\n"
+	.string "bergantung pada POKéMON-mu,\l"
+	.string "POKéMON-mu juga bergantung\n"
+	.string "pada Kamu.$"
 
 Route119_Text_HughIntro:
-	.string "The vast sky holds untold promise!\p"
-	.string "Nothing can compare to the sheer\n"
-	.string "exhilaration of flight!$"
+	.string "Langit luas penuh janji!\p"
+	.string "Tak ada yang menandingi\n"
+	.string "serunya terbang!$"
 
 Route119_Text_HughDefeat:
-	.string "Down and out!$"
+	.string "KO!$"
 
 Route119_Text_HughPostBattle:
-	.string "My BIRD POKéMON made my dreams of\n"
-	.string "flying come true!$"
+	.string "BIRD POKéMON Aku wujudkan\n"
+	.string "impian Aku terbang!$"
 
 Route119_Text_PhilIntro:
-	.string "I'll show you the true potential of me\n"
-	.string "and my BIRD POKéMON!$"
+	.string "Aku tunjukkan potensi sejati\n"
+	.string "Aku dan BIRD POKéMON Aku!$"
 
 Route119_Text_PhilDefeat:
-	.string "We lacked potential…$"
+	.string "Kami kurang potensi…$"
 
 Route119_Text_PhilPostBattle:
-	.string "Ever since I was a little kid, I always\n"
-	.string "admired BIRD POKéMON…$"
+	.string "Sejak kecil, Aku selalu\n"
+	.string "kagum pada BIRD POKéMON…$"
 
 Route119_Text_YasuIntro:
-	.string "To lurk in shadows, and live in\n"
-	.string "darkness… That is my destiny.\p"
-	.string "I emerge to challenge you!$"
+	.string "Bersembunyi di bayangan,\n"
+	.string "hidup dalam kegelapan…\l"
+	.string "Itu takdir Aku.\p"
+	.string "Aku muncul tantang Kamu!$"
 
 Route119_Text_YasuDefeat:
-	.string "I admit defeat!$"
+	.string "Aku mengakui kekalahan!$"
 
 Route119_Text_YasuPostBattle:
-	.string "Those defeated in battle withdraw\n"
-	.string "quietly back into the shadows.\l"
-	.string "That, too, is destiny…$"
+	.string "Yang kalah dalam pertarungan\n"
+	.string "mundur diam ke bayangan.\l"
+	.string "Itu juga takdir…$"
 
 Route119_Text_TakashiIntro:
-	.string "If you're not on your guard,\n"
-	.string "you're in for some pain!$"
+	.string "Kalau lengah,\n"
+	.string "Kamu akan kesakitan!$"
 
 Route119_Text_TakashiDefeat:
-	.string "You're surprisingly good!$"
+	.string "Kamu hebat sekali!$"
 
 Route119_Text_TakashiPostBattle:
-	.string "My surprise attack ended in\n"
-	.string "failure…$"
+	.string "Serangan kejut Aku gagal…$"
 
 Route119_Text_HideoIntro:
-	.string "To hide a tree, use a forest!$"
+	.string "Untuk sembunyikan pohon,\n"
+	.string "pakai hutan!$"
 
 Route119_Text_HideoDefeat:
-	.string "I bow to your superiority.$"
+	.string "Aku akui keunggulanmu.$"
 
 Route119_Text_HideoPostBattle:
-	.string "To hide a tree, use a forest!\n"
-	.string "To hide a POKéMON, use a POKéMON!\p"
-	.string "There is no deep, hidden meaning\n"
-	.string "to that.$"
+	.string "Untuk sembunyikan pohon,\n"
+	.string "pakai hutan!\l"
+	.string "Untuk sembunyikan POKéMON,\n"
+	.string "pakai POKéMON!\p"
+	.string "Tak ada makna tersembunyi\n"
+	.string "di balik itu.$"
 
 Route119_Text_ChrisIntro:
-	.string "You spoke to me…\n"
-	.string "So you want to challenge me!\p"
-	.string "Sure! I'll try out the POKéMON I caught\n"
-	.string "while SURFING!$"
+	.string "Kamu bicara ke Aku…\n"
+	.string "Berarti mau tantang Aku!\p"
+	.string "Baik! Aku coba POKéMON yang\n"
+	.string "Aku dapat saat SURFING!$"
 
 Route119_Text_ChrisDefeat:
-	.string "I don't have a clue about what it\n"
-	.string "takes to win.$"
+	.string "Aku tak tahu cara menang.$"
 
 Route119_Text_ChrisPostBattle:
-	.string "Go for a SURF on my POKéMON…\p"
-	.string "Then fish off its back…\p"
-	.string "It's an indescribably luxuriant moment!$"
+	.string "Naik SURF di POKéMON Aku…\p"
+	.string "Lalu mancing dari punggungnya…\p"
+	.string "Momen yang tak terlukiskan!$"
 
 Route119_Text_FabianIntro:
-	.string "Hit me with a power chord!\n"
-	.string "Victory is mine!\l"
-	.string "It's our time to shine, whoa, yeah!$"
+	.string "Hajar pakai power chord!\n"
+	.string "Kemenangan milik Aku!\l"
+	.string "Waktunya bersinar, whoa, yeah!$"
 
 Route119_Text_FabianDefeat:
-	.string "You showed me who's the boss!\n"
-	.string "We'll have to take the loss, oh, no!$"
+	.string "Kamu tunjukkan siapa bosnya!\n"
+	.string "Kami harus terima kekalahan!$"
 
 Route119_Text_FabianPostBattle:
-	.string "Hit me with another power chord!\n"
-	.string "Leave me alone!\l"
-	.string "Your win you have to atone!$"
+	.string "Hajar lagi pakai power chord!\n"
+	.string "Tinggalkan Aku sendiri!\l"
+	.string "Kemenanganmu harus ditebus!$"
 
 Route119_Text_DaytonIntro:
 	.string "Hohoho!\n"
-	.string "I like kid TRAINERS!\l"
-	.string "Let's have a good one!$"
+	.string "Aku suka TRAINER muda!\l"
+	.string "Ayo bertarung seru!$"
 
 Route119_Text_DaytonDefeat:
-	.string "You're pretty amazing!\n"
+	.string "Kamu luar biasa!\n"
 	.string "Hohoho!$"
 
 Route119_Text_DaytonPostBattle:
 	.string "Hohoho!\n"
-	.string "I'll try emulating the pep of kid\l"
-	.string "TRAINERS like you!$"
+	.string "Aku tiru semangat TRAINER\l"
+	.string "muda kayak Kamu!$"
 
 Route119_Text_RachelIntro:
-	.string "Wherever and whenever I may be,\n"
-	.string "I always have my parasol in hand.$"
+	.string "Di mana pun, kapan pun,\n"
+	.string "payung Aku selalu ada.$"
 
 Route119_Text_RachelDefeat:
-	.string "Oh, but…\n"
-	.string "That's not fair.$"
+	.string "Oh, tapi…\n"
+	.string "Itu tak adil.$"
 
 Route119_Text_RachelPostBattle:
-	.string "You're asking if my parasol is heavy?\n"
-	.string "Your BAG is filled with more junk than\l"
-	.string "I ever carry around.$"
+	.string "Payung Aku berat?\n"
+	.string "Tas Kamu lebih penuh barang\l"
+	.string "daripada yang Aku bawa.$"
 
 Route120_Text_ColinIntro:
-	.string "Do you have any moves that can strike\n"
-	.string "a flying POKéMON?$"
+	.string "Apa Kamu punya jurus yang\n"
+	.string "bisa kenai POKéMON terbang?$"
 
 Route120_Text_ColinDefeat:
-	.string "You soared above me!$"
+	.string "Kamu melayang di atas Aku!$"
 
 Route120_Text_ColinPostBattle:
-	.string "The move FLY is convenient,\n"
-	.string "don't you think?\p"
-	.string "While the POKéMON is flying,\n"
-	.string "almost no moves can strike it.$"
+	.string "Jurus FLY itu praktis,\n"
+	.string "kan?\p"
+	.string "Saat POKéMON terbang,\n"
+	.string "hampir tak ada jurus yang kena.$"
 
 Route120_Text_RobertIntro:
-	.string "My POKéMON is strong!\n"
-	.string "How about yours?$"
+	.string "POKéMON Aku kuat!\n"
+	.string "Bagaimana denganmu?$"
 
 Route120_Text_RobertDefeat:
-	.string "Your POKéMON were stronger…$"
+	.string "POKéMON-mu lebih kuat…$"
 
 Route120_Text_RobertPostBattle:
-	.string "A POKéMON that grows steadily is one\n"
-	.string "you can count on.$"
+	.string "POKéMON yang tumbuh perlahan\n"
+	.string "bisa diandalkan.$"
 
 Route120_Text_RobertRegister:
-	.string "You can be counted on to get better.\n"
-	.string "I'd like to register you in my POKéNAV!$"
+	.string "Kamu pasti makin hebat.\n"
+	.string "Aku daftarkan Kamu di POKéNAV!$"
 
 Route120_Text_RobertRematchIntro:
-	.string "A POKéMON that grows steadily is one\n"
-	.string "you can count on.$"
+	.string "POKéMON yang tumbuh perlahan\n"
+	.string "bisa diandalkan.$"
 
 Route120_Text_RobertRematchDefeat:
-	.string "Your POKéMON are seriously strong.$"
+	.string "POKéMON-mu sangat kuat.$"
 
 Route120_Text_RobertPostRematch:
-	.string "My POKéMON are growing stronger.\n"
-	.string "I have to grow stronger, too.$"
+	.string "POKéMON Aku makin kuat.\n"
+	.string "Aku juga harus makin kuat.$"
 
 Route120_Text_LorenzoIntro:
-	.string "I'll check your POKéMON and see if\n"
-	.string "they're fit for the outdoors.$"
+	.string "Aku periksa POKéMON-mu,\n"
+	.string "apakah siap untuk alam liar.$"
 
 Route120_Text_LorenzoDefeat:
-	.string "With POKéMON that strong, you're in\n"
-	.string "no danger of needing rescue!$"
+	.string "Dengan POKéMON sekuat itu,\n"
+	.string "Kamu tak perlu diselamatkan!$"
 
 Route120_Text_LorenzoPostBattle:
-	.string "To travel wherever your heart desires\n"
-	.string "with POKéMON…\l"
-	.string "That's the joy of being a TRAINER.$"
+	.string "Bepergian ke mana pun\n"
+	.string "bersama POKéMON…\l"
+	.string "Itu kebahagiaan jadi TRAINER.$"
 
 Route120_Text_JennaIntro:
-	.string "How's your physical fitness?\n"
-	.string "If you're not fit, you could have a\l"
-	.string "rough time in critical situations.$"
+	.string "Bagaimana kebugaranmu?\n"
+	.string "Kalau tak bugar, Kamu bisa\l"
+	.string "kesulitan saat darurat.$"
 
 Route120_Text_JennaDefeat:
-	.string "I'm totally fit, but…$"
+	.string "Aku bugar, tapi…$"
 
 Route120_Text_JennaPostBattle:
-	.string "Fitness training is in my routine.\n"
-	.string "I always run with my POKéMON.$"
+	.string "Latihan kebugaran rutin Aku.\n"
+	.string "Aku selalu lari bareng POKéMON.$"
 
 Route120_Text_JeffreyIntro:
 	.string "… … … … … …\n"
 	.string "… … … … … …\l"
-	.string "Want to battle?$"
+	.string "Mau bertarung?$"
 
 Route120_Text_JeffreyDefeat:
-	.string "Lost it…$"
+	.string "Kalah…$"
 
 Route120_Text_JeffreyPostBattle:
 	.string "… … … … … …\n"
 	.string "… … … … … …\l"
-	.string "I'll try harder…$"
+	.string "Aku akan berusaha lebih keras…$"
 
 Route120_Text_JeffreyRegister:
 	.string "… … … … … …\n"
 	.string "… … … … … …\l"
-	.string "Do you have a POKéNAV…?$"
+	.string "Kamu punya POKéNAV…?$"
 
 Route120_Text_JeffreyRematchIntro:
 	.string "… … … … … …\n"
 	.string "… … … … … …\l"
-	.string "Want to battle again?$"
+	.string "Mau bertarung lagi?$"
 
 Route120_Text_JeffreyRematchDefeat:
 	.string "… … … … … …\n"
-	.string "I lost again…$"
+	.string "Kalah lagi…$"
 
 Route120_Text_JeffreyPostRematch:
 	.string "… … … … … …\n"
 	.string "… … … … … …\l"
-	.string "I'll try harder…\l"
-	.string "For my precious BUG POKéMON…$"
+	.string "Aku akan berusaha lebih keras…\l"
+	.string "Demi BUG POKÉMON kesayangan Aku…$"
 
 Route120_Text_JenniferIntro:
-	.string "POKéMON have many special abilities.\n"
-	.string "If you want to become a first-class\l"
-	.string "TRAINER, learn about them.$"
+	.string "POKéMON punya banyak kemampuan\n"
+	.string "khusus.\l"
+	.string "Kalau mau jadi TRAINER kelas\n"
+	.string "satu, pelajari itu.$"
 
 Route120_Text_JenniferDefeat:
-	.string "You're obviously thinking.$"
+	.string "Kamu jelas berpikir.$"
 
 Route120_Text_JenniferPostBattle:
-	.string "The special abilities of POKéMON\n"
-	.string "will make battle styles change.$"
+	.string "Kemampuan khusus POKéMON\n"
+	.string "ubah gaya bertarung.$"
 
 Route120_Text_ChipIntro:
-	.string "Who might you be?\p"
-	.string "Are you perhaps searching for ancient\n"
-	.string "ruins that are rumored to possibly\l"
-	.string "exist according to legend?$"
+	.string "Siapa Kamu?\p"
+	.string "Apa Kamu cari reruntuhan kuno\n"
+	.string "yang katanya ada menurut legenda?$"
 
 Route120_Text_ChipDefeat:
-	.string "What a disgraceful setback…$"
+	.string "Kekalahan memalukan…$"
 
 Route120_Text_ChipPostBattle:
-	.string "That giant rock… I would like to\n"
-	.string "believe it may indeed contain ancient\l"
-	.string "ruins. But I see no entrance.$"
+	.string "Batu raksasa itu… Aku ingin\n"
+	.string "percaya ada reruntuhan di dalamnya.\l"
+	.string "Tapi tak ada pintu masuk.$"
 
 Route120_Text_ClarissaIntro:
-	.string "Why am I carrying this parasol?\p"
-	.string "I'll tell you if you can win against me.$"
+	.string "Kenapa Aku bawa payung?\p"
+	.string "Aku beri tahu kalau Kamu\n"
+	.string "bisa kalahkan Aku.$"
 
 Route120_Text_ClarissaDefeat:
-	.string "A parasol can't ward off POKéMON\n"
-	.string "attacks…$"
+	.string "Payung tak bisa halau serangan\n"
+	.string "POKéMON…$"
 
 Route120_Text_ClarissaPostBattle:
-	.string "I don't think strong sunlight is good\n"
-	.string "for my POKéMON.\l"
-	.string "So I shield them with my parasol.$"
+	.string "Sinar matahari kuat tak baik\n"
+	.string "buat POKéMON Aku.\l"
+	.string "Jadi Aku lindungi pakai payung.$"
 
 Route120_Text_AngelicaIntro:
-	.string "Me, POKéMON, and my parasol…\p"
-	.string "If any one of them is missing,\n"
-	.string "the picture of beauty will be ruined.$"
+	.string "Aku, POKéMON, dan payung…\p"
+	.string "Kalau salah satu hilang,\n"
+	.string "keindahan gambar rusak.$"
 
 Route120_Text_AngelicaDefeat:
-	.string "You've completely ruined my beauty…$"
+	.string "Kamu hancurkan keindahan Aku…$"
 
 Route120_Text_AngelicaPostBattle:
-	.string "A parasol wouldn't suit you at all.\p"
-	.string "Why, something like this would only\n"
-	.string "get in your way.$"
+	.string "Payung tak cocok buat Kamu.\p"
+	.string "Benda kayak gini cuma\n"
+	.string "mengganggu saja.$"
 
 Route120_Text_KeigoIntro:
-	.string "I will adopt the movements of POKéMON\n"
-	.string "and create new ninja techniques.$"
+	.string "Aku adopsi gerakan POKéMON\n"
+	.string "untuk ciptakan jurus ninja baru.$"
 
 Route120_Text_KeigoDefeat:
-	.string "The creation of new ninja techniques\n"
-	.string "is but a distant dream…$"
+	.string "Menciptakan jurus ninja baru\n"
+	.string "hanyalah mimpi jauh…$"
 
 Route120_Text_KeigoPostBattle:
-	.string "Perhaps I ought to apprentice under\n"
-	.string "a ninja sensei.$"
+	.string "Mungkin Aku harus jadi murid\n"
+	.string "guru ninja.$"
 
 Route120_Text_RileyIntro:
-	.string "We ninja conceal ourselves under our\n"
-	.string "camouflage cloaks.\l"
-	.string "I bet you didn't know where I was!$"
+	.string "Kami ninja sembunyi di balik\n"
+	.string "jubah kamuflase.\l"
+	.string "Pasti Kamu tak tahu Aku di mana!$"
 
 Route120_Text_RileyDefeat:
-	.string "I lost!\n"
-	.string "I should camouflage my shame!$"
+	.string "Aku kalah!\n"
+	.string "Aku sembunyikan rasa malu Aku!$"
 
 Route120_Text_RileyPostBattle:
-	.string "Our camouflage cloaks are all\n"
-	.string "handmade.$"
+	.string "Jubah kamuflase kami semua\n"
+	.string "dibuat tangan.$"
 
 Route120_Text_CallieIntro:
-	.string "If you don't pay attention,\n"
-	.string "you could get hurt!$"
+	.string "Kalau tak waspada,\n"
+	.string "Kamu bisa terluka!$"
 
 Route120_Text_CallieDefeat:
-	.string "Ouch!\n"
-	.string "I was the one to get hurt.$"
+	.string "Aduh!\n"
+	.string "Aku yang terluka.$"
 
 Route120_Text_CalliePostBattle:
-	.string "I wonder… Should I evolve my POKéMON?\n"
-	.string "They're cute the way they are, though.$"
+	.string "Apa Aku harus evolusikan\n"
+	.string "POKéMON Aku?\l"
+	.string "Tapi lucu banget sih begini…$"
 
 Route120_Text_LeonelIntro:
-	.string "Your party POKéMON…\n"
-	.string "Do you have different types?$"
+	.string "POKéMON timmu…\n"
+	.string "Apa jenisnya berbeda-beda?$"
 
 Route120_Text_LeonelDefeat:
-	.string "I've seen your policy in action!$"
+	.string "Aku lihat strategimu bekerja!$"
 
 Route120_Text_LeonelPostBattle:
-	.string "I think it's awesome you're so strong\n"
-	.string "battling with your favorite POKéMON.$"
+	.string "Keren banget Kamu kuat\n"
+	.string "pakai POKéMON favoritmu.$"
 
 Route121_Text_VanessaIntro:
-	.string "Will you play with my delightfully\n"
-	.string "pretty POKéMON?$"
+	.string "Mau main sama POKéMON Aku\n"
+	.string "yang cantik menggemaskan?$"
 
 Route121_Text_VanessaDefeat:
-	.string "This isn't what I meant!$"
+	.string "Bukan ini maksud Aku!$"
 
 Route121_Text_VanessaPostBattle:
-	.string "I'm going to a CONTEST in LILYCOVE.\p"
-	.string "My POKéMON should have no problem\n"
-	.string "sweeping the MASTER CLASS.$"
+	.string "Aku mau ke CONTEST di LILYCOVE.\p"
+	.string "POKéMON Aku pasti menang\n"
+	.string "di MASTER CLASS.$"
 
 Route121_Text_WalterIntro:
-	.string "With my POKéMON, I have traveled\n"
-	.string "to the world's four corners.\p"
-	.string "You might say I have some confidence\n"
-	.string "in my abilities.$"
+	.string "Bareng POKéMON Aku, Aku sudah\n"
+	.string "keliling empat penjuru dunia.\p"
+	.string "Wajar kalau Aku percaya diri\n"
+	.string "dengan kemampuan Aku.$"
 
 Route121_Text_WalterDefeat:
-	.string "Ah, well played.$"
+	.string "Ah, main bagus.$"
 
 Route121_Text_WalterPostBattle:
-	.string "I would like to circle the globe once\n"
-	.string "again with my POKéMON.$"
+	.string "Aku ingin keliling dunia lagi\n"
+	.string "bareng POKéMON Aku.$"
 
 Route121_Text_WalterRegister:
-	.string "Your POKéMON prowess is remarkable.\n"
-	.string "Allow me to register you as a memento.$"
+	.string "Kemampuan POKéMON-mu luar biasa.\n"
+	.string "Izinkan Aku daftarkan sebagai kenang-kenangan.$"
 
 Route121_Text_WalterRematchIntro:
-	.string "With my POKéMON, I have traveled\n"
-	.string "to the world's four corners.\p"
-	.string "You might say I have some confidence\n"
-	.string "in my abilities.$"
+	.string "Bareng POKéMON Aku, Aku sudah\n"
+	.string "keliling empat penjuru dunia.\p"
+	.string "Wajar kalau Aku percaya diri\n"
+	.string "dengan kemampuan Aku.$"
 
 Route121_Text_WalterRematchDefeat:
-	.string "Ah, well played.$"
+	.string "Ah, main bagus.$"
 
 Route121_Text_WalterPostRematch:
-	.string "Your POKéMON and you…\p"
-	.string "Your prowess together will be\n"
-	.string "considered strong, even overseas.$"
+	.string "Kamu dan POKéMON-mu…\p"
+	.string "Kekuatan kalian diakui\n"
+	.string "bahkan di luar negeri.$"
 
 Route121_Text_TammyIntro:
-	.string "There are powers beyond our\n"
-	.string "understanding in the world…$"
+	.string "Ada kekuatan di dunia ini\n"
+	.string "yang tak bisa kita pahami…$"
 
 Route121_Text_TammyDefeat:
-	.string "I have lost…$"
+	.string "Aku kalah…$"
 
 Route121_Text_TammyPostBattle:
 	.string "MT. PYRE…\n"
-	.string "There is a mysterious power\l"
-	.string "at work there…$"
+	.string "Ada kekuatan misterius\l"
+	.string "di sana…$"
 
 Route121_Text_KateIntro:
-	.string "KATE: Together, we're fearless!\n"
-	.string "We'll demonstrate how tough we are!$"
+	.string "KATE: Bareng, kami tak takut!\n"
+	.string "Kami tunjukkan betapa tangguhnya!$"
 
 Route121_Text_KateDefeat:
-	.string "KATE: I blew it in front of my junior\n"
-	.string "student partner…$"
+	.string "KATE: Aku gagal di depan murid\n"
+	.string "junior Aku…$"
 
 Route121_Text_KatePostBattle:
-	.string "KATE: When someone's relying on me,\n"
-	.string "I get this urge to look cool in front\l"
-	.string "of them…$"
+	.string "KATE: Kalau ada yang andalkan Aku,\n"
+	.string "Aku ingin terlihat keren\l"
+	.string "di depan mereka…$"
 
 Route121_Text_KateNotEnoughMons:
-	.string "KATE: If you've only got one POKéMON,\n"
-	.string "we can't battle with you.\p"
-	.string "That would be bullying.$"
+	.string "KATE: Kalau cuma bawa satu\n"
+	.string "POKéMON,\l"
+	.string "kami tak bisa lawan Kamu.\p"
+	.string "Itu namanya bully.$"
 
 Route121_Text_JoyIntro:
-	.string "JOY: Together, we're fearless!\n"
-	.string "We'll demonstrate how tough we are!$"
+	.string "JOY: Bareng, kami tak takut!\n"
+	.string "Kami tunjukkan betapa tangguhnya!$"
 
 Route121_Text_JoyDefeat:
-	.string "JOY: Please forgive me, KATE!$"
+	.string "JOY: Maafkan Aku, KATE!$"
 
 Route121_Text_JoyPostBattle:
-	.string "JOY: Ehehe, I'll have to train with KATE,\n"
-	.string "my senior student partner, again.$"
+	.string "JOY: Hihi, Aku harus latihan lagi\n"
+	.string "bareng KATE, senior Aku.$"
 
 Route121_Text_JoyNotEnoughMons:
-	.string "JOY: You need at least two POKéMON\n"
-	.string "if you're going to challenge us!$"
+	.string "JOY: Kamu butuh minimal dua\n"
+	.string "POKéMON\l"
+	.string "kalau mau tantang kami!$"
 
 Route121_Text_JessicaIntro:
-	.string "Stop! Have a good look at my precious\n"
-	.string "POKéMON!$"
+	.string "Henti! Lihat baik-baik\n"
+	.string "POKéMON kesayangan Aku!$"
 
 Route121_Text_JessicaDefeat:
-	.string "Oh, how dare you!\n"
-	.string "Don't take it so seriously!$"
+	.string "Duh, berani sekali!\n"
+	.string "Jangan terlalu serius!$"
 
 Route121_Text_JessicaPostBattle:
-	.string "Maybe I'll go catch more POKéMON at\n"
-	.string "the SAFARI.$"
+	.string "Mungkin Aku cari POKéMON lagi\n"
+	.string "di SAFARI.$"
 
 Route121_Text_JessicaRegister:
-	.string "I took it easy on you this time!\n"
-	.string "It won't be that way the next time!$"
+	.string "Tadi Aku kasih ampun!\n"
+	.string "Lain kali tak akan Aku kasih!$"
 
 Route121_Text_JessicaRematchIntro:
-	.string "My precious POKéMON grew!\n"
-	.string "Have a good look!$"
+	.string "POKéMON kesayangan Aku tumbuh!\n"
+	.string "Lihat baik-baik!$"
 
 Route121_Text_JessicaRematchDefeat:
-	.string "Oh, how dare you!\n"
-	.string "You still won't take it easy!$"
+	.string "Duh, berani sekali!\n"
+	.string "Masih tak kasih ampun!$"
 
 Route121_Text_JessicaPostRematch:
-	.string "Maybe I'll go catch more POKéMON at\n"
-	.string "the SAFARI.$"
+	.string "Mungkin Aku cari POKéMON lagi\n"
+	.string "di SAFARI.$"
 
 Route121_Text_CristinIntro:
-	.string "I have this routine.\n"
-	.string "Defeat five TRAINERS a day.\l"
-	.string "Guess what? You're number five!$"
+	.string "Aku punya rutinitas.\n"
+	.string "Kalahkan lima TRAINER sehari.\l"
+	.string "Tebak? Kamu nomor lima!$"
 
 Route121_Text_CristinDefeat:
-	.string "No!\n"
-	.string "You're horrid!$"
+	.string "Tidak!\n"
+	.string "Kamu jahat!$"
 
 Route121_Text_CristinPostBattle:
-	.string "I didn't expect to lose this easily…\n"
-	.string "I'll win next time!$"
+	.string "Tak menyangka kalah gampang…\n"
+	.string "Lain kali Aku menang!$"
 
 Route121_Text_CristinRegister:
-	.string "That was total humiliation!\n"
-	.string "I won't forget you…\l"
-	.string "Hand over your POKéNAV!$"
+	.string "Ini memalukan total!\n"
+	.string "Aku takkan lupa Kamu…\l"
+	.string "Serahkan POKéNAV-mu!$"
 
 Route121_Text_CristinRematchIntro:
-	.string "I have this new routine.\n"
-	.string "Defeat ten TRAINERS a day.\l"
-	.string "Guess what? You're number ten!$"
+	.string "Aku punya rutinitas baru.\n"
+	.string "Kalahkan sepuluh TRAINER sehari.\l"
+	.string "Tebak? Kamu nomor sepuluh!$"
 
 Route121_Text_CristinRematchDefeat:
-	.string "Wait! That's nasty!\n"
-	.string "I demand a rematch!$"
+	.string "Tunggu! Jahat banget!\n"
+	.string "Aku minta rematch!$"
 
 Route121_Text_CristinPostRematch:
-	.string "An opponent I just can't beat…\n"
-	.string "Snivel…\l"
-	.string "I can't believe this is happening…$"
+	.string "Lawan yang tak bisa Aku kalahkan…\n"
+	.string "Hiks…\l"
+	.string "Tak percaya ini terjadi…$"
 
 Route121_Text_CaleIntro:
-	.string "Can't you see that I have all this\n"
-	.string "stuff with me?\p"
-	.string "Despite that, you still insist that\n"
-	.string "we battle?$"
+	.string "Gak kelihatan Aku bawa\n"
+	.string "banyak barang?\p"
+	.string "Meski begitu, Kamu tetap\n"
+	.string "mau bertarung?$"
 
 Route121_Text_CaleDefeat:
-	.string "Of course I lost!\n"
-	.string "I'm holding stuff in both hands!$"
+	.string "Pasti kalah!\n"
+	.string "Tangan Aku penuh barang!$"
 
 Route121_Text_CalePostBattle:
-	.string "I bought too much stuff at\n"
-	.string "the LILYCOVE DEPT. STORE.\p"
-	.string "It's up the road from here.\n"
-	.string "I wish I had a BAG like yours.$"
+	.string "Aku belanja terlalu banyak\n"
+	.string "di LILYCOVE DEPT. STORE.\p"
+	.string "Toko itu di ujung jalan.\n"
+	.string "Andai Aku punya TAS kayak Kamu.$"
 
 Route121_Text_MylesIntro:
-	.string "There's nothing I love more than\n"
-	.string "checking out other people's POKéMON!$"
+	.string "Tak ada yang Aku suka lebih\n"
+	.string "daripada lihat POKéMON orang!$"
 
 Route121_Text_MylesDefeat:
-	.string "Super awesome!$"
+	.string "Keren banget!$"
 
 Route121_Text_MylesPostBattle:
-	.string "They're great, your POKéMON!\n"
-	.string "How do you raise them?$"
+	.string "POKéMON-mu hebat!\n"
+	.string "Gimana cara merawatnya?$"
 
 Route121_Text_PatIntro:
-	.string "I want everybody to see the POKéMON\n"
-	.string "I've raised!$"
+	.string "Aku ingin semua orang lihat\n"
+	.string "POKéMON yang Aku rawat!$"
 
 Route121_Text_PatDefeat:
-	.string "Wow!\n"
-	.string "Spectacular!$"
+	.string "Wah!\n"
+	.string "Spektakuler!$"
 
 Route121_Text_PatPostBattle:
-	.string "I raise every POKéMON with the same\n"
-	.string "love and care--I don't pick favorites.$"
+	.string "Aku rawat semua POKéMON\n"
+	.string "dengan cinta sama rata-\l"
+	.string "tak pilih kasih.$"
 
 Route121_Text_MarcelIntro:
-	.string "My POKéMON have never tasted defeat!\n"
-	.string "On their next win, I'm entering them\l"
-	.string "in CONTESTS.$"
+	.string "POKéMON Aku belum pernah kalah!\n"
+	.string "Kalau menang lagi, Aku ikutkan\l"
+	.string "mereka di CONTEST.$"
 
 Route121_Text_MarcelDefeat:
-	.string "Oh, now what happened here?$"
+	.string "Apa yang terjadi tadi?$"
 
 Route121_Text_MarcelPostBattle:
-	.string "I may have to train my gang some more\n"
-	.string "before entering any CONTEST.$"
+	.string "Mungkin Aku harus latih\n"
+	.string "pasukan Aku lebih dulu\l"
+	.string "sebelum ikut CONTEST.$"
 
 Route123_Text_WendyIntro:
-	.string "Want to determine how strong you are?\n"
-	.string "I'll be the test!$"
+	.string "Mau tahu seberapa kuat Kamu?\n"
+	.string "Aku jadi ujiannya!$"
 
 Route123_Text_WendyDefeat:
-	.string "You passed with flying colors!$"
+	.string "Kamu lulus dengan gemilang!$"
 
 Route123_Text_WendyPostBattle:
-	.string "To best even me…\n"
-	.string "Your strength is marvelous!$"
+	.string "Bisa kalahkan Aku…\n"
+	.string "Kekuatanmu luar biasa!$"
 
 Route123_Text_BraxtonIntro:
-	.string "You seem to have a big collection\n"
-	.string "of GYM BADGES.\p"
-	.string "Let me see if you're actually worthy of\n"
-	.string "those BADGES!$"
+	.string "Kamu punya banyak GYM BADGES.\p"
+	.string "Ayo lihat apakah Kamu layak\n"
+	.string "memilikinya!$"
 
 Route123_Text_BraxtonDefeat:
-	.string "Oh, you're worthy, all right!$"
+	.string "Oh, Kamu memang layak!$"
 
 Route123_Text_BraxtonPostBattle:
-	.string "You did your BADGES proud in that\n"
-	.string "match!$"
+	.string "Kamu buat BADGES-mu\n"
+	.string "bangga dalam pertarungan itu!$"
 
 Route123_Text_VioletIntro:
-	.string "They say that good times are filled\n"
-	.string "with good aromas.$"
+	.string "Katanya masa bahagia itu\n"
+	.string "harum baunya.$"
 
 Route123_Text_VioletDefeat:
 	.string "Oh…\n"
-	.string "I smell the bitter scent of misery…$"
+	.string "Aku cium bau pahit kekecewaan…$"
 
 Route123_Text_VioletPostBattle:
-	.string "The BERRY MASTER's garden is filled\n"
-	.string "with uplifting fragrances.$"
+	.string "Taman BERRY MASTER penuh\n"
+	.string "aroma yang menyegarkan.$"
 
 Route123_Text_CameronIntro:
-	.string "Being a psychic is about willpower.\p"
-	.string "I've willed myself not to lose to\n"
-	.string "anyone. That makes me strong!$"
+	.string "Jadi paranormal itu soal\n"
+	.string "kemauan.\p"
+	.string "Aku yakinkan diri tak kalah\n"
+	.string "pada siapa pun. Itu bikin Aku kuat!$"
 
 Route123_Text_CameronDefeat:
-	.string "I feel sad…$"
+	.string "Aku sedih…$"
 
 Route123_Text_CameronPostBattle:
-	.string "Being a psychic is about willpower.\n"
-	.string "I thought I wouldn't lose to you…$"
+	.string "Jadi paranormal itu soal\n"
+	.string "kemauan.\l"
+	.string "Aku kira takkan kalah dari Kamu…$"
 
 Route123_Text_CameronRegister:
-	.string "I sense it!\n"
-	.string "You and I shall battle again!\l"
-	.string "I can't tell if I'll win, though…\p"
-	.string "Let's see your POKéNAV.$"
+	.string "Aku merasakannya!\n"
+	.string "Kita pasti bertarung lagi!\l"
+	.string "Tapi Aku tak tahu menang atau tidak…\p"
+	.string "Tunjukkan POKéNAV-mu.$"
 
 Route123_Text_CameronRematchIntro:
-	.string "I've convinced myself that I won't\n"
-	.string "lose anymore. That makes me strong!$"
+	.string "Aku yakin takkan kalah lagi.\n"
+	.string "Itu bikin Aku kuat!$"
 
 Route123_Text_CameronRematchDefeat:
-	.string "I feel sad…$"
+	.string "Aku sedih…$"
 
 Route123_Text_CameronPostRematch:
-	.string "I should train at MT. PYRE…\n"
-	.string "I'll never beat you this way…$"
+	.string "Aku harus latihan di MT. PYRE…\n"
+	.string "Tak mungkin menang begini…$"
 
 Route123_Text_JackiIntro:
-	.string "Don't be too happy if your POKéMON\n"
-	.string "develop psychic powers.\p"
-	.string "You need to refine those powers to\n"
-	.string "make them really useful.$"
+	.string "Jangan terlalu senang kalau\n"
+	.string "POKéMON-mu punya kekuatan\l"
+	.string "paranormal.\p"
+	.string "Kamu harus asah itu biar\n"
+	.string "berguna.$"
 
 Route123_Text_JackiDefeat:
-	.string "Overwhelmed!$"
+	.string "Kewalahan!$"
 
 Route123_Text_JackiPostBattle:
-	.string "We all have psychic powers.\n"
-	.string "We've just forgotten how to use them.$"
+	.string "Kita semua punya kekuatan\n"
+	.string "paranormal.\l"
+	.string "Hanya saja, kita lupa cara\n"
+	.string "menggunakannya.$"
 
 Route123_Text_JackiRegister:
-	.string "I would like to face you again.\n"
-	.string "Is that okay with you?$"
+	.string "Aku ingin lawan Kamu lagi.\n"
+	.string "Boleh, kan?$"
 
 Route123_Text_JackiRematchIntro:
-	.string "Have you awoken the psychic powers\n"
-	.string "within you?$"
+	.string "Apa kekuatan paranormalmu\n"
+	.string "sudah terbangun?$"
 
 Route123_Text_JackiRematchDefeat:
-	.string "Astounding!$"
+	.string "Luar biasa!$"
 
 Route123_Text_JackiPostRematch:
-	.string "Your power with POKéMON…\n"
-	.string "That could be a psychic power, too.$"
+	.string "Kekuatanmu bersama POKéMON…\n"
+	.string "Itu juga kekuatan paranormal.$"
 
 Route123_Text_MiuIntro:
-	.string "MIU: Hello, TRAINER. I hope your\n"
-	.string "POKéMON won't cry when they lose.$"
+	.string "MIU: Hai, TRAINER. Semoga\n"
+	.string "POKéMON-mu tak nangis kalau kalah.$"
 
 Route123_Text_MiuDefeat:
-	.string "MIU: Uh-oh, we lost.$"
+	.string "MIU: Uh-oh, kami kalah.$"
 
 Route123_Text_MiuPostBattle:
-	.string "MIU: TRAINER, your POKéMON are\n"
-	.string "strong because you are friends.$"
+	.string "MIU: TRAINER, POKéMON-mu kuat\n"
+	.string "karena kalian berteman.$"
 
 Route123_Text_MiuNotEnoughMons:
-	.string "MIU: It's no fun to battle if you\n"
-	.string "don't have two POKéMON.$"
+	.string "MIU: Tak seru bertarung kalau\n"
+	.string "Kamu cuma bawa satu POKéMON.$"
 
 Route123_Text_YukiIntro:
-	.string "YUKI: Okay!\n"
-	.string "We're beating the TRAINER's POKéMON!$"
+	.string "YUKI: Oke!\n"
+	.string "Kami kalahkan POKéMON TRAINER!$"
 
 Route123_Text_YukiDefeat:
-	.string "YUKI: Uh-oh, we lost.$"
+	.string "YUKI: Uh-oh, kami kalah.$"
 
 Route123_Text_YukiPostBattle:
-	.string "YUKI: Why are you so strong?\n"
-	.string "We've never lost before.$"
+	.string "YUKI: Kenapa Kamu sekuat ini?\n"
+	.string "Kami belum pernah kalah sebelumnya.$"
 
 Route123_Text_YukiNotEnoughMons:
-	.string "YUKI: It's no fun to battle if you\n"
-	.string "don't have two POKéMON.$"
+	.string "YUKI: Tak seru bertarung kalau\n"
+	.string "Kamu cuma bawa satu POKéMON.$"
 
 Route123_Text_KindraIntro:
 	.string "MT. PYRE…\n"
-	.string "Where the spirits of POKéMON sleep…\l"
-	.string "Will your POKéMON sleep?$"
+	.string "Tempat roh POKéMON beristirahat…\l"
+	.string "Apa POKéMON-mu akan tertidur?$"
 
 Route123_Text_KindraDefeat:
-	.string "Overflowing with vitality…$"
+	.string "Penuh vitalitas…$"
 
 Route123_Text_KindraPostBattle:
 	.string "MT. PYRE…\n"
-	.string "Where the spirits of POKéMON sleep…\p"
-	.string "It must overflow with a power that\n"
-	.string "soothes spirits…$"
+	.string "Tempat roh POKéMON beristirahat…\p"
+	.string "Pasti penuh kekuatan yang\n"
+	.string "menenangkan jiwa…$"
 
 Route123_Text_FernandoIntro:
-	.string "I'll turn your lights out while\n"
-	.string "I rip through this tune!$"
+	.string "Aku matikan lampumu sambil\n"
+	.string "main lagu ini!$"
 
 Route123_Text_FernandoDefeat:
-	.string "Hey, hold it!\n"
-	.string "I was still playing the intro!$"
+	.string "Hei, tunggu!\n"
+	.string "Aku belum selesai intro!$"
 
 Route123_Text_FernandoPostBattle:
-	.string "You're rock steady.\n"
-	.string "I'd like to write a tune about you.$"
+	.string "Kamu stabil banget.\n"
+	.string "Aku mau buat lagu tentang Kamu.$"
 
 Route123_Text_FernandoRegister:
-	.string "The next time, lend your ears to\n"
-	.string "the full tune, will you?$"
+	.string "Lain kali, dengarkan lagu\n"
+	.string "Aku sampai habis, ya?$"
 
 Route123_Text_FernandoRematchIntro:
-	.string "Today's the day I'm going to do it!\n"
-	.string "I'll turn out your lights before\l"
-	.string "I finish singing my song!$"
+	.string "Hari ini Aku pasti menang!\n"
+	.string "Aku matikan lampumu sebelum\l"
+	.string "lagu Aku selesai!$"
 
 Route123_Text_FernandoRematchDefeat:
-	.string "Hey, hold it!\n"
-	.string "I haven't even hit the chorus!$"
+	.string "Hei, tunggu!\n"
+	.string "Aku belum sampai chorus!$"
 
 Route123_Text_FernandoPostRematch:
-	.string "I thought you'd be so enthralled\n"
-	.string "by my tune, you'd lose.$"
+	.string "Aku kira Kamu terpesona\n"
+	.string "oleh lagu Aku, jadi kalah.$"
 
 Route123_Text_DavisIntro:
-	.string "This is my awesome BUG POKéMON!\n"
-	.string "My big brother got it for me.$"
+	.string "Ini POKéMON BUG Aku yang keren!\n"
+	.string "Kakak Aku yang kasih.$"
 
 Route123_Text_DavisDefeat:
 	.string "Waaaah!\n"
-	.string "You meanie!$"
+	.string "Jahat!$"
 
 Route123_Text_DavisPostBattle:
-	.string "Don't tell my brother I lost.\n"
-	.string "You have to keep it a secret!$"
+	.string "Jangan bilang Kakak Aku Aku kalah.\n"
+	.string "Ini rahasia, ya!$"
 
 Route123_Text_JazmynIntro:
-	.string "My confidence will get a boost by\n"
-	.string "beating someone obviously strong!$"
+	.string "Rasa percaya diri Aku naik\n"
+	.string "kalau bisa kalahkan TRAINER kuat!$"
 
 Route123_Text_JazmynDefeat:
-	.string "There goes my confidence…$"
+	.string "Percaya diri Aku hancur…$"
 
 Route123_Text_JazmynPostBattle:
-	.string "They say that you can't judge a person\n"
-	.string "by their appearance.\p"
-	.string "But often, their looks don't lie…$"
+	.string "Katanya jangan menilai orang\n"
+	.string "dari penampilan.\p"
+	.string "Tapi sering kali, penampilan\n"
+	.string "itu benar…$"
 
 Route123_Text_FrederickIntro:
-	.string "Hello, child!\n"
-	.string "Can you spare some time?$"
+	.string "Hai, Nak!\n"
+	.string "Ada waktu sebentar?$"
 
 Route123_Text_FrederickDefeat:
-	.string "Ah, a mighty capable child!\n"
-	.string "Let me contribute to your allowance.$"
+	.string "Ah, anak yang hebat!\n"
+	.string "Izinkan Aku tambah uang jajanmu.$"
 
 Route123_Text_FrederickPostBattle:
-	.string "Contribute to your allowance?\n"
-	.string "Wasn't the prize money enough?$"
+	.string "Tambah uang jajan?\n"
+	.string "Apa uang hadiah tak cukup?$"
 
 Route123_Text_AlbertoIntro:
-	.string "I have to tell you, BIRD POKéMON\n"
-	.string "are my obsession!\p"
-	.string "Birds are cool!\n"
-	.string "They're the best!$"
+	.string "Aku harus bilang, BIRD POKÉMON\n"
+	.string "itu obsesi Aku!\p"
+	.string "Burung itu keren!\n"
+	.string "Terbaik!$"
 
 Route123_Text_AlbertoDefeat:
-	.string "Even in defeat, BIRD POKéMON are cool!$"
+	.string "Meski kalah, BIRD POKÉMON tetap keren!$"
 
 Route123_Text_AlbertoPostBattle:
-	.string "I gather BIRD POKéMON feathers that\n"
-	.string "scatter during battles.\p"
-	.string "I'm going to make a hat with\n"
-	.string "BIRD POKéMON feathers.$"
+	.string "Aku kumpulkan bulu BIRD POKÉMON\n"
+	.string "yang rontok saat bertarung.\p"
+	.string "Aku akan buat topi dari bulu\n"
+	.string "BIRD POKÉMON.$"
 
 Route123_Text_EdIntro:
-	.string "When there are no TRAINERS around,\n"
-	.string "I let my POKéMON battle each other.\l"
-	.string "I watch them.$"
+	.string "Kalau tak ada TRAINER, Aku\n"
+	.string "biarkan POKéMON Aku bertarung\l"
+	.string "sendiri.\l"
+	.string "Aku hanya menonton.$"
 
 Route123_Text_EdDefeat:
-	.string "I kind of like your POKéMON.$"
+	.string "POKéMON-mu lumayan Aku suka.$"
 
 Route123_Text_EdPostBattle:
-	.string "Hehe, I'm swiping your battling ideas!\n"
-	.string "I think they'll make me better.$"
+	.string "Hehe, Aku curi ide bertarungmu!\n"
+	.string "Kayaknya bikin Aku makin jago.$"
 
 Route123_Text_JonasIntro:
-	.string "I lay in ambush, and a TRAINER has\n"
-	.string "landed in my trap!$"
+	.string "Aku bersembunyi, dan TRAINER\n"
+	.string "terjebak dalam perangkap Aku!$"
 
 Route123_Text_JonasDefeat:
-	.string "If you don't lose, how am I supposed\n"
-	.string "to have fun playing ninja?$"
+	.string "Kalau tak kalah, gimana Aku\n"
+	.string "bisa senang main jadi ninja?$"
 
 Route123_Text_JonasPostBattle:
-	.string "I'm going to ambush a weaker-looking\n"
-	.string "TRAINER next time.$"
+	.string "Lain kali Aku jebak TRAINER\n"
+	.string "yang kelihatan lebih lemah.$"
 
 Route123_Text_KayleyIntro:
-	.string "I just bought this parasol.\n"
-	.string "My cuteness should be up by a third!$"
+	.string "Aku baru beli payung ini.\n"
+	.string "Kelucuan Aku naik sepertiga!$"
 
 Route123_Text_KayleyDefeat:
-	.string "You're better than me by about\n"
-	.string "five times!$"
+	.string "Kamu lima kali lebih hebat\n"
+	.string "dari Aku!$"
 
 Route123_Text_KayleyPostBattle:
-	.string "Using accessories effectively is\n"
-	.string "the secret behind fashion appeal.$"
+	.string "Pakai aksesori dengan tepat\n"
+	.string "rahasia gaya modis.$"
 
 Route124_Text_SpencerIntro:
-	.string "Hey, are you lost at sea?\p"
-	.string "If you can beat my POKéMON,\n"
-	.string "I can serve as your pilot.$"
+	.string "Hei, Kamu tersesat di laut?\p"
+	.string "Kalau bisa kalahkan POKéMON Aku,\n"
+	.string "Aku jadi pilotmu.$"
 
 Route124_Text_SpencerDefeat:
-	.string "I lost my bearings in battle!$"
+	.string "Arah Aku hilang dalam pertarungan!$"
 
 Route124_Text_SpencerPostBattle:
-	.string "Many people lose their bearings at sea.\p"
-	.string "If you're that sort, you should refer\n"
-	.string "to the POKéNAV's MAP.$"
+	.string "Banyak orang tersesat di laut.\p"
+	.string "Kalau Kamu salah satunya,\n"
+	.string "pakai peta di POKéNAV-mu.$"
 
 Route124_Text_RolandIntro:
-	.string "Hm! You're riding a POKéMON instead\n"
-	.string "of swimming yourself…\p"
-	.string "I am envious!$"
+	.string "Hm! Kamu naik POKéMON,\n"
+	.string "bukan berenang sendiri…\p"
+	.string "Aku iri!$"
 
 Route124_Text_RolandDefeat:
 	.string "Oh!\n"
-	.string "I can't…$"
+	.string "Aku tak sanggup…$"
 
 Route124_Text_RolandPostBattle:
-	.string "I'm getting chilled…\n"
-	.string "I've been in the water too long…\p"
-	.string "I wish I could ride a POKéMON like you…$"
+	.string "Aku kedinginan…\n"
+	.string "Terlalu lama di air…\p"
+	.string "Andai Aku bisa naik POKéMON\n"
+	.string "kayak Kamu…$"
 
 Route124_Text_JennyIntro:
-	.string "If you just float in the sea like\n"
-	.string "this, POKéMON come around to play.$"
+	.string "Kalau mengapung di laut begini,\n"
+	.string "POKéMON datang main.$"
 
 Route124_Text_JennyDefeat:
-	.string "Oh, darn.\n"
-	.string "I've gone and lost.$"
+	.string "Ah, sial.\n"
+	.string "Aku malah kalah.$"
 
 Route124_Text_JennyPostBattle:
-	.string "While swimming, I noticed that some\n"
-	.string "POKéMON attack, and some just watch.\p"
-	.string "I guess POKéMON have personalities\n"
-	.string "of their own.$"
+	.string "Saat berenang, Aku perhatikan\n"
+	.string "ada POKéMON yang menyerang,\l"
+	.string "ada yang cuma nonton.\p"
+	.string "Rupanya POKéMON punya\n"
+	.string "kepribadian sendiri.$"
 
 Route124_Text_JennyRegister:
-	.string "It's only on a whim, but maybe I'll get\n"
-	.string "you to register me in your POKéNAV.$"
+	.string "Ini cuma iseng, tapi mungkin\n"
+	.string "daftarkan Aku di POKéNAV-mu.$"
 
 Route124_Text_JennyRematchIntro:
-	.string "If you just float in the sea like this,\n"
-	.string "TRAINERS challenge you!$"
+	.string "Kalau mengapung di laut begini,\n"
+	.string "TRAINER tantang Kamu!$"
 
 Route124_Text_JennyRematchDefeat:
-	.string "That's strange…\n"
-	.string "I lost again…$"
+	.string "Aneh…\n"
+	.string "Aku kalah lagi…$"
 
 Route124_Text_JennyPostRematch:
-	.string "This has nothing to do with anything,\n"
-	.string "but maybe I'll visit the TRICK HOUSE.$"
+	.string "Ini tak ada hubungannya,\n"
+	.string "tapi mungkin Aku kunjungi\l"
+	.string "TRICK HOUSE.$"
 
 Route124_Text_GraceIntro:
-	.string "I'm growing bored of swimming…\n"
-	.string "How about a battle?$"
+	.string "Aku bosan berenang…\n"
+	.string "Mau bertarung?$"
 
 Route124_Text_GraceDefeat:
-	.string "I had no idea that you were\n"
-	.string "this strong!$"
+	.string "Tak kira Kamu sekuat ini!$"
 
 Route124_Text_GracePostBattle:
-	.string "All the effort you put in must have\n"
-	.string "made you this strong.$"
+	.string "Usaha yang Kamu lakukan pasti\n"
+	.string "yang bikin Kamu sekuat ini.$"
 
 Route124_Text_ChadIntro:
-	.string "Fufufufu… I dive deep underwater\n"
-	.string "to go deep under cover.\l"
-	.string "Plumbing the depths is where I excel!$"
+	.string "Fufufufu… Aku menyelam dalam\n"
+	.string "untuk bersembunyi.\l"
+	.string "Menyelam itu keahlian Aku!$"
 
 Route124_Text_ChadDefeat:
 	.string "Glub, glub, glub…\n"
-	.string "I'm sinking…$"
+	.string "Aku tenggelam…$"
 
 Route124_Text_ChadPostBattle:
-	.string "I have it on good authority that\n"
-	.string "there's a DIVE spot around here.\p"
-	.string "It gives me the urge to go deep\n"
-	.string "again…$"
+	.string "Katanya ada spot DIVE di sini.\p"
+	.string "Itu bikin Aku ingin menyelam\n"
+	.string "lagi…$"
 
 Route124_Text_LilaIntro:
-	.string "LILA: Sigh…\p"
-	.string "Here I am in the sea, but who's with me?\n"
-	.string "My little brother!\p"
-	.string "Let's battle so I won't have to dwell\n"
-	.string "on that!$"
+	.string "LILA: Haaah…\p"
+	.string "Di laut begini, siapa teman Aku?\n"
+	.string "Adik Aku!\p"
+	.string "Ayo bertarung biar Aku tak\n"
+	.string "melamun!$"
 
 Route124_Text_LilaDefeat:
-	.string "LILA: ROY! It's your fault we lost!\n"
-	.string "You're in for it later!$"
+	.string "LILA: ROY! Salahmu kami kalah!\n"
+	.string "Nanti Aku hukum Kamu!$"
 
 Route124_Text_LilaPostBattle:
-	.string "LILA: Sigh…\p"
-	.string "If only it wasn't my little brother\n"
-	.string "next to me, but a nice boyfriend…$"
+	.string "LILA: Haaah…\p"
+	.string "Andai bukan adik Aku yang\n"
+	.string "bareng, tapi pacar ganteng…$"
 
 Route124_Text_LilaNotEnoughMons:
-	.string "LILA: You're planning to battle us?\n"
-	.string "Not unless you have two POKéMON.$"
+	.string "LILA: Mau lawan kami?\n"
+	.string "Harus bawa dua POKéMON.$"
 
 Route124_Text_RoyIntro:
-	.string "ROY: My big sister is tough at POKéMON!\p"
-	.string "Don't cry when you lose!$"
+	.string "ROY: Kakak Aku jago POKéMON!\p"
+	.string "Jangan nangis kalau kalah!$"
 
 Route124_Text_RoyDefeat:
 	.string "ROY: Uh-oh…\n"
-	.string "My big sister will chew me out…$"
+	.string "Kakak pasti marahin Aku…$"
 
 Route124_Text_RoyPostBattle:
-	.string "ROY: My big sister is really scary\n"
-	.string "when she gets angry.\p"
-	.string "That's why she doesn't have a\n"
-	.string "boyfriend.$"
+	.string "ROY: Kakak Aku seram banget\n"
+	.string "kalau marah.\p"
+	.string "Makanya dia belum punya\n"
+	.string "pacar.$"
 
 Route124_Text_LilaRoyRegister:
-	.string "ROY: Will you battle with us again?\n"
-	.string "But take it easy next time, okay?$"
+	.string "ROY: Mau lawan kami lagi?\n"
+	.string "Tapi kasih ampun ya, lain kali!$"
 
 Route124_Text_RoyNotEnoughMons:
-	.string "ROY: Did you want to battle us?\n"
-	.string "Bring two POKéMON, then.$"
+	.string "ROY: Mau lawan kami?\n"
+	.string "Bawa dua POKéMON dulu.$"
 
 Route124_Text_LilaRematchIntro:
-	.string "LILA: Sigh…\p"
-	.string "Here I am in the sea, but who's with me?\n"
-	.string "My little brother!\p"
-	.string "Oh, hi, it's been a while. Let's battle\n"
-	.string "so I won't have to dwell on things!$"
+	.string "LILA: Haaah…\p"
+	.string "Di laut begini, siapa teman Aku?\n"
+	.string "Adik Aku!\p"
+	.string "Oh, hai! Sudah lama. Ayo bertarung\n"
+	.string "biar Aku tak melamun!$"
 
 Route124_Text_LilaRematchDefeat:
 	.string "LILA: ROY!\n"
-	.string "It's your fault we lost again!\p"
-	.string "We're having a training session later!$"
+	.string "Salahmu kami kalah lagi!\p"
+	.string "Nanti latihan berat bareng Aku!$"
 
 Route124_Text_LilaPostRematch:
-	.string "LILA: Sigh…\p"
-	.string "If I had a nice boyfriend, we'd beat\n"
-	.string "anyone with lovely combinations…$"
+	.string "LILA: Haaah…\p"
+	.string "Kalau Aku punya pacar, kami pasti\n"
+	.string "menang dengan kombinasi manis…$"
 
 Route124_Text_LilaRematchNotEnoughMons:
-	.string "LILA: You're planning to battle us?\n"
-	.string "Not unless you have two POKéMON.$"
+	.string "LILA: Mau lawan kami?\n"
+	.string "Harus bawa dua POKéMON.$"
 
 Route124_Text_RoyRematchIntro:
-	.string "ROY: If we lose, I'll catch heck.\n"
-	.string "I'm going to go totally all out!$"
+	.string "ROY: Kalau kalah, Aku kena marah.\n"
+	.string "Aku main habis-habisan!$"
 
 Route124_Text_RoyRematchDefeat:
 	.string "ROY: Uh-oh…\n"
-	.string "My big sister will chew me out again.$"
+	.string "Kakak pasti marahin Aku lagi.$"
 
 Route124_Text_RoyPostRematch:
-	.string "ROY: My big sister is really scary\n"
-	.string "when she gets angry.\p"
-	.string "She's going to make me train really\n"
-	.string "hard with POKéMON later…$"
+	.string "ROY: Kakak Aku seram banget\n"
+	.string "kalau marah.\p"
+	.string "Dia pasti suruh Aku latihan\n"
+	.string "berat sama POKéMON…$"
 
 Route124_Text_RoyRematchNotEnoughMons:
-	.string "ROY: Did you want to battle us?\n"
-	.string "Bring two POKéMON, then.$"
+	.string "ROY: Mau lawan kami?\n"
+	.string "Bawa dua POKÉMON dulu.$"
 
 Route124_Text_DeclanIntro:
-	.string "Here I am swimming by my lonesome\n"
-	.string "on this wide, beautiful sea.\p"
-	.string "There's no other word for it.\n"
-	.string "This is pathetic!$"
+	.string "Aku berenang sendirian\n"
+	.string "di laut indah nan luas ini.\p"
+	.string "Tak ada kata lain.\n"
+	.string "Ini menyedihkan!$"
 
 Route124_Text_DeclanDefeat:
-	.string "I'm feeling blue.\n"
-	.string "Blue as the sky…$"
+	.string "Aku sedih.\n"
+	.string "Sedih kayak langit biru…$"
 
 Route124_Text_DeclanPostBattle:
-	.string "I should chat up lady SWIMMERS\n"
-	.string "and invite them on a long swim.$"
+	.string "Aku harus ajak cewek perenang\n"
+	.string "jalan-jalan berenang bareng.$"
 
 Route124_Text_IsabellaIntro:
-	.string "I'm not going to lose to some\n"
-	.string "surfer TRAINER.$"
+	.string "Aku takkan kalah dari TRAINER\n"
+	.string "berselancar kayak Kamu.$"
 
 Route124_Text_IsabellaDefeat:
-	.string "I've only got sweat in my eyes!\n"
-	.string "I am not crying!$"
+	.string "Ini cuma keringat di mata!\n"
+	.string "Aku tak nangis!$"
 
 Route124_Text_IsabellaPostBattle:
-	.string "You can find pretty colored shards\n"
-	.string "of things around here.$"
+	.string "Kamu bisa temukan pecahan\n"
+	.string "berwarna cantik di sini.$"
 
 Route125_Text_NolenIntro:
-	.string "I heard you approaching, so I hung\n"
-	.string "around for you!$"
+	.string "Aku dengar Kamu datang,\n"
+	.string "jadi Aku tunggu di sini!$"
 
 Route125_Text_NolenDefeat:
-	.string "I surrender!$"
+	.string "Aku menyerah!$"
 
 Route125_Text_NolenPostBattle:
-	.string "Sound travels faster in water than\n"
-	.string "it does through air.$"
+	.string "Suara lebih cepat di air\n"
+	.string "daripada di udara.$"
 
 Route125_Text_StanIntro:
-	.string "Hey, there!\n"
-	.string "Check out my sweet POKéMON!$"
+	.string "Hei!\n"
+	.string "Lihat POKéMON keren Aku!$"
 
 Route125_Text_StanDefeat:
-	.string "I floundered…$"
+	.string "Aku gagal…$"
 
 Route125_Text_StanPostBattle:
-	.string "I was blown away by HORSEA's charm,\n"
-	.string "so I started swimming, too.$"
+	.string "Aku terpesona oleh HORSEA,\n"
+	.string "jadi Aku ikut berenang juga.$"
 
 Route125_Text_TanyaIntro:
-	.string "I'm tired of swimming.\n"
-	.string "Are you up for a battle with me?$"
+	.string "Aku capek berenang.\n"
+	.string "Mau bertarung?$"
 
 Route125_Text_TanyaDefeat:
-	.string "You're too much!$"
+	.string "Kamu keterlaluan!$"
 
 Route125_Text_TanyaPostBattle:
-	.string "Whew…\n"
-	.string "Which way is it to MOSSDEEP CITY?$"
+	.string "Huh…\n"
+	.string "Jalan ke MOSSDEEP CITY mana?$"
 
 Route125_Text_SharonIntro:
-	.string "How would you like to take on the\n"
-	.string "WATER-type POKéMON I raised?$"
+	.string "Mau lawan POKéMON tipe AIR\n"
+	.string "yang Aku rawat?$"
 
 Route125_Text_SharonDefeat:
-	.string "Lost it…$"
+	.string "Kalah…$"
 
 Route125_Text_SharonPostBattle:
-	.string "Your power… You're the real deal.\n"
-	.string "I'm amazed!$"
+	.string "Kekuatanmu… Kamu hebat banget.\n"
+	.string "Aku kagum!$"
 
 Route125_Text_ErnestIntro:
-	.string "Ahoy! I'm a buff, tough SAILOR!\n"
-	.string "I've braved the world's seas!$"
+	.string "Hoi! Aku SAILOR kuat!\n"
+	.string "Aku jelajahi lautan dunia!$"
 
 Route125_Text_ErnestDefeat:
 	.string "Gwrroooar!\n"
-	.string "I couldn't win!$"
+	.string "Aku tak menang!$"
 
 Route125_Text_ErnestPostBattle:
-	.string "The tide ebbs and flows inside the\n"
-	.string "SHOAL CAVE.\p"
-	.string "By the way, it's about six hours from\n"
-	.string "high tide to low tide. Did you know?$"
+	.string "Arus pasang-surut di SHOAL CAVE.\p"
+	.string "Ngomong-ngomong, dari pasang\n"
+	.string "tinggi ke surut butuh sekitar\l"
+	.string "enam jam. Tahu, kan?$"
 
 Route125_Text_ErnestRegister:
-	.string "Register me in your POKéNAV,\n"
-	.string "and I'll tell you something good.$"
+	.string "Daftarkan Aku di POKéNAV-mu,\n"
+	.string "Aku kasih info bagus.$"
 
 Route125_Text_ErnestRematchIntro:
-	.string "It's high time I get my payback\n"
-	.string "from you! Come on, we're battling!$"
+	.string "Waktunya balas dendam!\n"
+	.string "Ayo bertarung!$"
 
 Route125_Text_ErnestRematchDefeat:
-	.string "I couldn't win!\n"
-	.string "I flat out couldn't win!$"
+	.string "Aku tak menang!\n"
+	.string "Benar-benar tak menang!$"
 
 Route125_Text_ErnestRematchPostBattle:
-	.string "The SHOAL CAVE…\p"
-	.string "There are places you can and can't\n"
-	.string "get to depending on the rise and fall\l"
-	.string "of the tide.\p"
-	.string "By the way, it's about six hours from\n"
-	.string "high tide to low tide. Don't forget!$"
+	.string "SHOAL CAVE…\p"
+	.string "Ada tempat yang cuma bisa\n"
+	.string "dimasuki saat pasang atau surut.\l"
+	.string "\p"
+	.string "Ngomong-ngomong, dari pasang\n"
+	.string "tinggi ke surut butuh sekitar\l"
+	.string "enam jam. Jangan lupa!$"
 
 Route125_Text_KimIntro:
-	.string "KIM: A funny old man lives in the\n"
-	.string "SHOAL CAVE. Someone told me.\l"
-	.string "Are you going to see him, too?$"
+	.string "KIM: Katanya ada kakek aneh\n"
+	.string "di SHOAL CAVE.\l"
+	.string "Kamu juga mau ketemu dia?$"
 
 Route125_Text_KimDefeat:
-	.string "KIM: I thought we would win.$"
+	.string "KIM: Aku kira kami menang.$"
 
 Route125_Text_KimPostBattle:
-	.string "KIM: A funny old man lives in the\n"
-	.string "SHOAL CAVE, doesn't he?\p"
-	.string "Let's go see him, IRIS!$"
+	.string "KIM: Ada kakek aneh di SHOAL CAVE,\n"
+	.string "kan?\p"
+	.string "Ayo ke sana, IRIS!$"
 
 Route125_Text_KimNotEnoughMons:
-	.string "KIM: No, no, no! You need two POKéMON,\n"
-	.string "or it's just no good!$"
+	.string "KIM: Tidak, tidak! Kamu butuh\n"
+	.string "dua POKéMON, atau tak seru!$"
 
 Route125_Text_IrisIntro:
-	.string "IRIS: KIM, can you tell me what we're\n"
-	.string "looking for out here?$"
+	.string "IRIS: KIM, kita cari apa sih\n"
+	.string "di sini?$"
 
 Route125_Text_IrisDefeat:
-	.string "IRIS: Oh, we came sort of close.$"
+	.string "IRIS: Ah, hampir menang.$"
 
 Route125_Text_IrisPostBattle:
-	.string "IRIS: KIM, are we really going into\n"
-	.string "the SHOAL CAVE?\l"
-	.string "We'll get all wet.$"
+	.string "IRIS: KIM, kita benar-benar mau\n"
+	.string "masuk SHOAL CAVE?\l"
+	.string "Nanti basah kuyup.$"
 
 Route125_Text_IrisNotEnoughMons:
-	.string "IRIS: Oh, we could never, ever do\n"
-	.string "anything like a 2-on-1 battle.$"
+	.string "IRIS: Ah, kami tak mungkin\n"
+	.string "bertarung 2 lawan 1.$"
 
 Route125_Text_PresleyIntro:
-	.string "Why would a BIRDKEEPER like me\n"
-	.string "come out to the sea?$"
+	.string "Kenapa BIRDKEEPER kayak Aku\n"
+	.string "datang ke laut?$"
 
 Route125_Text_PresleyDefeat:
-	.string "Okay.\n"
-	.string "I'll tell you why I'm here.$"
+	.string "Baiklah.\n"
+	.string "Aku beri tahu alasannya.$"
 
 Route125_Text_PresleyPostBattle:
-	.string "I put a message in a bottle and put\n"
-	.string "it out to sea.\p"
-	.string "I'm sure that a girl SWIMMER will\n"
-	.string "find it!$"
+	.string "Aku masukkan pesan dalam botol\n"
+	.string "dan lepas ke laut.\p"
+	.string "Pasti ditemukan cewek SWIMMER!$"
 
 Route125_Text_AuronIntro:
-	.string "Hey! Was it you throwing garbage\n"
-	.string "into the sea?$"
+	.string "Hei! Apa Kamu yang buang\n"
+	.string "sampah ke laut?$"
 
 Route125_Text_AuronDefeat:
-	.string "Oh, you weren't throwing trash into\n"
-	.string "the sea.$"
+	.string "Oh, ternyata Kamu tak buang\n"
+	.string "sampah ke laut.$"
 
 Route125_Text_AuronPostBattle:
-	.string "I found an unsightly bottle bobbing\n"
-	.string "in the waves earlier.\p"
-	.string "It angers me that someone would\n"
-	.string "pollute the sea!$"
+	.string "Tadi Aku lihat botol mengapung\n"
+	.string "di ombak.\p"
+	.string "Kesal rasanya ada yang\n"
+	.string "mencemari laut!$"
 
 Route126_Text_BarryIntro:
-	.string "Swimming is a full-body workout!\n"
-	.string "You will get fit!$"
+	.string "Berenang itu olahraga total!\n"
+	.string "Kamu pasti bugar!$"
 
 Route126_Text_BarryDefeat:
-	.string "I admit it!\n"
-	.string "You win!$"
+	.string "Aku akui!\n"
+	.string "Kamu menang!$"
 
 Route126_Text_BarryPostBattle:
-	.string "Thanks to my daily swimming routine…\n"
-	.string "Look! Feast your eyes on this physique!$"
+	.string "Berkat renang tiap hari…\n"
+	.string "Lihat! Tubuh Aku keren!$"
 
 Route126_Text_DeanIntro:
-	.string "This towering white mountain of rock\n"
-	.string "is SOOTOPOLIS CITY.$"
+	.string "Gunung batu putih menjulang ini\n"
+	.string "adalah SOOTOPOLIS CITY.$"
 
 Route126_Text_DeanDefeat:
-	.string "I was done in?$"
+	.string "Aku kalah?$"
 
 Route126_Text_DeanPostBattle:
-	.string "I can't find the entrance to\n"
-	.string "SOOTOPOLIS. Where could it be?$"
+	.string "Aku tak temukan pintu masuk\n"
+	.string "SOOTOPOLIS. Di mana ya?$"
 
 Route126_Text_NikkiIntro:
 	.string "Ufufufufu!\n"
-	.string "I'm a mermaid!$"
+	.string "Aku putri duyung!$"
 
 Route126_Text_NikkiDefeat:
-	.string "My fantasy burst as if it were a bubble!\n"
+	.string "Fantasi Aku pecah kayak gelembung!\n"
 	.string "Blub, blub, blub…$"
 
 Route126_Text_NikkiPostBattle:
-	.string "You thrashed me… I want to\n"
-	.string "disappear in a wave of despair…$"
+	.string "Kamu hajar Aku… Aku ingin\n"
+	.string "hilang dalam gelombang putus asa…$"
 
 Route126_Text_BrendaIntro:
-	.string "Hello, kiddo!\n"
-	.string "Want a battle with me?$"
+	.string "Hai, Nak!\n"
+	.string "Mau bertarung?$"
 
 Route126_Text_BrendaDefeat:
-	.string "Oh, noooooh!$"
+	.string "Ah, tidakkkk!$"
 
 Route126_Text_BrendaPostBattle:
-	.string "I love frolicking with POKéMON in\n"
-	.string "the sea like this!$"
+	.string "Aku suka main-main bareng\n"
+	.string "POKéMON di laut begini!$"
 
 Route126_Text_PabloIntro:
-	.string "Check out this sculpted body!\n"
-	.string "I'm more cut than a BLACK BELT!$"
+	.string "Lihat tubuh berotot Aku!\n"
+	.string "Lebih kekar dari BLACK BELT!$"
 
 Route126_Text_PabloDefeat:
-	.string "Whoops! Too strong!\n"
-	.string "Not bad! Not bad at all!$"
+	.string "Ups! Terlalu kuat!\n"
+	.string "Keren! Sangat keren!$"
 
 Route126_Text_PabloPostBattle:
-	.string "Losing to you stimulated my senses!\n"
-	.string "I'll train myself and POKéMON harder!$"
+	.string "Kalah darimu bikin Aku semangat!\n"
+	.string "Aku latih diri dan POKéMON lebih keras!$"
 
 Route126_Text_PabloRegister:
-	.string "Yep, you're not bad at all!\n"
-	.string "I'd like to get to know you more!$"
+	.string "Yup, Kamu memang keren!\n"
+	.string "Aku ingin kenal lebih dekat!$"
 
 Route126_Text_PabloRematchIntro:
-	.string "Check out this beautiful body!\n"
-	.string "I'm more shapely than a SWIMMER!$"
+	.string "Lihat tubuh indah Aku!\n"
+	.string "Lebih atletis dari SWIMMER!$"
 
 Route126_Text_PabloRematchDefeat:
-	.string "Whoops! Really too strong!\n"
-	.string "Not bad! Not bad at all!$"
+	.string "Ups! Benar-benar terlalu kuat!\n"
+	.string "Keren! Sangat keren!$"
 
 Route126_Text_PabloPostRematch:
-	.string "I'm going to train even harder!\n"
-	.string "You're a great motivator!\l"
-	.string "You have to come back again!$"
+	.string "Aku akan latihan lebih keras!\n"
+	.string "Kamu motivator hebat!\l"
+	.string "Datang lagi, ya!$"
 
 Route126_Text_LeonardoIntro:
-	.string "I couldn't even swim last year,\n"
-	.string "but now I'm a decent SWIMMER.\p"
-	.string "I think I'm capable of anything now.$"
+	.string "Tahun lalu Aku tak bisa renang,\n"
+	.string "sekarang jadi SWIMMER lumayan.\p"
+	.string "Aku rasa Aku bisa apa saja sekarang.$"
 
 Route126_Text_LeonardoDefeat:
-	.string "Sheesh, getting greedy didn't do\n"
-	.string "a thing for me.$"
+	.string "Duh, serakah tak membantu\n"
+	.string "sama sekali.$"
 
 Route126_Text_LeonardoPostBattle:
-	.string "If you practice at something,\n"
-	.string "you will get better at it.\p"
-	.string "You're young--don't be afraid to\n"
-	.string "try all sorts of things!$"
+	.string "Kalau latihan terus,\n"
+	.string "Kamu pasti makin jago.\p"
+	.string "Kamu masih muda-jangan takut\n"
+	.string "coba hal baru!$"
 
 Route126_Text_IsobelIntro:
-	.string "If seawater gets up your nose,\n"
-	.string "doesn't it feel terrible?$"
+	.string "Kalau air laut masuk hidung,\n"
+	.string "rasanya menyakitkan, kan?$"
 
 Route126_Text_IsobelDefeat:
-	.string "Ack! Why, you…\n"
+	.string "Akh! Dasar Kamu…\n"
 	.string "Glub!$"
 
 Route126_Text_IsobelPostBattle:
-	.string "Ooh, I choked on some water!\n"
-	.string "It's bitter! It's salty!!$"
+	.string "Aduh, Aku tersedak air!\n"
+	.string "Pahit! Asin banget!!$"
 
 Route126_Text_SiennaIntro:
-	.string "I'm throwing my whole heart\n"
-	.string "into this!$"
+	.string "Aku curahkan seluruh hati Aku\n"
+	.string "untuk ini!$"
 
 Route126_Text_SiennaDefeat:
-	.string "You had more heart!$"
+	.string "Kamu lebih bersemangat!$"
 
 Route126_Text_SiennaPostBattle:
-	.string "I need to cool down now…\n"
-	.string "I think I'll go for a dive.$"
+	.string "Aku perlu dinginkan diri…\n"
+	.string "Mungkin Aku menyelam dulu.$"
 
 Route127_Text_CamdenIntro:
-	.string "I can see it in your face.\n"
-	.string "You want to challenge me.$"
+	.string "Aku lihat dari wajahmu.\n"
+	.string "Kamu ingin tantang Aku.$"
 
 Route127_Text_CamdenDefeat:
 	.string "Awawawawawa…$"
 
 Route127_Text_CamdenPostBattle:
-	.string "A well-played match leaves me feeling\n"
-	.string "refreshed and serene.$"
+	.string "Pertarungan bagus bikin Aku\n"
+	.string "segar dan tenang.$"
 
 Route127_Text_DonnyIntro:
-	.string "Do you have a rival whom you just\n"
-	.string "hate to lose against?$"
+	.string "Apa Kamu punya rival yang\n"
+	.string "tak mau Kamu kalahi?$"
 
 Route127_Text_DonnyDefeat:
 	.string "Arrrgh!\n"
-	.string "I hate losing!$"
+	.string "Benci kalah!$"
 
 Route127_Text_DonnyPostBattle:
-	.string "If you have a rival, don't you get the\n"
-	.string "feeling that you have to keep getting\l"
-	.string "better?$"
+	.string "Kalau punya rival, bukankah\n"
+	.string "Kamu jadi ingin terus maju?\l"
+	.string "Supaya makin hebat?$"
 
 Route127_Text_JonahIntro:
-	.string "Through fishing, I have attained a\n"
-	.string "state of becalmed serenity…\p"
-	.string "Please, allow me to demonstrate…$"
+	.string "Lewat mancing, Aku capai\n"
+	.string "ketenangan sempurna…\p"
+	.string "Izinkan Aku tunjukkan…$"
 
 Route127_Text_JonahDefeat:
-	.string "Though I have lost, my heart remains\n"
-	.string "calm…$"
+	.string "Meski kalah, hati Aku tetap\n"
+	.string "tenang…$"
 
 Route127_Text_JonahPostBattle:
-	.string "It matters not that I catch nothing.\n"
-	.string "The line remains in the water…$"
+	.string "Tak masalah tak dapat ikan.\n"
+	.string "Pancing tetap di air…$"
 
 Route127_Text_HenryIntro:
-	.string "Whoops! Don't tell me I snagged\n"
-	.string "a SURFING POKéMON?$"
+	.string "Ups! Jangan-jangan Aku kait\n"
+	.string "POKéMON SURFING?$"
 
 Route127_Text_HenryDefeat:
-	.string "I can't keep up!$"
+	.string "Aku tak sanggup ikut!$"
 
 Route127_Text_HenryPostBattle:
-	.string "It'd be a handful if I hooked\n"
-	.string "your tough POKéMON!$"
+	.string "Bakal repot kalau pancing Aku\n"
+	.string "kena POKéMON sekuatmu!$"
 
 Route127_Text_RogerIntro:
-	.string "Well, hey! This is a match between\n"
-	.string "a POKéMON fan and a fishing buff!$"
+	.string "Wah, ini pertarungan antara\n"
+	.string "penggemar POKéMON dan pemancing!$"
 
 Route127_Text_RogerDefeat:
-	.string "No! My line's all tangled!\n"
-	.string "The party's over!$"
+	.string "Tidak! Pancing Aku kusut!\n"
+	.string "Pesta usai!$"
 
 Route127_Text_RogerPostBattle:
-	.string "My fishing line's doing a dance!\n"
-	.string "The tangle tango! Hahaha, snarl!$"
+	.string "Pancing Aku menari!\n"
+	.string "Tango kusut! Hahaha, kusut!$"
 
 Route127_Text_AidanIntro:
-	.string "BIRD POKéMON have excellent vision.\n"
-	.string "They spot prey from great heights.$"
+	.string "BIRD POKÉMON punya penglihatan\n"
+	.string "tajam. Mereka lihat mangsa dari\l"
+	.string "ketinggian.$"
 
 Route127_Text_AidanDefeat:
-	.string "Whew… I give up.$"
+	.string "Huh… Aku menyerah.$"
 
 Route127_Text_AidanPostBattle:
-	.string "There're lots of diving spots in\n"
-	.string "the sea around here.\p"
-	.string "You can spot them easily from the sky\n"
-	.string "because of their darker color.$"
+	.string "Ada banyak spot menyelam\n"
+	.string "di sekitar sini.\p"
+	.string "Dari langit, mudah dikenali\n"
+	.string "karena warnanya lebih gelap.$"
 
 Route127_Text_KojiIntro:
-	.string "Run in your bare feet.\n"
-	.string "That will toughen up your soles!$"
+	.string "Lari pakai kaki telanjang.\n"
+	.string "Itu bikin telapak jadi kuat!$"
 
 Route127_Text_KojiDefeat:
-	.string "Yowch!\n"
-	.string "I got a pebble under a toenail!$"
+	.string "Aduh!\n"
+	.string "Ada kerikil di kuku jari kaki!$"
 
 Route127_Text_KojiPostBattle:
-	.string "Going barefoot feels great.\n"
-	.string "But your RUNNING SHOES are cool, too.$"
+	.string "Jalan tanpa alas kaki enak.\n"
+	.string "Tapi RUNNING SHOES-mu keren juga.$"
 
 Route127_Text_KojiRegister:
-	.string "This is what I do to people who beat me!\n"
-	.string "I hope we can do this again.$"
+	.string "Ini yang Aku lakukan pada\n"
+	.string "yang mengalahkan Aku!\l"
+	.string "Semoga kita bisa bertarung lagi.$"
 
 Route127_Text_KojiRematchIntro:
-	.string "I still run in my bare feet daily.\n"
-	.string "My soles are tough!$"
+	.string "Aku masih lari tanpa alas kaki.\n"
+	.string "Telapak Aku sudah kebal!$"
 
 Route127_Text_KojiRematchDefeat:
-	.string "Yowch!\n"
-	.string "Pebbles dug into my arches!$"
+	.string "Aduh!\n"
+	.string "Kerikil menusuk lengkung kaki!$"
 
 Route127_Text_KojiPostRematch:
-	.string "Want to go barefoot for a while?\n"
-	.string "So I can try your RUNNING SHOES?$"
+	.string "Mau coba jalan tanpa alas kaki?\n"
+	.string "Biarkan Aku pinjam RUNNING SHOES-mu?$"
 
 Route127_Text_AthenaIntro:
-	.string "We should have a slow and methodical\n"
-	.string "match.$"
+	.string "Ayo bertarung pelan dan\n"
+	.string "terencana.$"
 
 Route127_Text_AthenaDefeat:
-	.string "You didn't give me the chance to\n"
-	.string "do any strategizing.$"
+	.string "Kamu tak beri Aku kesempatan\n"
+	.string "menyusun strategi.$"
 
 Route127_Text_AthenaPostBattle:
-	.string "When I'm surrounded by the blue sea\n"
-	.string "and sky, it feels as if time slows down.$"
+	.string "Di tengah laut dan langit biru,\n"
+	.string "waktu terasa melambat.$"
 
 Route128_Text_IsaiahIntro:
-	.string "EVER GRANDE CITY is still a long ways\n"
-	.string "away…$"
+	.string "EVER GRANDE CITY masih jauh…$"
 
 Route128_Text_IsaiahDefeat:
-	.string "My first victory seems to be far\n"
-	.string "away, too…$"
+	.string "Kemenangan pertama Aku juga\n"
+	.string "masih jauh…$"
 
 Route128_Text_IsaiahPostBattle:
-	.string "My whole life has been about losing,\n"
-	.string "but I will never give up!$"
+	.string "Hidup Aku penuh kekalahan,\n"
+	.string "tapi Aku takkan menyerah!$"
 
 Route128_Text_IsaiahRegister:
-	.string "I know I'm not good now, but I think\n"
-	.string "I can win eventually.\p"
-	.string "Please register me in your POKéNAV.$"
+	.string "Aku tahu Aku belum jago,\n"
+	.string "tapi Aku yakin bisa menang.\p"
+	.string "Daftarkan Aku di POKéNAV-mu.$"
 
 Route128_Text_IsaiahRematchIntro:
-	.string "I'm still feeling good. I'll keep on\n"
-	.string "swimming to EVER GRANDE CITY.$"
+	.string "Aku masih semangat. Aku terus\n"
+	.string "berenang ke EVER GRANDE CITY.$"
 
 Route128_Text_IsaiahRematchDefeat:
-	.string "I've yet to taste my first victory…$"
+	.string "Aku belum pernah menang…$"
 
 Route128_Text_IsaiahPostRematch:
-	.string "I'll eventually reach EVER GRANDE CITY\n"
-	.string "where I can eventually win…$"
+	.string "Aku pasti sampai di EVER GRANDE CITY\n"
+	.string "dan akhirnya menang…$"
 
 Route128_Text_KatelynIntro:
-	.string "You have to swim, cycle, and then run\n"
-	.string "a marathon in a triathlon.\p"
-	.string "It's a grueling race that consists\n"
-	.string "of three events.$"
+	.string "Triathlon itu renang, sepeda,\n"
+	.string "lalu lari maraton.\p"
+	.string "Lomba berat yang terdiri\n"
+	.string "dari tiga tahap.$"
 
 Route128_Text_KatelynDefeat:
-	.string "A POKéMON battle is grueling, too…$"
+	.string "Bertarung POKéMON juga berat…$"
 
 Route128_Text_KatelynPostBattle:
-	.string "I have to ride a BIKE next, but…\n"
-	.string "I'm about to throw in the towel…$"
+	.string "Aku harus naik BIKE berikutnya,\n"
+	.string "tapi…\l"
+	.string "Aku mau menyerah saja…$"
 
 Route128_Text_KatelynRegister:
-	.string "Well, I may as well make the best\n"
-	.string "of this. I'd like a rematch sometime.$"
+	.string "Yah, mending Aku manfaatkan\n"
+	.string "saja. Ayo rematch lain kali.$"
 
 Route128_Text_KatelynRematchIntro:
-	.string "A triathlon is long. But I guess the\n"
-	.string "road to become the POKéMON CHAMPION\l"
-	.string "is also a long and grueling one.$"
+	.string "Triathlon itu panjang. Tapi jalan\n"
+	.string "jadi POKéMON CHAMPION\l"
+	.string "juga panjang dan melelahkan.$"
 
 Route128_Text_KatelynRematchDefeat:
-	.string "A POKéMON battle really is harsh\n"
-	.string "and unforgiving…$"
+	.string "Bertarung POKéMON memang\n"
+	.string "kejam dan tak kenal ampun…$"
 
 Route128_Text_KatelynPostRematch:
-	.string "You should give serious thought to\n"
-	.string "challenges on VICTORY ROAD.$"
+	.string "Kamu harus pertimbangkan\n"
+	.string "tantangan di VICTORY ROAD.$"
 
 Route128_Text_AlexaIntro:
-	.string "We've been working so hard to mount\n"
-	.string "a POKéMON LEAGUE challenge…\p"
-	.string "We can't afford to lose now!$"
+	.string "Kami sudah kerja keras demi\n"
+	.string "tantang POKéMON LEAGUE…\p"
+	.string "Kami tak boleh kalah sekarang!$"
 
 Route128_Text_AlexaDefeat:
 	.string "Oh!\n"
-	.string "How could this happen?!$"
+	.string "Bagaimana ini bisa terjadi?!$"
 
 Route128_Text_AlexaPostBattle:
-	.string "After all I've done to get here,\n"
-	.string "I won't give up after one setback.$"
+	.string "Setelah semua usaha Aku,\n"
+	.string "Aku takkan menyerah hanya\l"
+	.string "karena satu kekalahan.$"
 
 Route128_Text_RubenIntro:
-	.string "There is no stronger TRAINER than I!$"
+	.string "Tak ada TRAINER lebih kuat\n"
+	.string "daripada Aku!$"
 
 Route128_Text_RubenDefeat:
-	.string "This can't be!$"
+	.string "Ini tak mungkin!$"
 
 Route128_Text_RubenPostBattle:
-	.string "There probably is no stronger TRAINER\n"
-	.string "than you!$"
+	.string "Mungkin tak ada TRAINER lebih\n"
+	.string "kuat daripada Kamu!$"
 
 Route128_Text_WayneIntro:
-	.string "I want to visit EVER GRANDE, so I\n"
-	.string "caught myself a POKéMON that knows\l"
-	.string "the move WATERFALL to crest the falls.$"
+	.string "Aku mau ke EVER GRANDE, jadi\n"
+	.string "Aku tangkap POKéMON yang tahu\l"
+	.string "WATERFALL biar bisa lewati air terjun.$"
 
 Route128_Text_WayneDefeat:
-	.string "I'm crestfallen!$"
+	.string "Aku patah semangat!$"
 
 Route128_Text_WaynePostBattle:
-	.string "Awww, phooey!\p"
-	.string "My POKéMON knows WATERFALL, but\n"
-	.string "I don't have the SOOTOPOLIS GYM BADGE!$"
+	.string "Aduh, sial!\p"
+	.string "POKéMON Aku tahu WATERFALL,\n"
+	.string "tapi Aku tak punya SOOTOPOLIS GYM BADGE!$"
 
 Route128_Text_HarrisonIntro:
-	.string "You're looking awfully tough.\n"
-	.string "I wonder if I can win?$"
+	.string "Kamu kelihatan sangat kuat.\n"
+	.string "Apa Aku bisa menang?$"
 
 Route128_Text_HarrisonDefeat:
-	.string "Ouch!\n"
-	.string "I guess it was impossible to win.$"
+	.string "Aduh!\n"
+	.string "Ternyata mustahil menang.$"
 
 Route128_Text_HarrisonPostBattle:
-	.string "There are tough TRAINERS galore\n"
-	.string "around EVER GRANDE.\p"
-	.string "Do you think I may be out\n"
-	.string "of my league?$"
+	.string "Ada banyak TRAINER kuat\n"
+	.string "di sekitar EVER GRANDE.\p"
+	.string "Apa Aku terlalu lemah\n"
+	.string "untuk di sini?$"
 
 Route128_Text_CarleeIntro:
-	.string "The sunlight seems to be more harsh\n"
-	.string "in this area.$"
+	.string "Sinar matahari di sini lebih\n"
+	.string "menyengat.$"
 
 Route128_Text_CarleeDefeat:
-	.string "I couldn't see very well because of\n"
-	.string "the sun's glare.$"
+	.string "Aku tak bisa lihat jelas karena\n"
+	.string "silau matahari.$"
 
 Route128_Text_CarleePostBattle:
-	.string "I should go back soon.\n"
-	.string "I need to reapply my sunscreen.$"
+	.string "Aku harus pulang segera.\n"
+	.string "Aku perlu oles sunscreen lagi.$"
 
 Route129_Text_ChaseIntro:
-	.string "This is my first triathlon.\n"
-	.string "I'm all tense and nervous!$"
+	.string "Ini triathlon pertama Aku.\n"
+	.string "Aku gugup dan tegang!$"
 
 Route129_Text_ChaseDefeat:
 	.string "Wroooaaar!\n"
-	.string "I failed to win!$"
+	.string "Aku gagal menang!$"
 
 Route129_Text_ChasePostBattle:
-	.string "If I'm all tensed up, I won't be able to\n"
-	.string "give it my all.$"
+	.string "Kalau tegang, Aku tak bisa\n"
+	.string "berusaha maksimal.$"
 
 Route129_Text_AllisonIntro:
-	.string "I'm in the middle of a triathlon,\n"
-	.string "but, sure, why don't we battle?$"
+	.string "Aku sedang triathlon,\n"
+	.string "tapi boleh juga bertarung!$"
 
 Route129_Text_AllisonDefeat:
-	.string "I was sure I'd win!$"
+	.string "Aku yakin menang!$"
 
 Route129_Text_AllisonPostBattle:
-	.string "Do you know what's the greatest thing\n"
-	.string "about triathlons?\p"
-	.string "Testing the limits of your own\n"
-	.string "strength and endurance against\l"
-	.string "Mother Nature!$"
+	.string "Tahukah Kamu hal terbaik\n"
+	.string "dari triathlon?\p"
+	.string "Menguji batas kekuatan dan\n"
+	.string "ketahananmu melawan\l"
+	.string "alam!$"
 
 Route129_Text_ReedIntro:
-	.string "Say hey, hey!\n"
-	.string "Let's get on with it!$"
+	.string "Hei, hei!\n"
+	.string "Ayo cepat bertarung!$"
 
 Route129_Text_ReedDefeat:
-	.string "Beat, I'm beaten.\n"
-	.string "That's it, done!$"
+	.string "Kalah, Aku kalah.\n"
+	.string "Sudah, selesai!$"
 
 Route129_Text_ReedPostBattle:
-	.string "There's nothing for a loser.\n"
-	.string "Time for me to beat it home.$"
+	.string "Tak ada hadiah buat yang kalah.\n"
+	.string "Waktunya Aku pulang.$"
 
 Route129_Text_TishaIntro:
-	.string "What's the hurry?\n"
-	.string "Let's take it slow and easy.$"
+	.string "Burunya apa?\n"
+	.string "Ayo santai saja.$"
 
 Route129_Text_TishaDefeat:
-	.string "Oh, my.\n"
-	.string "I wanted to relax a little more…$"
+	.string "Astaga.\n"
+	.string "Aku ingin santai lebih lama…$"
 
 Route129_Text_TishaPostBattle:
-	.string "Don't you hate making mistakes when\n"
-	.string "you're in a rush?\p"
-	.string "That's why I try to take things\n"
-	.string "slowly.$"
+	.string "Bukankah kesal kalau salah\n"
+	.string "karena terburu-buru?\p"
+	.string "Makanya Aku selalu\n"
+	.string "ambil pelan-pelan.$"
 
 Route129_Text_ClarenceIntro:
-	.string "Surfing isn't as easy as it seems,\n"
-	.string "isn't that right?$"
+	.string "SURFING tak semudah kelihatannya,\n"
+	.string "kan?$"
 
 Route129_Text_ClarenceDefeat:
-	.string "Winning sure isn't easy.$"
+	.string "Menang memang tak gampang.$"
 
 Route129_Text_ClarencePostBattle:
-	.string "You have your sights on the POKéMON\n"
-	.string "LEAGUE? Keep at it!$"
+	.string "Kamu incar POKéMON LEAGUE?\n"
+	.string "Teruslah berusaha!$"
 
 Route130_Text_RodneyIntro:
-	.string "What a surprise! I didn't expect to\n"
-	.string "see a TRAINER out in the sea.\p"
-	.string "I think we should battle!$"
+	.string "Wah, kejutan! Tak kira ada\n"
+	.string "TRAINER di tengah laut.\p"
+	.string "Ayo bertarung!$"
 
 Route130_Text_RodneyDefeat:
-	.string "This kid's awfully tough…$"
+	.string "Anak ini sangat kuat…$"
 
 Route130_Text_RodneyPostBattle:
-	.string "Your eyes have that look of someone\n"
-	.string "who's experienced harsh challenges\l"
-	.string "and won. It suits you well!$"
+	.string "Matamu punya tatapan orang\n"
+	.string "yang hadapi tantangan berat\l"
+	.string "dan menang. Cocok banget!$"
 
 Route130_Text_KatieIntro:
-	.string "In the deep blue sea,\n"
-	.string "my shattered blue heart finds\l"
-	.string "comfort among waves.$"
+	.string "Di laut biru nan dalam,\n"
+	.string "hati biru Aku yang hancur\l"
+	.string "tenang di antara ombak.$"
 
 Route130_Text_KatieDefeat:
-	.string "Like the vast blue sea,\n"
-	.string "the world of POKéMON spans\l"
-	.string "depths beyond belief.$"
+	.string "Seperti laut biru nan luas,\n"
+	.string "dunia POKéMON punya\l"
+	.string "kedalaman tak terhingga.$"
 
 Route130_Text_KatiePostBattle:
-	.string "The world's children dream\n"
-	.string "of one day becoming\l"
-	.string "the POKéMON CHAMPION.$"
+	.string "Anak-anak di dunia bermimpi\n"
+	.string "jadi POKÉMON CHAMPION\l"
+	.string "suatu hari nanti.$"
 
 Route130_Text_SantiagoIntro:
-	.string "Floating on the open sea like this…\n"
-	.string "It's peaceful.$"
+	.string "Mengapung di laut lepas begini…\n"
+	.string "Damai sekali.$"
 
 Route130_Text_SantiagoDefeat:
-	.string "I needed to be a little less peaceful!$"
+	.string "Aku harusnya kurang damai!$"
 
 Route130_Text_SantiagoPostBattle:
-	.string "Swimming and battling like this…\n"
-	.string "I'm one happy guy…$"
+	.string "Berenang dan bertarung begini…\n"
+	.string "Aku senang sekali…$"
 
 Route131_Text_RichardIntro:
-	.string "The sea is teeming with POKéMON.\n"
-	.string "It's not easy swimming, I tell you.$"
+	.string "Laut penuh POKéMON.\n"
+	.string "Berenang di sini tak gampang!$"
 
 Route131_Text_RichardDefeat:
-	.string "POKéMON raised by TRAINERS are\n"
-	.string "seriously tough…$"
+	.string "POKéMON asuhan TRAINER\n"
+	.string "sangat tangguh…$"
 
 Route131_Text_RichardPostBattle:
-	.string "Gasp… Gasp…\n"
-	.string "I'm wiped out…\p"
-	.string "The going's easy. It's the leaving\n"
-	.string "that's the hard part.\p"
-	.string "Will I have any energy left to make\n"
-	.string "the return trip?$"
+	.string "Ngos-ngosan…\n"
+	.string "Aku kehabisan tenaga…\p"
+	.string "Pulang itu yang berat.\n"
+	.string "Perjalanan pulang itu susah.\p"
+	.string "Apa Aku masih punya tenaga\n"
+	.string "buat pulang?$"
 
 Route131_Text_HermanIntro:
-	.string "The sea… The sea… The sea…\n"
-	.string "The sea as far as these eyes can see!\l"
-	.string "I'm sick and tired of the sea!$"
+	.string "Laut… Laut… Laut…\n"
+	.string "Laut sejauh mata memandang!\l"
+	.string "Aku bosan dengan laut!$"
 
 Route131_Text_HermanDefeat:
 	.string "Bleah!$"
 
 Route131_Text_HermanPostBattle:
-	.string "Bored I am by the sea, but swim I must.\p"
-	.string "I'm a born swimmer!\n"
-	.string "That's what I am.$"
+	.string "Bosan Aku dengan laut,\n"
+	.string "tapi tetap harus berenang.\p"
+	.string "Aku perenang sejati!\n"
+	.string "Itu identitas Aku.$"
 
 Route131_Text_SusieIntro:
-	.string "Hi, sweetie, wait!\n"
-	.string "We should battle, you and I!$"
+	.string "Hai, Sayang, tunggu!\n"
+	.string "Ayo bertarung, Kamu dan Aku!$"
 
 Route131_Text_SusieDefeat:
-	.string "You're tough in spite of the way\n"
-	.string "you look!$"
+	.string "Kamu kuat meski kelihatannya\n"
+	.string "tidak!$"
 
 Route131_Text_SusiePostBattle:
-	.string "Did you see a guy over there who whines\n"
-	.string "that he's bored of the sea?\p"
-	.string "That's all talk.\n"
-	.string "He's hopelessly in love with the sea!$"
+	.string "Kamu lihat pria yang mengeluh\n"
+	.string "bosan dengan laut tadi?\p"
+	.string "Itu omong kosong.\n"
+	.string "Dia jatuh cinta pada laut!$"
 
 Route131_Text_KaraIntro:
-	.string "Why do men love bathing suits so much?\p"
-	.string "They all ogle me!$"
+	.string "Kenapa pria suka baju renang?\p"
+	.string "Semua melototin Aku!$"
 
 Route131_Text_KaraDefeat:
-	.string "I'm out of my depth!$"
+	.string "Aku kewalahan!$"
 
 Route131_Text_KaraPostBattle:
-	.string "Maybe it's not my bathing suit that\n"
-	.string "makes men look. It must be my beauty!$"
+	.string "Mungkin bukan baju renang Aku\n"
+	.string "yang bikin pria melotot.\l"
+	.string "Pasti karena kecantikan Aku!$"
 
 Route131_Text_ReliIntro:
-	.string "RELI: We'll work together as siblings\n"
-	.string "to take you on!$"
+	.string "RELI: Kami bertarung bareng\n"
+	.string "sebagai kakak-adik!$"
 
 Route131_Text_ReliDefeat:
-	.string "RELI: We couldn't win even though we\n"
-	.string "worked together…$"
+	.string "RELI: Kami gagal menang meski\n"
+	.string "sudah kerja sama…$"
 
 Route131_Text_ReliPostBattle:
-	.string "RELI: The people of PACIFIDLOG are\n"
-	.string "together with the sea and POKéMON from\l"
-	.string "the time they are born.$"
+	.string "RELI: Orang PACIFIDLOG hidup\n"
+	.string "berdampingan dengan laut dan\l"
+	.string "POKéMON sejak lahir.$"
 
 Route131_Text_ReliNotEnoughMons:
-	.string "RELI: You don't have two POKéMON?\n"
-	.string "We can't enjoy a battle, then.$"
+	.string "RELI: Kamu cuma punya satu\n"
+	.string "POKéMON?\l"
+	.string "Kami tak bisa nikmati pertarungan.$"
 
 Route131_Text_IanIntro:
-	.string "IAN: I'm doing my best together with\n"
-	.string "my sis!$"
+	.string "IAN: Aku berusaha maksimal\n"
+	.string "bareng Kakak Aku!$"
 
 Route131_Text_IanDefeat:
-	.string "IAN: I did my best with my sis,\n"
-	.string "but we still couldn't win…$"
+	.string "IAN: Aku sudah berusaha\n"
+	.string "bareng Kakak, tapi tetap kalah…$"
 
 Route131_Text_IanPostBattle:
-	.string "IAN: You know how PACIFIDLOG is\n"
-	.string "a floating town?\p"
-	.string "So, wherever there is the sea,\n"
-	.string "that's a part of PACIFIDLOG!$"
+	.string "IAN: Tahu kan PACIFIDLOG itu\n"
+	.string "kota terapung?\p"
+	.string "Jadi, di mana pun ada laut,\n"
+	.string "itu bagian dari PACIFIDLOG!$"
 
 Route131_Text_IanNotEnoughMons:
-	.string "IAN: If you have two POKéMON,\n"
-	.string "we'll take you on!$"
+	.string "IAN: Kalau bawa dua POKéMON,\n"
+	.string "kami tantang Kamu!$"
 
 Route131_Text_TaliaIntro:
-	.string "If you can beat me, I'll give you some\n"
-	.string "great information!$"
+	.string "Kalau Kamu menang, Aku kasih\n"
+	.string "info bagus!$"
 
 Route131_Text_TaliaDefeat:
 	.string "Oh?\n"
-	.string "Did I lose?$"
+	.string "Apa Aku kalah?$"
 
 Route131_Text_TaliaPostBattle:
-	.string "There is an odd place nearby.\n"
-	.string "There's a huge tower there.\l"
-	.string "Why don't you go take a look?$"
+	.string "Ada tempat aneh di dekat sini.\n"
+	.string "Ada menara raksasa di sana.\l"
+	.string "Coba lihat sendiri!$"
 
 Route131_Text_KevinIntro:
-	.string "The people of PACIFIDLOG are\n"
-	.string "a peaceful bunch.\p"
-	.string "They never get angry.\n"
-	.string "That goes for me, too.$"
+	.string "Orang PACIFIDLOG itu damai.\p"
+	.string "Mereka tak pernah marah.\n"
+	.string "Aku juga begitu.$"
 
 Route131_Text_KevinDefeat:
-	.string "Oops!$"
+	.string "Ups!$"
 
 Route131_Text_KevinPostBattle:
-	.string "Tch! …Oh, wait.\n"
-	.string "I'm not angry. Honestly!\p"
-	.string "But, boy, you're strong!\n"
+	.string "Huh! …Eh, tunggu.\n"
+	.string "Aku tak marah. Serius!\p"
+	.string "Tapi, wah, Kamu kuat banget!\n"
 	.string "Hahaha!$"
 
 Route132_Text_GilbertIntro:
-	.string "I used to catch colds all the time as\n"
-	.string "a kid, but I became totally fit after\l"
-	.string "I started swimming.$"
+	.string "Dulu Aku sering pilek,\n"
+	.string "tapi jadi bugar setelah\l"
+	.string "mulai berenang.$"
 
 Route132_Text_GilbertDefeat:
-	.string "I crave more power…$"
+	.string "Aku butuh kekuatan lebih…$"
 
 Route132_Text_GilbertPostBattle:
-	.string "TRAINERS travel the fields and\n"
-	.string "mountains, so they must be fit, too.$"
+	.string "TRAINER jelajahi padang dan\n"
+	.string "gunung, jadi mereka juga bugar.$"
 
 Route132_Text_DanaIntro:
-	.string "I try not to swim where the currents\n"
-	.string "are too strong.$"
+	.string "Aku hindari berenang di arus\n"
+	.string "yang terlalu deras.$"
 
 Route132_Text_DanaDefeat:
-	.string "Oh, please, no!$"
+	.string "Oh, jangan!$"
 
 Route132_Text_DanaPostBattle:
-	.string "If I get swept away, I'll lose all my\n"
-	.string "sense of place…$"
+	.string "Kalau terseret arus, Aku kehilangan\n"
+	.string "arah sama sekali…$"
 
 Route132_Text_RonaldIntro:
-	.string "Win or lose, you'll never know until\n"
-	.string "you try!$"
+	.string "Menang atau kalah, Kamu tak\n"
+	.string "akan tahu kalau tak coba!$"
 
 Route132_Text_RonaldDefeat:
 	.string "Waah!\n"
-	.string "I sank in defeat!$"
+	.string "Aku tenggelam dalam kekalahan!$"
 
 Route132_Text_RonaldPostBattle:
-	.string "I never battle when I know I'll win.\n"
-	.string "I like to battle at the razor's edge of\l"
-	.string "victory and defeat!$"
+	.string "Aku tak pernah bertarung kalau\n"
+	.string "tahu pasti menang.\l"
+	.string "Aku suka bertarung di ambang\n"
+	.string "menang dan kalah!$"
 
 Route132_Text_KiyoIntro:
-	.string "I contemplate POKéMON 24 hours a day.\n"
-	.string "How could you possibly beat me?$"
+	.string "Aku renungkan POKéMON 24 jam.\n"
+	.string "Mustahil Kamu kalahkan Aku!$"
 
 Route132_Text_KiyoDefeat:
-	.string "I lose.\n"
-	.string "I will concede defeat.$"
+	.string "Aku kalah.\n"
+	.string "Aku mengakui kekalahan.$"
 
 Route132_Text_KiyoPostBattle:
-	.string "Urggh…\n"
-	.string "You're a POKéMON fanatic, aren't you?\p"
-	.string "You must contemplate POKéMON 24 hours\n"
-	.string "a day, don't you?$"
+	.string "Ugh…\n"
+	.string "Kamu fanatik POKéMON, kan?\p"
+	.string "Kamu juga renungkan POKéMON\n"
+	.string "24 jam sehari, kan?$"
 
 Route132_Text_MakaylaIntro:
-	.string "I'm always with my husband,\n"
-	.string "but I can win even without him.$"
+	.string "Aku selalu bareng suami Aku,\n"
+	.string "tapi Aku bisa menang sendiri.$"
 
 Route132_Text_MakaylaDefeat:
-	.string "Oh, I guess I wasn't good enough.$"
+	.string "Oh, rupanya Aku belum cukup\n"
+	.string "hebat.$"
 
 Route132_Text_MakaylaPostBattle:
-	.string "That young man over there looks just\n"
-	.string "like my husband when he was young.\p"
-	.string "He's making me blush!$"
+	.string "Pemuda di sana mirip suami Aku\n"
+	.string "waktu muda.\p"
+	.string "Dia bikin Aku malu!$"
 
 Route132_Text_JonathanIntro:
-	.string "Someone's been watching me intently.\n"
-	.string "Was it you?$"
+	.string "Ada yang mengawasi Aku terus.\n"
+	.string "Apa itu Kamu?$"
 
 Route132_Text_JonathanDefeat:
-	.string "Wow!\n"
-	.string "That's pretty strong, all right!$"
+	.string "Wah!\n"
+	.string "Kamu kuat banget!$"
 
 Route132_Text_JonathanPostBattle:
-	.string "I can't shake this feeling that\n"
-	.string "someone's watching me.\p"
-	.string "I can't concentrate!$"
+	.string "Aku tak bisa lepas dari perasaan\n"
+	.string "ada yang mengawasi.\p"
+	.string "Aku jadi tak fokus!$"
 
 Route132_Text_PaxtonIntro:
-	.string "Now where could my wife have gone?\n"
-	.string "I'm always with her.\l"
-	.string "I wonder if I can win on my own.$"
+	.string "Istri Aku ke mana ya?\n"
+	.string "Aku selalu bareng dia.\l"
+	.string "Apa Aku bisa menang sendiri?$"
 
 Route132_Text_PaxtonDefeat:
-	.string "Ah, I see that I couldn't manage\n"
-	.string "to win on my own after all.$"
+	.string "Ah, rupanya Aku memang tak\n"
+	.string "bisa menang sendiri.$"
 
 Route132_Text_PaxtonPostBattle:
-	.string "My wife must be looking for me.\n"
-	.string "I'd best go find her right away.$"
+	.string "Istri Aku pasti cari Aku.\n"
+	.string "Aku harus segera temui dia.$"
 
 Route132_Text_DarcyIntro:
-	.string "I liked training here by myself.\n"
-	.string "It's awful that all these people came!$"
+	.string "Aku suka latihan di sini sendiri.\n"
+	.string "Sekarang jadi berisik karena orang!$"
 
 Route132_Text_DarcyDefeat:
-	.string "Okay! I won't complain about other\n"
-	.string "people being here.$"
+	.string "Baik! Aku tak akan protes\n"
+	.string "lagi soal orang di sini.$"
 
 Route132_Text_DarcyPostBattle:
-	.string "I suppose I can partner up with that\n"
-	.string "old man and challenge that other team.$"
+	.string "Mungkin Aku ajak kakek itu\n"
+	.string "jadi tim, lawan tim lain.$"
 
 Route133_Text_FranklinIntro:
-	.string "Did the currents carry you here, too?\n"
-	.string "This must have been fated.\l"
-	.string "Let's battle!$"
+	.string "Apa arus bawa Kamu ke sini juga?\n"
+	.string "Ini pasti takdir.\l"
+	.string "Ayo bertarung!$"
 
 Route133_Text_FranklinDefeat:
-	.string "Strong!\n"
-	.string "Too much so!$"
+	.string "Kuat!\n"
+	.string "Terlalu kuat!$"
 
 Route133_Text_FranklinPostBattle:
-	.string "It's just my luck that a tough TRAINER\n"
-	.string "like you would drift here…\l"
-	.string "I must be cursed…$"
+	.string "Sial banget TRAINER sekuat\n"
+	.string "Kamu hanyut ke sini…\l"
+	.string "Pasti Aku kena sial…$"
 
 Route133_Text_DebraIntro:
-	.string "I've led a life of woe and misery…\n"
-	.string "I've been cast away, and this is where\l"
-	.string "I've drifted…$"
+	.string "Hidup Aku penuh derita…\n"
+	.string "Aku terbuang, dan hanyut\l"
+	.string "sampai ke sini…$"
 
 Route133_Text_DebraDefeat:
-	.string "Another loss…$"
+	.string "Kalah lagi…$"
 
 Route133_Text_DebraPostBattle:
-	.string "A life adrift…\n"
-	.string "I don't want it anymore!$"
+	.string "Hidup hanyut begini…\n"
+	.string "Aku tak mau lagi!$"
 
 Route133_Text_LindaIntro:
-	.string "Welcome!\n"
-	.string "I've been expecting you!$"
+	.string "Selamat datang!\n"
+	.string "Aku sudah menunggu Kamu!$"
 
 Route133_Text_LindaDefeat:
-	.string "No! Please!$"
+	.string "Tidak! Jangan!$"
 
 Route133_Text_LindaPostBattle:
-	.string "A strong child TRAINER…\n"
-	.string "That's so annoying!$"
+	.string "TRAINER muda yang kuat…\n"
+	.string "Menyebalkan sekali!$"
 
 Route133_Text_WarrenIntro:
-	.string "I want to win like everyone else, but I\n"
-	.string "won't raise POKéMON like everyone else.$"
+	.string "Aku ingin menang kayak orang lain,\n"
+	.string "tapi tak mau rawat POKéMON\l"
+	.string "seperti mereka.$"
 
 Route133_Text_WarrenDefeat:
-	.string "Darn it!\n"
-	.string "My way is still too slack!$"
+	.string "Sial!\n"
+	.string "Caraku masih terlalu lembek!$"
 
 Route133_Text_WarrenPostBattle:
-	.string "It's way more fun to do things the way\n"
-	.string "I want than to be like everybody else.\l"
-	.string "I mean, that's obvious!$"
+	.string "Lebih seru lakukan sesuatu\n"
+	.string "dengan caraku sendiri\l"
+	.string "daripada ikut orang lain.\l"
+	.string "Jelas banget, kan?$"
 
 Route133_Text_BeckIntro:
-	.string "I came all the way out here with my\n"
-	.string "BIRD POKéMON.$"
+	.string "Aku datang jauh-jauh bawa\n"
+	.string "BIRD POKéMON Aku.$"
 
 Route133_Text_BeckDefeat:
-	.string "You…\n"
-	.string "You're stunningly cool!$"
+	.string "Kamu…\n"
+	.string "Keren banget!$"
 
 Route133_Text_BeckPostBattle:
-	.string "I'd like to go back to FORTREE,\n"
-	.string "but I've grown to like this place, too.$"
+	.string "Aku ingin pulang ke FORTREE,\n"
+	.string "tapi Aku juga suka tempat ini.$"
 
 Route133_Text_MollieIntro:
-	.string "I must have battled thousands\n"
-	.string "of times. I've lost count.$"
+	.string "Aku pasti sudah bertarung\n"
+	.string "ribuan kali. Lupa hitungnya.$"
 
 Route133_Text_MollieDefeat:
-	.string "I may have lost thousands of times,\n"
-	.string "but a loss still stings.$"
+	.string "Mungkin Aku kalah ribuan kali,\n"
+	.string "tapi tetap sakit hati.$"
 
 Route133_Text_MolliePostBattle:
-	.string "Keep at this, youngster. So you can\n"
-	.string "become like my husband and me.$"
+	.string "Teruslah berusaha, Nak. Supaya\n"
+	.string "jadi seperti suami Aku dan Aku.$"
 
 Route133_Text_ConorIntro:
-	.string "Young people are too happy to go with\n"
-	.string "the flow. They're without direction.$"
+	.string "Anak muda terlalu senang\n"
+	.string "ikut arus. Tak punya arah.$"
 
 Route133_Text_ConorDefeat:
-	.string "You have a firm sense of purpose.$"
+	.string "Kamu punya tujuan yang jelas.$"
 
 Route133_Text_ConorPostBattle:
-	.string "Don't let others lead you astray.\n"
-	.string "Don't lose direction as you grow older.$"
+	.string "Jangan biarkan orang lain\n"
+	.string "menyesatkanmu.\l"
+	.string "Jangan kehilangan arah\n"
+	.string "saat dewasa nanti.$"
 
 Route134_Text_JackIntro:
-	.string "Even those POKéMON that can swim are\n"
-	.string "carried along by the rapid currents.$"
+	.string "Bahkan POKéMON yang bisa renang\n"
+	.string "terbawa arus deras ini.$"
 
 Route134_Text_JackDefeat:
 	.string "Aiyeeeeh!$"
 
 Route134_Text_JackPostBattle:
-	.string "I think POKéMON enjoy the fast-running\n"
-	.string "currents around these parts.$"
+	.string "Kayaknya POKéMON senang\n"
+	.string "di arus deras sini.$"
 
 Route134_Text_LaurelIntro:
-	.string "My LUVDISC are looking for a fun\n"
-	.string "match. Will you join us?$"
+	.string "LUVDISC Aku cari lawan seru.\n"
+	.string "Mau ikut?$"
 
 Route134_Text_LaurelDefeat:
-	.string "Oopsie!$"
+	.string "Ups!$"
 
 Route134_Text_LaurelPostBattle:
-	.string "There's a collector who's after\n"
-	.string "the SCALES of LUVDISC.$"
+	.string "Ada kolektor yang cari\n"
+	.string "SCALES dari LUVDISC.$"
 
 Route134_Text_AlexIntro:
-	.string "Okeydokey! That's enough rest, gang!\n"
-	.string "It's time for a match!$"
+	.string "Oke! Cukup istirahat, kawan!\n"
+	.string "Waktunya bertarung!$"
 
 Route134_Text_AlexDefeat:
-	.string "Tuckered out again…$"
+	.string "Lagi-lagi kehabisan tenaga…$"
 
 Route134_Text_AlexPostBattle:
-	.string "My BIRD POKéMON get tired quickly after\n"
-	.string "a long flight…$"
+	.string "BIRD POKéMON Aku cepat lelah\n"
+	.string "setelah terbang jauh…$"
 
 Route134_Text_HitoshiIntro:
-	.string "You're a POKéMON TRAINER.\n"
-	.string "No need for words. We battle now.$"
+	.string "Kamu TRAINER POKéMON.\n"
+	.string "Tak perlu bicara. Ayo bertarung.$"
 
 Route134_Text_HitoshiDefeat:
 	.string "… … … … … …\n"
 	.string "… … … … … …$"
 
 Route134_Text_HitoshiPostBattle:
-	.string "It was I who challenged you, and yet\n"
-	.string "I lost. I am deeply shamed…$"
+	.string "Aku yang tantang Kamu,\n"
+	.string "tapi malah kalah. Aku malu…$"
 
 Route134_Text_AaronIntro:
-	.string "The savage tide in this area serves to\n"
-	.string "make us stronger than ever.$"
+	.string "Arus liar di sini bikin kita\n"
+	.string "lebih kuat dari sebelumnya.$"
 
 Route134_Text_AaronDefeat:
-	.string "I willingly concede defeat.$"
+	.string "Aku mengakui kekalahan.$"
 
 Route134_Text_AaronPostBattle:
-	.string "We will return for more training at\n"
+	.string "Kami akan latihan lagi di\n"
 	.string "METEOR FALLS.\p"
-	.string "If you'd like, you should go, too.\n"
-	.string "It will definitely toughen you up!$"
+	.string "Kamu juga harus ke sana.\n"
+	.string "Pasti bikin Kamu makin tangguh!$"
 
 Route134_Text_KelvinIntro:
-	.string "O-our boat!\n"
-	.string "The tide carried it away!$"
+	.string "P-perahu kami!\n"
+	.string "Arus bawa kabur!$"
 
 Route134_Text_KelvinDefeat:
 	.string "Awawawawah!\n"
-	.string "Please, stop! Please!$"
+	.string "Tolong, hentikan!$"
 
 Route134_Text_KelvinPostBattle:
-	.string "If we can't SURF, how are we supposed\n"
-	.string "to get home?\p"
-	.string "Actually, I know a fainted POKéMON\n"
-	.string "can still SURF, but it feels wrong.$"
+	.string "Kalau tak bisa SURF, gimana\n"
+	.string "kami pulang?\p"
+	.string "Sebenarnya POKéMON pingsan\n"
+	.string "masih bisa SURF, tapi rasanya salah.$"
 
 Route134_Text_MarleyIntro:
-	.string "Can your POKéMON dodge our\n"
-	.string "lightning-quick attacks?$"
+	.string "Apa POKéMON-mu bisa hindari\n"
+	.string "serangan kilat kami?$"
 
 Route134_Text_MarleyDefeat:
-	.string "I never knew such a technique existed!\n"
-	.string "You've defeated us thoroughly.$"
+	.string "Tak pernah tahu teknik begini!\n"
+	.string "Kamu kalahkan kami habis-habisan.$"
 
 Route134_Text_MarleyPostBattle:
-	.string "I haven't lost my passion for speed.\n"
-	.string "I will try harder.$"
+	.string "Semangat Aku untuk kecepatan\n"
+	.string "belum padam.\l"
+	.string "Aku akan berusaha lebih keras.$"
 
 Route134_Text_ReynaIntro:
-	.string "My POKéMON can't be taken down\n"
-	.string "easily!$"
+	.string "POKéMON Aku tak mudah\n"
+	.string "dikalahkan!$"
 
 Route134_Text_ReynaDefeat:
-	.string "You're kidding!\n"
-	.string "Explain how I lost!$"
+	.string "Serius?\n"
+	.string "Jelaskan cara Aku kalah!$"
 
 Route134_Text_ReynaPostBattle:
 	.string "Haha!\n"
-	.string "You won, all right!\p"
-	.string "I'll work my way back up by taking on\n"
-	.string "TRAINERS I happen to meet!$"
+	.string "Kamu menang, bagus!\p"
+	.string "Aku akan bangkit lagi dengan\n"
+	.string "tantang TRAINER yang Aku temui!$"
 
 Route134_Text_HudsonIntro:
-	.string "Listen, have you seen another SAILOR\n"
-	.string "around here?$"
+	.string "Dengar, Kamu lihat SAILOR lain\n"
+	.string "di sekitar sini?$"
 
 Route134_Text_HudsonDefeat:
-	.string "Now, that's something!$"
+	.string "Wah, hebat!$"
 
 Route134_Text_HudsonPostBattle:
-	.string "Our boat drifted out to sea.\p"
-	.string "My buddy's a timid fellow, so I'm\n"
-	.string "worried about him.$"
+	.string "Perahu kami hanyut ke laut.\p"
+	.string "Teman Aku penakut, jadi Aku\n"
+	.string "khawatir padanya.$"
 
 VSSeeker_Text_BatteryNotChargedNeedXSteps::
-	.string "The battery isn't charged enough.\p"
-	.string "No. of steps required to fully\n"
-	.string "charge the battery: {STR_VAR_1}{PAUSE_UNTIL_PRESS}$"
+	.string "Baterai belum cukup terisi.\p"
+	.string "Jumlah langkah untuk isi penuh:\n"
+	.string "{STR_VAR_1}{PAUSE_UNTIL_PRESS}$"
 
 VSSeeker_Text_NoTrainersWithinRange::
-	.string "There are no Trainers within range\n"
-	.string "who can battle…\p"
-	.string "The VS Seeker was turned off.{PAUSE_UNTIL_PRESS}$"
+	.string "Tak ada TRAINER dalam jangkauan\n"
+	.string "yang bisa diajak bertarung…\p"
+	.string "VS Seeker dimatikan.{PAUSE_UNTIL_PRESS}$"
 
 VSSeeker_Text_TrainersNotReady::
-	.string "The other Trainers don't appear\n"
-	.string "to be ready for battle.\p"
-	.string "Let's wait till later.{PAUSE_UNTIL_PRESS}$"
+	.string "TRAINER lain sepertinya\n"
+	.string "belum siap bertarung.\p"
+	.string "Tunggu saja nanti.{PAUSE_UNTIL_PRESS}$"

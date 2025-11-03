@@ -75,35 +75,35 @@ Route102_EventScript_Allen::
 
 Route102_Text_WatchMeCatchPokemon:
 	.string "WALLY: {PLAYER}…\n"
-	.string "POKéMON hide in tall grass like this,\l"
-	.string "don't they?\p"
-	.string "Please watch me and see if I can\n"
-	.string "catch one properly.\p"
-	.string "…Whoa!$"
+	.string "POKÉMON bersembunyi di rerumputan\l"
+	.string "tinggi seperti ini, kan?\p"
+	.string "Tolong awasi aku, lihat apakah aku\n"
+	.string "bisa menangkapnya dengan benar.\p"
+	.string "…Wah!$"
 
 Route102_Text_WallyIDidIt:
-	.string "WALLY: I did it… It's my…\n"
-	.string "My POKéMON!$"
+	.string "WALLY: Aku berhasil… Ini milikku…\n"
+	.string "POKÉMON-ku!$"
 
 Route102_Text_LetsGoBack:
-	.string "{PLAYER}, thank you!\n"
-	.string "Let's go back to the GYM!$"
+	.string "{PLAYER}, terima kasih!\n"
+	.string "Ayo kembali ke GYM!$"
 
 Route102_Text_ImNotVeryTall:
-	.string "I'm…not very tall, so I sink right\n"
-	.string "into tall grass.\p"
-	.string "The grass goes up my nose and…\n"
+	.string "Aku… tidak terlalu tinggi, jadi\n"
+	.string "tenggelam di rerumputan tinggi.\p"
+	.string "Rumputnya masuk ke hidungku dan…\n"
 	.string "Fwafwafwafwafwa…\p"
-	.string "Fwatchoo!$"
+	.string "Hatchoo!$"
 
 Route102_Text_CatchWholeBunchOfPokemon:
-	.string "I'm going to catch a whole bunch of\n"
-	.string "POKéMON!$"
+	.string "Aku akan menangkap banyak\n"
+	.string "POKÉMON!$"
 
 Route102_Text_RouteSignOldale:
-	.string "ROUTE 102\n"
-	.string "{RIGHT_ARROW} OLDALE TOWN$"
+	.string "RUTE 102\n"
+	.string "{RIGHT_ARROW} KOTA OLDALE$"
 
 Route102_Text_RouteSignPetalburg:
-	.string "ROUTE 102\n"
-	.string "{LEFT_ARROW} PETALBURG CITY$"
+	.string "RUTE 102\n"
+	.string "{LEFT_ARROW} KOTA PETALBURG$"

@@ -1,3 +1,4 @@
+//gemini
 BattleFrontier_BattleFactoryLobby_MapScripts::
 	map_script MAP_SCRIPT_ON_FRAME_TABLE, BattleFrontier_BattleFactoryLobby_OnFrame
 	map_script MAP_SCRIPT_ON_WARP_INTO_MAP_TABLE, BattleFrontier_BattleFactoryLobby_OnWarp
@@ -323,229 +324,266 @@ BattleFrontier_BattleFactoryLobby_EventScript_ExitRules::
 	end
 
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForSingleBattle:
-	.string "Where the intelligence of TRAINERS\n"
-	.string "is put to the test!\p"
-	.string "Welcome to the BATTLE FACTORY!\p"
-	.string "I am your guide to the Battle Swap\n"
-	.string "Single Tournament.$"
+	.string "Di mana kecerdasan TRAINER diuji!\p"
+	.string "Selamat datang di PABRIK\n"
+	.string "PERTARUNGAN!\p"
+	.string "Aku adalah pemandu Kamu untuk\n"
+	.string "Turnamen Tunggal Tukar Pertarungan.$"
 
 BattleFrontier_BattleFactoryLobby_Text_TakeSinglesChallenge:
-	.string "Would you like to take the Battle\n"
-	.string "Swap Single challenge?$"
+	.string "Apakah Kamu ingin menerima\n"
+	.string "tantangan Tunggal Tukar\l"
+	.string "Pertarungan?$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSinglesChallenge:
-	.string "The Battle Swap Single Tournament\n"
-	.string "is a SINGLE BATTLE competition using\l"
-	.string "only rental POKéMON.\p"
-	.string "First, you will be loaned three\n"
-	.string "POKéMON specifically for this event.\p"
-	.string "Using the supplied rental POKéMON,\n"
-	.string "you must conduct a SINGLE BATTLE.\p"
-	.string "If you win, you are permitted to trade\n"
-	.string "one of your rental POKéMON.\p"
-	.string "Repeat this cycle of battling and\n"
-	.string "trading--if you win seven times in\l"
-	.string "a row, you will earn Battle Points.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save, you will be\n"
-	.string "disqualified from your challenge.$"
+	.string "Turnamen Tunggal Tukar Pertarungan\n"
+	.string "adalah kompetisi PERTARUNGAN\l"
+	.string "TUNGGAL yang hanya menggunakan\l"
+	.string "POKéMON sewaan.\p"
+	.string "Pertama, Kamu akan dipinjami tiga\n"
+	.string "POKéMON khusus untuk acara ini.\p"
+	.string "Menggunakan POKéMON sewaan yang\n"
+	.string "disediakan, Kamu harus melakukan\l"
+	.string "PERTARUNGAN TUNGGAL.\p"
+	.string "Jika Kamu menang, Kamu diizinkan\n"
+	.string "untuk menukar salah satu POKéMON\l"
+	.string "sewaan Kamu.\p"
+	.string "Ulangi siklus pertarungan dan\n"
+	.string "penukaran ini--jika Kamu menang\l"
+	.string "tujuh kali berturut-turut, Kamu\l"
+	.string "akan mendapatkan Poin Pertarungan.\p"
+	.string "Jika Kamu ingin menginterupsi\n"
+	.string "tantangan Kamu, harap simpan\l"
+	.string "permainan.\p"
+	.string "Jika Kamu tidak menyimpan, Kamu\n"
+	.string "akan didiskualifikasi dari\l"
+	.string "tantangan Kamu.$"
 
 BattleFrontier_BattleFactoryLobby_Text_LookForwardToNextVisit:
-	.string "We look forward to your next visit.$"
+	.string "Kami menantikan kunjungan Kamu\n"
+	.string "berikutnya.$"
 
 BattleFrontier_BattleFactoryLobby_Text_WhichLevelMode:
-	.string "Which level do you wish to challenge?\n"
-	.string "Level 50 or Open Level?$"
+	.string "Tingkat mana yang ingin Kamu\n"
+	.string "tantang? Tingkat 50 atau Tingkat\l"
+	.string "Terbuka?$"
 
 BattleFrontier_BattleFactoryLobby_Text_OkayToSaveBeforeChallenge:
-	.string "Before you begin your challenge,\n"
-	.string "I need to save the game. Is that okay?$"
+	.string "Sebelum Kamu memulai tantangan\n"
+	.string "Kamu, Aku perlu menyimpan\l"
+	.string "permainan. Apakah tidak apa-apa?$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_WillHoldMonsForSafekeeping:
-	.string "Okay, I will hold your POKéMON for\n"
-	.string "safekeeping while you compete.$"
+	.string "Baiklah, Aku akan menyimpan POKéMON\n"
+	.string "Kamu untuk diamankan selama Kamu\l"
+	.string "berkompetisi.$"
 
 BattleFrontier_BattleFactoryLobby_Text_StepThisWay:
-	.string "Please step this way.$"
+	.string "Silakan ikuti Aku.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ReturnMonsSaveResults:
-	.string "Thank you for participating!\p"
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.\p"
-	.string "I must also save the event results.\n"
-	.string "Please wait.$"
+	.string "Terima kasih atas partisipasi Kamu!\p"
+	.string "Aku akan mengembalikan POKéMON Kamu\n"
+	.string "sebagai ganti POKéMON sewaan kami.\p"
+	.string "Aku juga harus menyimpan hasil\n"
+	.string "acara. Mohon tunggu.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_ReturnMons:
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.$"
+	.string "Aku akan mengembalikan POKéMON Kamu\n"
+	.string "sebagai ganti POKéMON sewaan kami.$"
 
 BattleFrontier_BattleFactoryLobby_Text_CongratsSevenWins:
-	.string "Congratulations! You've won seven\n"
-	.string "straight Battle Swap matches!$"
+	.string "Selamat! Kamu telah memenangkan\n"
+	.string "tujuh pertandingan Tukar\l"
+	.string "Pertarungan berturut-turut!$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_AwardBattlePointsForStreak:
-	.string "In recognition of your 7-win streak,\n"
-	.string "we award you these Battle Point(s).$"
+	.string "Sebagai pengakuan atas 7 kemenangan\n"
+	.string "beruntun Kamu, kami menghadiahkan\l"
+	.string "Poin Pertarungan ini.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_MaxBattlePoints:
 	.string "Oh, oh, oh!\p"
-	.string "Your Battle Points are maxed.\p"
-	.string "Please come back after using\n"
-	.string "some Battle Points.$"
+	.string "Poin Pertarungan Kamu sudah\n"
+	.string "maksimal.\p"
+	.string "Silakan kembali setelah menggunakan\n"
+	.string "sebagian Poin Pertarungan.$"
 
 BattleFrontier_BattleFactoryLobby_Text_WaitingForYouToResume:
-	.string "We've been waiting for you!\p"
-	.string "Before we resume your challenge,\n"
-	.string "I must save the game.$"
+	.string "Kami telah menunggu Kamu!\p"
+	.string "Sebelum kami melanjutkan tantangan\n"
+	.string "Kamu, Aku harus menyimpan\l"
+	.string "permainan.$"
 
 BattleFrontier_BattleFactoryLobby_Text_DidntSaveBeforeQuitting:
-	.string "I'm sorry to say this, but you didn't\n"
-	.string "save before you quit playing last time.\p"
-	.string "As a result, you have been disqualified\n"
-	.string "from your challenge.$"
+	.string "Aku menyesal mengatakan ini, tetapi\n"
+	.string "Kamu tidak menyimpan sebelum\l"
+	.string "berhenti bermain terakhir kali.\p"
+	.string "Akibatnya, Kamu telah\n"
+	.string "didiskualifikasi dari tantangan\l"
+	.string "Kamu.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_WellReturnMons:
-	.string "We'll return your personal POKéMON.$"
+	.string "Kami akan mengembalikan POKéMON\n"
+	.string "pribadi Kamu.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_ReceivedPrizeItem:
-	.string "{PLAYER} received the prize\n"
+	.string "{PLAYER} menerima hadiah\n"
 	.string "{STR_VAR_1}.$"
 
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForDoubleBattle:
-	.string "Where the intelligence of TRAINERS\n"
-	.string "is put to the test!\p"
-	.string "Welcome to the BATTLE FACTORY!\p"
-	.string "I am your guide to the Battle Swap\n"
-	.string "Double Tournament.$"
+	.string "Di mana kecerdasan TRAINER diuji!\p"
+	.string "Selamat datang di PABRIK\n"
+	.string "PERTARUNGAN!\p"
+	.string "Aku adalah pemandu Kamu untuk\n"
+	.string "Turnamen Ganda Tukar Pertarungan.$"
 
 BattleFrontier_BattleFactoryLobby_Text_TakeDoublesChallenge:
-	.string "Would you like to take the Battle\n"
-	.string "Swap Double challenge?$"
+	.string "Apakah Kamu ingin menerima\n"
+	.string "tantangan Ganda Tukar Pertarungan?$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainDoublesChallenge:
-	.string "The Battle Swap Double Tournament\n"
-	.string "is a DOUBLE BATTLE competition using\l"
-	.string "only rental POKéMON.\p"
-	.string "First, you will be loaned three\n"
-	.string "POKéMON specifically for this event.\p"
-	.string "Using the supplied rental POKéMON,\n"
-	.string "you must conduct a DOUBLE BATTLE.\p"
-	.string "If you win, you are permitted to trade\n"
-	.string "one of your rental POKéMON.\p"
-	.string "Repeat this cycle of battling and\n"
-	.string "trading--if you win seven times in\l"
-	.string "a row, you will earn Battle Points.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "Turnamen Ganda Tukar Pertarungan\n"
+	.string "adalah kompetisi PERTARUNGAN GANDA\l"
+	.string "yang hanya menggunakan POKéMON\l"
+	.string "sewaan.\p"
+	.string "Pertama, Kamu akan dipinjami tiga\n"
+	.string "POKéMON khusus untuk acara ini.\p"
+	.string "Menggunakan POKéMON sewaan yang\n"
+	.string "disediakan, Kamu harus melakukan\l"
+	.string "PERTARUNGAN GANDA.\p"
+	.string "Jika Kamu menang, Kamu diizinkan\n"
+	.string "untuk menukar salah satu POKéMON\l"
+	.string "sewaan Kamu.\p"
+	.string "Ulangi siklus pertarungan dan\n"
+	.string "penukaran ini--jika Kamu menang\l"
+	.string "tujuh kali berturut-turut, Kamu\l"
+	.string "akan mendapatkan Poin Pertarungan.\p"
+	.string "Jika Kamu ingin menginterupsi\n"
+	.string "tantangan Kamu, harap simpan\l"
+	.string "permainan.\p"
+	.string "Jika Kamu tidak menyimpan sebelum\n"
+	.string "menginterupsi, Kamu akan\l"
+	.string "didiskualifikasi.$"
 
 BattleFrontier_BattleFactoryLobby_Text_CongratsForDefeatingHead:
-	.string "Congratulations for defeating\n"
-	.string "the FACTORY HEAD and winning\l"
-	.string "seven matches in a row!$"
+	.string "Selamat karena telah mengalahkan\n"
+	.string "KEPALA PABRIK dan memenangkan tujuh\l"
+	.string "pertandingan berturut-turut!$"
 
 BattleFrontier_BattleFactoryLobby_Text_AwardBattlePoints:
-	.string "In recognition of your wealth of\n"
-	.string "knowledge and keen intelligence,\l"
-	.string "we award you these Battle Point(s).$"
+	.string "Sebagai pengakuan atas kekayaan\n"
+	.string "pengetahuan dan kecerdasan tajam\l"
+	.string "Kamu, kami menghadiahkan Poin\l"
+	.string "Pertarungan ini.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExchangeMonsAndSave:
-	.string "Let me exchange your POKéMON\n"
-	.string "for our rental POKéMON.\p"
-	.string "I need to save the battle data,\n"
-	.string "so please wait.$"
+	.string "Izinkan Aku menukar POKéMON Kamu\n"
+	.string "dengan POKéMON sewaan kami.\p"
+	.string "Aku perlu menyimpan data\n"
+	.string "pertarungan, jadi mohon tunggu.$"
 
 BattleFrontier_BattleFactoryLobby_Text_RecordLastMatch:
-	.string "Would you like to record your last\n"
-	.string "BATTLE FACTORY match on your\l"
-	.string "FRONTIER PASS?$"
+	.string "Apakah Kamu ingin merekam\n"
+	.string "pertandingan PABRIK PERTARUNGAN\l"
+	.string "terakhir Kamu di KARTU FRONTIER\l"
+	.string "Kamu?$"
 
 BattleFrontier_BattleFactoryLobby_Text_NeedKnowledgeOfMonsMoves:
-	.string "Hi!\n"
-	.string "You, there!\p"
-	.string "Are you thinking that the events here\n"
-	.string "are easy since you don't need to have\l"
-	.string "a raised team of POKéMON?\p"
-	.string "I wouldn't be too sure about winning\n"
-	.string "that easily.\p"
-	.string "If you don't have thorough knowledge\n"
-	.string "about POKéMON and their moves,\l"
-	.string "it will be tough to keep winning.$"
+	.string "Hai! Kamu, di sana!\p"
+	.string "Apakah Kamu berpikir bahwa acara di\n"
+	.string "sini mudah karena Kamu tidak perlu\l"
+	.string "memiliki tim POKéMON yang\l"
+	.string "dibesarkan?\p"
+	.string "Aku tidak akan terlalu yakin\n"
+	.string "tentang menang semudah itu.\p"
+	.string "Jika Kamu tidak memiliki\n"
+	.string "pengetahuan menyeluruh tentang\l"
+	.string "POKéMON dan gerakan mereka, akan\l"
+	.string "sulit untuk terus menang.$"
 
 BattleFrontier_BattleFactoryLobby_Text_SwappedForWeakMon:
-	.string "I swapped for a weak POKéMON…\n"
-	.string "I thought it was a good kind to have…\p"
-	.string "They wiped the floor with us…$"
+	.string "Aku menukar dengan POKéMON yang\n"
+	.string "lemah… Aku pikir itu jenis yang\l"
+	.string "bagus untuk dimiliki…\p"
+	.string "Mereka mengalahkan kami\n"
+	.string "habis-habisan…$"
 
 BattleFrontier_BattleFactoryLobby_Text_NeedToCheckOpponentsMons:
-	.string "Things haven't been going my way\n"
-	.string "at all.\p"
-	.string "You need to check your opponent's\n"
-	.string "POKéMON during battle to see if\l"
-	.string "they're any good.$"
+	.string "Segalanya tidak berjalan sesuai\n"
+	.string "keinginanku sama sekali.\p"
+	.string "Kamu perlu memeriksa POKéMON lawan\n"
+	.string "Kamu selama pertarungan untuk\l"
+	.string "melihat apakah mereka bagus.$"
 
 BattleFrontier_BattleFactoryLobby_Text_CantFigureOutStaffHints:
-	.string "You know how the staff here give you\n"
-	.string "a few hints about your next opponent?\p"
-	.string "Well, I'm a full-grown man, but I have\n"
-	.string "trouble figuring out their hints.$"
+	.string "Kamu tahu bagaimana staf di sini\n"
+	.string "memberi Kamu beberapa petunjuk\l"
+	.string "tentang lawan Kamu berikutnya?\p"
+	.string "Yah, aku pria dewasa, tetapi aku\n"
+	.string "kesulitan memahami petunjuk mereka.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_RentalMonsAreVaried:
-	.string "Like, I'm really tough, but I get bored\n"
-	.string "really easily, so I just kept swapping\l"
-	.string "and battling over and over.\p"
-	.string "So anyway, when I kept entering\n"
-	.string "Battle Swap events, I noticed they\l"
-	.string "varied the rental POKéMON.$"
+	.string "Seperti, aku benar-benar tangguh,\n"
+	.string "tetapi aku mudah bosan, jadi aku\l"
+	.string "terus menukar dan bertarung\l"
+	.string "berulang kali.\p"
+	.string "Jadi, ketika aku terus memasuki\n"
+	.string "acara Tukar Pertarungan, aku\l"
+	.string "menyadari bahwa mereka\l"
+	.string "memvariasikan POKéMON sewaan.$"
 
 BattleFrontier_BattleFactoryLobby_Text_RulesAreListed:
-	.string "The Battle Swap rules are listed.$"
+	.string "Aturan Tukar Pertarungan tercantum.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+	.string "Judul mana yang ingin Kamu baca?$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainBasicRules:
-	.string "In a Battle Swap event, you may use\n"
-	.string "only three POKéMON.\p"
-	.string "Whether you are renting or swapping,\n"
-	.string "your team may not have two or more\l"
-	.string "of the same POKéMON.$"
+	.string "Dalam acara Tukar Pertarungan, Kamu\n"
+	.string "hanya boleh menggunakan tiga\l"
+	.string "POKéMON.\p"
+	.string "Baik Kamu menyewa atau menukar, tim\n"
+	.string "Kamu tidak boleh memiliki dua atau\l"
+	.string "lebih POKéMON yang sama.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapPartnerRules:
-	.string "You may swap POKéMON only with\n"
-	.string "the TRAINER you have just defeated.\p"
-	.string "You may swap for only those POKéMON\n"
-	.string "used by the beaten TRAINER.$"
+	.string "Kamu hanya boleh menukar POKéMON\n"
+	.string "dengan TRAINER yang baru saja Kamu\l"
+	.string "kalahkan.\p"
+	.string "Kamu hanya boleh menukar POKéMON\n"
+	.string "yang digunakan oleh TRAINER yang\l"
+	.string "dikalahkan.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNumberRules:
-	.string "After every battle you win, you may\n"
-	.string "swap for one of your defeated\l"
-	.string "opponent's POKéMON.\p"
-	.string "You will not be able to swap POKéMON\n"
-	.string "with the seventh TRAINER in the event.$"
+	.string "Setelah setiap pertarungan yang\n"
+	.string "Kamu menangkan, Kamu dapat menukar\l"
+	.string "dengan salah satu POKéMON lawan\l"
+	.string "yang Kamu kalahkan.\p"
+	.string "Kamu tidak akan bisa menukar\n"
+	.string "POKéMON dengan TRAINER ketujuh\l"
+	.string "dalam acara tersebut.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNotesRules:
-	.string "There are two key points to be aware\n"
-	.string "of when swapping POKéMON.\p"
-	.string "First, when swapping, you can't check\n"
-	.string "the stats of the POKéMON you are\l"
-	.string "about to receive.\p"
-	.string "Second, the POKéMON on your team\n"
-	.string "are lined up in sequence, depending on\l"
-	.string "the order in which you rented them.\p"
-	.string "This sequence remains unchanged\n"
-	.string "even when swaps are made.$"
+	.string "Ada dua poin kunci yang perlu\n"
+	.string "diperhatikan saat menukar POKéMON.\p"
+	.string "Pertama, saat menukar, Kamu tidak\n"
+	.string "dapat memeriksa statistik POKéMON\l"
+	.string "yang akan Kamu terima.\p"
+	.string "Kedua, POKéMON di tim Kamu berbaris\n"
+	.string "berurutan, tergantung pada urutan\l"
+	.string "Kamu menyewanya.\p"
+	.string "Urutan ini tetap tidak berubah\n"
+	.string "bahkan ketika penukaran dilakukan.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainOpenLvRules:
-	.string "In the Open Level, the rental POKéMON\n"
-	.string "and the opposing TRAINERS' POKéMON\l"
-	.string "are all Level 100.$"
+	.string "Di Tingkat Terbuka, POKéMON sewaan\n"
+	.string "dan POKéMON TRAINER lawan semuanya\l"
+	.string "adalah Tingkat 100.$"

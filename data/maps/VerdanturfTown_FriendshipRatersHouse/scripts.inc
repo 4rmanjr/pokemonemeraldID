@@ -1,3 +1,4 @@
+//gemini
 VerdanturfTown_FriendshipRatersHouse_MapScripts::
 	.byte 0
 
@@ -63,42 +64,44 @@ VerdanturfTown_FriendshipRatersHouse_EventScript_Pikachu::
 	end
 
 VerdanturfTown_FriendshipRatersHouse_Text_SeeHowMuchPokemonLikesYou:
-	.string "Let me see your POKéMON.\n"
-	.string "I'll check to see how much it likes you.\p"
+	.string "Coba kulihat POKéMON-mu.\n"
+	.string "Aku akan memeriksa\l"
+	.string "seberapa besar ia menyukaimu.\p"
 	.string "Oh.\n"
-	.string "Your POKéMON…$"
+	.string "POKéMON-mu…$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_AdoresYou:
-	.string "It adores you.\n"
-	.string "It can't possibly love you any more.\l"
-	.string "I even feel happy seeing it.$"
+	.string "Ia memujamu.\n"
+	.string "Ia tidak mungkin bisa\l"
+	.string "mencintaimu lebih dari ini.\l"
+	.string "Aku bahkan merasa senang melihatnya.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_VeryHappy:
-	.string "It seems to be very happy.\n"
-	.string "It obviously likes you a whole lot.$"
+	.string "Ia terlihat sangat senang.\n"
+	.string "Ia jelas sangat menyukaimu.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_LikesYouQuiteALot:
-	.string "It likes you quite a lot.\n"
-	.string "It seems to want to be babied a little.$"
+	.string "Ia cukup menyukaimu.\n"
+	.string "Ia sepertinya ingin sedikit dimanja.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_GettingUsedToYou:
-	.string "It's getting used to you.\n"
-	.string "It seems to believe in you.$"
+	.string "Ia mulai terbiasa denganmu.\n"
+	.string "Ia sepertinya memercayaimu.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_NotUsedToYou:
-	.string "It's not very used to you yet.\n"
-	.string "It neither loves nor hates you.$"
+	.string "Ia belum terlalu terbiasa denganmu.\n"
+	.string "Ia tidak mencintai atau membencimu.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_VeryWary:
-	.string "It's very wary.\n"
-	.string "It has scary viciousness in its eyes.\l"
-	.string "It doesn't like you much at all.$"
+	.string "Ia sangat waspada.\n"
+	.string "Ada keganasan menakutkan di matanya.\l"
+	.string "Ia sama sekali tidak menyukaimu.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_DetestsYou:
-	.string "This is a little hard for me to say…\p"
-	.string "Your POKéMON simply detests you.\n"
-	.string "Doesn't that make you uncomfortable?$"
+	.string "Agak sulit bagiku\n"
+	.string "untuk mengatakannya…\p"
+	.string "POKéMON-mu benar-benar membencimu.\n"
+	.string "Tidakkah itu membuatmu tidak nyaman?$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_Pikachu:
 	.string "PIKACHU: Pika pika!$"
-

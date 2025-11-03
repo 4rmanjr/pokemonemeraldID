@@ -1,3 +1,4 @@
+//gemini
 SootopolisCity_LotadAndSeedotHouse_MapScripts::
 	.byte 0
 
@@ -104,99 +105,103 @@ SootopolisCity_LotadAndSeedotHouse_EventScript_LotadSizeRecord::
 	end
 
 SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigSeedot:
-	.string "Do you know the POKéMON SEEDOT?\n"
-	.string "It's hardly ever seen in SOOTOPOLIS.\p"
-	.string "Anyway, I love big SEEDOT.\n"
-	.string "The bigger the better.\p"
-	.string "But my younger brother, he says that\n"
-	.string "LOTAD is bigger.\p"
-	.string "That's silly.\n"
-	.string "SEEDOT has to be bigger than that!\p"
-	.string "Huh? Do you have a SEEDOT with you?\n"
-	.string "P-p-please, show me!$"
+	.string "Apakah Kamu tahu POKéMON SEEDOT?\n"
+	.string "Jarang sekali terlihat di\l"
+	.string "SOOTOPOLIS.\p"
+	.string "Pokoknya, Aku suka SEEDOT yang\n"
+	.string "besar. Semakin besar, semakin baik.\p"
+	.string "Tapi adik laki-lakiku, dia bilang\n"
+	.string "LOTAD lebih besar.\p"
+	.string "Itu konyol. SEEDOT pasti lebih\n"
+	.string "besar dari itu!\p"
+	.string "Hah? Kamu bawa SEEDOT? T-t-tolong,\n"
+	.string "tunjukkan padaku!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_GoshMightBeBiggerThanLotad:
-	.string "{STR_VAR_2}!\n"
-	.string "Oh, my gosh, this is a big one!\p"
-	.string "It might even beat the big LOTAD\n"
-	.string "my younger brother saw!\p"
-	.string "Thanks for showing me.\n"
-	.string "This is my thanks!$"
+	.string "{STR_VAR_2}! Ya ampun, ini besar\n"
+	.string "sekali!\p"
+	.string "Ini bahkan bisa mengalahkan LOTAD\n"
+	.string "besar yang dilihat adik\l"
+	.string "laki-lakiku!\p"
+	.string "Terima kasih sudah menunjukkannya.\n"
+	.string "Ini adalah tanda terima kasih\l"
+	.string "dariku!$"
 
 @ Unused
 SootopolisCity_LotadAndSeedotHouse_Text_ReceivedPotion1:
-	.string "{PLAYER} received a POTION.$"
+	.string "{PLAYER} menerima POTION.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull1:
-	.string "Hunh?\n"
-	.string "Your BAG is crammed full.$"
+	.string "Hah? TAS Kamu sudah penuh sesak.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerSeedot:
-	.string "{STR_VAR_2}, is it?\p"
-	.string "Hmm… I've seen a bigger SEEDOT\n"
-	.string "than this one.$"
+	.string "{STR_VAR_2}, ya?\p"
+	.string "Hmm… Aku pernah melihat SEEDOT yang\n"
+	.string "lebih besar dari ini.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_ThatsNotSeedot:
-	.string "Oh, now this is quite something…\n"
-	.string "But it's not a SEEDOT!$"
+	.string "Oh, ini lumayan… Tapi ini bukan\n"
+	.string "SEEDOT!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_DontHaveBigSeedot:
-	.string "You don't have a big SEEDOT?\n"
-	.string "That's too bad…\p"
-	.string "If you get a big SEEDOT, please\n"
-	.string "come show me.$"
+	.string "Kamu tidak punya SEEDOT yang besar?\n"
+	.string "Sayang sekali…\p"
+	.string "Jika Kamu mendapatkan SEEDOT besar,\n"
+	.string "tolong datang dan tunjukkan padaku.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BiggestSeedotInHistory:
-	.string "The biggest SEEDOT in history!\n"
-	.string "{STR_VAR_2}'s {STR_VAR_3} giant!\p"
-	.string "A SEEDOT bigger than a LOTAD\n"
-	.string "always wanted!$"
+	.string "SEEDOT terbesar dalam sejarah!\n"
+	.string "Raksasa {STR_VAR_3} milik\l"
+	.string "{STR_VAR_2}!\p"
+	.string "SEEDOT yang lebih besar dari LOTAD,\n"
+	.string "selalu Aku inginkan!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigLotad:
-	.string "Do you know the POKéMON LOTAD?\n"
-	.string "It's rarely seen in SOOTOPOLIS.\p"
-	.string "I love, I mean love, big LOTAD!\p"
-	.string "My big brother says that SEEDOT is\n"
-	.string "bigger.\p"
-	.string "But that's wrong! Everyone knows that\n"
-	.string "LOTAD is a lot bigger.\p"
-	.string "Hunh? Do you have a LOTAD?\n"
-	.string "P-p-please show me!$"
+	.string "Apakah Kamu tahu POKéMON LOTAD?\n"
+	.string "Jarang terlihat di SOOTOPOLIS.\p"
+	.string "Aku suka, maksudku sangat suka,\n"
+	.string "LOTAD yang besar!\p"
+	.string "Kakak laki-lakiku bilang SEEDOT\n"
+	.string "yang lebih besar.\p"
+	.string "Tapi itu salah! Semua orang tahu\n"
+	.string "LOTAD jauh lebih besar.\p"
+	.string "Hah? Kamu bawa LOTAD? T-t-tolong\n"
+	.string "tunjukkan padaku!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_WowMightBeBiggerThanSeedot:
-	.string "{STR_VAR_2}!\n"
-	.string "Wow, that is big!\p"
-	.string "It might be even bigger than the huge\n"
-	.string "SEEDOT my big brother saw.\p"
-	.string "Thanks for showing me!\n"
-	.string "This is my thanks!$"
+	.string "{STR_VAR_2}! Wow, itu besar!\p"
+	.string "Mungkin ini bahkan lebih besar dari\n"
+	.string "SEEDOT raksasa yang dilihat kakak\l"
+	.string "laki-lakiku.\p"
+	.string "Terima kasih sudah menunjukkannya!\n"
+	.string "Ini adalah tanda terima kasih\l"
+	.string "dariku!$"
 
 @ Unused
 SootopolisCity_LotadAndSeedotHouse_Text_ReceivedPotion2:
-	.string "{PLAYER} received a POTION.$"
+	.string "{PLAYER} menerima POTION.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull2:
-	.string "Hunh?\n"
-	.string "Your BAG is crammed full.$"
+	.string "Hah? TAS Kamu sudah penuh sesak.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerLotad:
 	.string "{STR_VAR_2}?\p"
-	.string "Hmm… I've seen a bigger LOTAD\n"
-	.string "than this one here.$"
+	.string "Hmm… Aku pernah melihat LOTAD yang\n"
+	.string "lebih besar dari yang ini.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_ThatsNotLotad:
-	.string "Well, isn't this something!\n"
-	.string "But it's no LOTAD!$"
+	.string "Wah, ini lumayan! Tapi ini bukan\n"
+	.string "LOTAD!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_DontHaveBigLotad:
-	.string "Don't you have a big LOTAD?\n"
-	.string "How disappointing…\p"
-	.string "If you get a big LOTAD, please\n"
-	.string "come show me!$"
+	.string "Kamu tidak punya LOTAD yang besar?\n"
+	.string "Sungguh mengecewakan…\p"
+	.string "Jika Kamu mendapatkan LOTAD besar,\n"
+	.string "tolong datang dan tunjukkan padaku!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BiggestLotadInHistory:
-	.string "The biggest LOTAD in history!\n"
-	.string "{STR_VAR_2}'s {STR_VAR_3} colossus!\p"
-	.string "A LOTAD bigger than a SEEDOT\n"
-	.string "always wanted!$"
-
+	.string "LOTAD terbesar dalam sejarah!\n"
+	.string "Raksasa {STR_VAR_3} milik\l"
+	.string "{STR_VAR_2}!\p"
+	.string "LOTAD yang lebih besar dari SEEDOT,\n"
+	.string "selalu Aku inginkan!$"

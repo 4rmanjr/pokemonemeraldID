@@ -1,3 +1,4 @@
+//gemini
 SlateportCity_BattleTentLobby_MapScripts::
 	map_script MAP_SCRIPT_ON_FRAME_TABLE, SlateportCity_BattleTentLobby_OnFrame
 	map_script MAP_SCRIPT_ON_WARP_INTO_MAP_TABLE, SlateportCity_BattleTentLobby_OnWarp
@@ -273,35 +274,41 @@ SlateportCity_BattleTentLobby_EventScript_ExitRules::
 	end
 
 SlateportCity_BattleTentLobby_Text_CouldntFindMonForMe:
-	.string "So, like, I couldn't find myself any\n"
-	.string "POKéMON that were, like, for me.\p"
-	.string "So, I figured, like, hey, I should file\n"
-	.string "a complaint to the guy there?\p"
-	.string "And he wouldn't hear me out, like, hey!\n"
-	.string "So, like, total bummer, man!\p"
-	.string "Hey, like, you! Zip it, you know?\n"
-	.string "Just, you know, take this!$"
+	.string "Jadi, kayak, Aku enggak nemuin\n"
+	.string "POKéMON yang, kayak, cocok buat\l"
+	.string "Aku.\p"
+	.string "Jadi, Aku mikir, kayak, hei,\n"
+	.string "harusnya Aku ngajuin keluhan ke\l"
+	.string "orang itu?\p"
+	.string "Dan dia enggak mau dengerin Aku,\n"
+	.string "kayak, hei! Jadi, kayak,\l"
+	.string "benar-benar sial, man!\p"
+	.string "Hei, kayak, Kamu! Diam, tahu\n"
+	.string "enggak? Ya, tahu enggak, ambil ini!$"
 
 SlateportCity_BattleTentLobby_Text_ExplainTorment:
-	.string "That's, like, TM41, you know?\n"
-	.string "Hey, it's TORMENT, you hearing me?\p"
-	.string "Like, it won't let the other guy\n"
-	.string "use the same move twice in a row, see?\p"
-	.string "Hey, now, you listen here, like,\n"
-	.string "I'm not laying a torment on you!$"
+	.string "Itu, kayak, TM41, tahu enggak? Hei,\n"
+	.string "itu TORMENT, Kamu dengar Aku?\p"
+	.string "Kayaknya, itu enggak akan biarin\n"
+	.string "lawan pakai jurus yang sama dua\l"
+	.string "kali berturut-turut, lihat?\p"
+	.string "Hei, sekarang, Kamu dengar\n"
+	.string "baik-baik, kayak, Aku enggak lagi\l"
+	.string "nyusahin Kamu!$"
 
 SlateportCity_BattleTentLobby_Text_IllTryUsingBugMons:
-	.string "I don't really like BUG POKéMON,\n"
-	.string "but maybe I'll try using some for\l"
-	.string "a change of pace.\p"
-	.string "Who knows, I might even get to like\n"
-	.string "them!$"
+	.string "Aku tidak terlalu suka POKéMON\n"
+	.string "SERANGGA, tapi mungkin Aku akan\l"
+	.string "coba pakai beberapa untuk suasana\l"
+	.string "baru.\p"
+	.string "Siapa tahu, Aku bahkan bisa jadi\n"
+	.string "suka mereka!$"
 
 SlateportCity_BattleTentLobby_Text_BattleEvenWithoutToughMons:
-	.string "You can battle all you want here even\n"
-	.string "if you don't have any tough POKéMON.$"
+	.string "Kamu bisa bertarung sepuasnya di\n"
+	.string "sini meski Kamu tidak punya POKéMON\l"
+	.string "yang kuat.$"
 
 SlateportCity_BattleTentLobby_Text_NiceIfMoreSelection:
-	.string "Wouldn't it be nice if they had more of\n"
-	.string "a selection?$"
-
+	.string "Bukankah menyenangkan kalau mereka\n"
+	.string "punya lebih banyak pilihan?$"

@@ -11,16 +11,16 @@ AbandonedShip_Corridors_1F_EventScript_Charlie::
 	end
 
 AbandonedShip_Corridors_1F_Text_CharlieIntro:
-	.string "What's so funny about having my inner\n"
-	.string "tube aboard the ship?$"
+	.string "Apa lucunya bawa ban dalam\n"
+	.string "ke kapal?$"
 
 AbandonedShip_Corridors_1F_Text_CharlieDefeat:
-	.string "Whoa, you overwhelmed me!$"
+	.string "Whoa, aku kalah telak!$"
 
 AbandonedShip_Corridors_1F_Text_CharliePostBattle:
-	.string "It's not easy throwing POKé BALLS\n"
-	.string "while hanging on to an inner tube!$"
+	.string "Sulit melempar POKé BALL sambil\n"
+	.string "berpegangan pada ban dalam!$"
 
 AbandonedShip_Corridors_1F_Text_IsntItFunHere:
-	.string "Isn't it fun here?\n"
-	.string "I get excited just being here!$"
+	.string "Di sini menyenangkan, bukan?\n"
+	.string "Aku jadi semangat hanya di sini!$"

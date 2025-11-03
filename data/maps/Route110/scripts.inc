@@ -1,3 +1,4 @@
+//aistudio
 Route110_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, Route110_OnResume
 	map_script MAP_SCRIPT_ON_TRANSITION, Route110_OnTransition
@@ -739,86 +740,93 @@ Route110_Movement_BirchExit4:
 	step_end
 
 Route110_Text_WeCantTalkAboutAquaActivities:
-	.string "TEAM AQUA's activities…\n"
-	.string "We can't talk about them yet.$"
+	.string "Aktivitas TEAM AQUA…\n"
+	.string "Kita belum bisa membicarakannya.$"
 
 Route110_Text_KickUpARuckus:
-	.string "I want to get going to SLATEPORT and\n"
-	.string "kick up a ruckus!$"
+	.string "Aku ingin pergi ke SLATEPORT &\n"
+	.string "membuat keributan!$"
 
 Route110_Text_MyFirstJobInAqua:
-	.string "This is my first job after joining\n"
-	.string "TEAM AQUA. It's a little scary.$"
+	.string "Ini pekerjaan pertamaku setelah\n"
+	.string "bergabung dengan TEAM AQUA. Agak\l"
+	.string "menakutkan.$"
 
 Route110_Text_AquaActionsBringSmiles:
-	.string "TEAM AQUA's actions should bring\n"
-	.string "smiles to people's faces!$"
+	.string "Tindakan TEAM AQUA seharusnya\n"
+	.string "membawa senyum ke wajah orang-orang!$"
 
 Route110_Text_MayLetsBattle:
-	.string "MAY: Hi, {PLAYER}{KUN}, long time no see!\p"
-	.string "While I was searching for other\n"
-	.string "POKéMON, my POKéMON grew stronger.\p"
-	.string "So…\n"
-	.string "How about a little battle?$"
+	.string "MAY: Hai, {PLAYER}{KUN}, lama tidak\n"
+	.string "bertemu!\p"
+	.string "Saat aku mencari POKéMON lain,\n"
+	.string "POKéMON-ku jadi lebih kuat.\p"
+	.string "Jadi…\n"
+	.string "Bagaimana kalau kita bertarung\l"
+	.string "sebentar?$"
 
 Route110_Text_MayDefeated:
-	.string "Yikes!\n"
-	.string "You're better than I expected!$"
+	.string "Astaga!\n"
+	.string "Kamu lebih hebat dari yang kuduga!$"
 
 Route110_Text_MayTakeThis:
-	.string "MAY: {PLAYER}{KUN}, you've been busy\n"
-	.string "training, too, haven't you?\p"
-	.string "I think you deserve a reward!\n"
-	.string "This is from me!$"
+	.string "MAY: {PLAYER}{KUN}, kamu juga sibuk\n"
+	.string "berlatih, kan?\p"
+	.string "Aku rasa kamu pantas mendapat\n"
+	.string "hadiah! Ini dariku!$"
 
 Route110_Text_MayExplainItemfinder:
-	.string "MAY: That's an ITEMFINDER.\p"
-	.string "Try it out. If there is an item that's\n"
-	.string "not visible, it emits a sound.\p"
-	.string "Okay, {PLAYER}{KUN}, let's meet again!\p"
-	.string "I know it's a little silly coming from\n"
-	.string "me, but I think you should train a lot\l"
-	.string "harder for the next time.$"
+	.string "MAY: Itu ITEMFINDER.\p"
+	.string "Coba saja. Jika ada item yang\n"
+	.string "tidak terlihat, benda itu akan\l"
+	.string "mengeluarkan suara.\p"
+	.string "Oke, {PLAYER}{KUN}, ayo bertemu lagi!\p"
+	.string "Aku tahu ini agak konyol dariku,\n"
+	.string "tapi aku rasa kamu harus berlatih\l"
+	.string "lebih keras untuk lain kali.$"
 
 Route110_Text_BrendanLetsBattle:
-	.string "BRENDAN: Hey, {PLAYER}.\n"
-	.string "So this is where you were.\l"
-	.string "How's it going?\p"
-	.string "Have you been raising your POKéMON?\n"
-	.string "I'll check for you.$"
+	.string "BRENDAN: Hei, {PLAYER}.\n"
+	.string "Jadi ini tempatmu.\l"
+	.string "Bagaimana kabarmu?\p"
+	.string "Apa kamu sudah melatih POKéMON-mu?\n"
+	.string "Aku akan memeriksanya untukmu.$"
 
 Route110_Text_BrendanDefeated:
 	.string "Hmm…\n"
-	.string "You're pretty good.$"
+	.string "Kamu cukup hebat.$"
 
 Route110_Text_BrendanTakeThis:
-	.string "BRENDAN: {PLAYER}, you've trained\n"
-	.string "without me noticing…\p"
-	.string "Good enough!\n"
-	.string "Here, take this.$"
+	.string "BRENDAN: {PLAYER}, kamu sudah\n"
+	.string "berlatih tanpa kusadari…\p"
+	.string "Cukup bagus!\n"
+	.string "Ini, ambil ini.$"
 
 Route110_Text_BrendanExplainItemfinder:
-	.string "BRENDAN: That's an ITEMFINDER.\p"
-	.string "Use it to root around for items that\n"
-	.string "aren't visible.\p"
-	.string "If it senses something, it emits\n"
-	.string "a sound.\p"
-	.string "Anyway, I'm off to look for new\n"
-	.string "POKéMON.$"
+	.string "BRENDAN: Itu ITEMFINDER.\p"
+	.string "Gunakan untuk mencari item yang\n"
+	.string "tidak terlihat.\p"
+	.string "Jika merasakan sesuatu, benda itu\n"
+	.string "akan mengeluarkan suara.\p"
+	.string "Ngomong-ngomong, aku pergi mencari\n"
+	.string "POKéMON baru.$"
 
 Route110_Text_RideBikeAtFullSpeed:
-	.string "Wouldn't it be great to ride a BIKE\n"
-	.string "at full speed on CYCLING ROAD?$"
+	.string "Bukankah hebat rasanya mengendarai\n"
+	.string "SEPEDA dengan kecepatan penuh di\l"
+	.string "JALAN SEPEDA?$"
 
 Route110_Text_HairStreamsBehindMe:
-	.string "How do you like the way my raven-\n"
-	.string "colored hair streams behind me?\p"
-	.string "I grew my hair out just for that.$"
+	.string "Bagaimana menurutmu rambut hitamku\n"
+	.string "yang terurai di belakangku?\p"
+	.string "Aku memanjangkan rambutku hanya\n"
+	.string "untuk itu.$"
 
 Route110_Text_YouGotBikeFromRydel:
-	.string "Oh, hey, you got that BIKE from RYDEL!\p"
-	.string "Oh, it's glaringly obvious.\n"
-	.string "It says right on your bike…\p"
+	.string "Oh, hei, kamu dapat SEPEDA itu dari\n"
+	.string "RYDEL!\p"
+	.string "Oh, itu sangat jelas.\n"
+	.string "Tertulis di sepedamu…\p"
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\n"
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\p"
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\n"
@@ -828,162 +836,174 @@ Route110_Text_YouGotBikeFromRydel:
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\n"
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\p"
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL…\n"
-	.string "That name's everywhere.\p"
-	.string "You should ride it around all over\n"
-	.string "the place--it's good advertising!$"
+	.string "Nama itu ada di mana-mana.\p"
+	.string "Kamu harus mengendarainya ke\n"
+	.string "mana-mana--itu iklan yang bagus!$"
 
 Route110_Text_TwoRoads:
-	.string "The two roads, one above, one below…\p"
-	.string "A road each for people and POKéMON.\n"
-	.string "Perhaps that is right and fair.$"
+	.string "Dua jalan, satu di atas, satu di\n"
+	.string "bawah…\p"
+	.string "Satu jalan untuk manusia & satu\n"
+	.string "untuk POKéMON. Mungkin itu benar &\l"
+	.string "adil.$"
 
 Route110_Text_WalkOnTheLowRoad:
-	.string "I don't have a BIKE, so I'll take\n"
-	.string "a leisurely walk on the low road.$"
+	.string "Aku tidak punya SEPEDA, jadi aku\n"
+	.string "akan berjalan santai di jalan\l"
+	.string "bawah.$"
 
 Route110_Text_BikeTechniques:
-	.string "Learning techniques will make BIKE\n"
-	.string "riding even more fun.\p"
-	.string "There are some places that you can\n"
-	.string "reach only by using a BIKE technique.$"
+	.string "Mempelajari teknik akan membuat\n"
+	.string "naik SEPEDA lebih menyenangkan.\p"
+	.string "Ada beberapa tempat yang hanya\n"
+	.string "bisa kamu capai dengan menggunakan\l"
+	.string "teknik SEPEDA.$"
 
 Route110_Text_WhichShouldIChoose:
-	.string "Which should I choose?\p"
-	.string "Make a beeline for MAUVILLE on\n"
-	.string "CYCLING ROAD, or take the low road\l"
-	.string "and look for POKéMON?$"
+	.string "Mana yang harus kupilih?\p"
+	.string "Langsung ke MAUVILLE lewat JALAN\n"
+	.string "SEPEDA, atau lewat jalan bawah &\l"
+	.string "mencari POKéMON?$"
 
 Route110_Text_CyclingChallengeResultSummary:
-	.string "Number of collisions:\n"
+	.string "Jumlah tabrakan:\n"
 	.string "… … {STR_VAR_1}!\p"
-	.string "Total time:\n"
+	.string "Total waktu:\n"
 	.string "… … {STR_VAR_2}!$"
 
 Route110_Text_ChallengeReactionBest:
-	.string "Bravo! Splendid showing!\p"
-	.string "Your love of cycling comes from deep\n"
-	.string "within your heart.\l"
-	.string "You've shaken me to my very soul!$"
+	.string "Bravo! Penampilan yang luar biasa!\p"
+	.string "Kecintaanmu pada bersepeda datang\n"
+	.string "dari lubuk hatimu.\l"
+	.string "Kamu telah mengguncang jiwaku!$"
 
 Route110_Text_ChallengeReactionGood:
-	.string "Your technique is remarkable.\p"
-	.string "I suggest you speed up a bit while\n"
-	.string "still avoiding collisions.$"
+	.string "Teknikmu luar biasa.\p"
+	.string "Aku sarankan kamu sedikit\n"
+	.string "mempercepat sambil tetap\l"
+	.string "menghindari tabrakan.$"
 
 Route110_Text_ChallengeReactionOk:
-	.string "I would consider you a work in\n"
-	.string "progress.\p"
-	.string "Still, I hope you don't forget the\n"
-	.string "sheer pleasure of cycling.$"
+	.string "Aku menganggapmu masih dalam\n"
+	.string "proses.\p"
+	.string "Tapi, aku harap kamu tidak\n"
+	.string "melupakan kenikmatan bersepeda.$"
 
 Route110_Text_ChallengeReactionBad:
-	.string "My word… Your cycling skills border\n"
-	.string "on terrifying.\p"
-	.string "Most certainly, you need much more\n"
-	.string "practice riding.$"
+	.string "Astaga… Kemampuan bersepedamu\n"
+	.string "hampir menakutkan.\p"
+	.string "Kamu pasti butuh lebih banyak\n"
+	.string "latihan mengendarai.$"
 
 Route110_Text_ChallengeReactionWorst:
-	.string "…I am aghast…\p"
-	.string "You're perhaps not cut out for this\n"
-	.string "unfortunate cycling business.\p"
-	.string "You ought to give serious thought to\n"
-	.string "returning that BIKE to RYDEL.$"
+	.string "…Aku terkejut…\p"
+	.string "Kamu mungkin tidak cocok untuk\n"
+	.string "urusan bersepeda yang malang ini.\p"
+	.string "Kamu harus serius memikirkan untuk\n"
+	.string "mengembalikan SEPEDA itu ke RYDEL.$"
 
 Route110_Text_RatedForNumberOfCollisions:
-	.string "This is CYCLING ROAD.\p"
-	.string "If you were to ride from MAUVILLE to\n"
-	.string "SLATEPORT on a MACH BIKE, you would\l"
-	.string "be rated for the number of collisions\l"
-	.string "and your total time.$"
+	.string "Ini JALAN SEPEDA.\p"
+	.string "Jika kamu mengendarai MACH BIKE\n"
+	.string "dari MAUVILLE ke SLATEPORT, kamu\l"
+	.string "akan dinilai berdasarkan jumlah\l"
+	.string "tabrakan & total waktumu.$"
 
 Route110_Text_AlwaysAimHigher:
-	.string "Regardless of the results, I count on\n"
-	.string "seeing more challenges from you.\l"
-	.string "Always aim higher!$"
+	.string "Terlepas dari hasilnya, aku berharap\n"
+	.string "melihat lebih banyak tantangan\l"
+	.string "darimu. Selalu bidik lebih tinggi!$"
 
 Route110_Text_AcroBikesDoNotQualify:
-	.string "On this CYCLING ROAD, those riding\n"
-	.string "MACH BIKES are rated for their number\l"
-	.string "of collisions and their total times.\p"
-	.string "ACRO BIKES do not qualify for rating.\n"
-	.string "They are easy to turn, so it's not fair.$"
+	.string "Di JALAN SEPEDA ini, mereka yang\n"
+	.string "mengendarai MACH BIKE dinilai\l"
+	.string "berdasarkan jumlah tabrakan &\l"
+	.string "total waktu mereka.\p"
+	.string "ACRO BIKE tidak memenuhi syarat\n"
+	.string "untuk penilaian. Mereka mudah\l"
+	.string "berbelok, jadi tidak adil.$"
 
 Route110_Text_SlateportCitySign:
-	.string "ROUTE 110\n"
-	.string "{DOWN_ARROW} SLATEPORT CITY$"
+	.string "RUTE 110\n"
+	.string "{DOWN_ARROW} KOTA SLATEPORT$"
 
 Route110_Text_CyclingRoadSign:
-	.string "SEASIDE CYCLING ROAD$"
+	.string "JALAN SEPEDA TEPI LAUT$"
 
 Route110_Text_AquaWasHere:
-	.string "“TEAM AQUA was here!”\p"
-	.string "Someone painted that onto this sign,\n"
-	.string "but then someone else painted over it.\p"
-	.string "“TEAM MAGMA rules!” is what it\n"
-	.string "says now.$"
+	.string "“TEAM AQUA ada di sini!”\p"
+	.string "Seseorang mengecatnya di papan ini,\n"
+	.string "tapi kemudian orang lain\l"
+	.string "mengecatnya lagi.\p"
+	.string "“TEAM MAGMA berkuasa!” itulah\n"
+	.string "yang tertulis sekarang.$"
 
 Route110_Text_Route103Sign:
-	.string "ROUTE 110\n"
-	.string "{LEFT_ARROW} ROUTE 103$"
+	.string "RUTE 110\n"
+	.string "{LEFT_ARROW} RUTE 103$"
 
 Route110_Text_SeasideParkingSign:
-	.string "SEASIDE PARKING$"
+	.string "PARKIR TEPI LAUT$"
 
 Route110_Text_MauvilleCitySign:
-	.string "ROUTE 110\n"
-	.string "{UP_ARROW} MAUVILLE CITY$"
+	.string "RUTE 110\n"
+	.string "{UP_ARROW} KOTA MAUVILLE$"
 
 Route110_Text_TrainerTipsPrlzSleep:
-	.string "TRAINER TIPS\p"
-	.string "The foe can be made helpless by\n"
-	.string "paralyzing it or causing it to sleep.\p"
-	.string "It is an important technique for\n"
-	.string "POKéMON battles.$"
+	.string "TIPS TRAINER\p"
+	.string "Musuh bisa dibuat tidak berdaya\n"
+	.string "dengan melumpuhkannya atau\l"
+	.string "membuatnya tertidur.\p"
+	.string "Itu adalah teknik penting untuk\n"
+	.string "pertarungan POKéMON.$"
 
 Route110_Text_TrainerTipsRegisterItems:
-	.string "TRAINER TIPS\p"
-	.string "The items in the BAG can be reorganized\n"
-	.string "by pressing SELECT.$"
+	.string "TIPS TRAINER\p"
+	.string "Item di TAS bisa diatur ulang\n"
+	.string "dengan menekan SELECT.$"
 
 Route110_Text_TrickHouseSign:
-	.string "“Three steps {RIGHT_ARROW} and two steps {UP_ARROW}\n"
-	.string "to reach the wondrous TRICK HOUSE.”$"
+	.string "“Tiga langkah {RIGHT_ARROW} & dua langkah\n"
+	.string "{UP_ARROW} untuk mencapai TRICK HOUSE\l"
+	.string "yang menakjubkan.”$"
 
 Route110_Text_BestRecord:
-	.string "THE BEST RECORD TO DATE…\p"
-	.string "No. of collisions: {STR_VAR_1}\p"
-	.string "Elapsed time: {STR_VAR_2}$"
+	.string "REKOR TERBAIK SAAT INI…\p"
+	.string "Jumlah tabrakan: {STR_VAR_1}\p"
+	.string "Waktu berlalu: {STR_VAR_2}$"
 
 Route110_Text_ThereIsNoRecord:
-	.string "THE BEST RECORD TO DATE…\p"
-	.string "No one seems to have taken the\n"
-	.string "challenge. There is no record…$"
+	.string "REKOR TERBAIK SAAT INI…\p"
+	.string "Sepertinya tidak ada yang menerima\n"
+	.string "tantangan. Tidak ada rekor…$"
 
 Route110_Text_ImagineSeeingYouHere:
 	.string "PROF. BIRCH: Oh, {PLAYER}{KUN}!\n"
-	.string "Imagine seeing you here!\p"
-	.string "And where might my {RIVAL} be?$"
+	.string "Tidak kusangka bertemu kamu di\l"
+	.string "sini!\p"
+	.string "Dan di mana {RIVAL}-ku?$"
 
 Route110_Text_HeardYouInstallMatchCall:
-	.string "Oh, I see!\n"
-	.string "You two are running separately.\l"
-	.string "Well, that's fine.\p"
-	.string "Oh, yes, I heard that your POKéNAV\n"
-	.string "had the MATCH CALL system installed.\p"
-	.string "Well, then, I should register you in\n"
-	.string "my POKéNAV as well.\p"
-	.string "That way, even when we're apart,\n"
-	.string "I can rate your POKéDEX anytime.\p"
+	.string "Oh, begitu!\n"
+	.string "Kalian berdua berjalan terpisah.\l"
+	.string "Yah, tidak apa-apa.\p"
+	.string "Oh, ya, aku dengar POKéNAV-mu\n"
+	.string "sudah terpasang sistem MATCH CALL.\p"
+	.string "Kalau begitu, aku juga harus\n"
+	.string "mendaftarkanmu di POKéNAV-ku\l"
+	.string "juga.\p"
+	.string "Dengan begitu, bahkan saat kita\n"
+	.string "terpisah, aku bisa menilai\l"
+	.string "POKéDEX-mu kapan saja.\p"
 	.string "… … … … … …$"
 
 Route110_Text_RegisteredBirchInPokenav:
-	.string "Registered PROF. BIRCH\n"
-	.string "in the POKéNAV.$"
+	.string "PROF. BIRCH terdaftar\n"
+	.string "di POKéNAV.$"
 
 Route110_Text_KeepAnEyeOutForRival:
 	.string "PROF. BIRCH: {PLAYER}{KUN}…\p"
-	.string "Please keep an eye out for my {RIVAL}.\n"
+	.string "Tolong awasi {RIVAL}-ku.\n"
 	.string "… … … … … …\p"
-	.string "Well, I had better get going.\n"
-	.string "See you again, {PLAYER}{KUN}!$"
-
+	.string "Baiklah, aku harus pergi sekarang.\n"
+	.string "Sampai jumpa lagi, {PLAYER}{KUN}!$"

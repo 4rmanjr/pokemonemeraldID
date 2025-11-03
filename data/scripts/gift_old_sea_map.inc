@@ -1,3 +1,4 @@
+//gemini
 MysteryGiftScript_OldSeaMap::
 	setvaddress MysteryGiftScript_OldSeaMap
 	lock
@@ -35,24 +36,24 @@ OldSeaMap_Obtained:
 	end
 
 sText_MysteryGiftOldSeaMapForYou:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "Let me confirm--you are {PLAYER}?\p"
-	.string "We received this OLD SEA MAP\n"
-	.string "addressed to you.$"
+	.string "Terima kasih telah menggunakan\n"
+	.string "Sistem MYSTERY GIFT.\p"
+	.string "Biar ku pastikan--kamu {PLAYER}?\p"
+	.string "Kami menerima OLD SEA MAP\n"
+	.string "ini yang ditujukan kepadamu.$"
 
 sText_MysteryGiftOldSeaMapUseAtPort:
-	.string "It appears to be for use at the\n"
-	.string "LILYCOVE CITY port.\p"
-	.string "Why not give it a try and see what\n"
-	.string "it is about?$"
+	.string "Sepertinya ini untuk digunakan di\n"
+	.string "pelabuhan KOTA LILYCOVE.\p"
+	.string "Kenapa tidak kamu coba & lihat ada\n"
+	.string "apa dengannya?$"
 
 sText_MysteryGiftOldSeaMapThankYou:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.$"
+	.string "Terima kasih telah menggunakan\n"
+	.string "Sistem MYSTERY GIFT.$"
 
 sText_MysteryGiftOldSeaMapBagFull:
-	.string "Oh, I'm sorry, {PLAYER}.\n"
-	.string "Your BAG's KEY ITEMS POCKET is full.\p"
-	.string "Please store something on your PC,\n"
-	.string "then come back for this.$"
+	.string "Oh, maaf, {PLAYER}.\n"
+	.string "Kantong KEY ITEMS di TAS-mu penuh.\p"
+	.string "Tolong simpan sesuatu di PC-mu,\n"
+	.string "lalu kembalilah untuk ini.$"

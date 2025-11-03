@@ -305,191 +305,193 @@ BattleFrontier_Lounge7_EventScript_Gentleman::
 
 BattleFrontier_Lounge7_Text_LeftTutorIntro:
 	.string "Buhahaha!\p"
-	.string "You couldn't tell it from looking now,\n"
-	.string "but I used to be one tough TRAINER.\p"
-	.string "I had a reputation as the toughest\n"
-	.string "BEAUTY around, I tell you!\p"
+	.string "Mungkin sekarang tidak terlihat, tapi\n"
+	.string "dulu aku seorang TRAINER yang tangguh.\p"
+	.string "Aku punya reputasi sebagai BEAUTY\n"
+	.string "tertangguh, lho!\p"
 	.string "… … … … … …\p"
-	.string "What is it now?\n"
-	.string "You don't believe me.\p"
-	.string "I'm not like that blowhard woman over\n"
-	.string "there. I'm actually talented!\p"
-	.string "Let me prove it to you.\n"
-	.string "I can teach your POKéMON special and\l"
-	.string "yet cute moves.\p"
-	.string "But my lessons don't come free.\n"
-	.string "How about paying for the moves I teach\l"
-	.string "with a wee bit of Battle Points?$"
+	.string "Kenapa?\n"
+	.string "Kamu tidak percaya padaku.\p"
+	.string "Aku tidak seperti wanita pembual di\n"
+	.string "sebelah sana. Aku benar-benar berbakat!\p"
+	.string "Akan kubuktikan padamu.\n"
+	.string "Aku bisa mengajari POKéMON-mu jurus\l"
+	.string "spesial yang imut.\p"
+	.string "Tapi pelajaranku tidak gratis.\n"
+	.string "Bagaimana kalau membayar jurus yang\l"
+	.string "kuajarkan dengan sedikit Battle Point?$"
 
 BattleFrontier_Lounge7_Text_LeftTutorWelcomeBack:
 	.string "Buhahaha!\p"
-	.string "Are you back to learn special and\n"
-	.string "yet cute POKéMON moves?$"
+	.string "Kamu kembali untuk belajar jurus\n"
+	.string "POKéMON spesial yang imut?$"
 
 BattleFrontier_Lounge7_Text_TeachWhichMove:
-	.string "Fine, fine, look here!\n"
-	.string "Which move should I teach?$"
+	.string "Baik, baik, lihat sini!\n"
+	.string "Jurus mana yang harus kuajarkan?$"
 
 BattleFrontier_Lounge7_Text_MoveWillBeXBattlePoints:
-	.string "The move {STR_VAR_1}, is it?\n"
-	.string "That will be {STR_VAR_2} Battle Points, okay?$"
+	.string "Jurus {STR_VAR_1}, ya?\n"
+	.string "Harganya {STR_VAR_2} Battle Point, oke?$"
 
 BattleFrontier_Lounge7_Text_TeachMoveToWhichMon:
-	.string "Fine, fine, now pick the POKéMON\n"
-	.string "I should teach the move to.$"
+	.string "Baik, baik, sekarang pilih POKéMON\n"
+	.string "yang akan kuajari jurus itu.$"
 
 BattleFrontier_Lounge7_Text_HaventGotEnoughPoints:
-	.string "What the…\n"
-	.string "You haven't got enough Battle Points!$"
+	.string "Apa-apaan…\n"
+	.string "Battle Point-mu tidak cukup!$"
 
 BattleFrontier_Lounge7_Text_IllTakeBattlePoints:
-	.string "Do you see how skilled I am now?\n"
-	.string "I'll take your Battle Points, thanks!$"
+	.string "Sekarang kamu lihat betapa hebatnya aku?\n"
+	.string "Battle Point-nya kuambil, terima kasih!$"
 
 BattleFrontier_Lounge7_Text_YouDontWantTo:
-	.string "What's that?\n"
-	.string "You don't want to…\p"
-	.string "If you want to see how skilled I am,\n"
-	.string "you come see me anytime!$"
+	.string "Apa katamu?\n"
+	.string "Kamu tidak mau…\p"
+	.string "Kalau mau lihat sehebat apa aku,\n"
+	.string "datang saja kapan pun!$"
 
 BattleFrontier_Lounge7_Text_RightTutorIntro:
 	.string "Ihihihi!\p"
-	.string "I know it's hard to see now, but I used\n"
-	.string "to be one fantastic TRAINER.\p"
-	.string "I had a reputation as the most\n"
-	.string "invincible SWIMMER around, I tell you!\p"
+	.string "Aku tahu sekarang sulit dilihat, tapi\n"
+	.string "dulu aku TRAINER yang fantastis.\p"
+	.string "Aku punya reputasi sebagai SWIMMER\n"
+	.string "paling tak terkalahkan, lho!\p"
 	.string "… … … … … …\p"
-	.string "What's wrong?\n"
-	.string "You don't believe me.\p"
-	.string "I'm not like that buffoonish woman over\n"
-	.string "there. I'm actually experienced!\p"
-	.string "I can prove it to you.\n"
-	.string "I can teach your POKéMON hard and\l"
-	.string "yet pretty moves.\p"
-	.string "But my lessons don't come free.\n"
-	.string "How about paying for the moves I teach\l"
-	.string "with a wee bit of Battle Points?$"
+	.string "Ada apa?\n"
+	.string "Kamu tidak percaya padaku.\p"
+	.string "Aku tidak seperti wanita konyol di\n"
+	.string "sebelah sana. Aku berpengalaman!\p"
+	.string "Aku bisa buktikan padamu.\n"
+	.string "Aku bisa mengajari POKéMON-mu jurus\l"
+	.string "keras namun cantik.\p"
+	.string "Tapi pelajaranku tidak gratis.\n"
+	.string "Bagaimana kalau membayar jurus yang\l"
+	.string "kuajarkan dengan sedikit Battle Point?$"
 
 BattleFrontier_Lounge7_Text_RightTutorWelcomeBack:
 	.string "Ihihihi!\p"
-	.string "Have you come to learn hard and\n"
-	.string "yet pretty POKéMON moves?$"
+	.string "Kamu datang untuk belajar jurus\n"
+	.string "POKéMON yang keras namun cantik?$"
 
 BattleFrontier_Lounge7_Text_ThinkLadiesDontGetAlong:
-	.string "Those ladies, the way they bad-mouth\n"
-	.string "each other, you probably think that\l"
-	.string "they don't get along.\p"
-	.string "But if that were true, they wouldn't\n"
-	.string "stay out here together, would they?$"
+	.string "Para nona itu, cara mereka saling\n"
+	.string "menjelekkan, kamu mungkin berpikir\l"
+	.string "mereka tidak akur.\p"
+	.string "Tapi kalau itu benar, mereka tidak akan\n"
+
+	.string "tinggal bersama di sini, kan?$"
 
 BattleFrontier_Lounge7_Text_LadiesWereStrongAndBeautiful:
-	.string "When I was just a wee YOUNGSTER,\n"
-	.string "those ladies were strong and beautiful.\p"
-	.string "They were idols among us TRAINERS.\p"
-	.string "Even now, age hasn't dulled their\n"
-	.string "abilities.\p"
-	.string "In fact, their POKéMON moves have\n"
-	.string "grown even more polished.\p"
-	.string "But… For some reason, I can't help\n"
-	.string "but feel this…\p"
-	.string "Time is so cruel…$"
+	.string "Waktu aku masih kecil, para nona itu\n"
+	.string "kuat dan cantik.\p"
+	.string "Mereka adalah idola di antara kami\n"
+	.string "para TRAINER.\p"
+	.string "Bahkan sekarang, usia tidak menumpulkan\n"
+	.string "kemampuan mereka.\p"
+	.string "Faktanya, jurus POKéMON mereka\n"
+	.string "telah tumbuh lebih hebat.\p"
+	.string "Tapi… Entah kenapa, aku tidak bisa\n"
+	.string "menahan perasaan ini…\p"
+	.string "Waktu begitu kejam…$"
 
 BattleFrontier_Lounge7_Text_SoftboiledDesc::
-	.string "Recovers up to\n"
-	.string "half the user's\n"
-	.string "maximum HP.$"
+	.string "Memulihkan hingga\n"
+	.string "setengah HP\n"
+	.string "maksimum pengguna.$"
 
 BattleFrontier_Lounge7_Text_SeismicTossDesc::
-	.string "Inflicts damage\n"
-	.string "identical to the\n"
-	.string "user's level.$"
+	.string "Memberi damage\n"
+	.string "setara dengan\n"
+	.string "level pengguna.$"
 
 BattleFrontier_Lounge7_Text_DreamEaterDesc::
-	.string "Recovers half the\n"
-	.string "damage inflicted\n"
-	.string "on a sleeping foe.$"
+	.string "Pulihkan setengah\n"
+	.string "damage dari musuh\n"
+	.string "yang tertidur.$"
 
 BattleFrontier_Lounge7_Text_MegaPunchDesc::
-	.string "A strong punch\n"
-	.string "thrown with\n"
-	.string "incredible power.$"
+	.string "Pukulan kuat yang\n"
+	.string "dilontarkan dengan\n"
+	.string "kekuatan luar biasa.$"
 
 BattleFrontier_Lounge7_Text_MegaKickDesc::
-	.string "An extremely\n"
-	.string "powerful kick with\n"
-	.string "intense force.$"
+	.string "Tendangan sangat\n"
+	.string "kuat dengan\n"
+	.string "kekuatan besar.$"
 
 BattleFrontier_Lounge7_Text_BodySlamDesc::
-	.string "A full-body slam\n"
-	.string "that may cause\n"
-	.string "paralysis.$"
+	.string "Serangan seluruh\n"
+	.string "tubuh yang dapat\n"
+	.string "menyebabkan kelumpuhan.$"
 
 BattleFrontier_Lounge7_Text_RockSlideDesc::
-	.string "Large boulders\n"
-	.string "are hurled. May\n"
-	.string "cause flinching.$"
+	.string "Batu-batu besar\n"
+	.string "dilemparkan. Dapat\n"
+	.string "membuat musuh gentar.$"
 
 BattleFrontier_Lounge7_Text_CounterDesc::
-	.string "Retaliates any\n"
-	.string "physical hit with\n"
-	.string "double the power.$"
+	.string "Membalas serangan\n"
+	.string "fisik apa pun dengan\n"
+	.string "kekuatan ganda.$"
 
 BattleFrontier_Lounge7_Text_ThunderWaveDesc::
-	.string "A weak jolt of\n"
-	.string "electricity that\n"
-	.string "paralyzes the foe.$"
+	.string "Kejutan listrik\n"
+	.string "lemah yang melumpuhkan\n"
+	.string "musuh.$"
 
 BattleFrontier_Lounge7_Text_SwordsDanceDesc::
-	.string "A fighting dance\n"
-	.string "that sharply\n"
-	.string "raises ATTACK.$"
+	.string "Tarian pertarungan\n"
+	.string "yang meningkatkan\n"
+	.string "ATTACK secara tajam.$"
 
 BattleFrontier_Lounge7_Text_DefenseCurlDesc::
-	.string "Curls up to con-\n"
-	.string "ceal weak spots\n"
-	.string "and raise DEFENSE.$"
+	.string "Menggulung untuk\n"
+	.string "sembunyikan titik\n"
+	.string "lemah & naikkan DEFENSE.$"
 
 BattleFrontier_Lounge7_Text_SnoreDesc::
-	.string "A loud attack\n"
-	.string "that can be used\n"
-	.string "only while asleep.$"
+	.string "Serangan keras\n"
+	.string "yang hanya bisa\n"
+	.string "digunakan saat tidur.$"
 
 BattleFrontier_Lounge7_Text_MudSlapDesc::
-	.string "Hurls mud in the\n"
-	.string "foe's face to re-\n"
-	.string "duce its accuracy.$"
+	.string "Melempar lumpur ke\n"
+	.string "wajah musuh untuk\n"
+	.string "menurunkan akurasi.$"
 
 BattleFrontier_Lounge7_Text_SwiftDesc::
-	.string "Sprays star-\n"
-	.string "shaped rays\n"
-	.string "that never miss.$"
+	.string "Menyemprotkan sinar\n"
+	.string "berbentuk bintang\n"
+	.string "yang tak pernah meleset.$"
 
 BattleFrontier_Lounge7_Text_IcyWindDesc::
-	.string "A chilling attack\n"
-	.string "that lowers the\n"
-	.string "foe's SPEED.$"
+	.string "Serangan dingin\n"
+	.string "yang menurunkan\n"
+	.string "SPEED musuh.$"
 
 BattleFrontier_Lounge7_Text_EndureDesc::
-	.string "Endures any at-\n"
-	.string "tack for 1 turn,\n"
-	.string "leaving 1HP.$"
+	.string "Menahan serangan\n"
+	.string "apa pun selama 1 giliran,\n"
+	.string "menyisakan 1 HP.$"
 
 BattleFrontier_Lounge7_Text_PsychUpDesc::
-	.string "Copies the foe's\n"
-	.string "effect(s) and\n"
-	.string "gives to the user.$"
+	.string "Menyalin efek musuh\n"
+	.string "dan memberikannya\n"
+	.string "kepada pengguna.$"
 
 BattleFrontier_Lounge7_Text_IcePunchDesc::
-	.string "An icy punch\n"
-	.string "that may\n"
-	.string "freeze the foe.$"
+	.string "Pukulan es\n"
+	.string "yang dapat\n"
+	.string "membekukan musuh.$"
 
 BattleFrontier_Lounge7_Text_ThunderPunchDesc::
-	.string "An electrified\n"
-	.string "punch that may\n"
-	.string "paralyze the foe.$"
+	.string "Pukulan listrik\n"
+	.string "yang dapat\n"
+	.string "melumpuhkan musuh.$"
 
 BattleFrontier_Lounge7_Text_FirePunchDesc::
-	.string "A fiery punch\n"
-	.string "that may burn\n"
-	.string "the foe.$"
+	.string "Pukulan api\n"
+	.string "yang dapat\n"
+	.string "membakar musuh.$"

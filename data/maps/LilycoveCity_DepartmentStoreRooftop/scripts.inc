@@ -185,35 +185,36 @@ LilycoveCity_DepartmentStoreRooftop_EventScript_ExitVendingMachine::
 	end
 
 LilycoveCity_DepartmentStoreRooftop_Text_SetDatesForClearOutSales:
-	.string "Don't they have set dates for their\n"
-	.string "clear-out sales?\p"
-	.string "I watch TV, but they never show any\n"
-	.string "commercials.$"
+	.string "Apa mereka tidak punya tanggal pasti\n"
+	.string "untuk obral cuci gudang?\p"
+	.string "Aku menonton TV, tapi mereka tidak\n"
+	.string "pernah menayangkan iklannya.$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_BeenWaitingForClearOutSale:
-	.string "Yes! I've been waiting a long time for\n"
-	.string "this clear-out sale.\p"
-	.string "They have items that you can only get\n"
-	.string "here. I'm going to load up, that I am!$"
+	.string "Ya! Aku sudah lama menunggu obral\n"
+	.string "cuci gudang ini.\p"
+	.string "Mereka punya item yang hanya bisa\n"
+	.string "didapatkan di sini. Aku akan borong\l"
+	.string "semuanya!$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_BoneDryThirsty:
-	.string "Ohh… I'm bone-dry thirsty!$"
+	.string "Ohh… Aku haus sekali!$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_WhichDrinkWouldYouLike:
-	.string "It's a VENDING MACHINE.\n"
-	.string "Which drink would you like?$"
+	.string "Ini VENDING MACHINE.\n"
+	.string "Kamu mau minum yang mana?$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_CanOfDrinkDroppedDown:
 	.string "Clang!\p"
-	.string "A can of {STR_VAR_1} dropped down.$"
+	.string "Sekaleng {STR_VAR_1} jatuh.$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_ExtraCanOfDrinkDroppedDown:
 	.string "Clang!\p"
-	.string "Score! An extra can of {STR_VAR_1}\n"
-	.string "dropped down!$"
+	.string "Asyik! Sekaleng {STR_VAR_1}\n"
+	.string "tambahan jatuh!$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_NotEnoughMoney:
-	.string "Not enough money…$"
+	.string "Uang tidak cukup…$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_DecidedAgainstBuyingDrink:
-	.string "Decided against buying a drink.$"
+	.string "Tidak jadi membeli minuman.$"

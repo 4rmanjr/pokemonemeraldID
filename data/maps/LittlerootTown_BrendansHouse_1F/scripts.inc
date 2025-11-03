@@ -284,82 +284,82 @@ LittlerootTown_BrendansHouse_1F_Movement_BrendanGoUpstairs2:
 	step_end
 
 PlayersHouse_1F_Text_IsntItNiceInHere:
-	.string "MOM: See, {PLAYER}?\n"
-	.string "Isn't it nice in here, too?$"
+	.string "IBU: Lihat, {PLAYER}?\n"
+	.string "Di sini juga bagus, kan?$"
 
 PlayersHouse_1F_Text_MoversPokemonGoSetClock:
-	.string "The mover's POKéMON do all the work\n"
-	.string "of moving us in and cleaning up after.\l"
-	.string "This is so convenient!\p"
-	.string "{PLAYER}, your room is upstairs.\n"
-	.string "Go check it out, dear!\p"
-	.string "DAD bought you a new clock to mark\n"
-	.string "our move here.\l"
-	.string "Don't forget to set it!$"
+	.string "POKéMON jasa pindahan melakukan semua\n"
+	.string "pekerjaan pindahan dan bersih-bersih.\l"
+	.string "Praktis sekali!\p"
+	.string "{PLAYER}, kamarmu di lantai atas.\n"
+	.string "Coba lihat, sayang!\p"
+	.string "AYAH membelikanmu jam baru untuk\n"
+	.string "menandai kepindahan kita.\l"
+	.string "Jangan lupa diatur ya!$"
 
 PlayersHouse_1F_Text_ArentYouInterestedInRoom:
-	.string "MOM: Well, {PLAYER}?\p"
-	.string "Aren't you interested in seeing your\n"
-	.string "very own room?$"
+	.string "IBU: Nah, {PLAYER}?\p"
+	.string "Apa kamu tidak tertarik melihat\n"
+	.string "kamarmu sendiri?$"
 
 PlayersHouse_1F_Text_GoSetTheClock:
-	.string "MOM: {PLAYER}.\p"
-	.string "Go set the clock in your room, honey.$"
+	.string "IBU: {PLAYER}.\p"
+	.string "Atur jam di kamarmu ya, sayang.$"
 
 PlayersHouse_1F_Text_OhComeQuickly:
-	.string "MOM: Oh! {PLAYER}, {PLAYER}!\n"
-	.string "Quick! Come quickly!$"
+	.string "IBU: Oh! {PLAYER}, {PLAYER}!\n"
+	.string "Cepat! Sini cepat!$"
 
 PlayersHouse_1F_Text_MaybeDadWillBeOn:
-	.string "MOM: Look! It's PETALBURG GYM!\n"
-	.string "Maybe DAD will be on!$"
+	.string "IBU: Lihat! Itu GYM PETALBURG!\n"
+	.string "Mungkin AYAH akan muncul!$"
 
 PlayersHouse_1F_Text_ItsOverWeMissedHim:
-	.string "MOM: Oh… It's over.\p"
-	.string "I think DAD was on, but we missed him.\n"
-	.string "Too bad.$"
+	.string "IBU: Oh… Sudah selesai.\p"
+	.string "Sepertinya tadi ada AYAH, tapi kita\n"
+	.string "ketinggalan. Sayang sekali.$"
 
 PlayersHouse_1F_Text_GoIntroduceYourselfNextDoor:
-	.string "Oh, yes.\n"
-	.string "One of DAD's friends lives in town.\p"
-	.string "PROF. BIRCH is his name.\p"
-	.string "He lives right next door, so you should\n"
-	.string "go over and introduce yourself.$"
+	.string "Oh, ya.\n"
+	.string "Salah satu teman AYAH tinggal di kota ini.\p"
+	.string "Namanya PROF. BIRCH.\p"
+	.string "Dia tinggal di sebelah, jadi kamu\n"
+	.string "harus ke sana dan memperkenalkan diri.$"
 
 PlayersHouse_1F_Text_SeeYouHoney:
-	.string "MOM: See you, honey!$"
+	.string "IBU: Sampai jumpa, sayang!$"
 
 PlayersHouse_1F_Text_DidYouMeetProfBirch:
-	.string "MOM: Did you introduce yourself to\n"
-	.string "PROF. BIRCH?$"
+	.string "IBU: Apa kamu sudah memperkenalkan\n"
+	.string "diri ke PROF. BIRCH?$"
 
 PlayersHouse_1F_Text_YouShouldRestABit:
-	.string "MOM: How are you doing, {PLAYER}?\n"
-	.string "You look a little tired.\p"
-	.string "I think you should rest a bit.$"
+	.string "IBU: Bagaimana kabarmu, {PLAYER}?\n"
+	.string "Kamu terlihat sedikit lelah.\p"
+	.string "Sebaiknya kamu istirahat sebentar.$"
 
 PlayersHouse_1F_Text_TakeCareHoney:
-	.string "MOM: Take care, honey!$"
+	.string "IBU: Hati-hati, sayang!$"
 
 PlayersHouse_1F_Text_GotDadsBadgeHeresSomethingFromMom:
-	.string "MOM: Oh? Did DAD give you that BADGE?\p"
-	.string "Then here's something from your MOM!$"
+	.string "IBU: Oh? Apa AYAH memberimu BADGE itu?\p"
+	.string "Kalau begitu ini ada sesuatu dari IBU!$"
 
 PlayersHouse_1F_Text_DontPushYourselfTooHard:
-	.string "Don't push yourself too hard, dear.\n"
-	.string "You can always come home.\p"
-	.string "Go for it, honey!$"
+	.string "Jangan terlalu memaksakan diri, sayang.\n"
+	.string "Kamu selalu bisa pulang.\p"
+	.string "Semangat, sayang!$"
 
 PlayersHouse_1F_Text_IsThatAPokenav:
-	.string "MOM: What is that, honey? A POKéNAV?\n"
-	.string "Someone from DEVON gave it to you?\p"
-	.string "Well, honey, how about registering\n"
-	.string "your mom?\p"
+	.string "IBU: Apa itu, sayang? Sebuah POKéNAV?\n"
+	.string "Seseorang dari DEVON memberikannya?\p"
+	.string "Nah, sayang, bagaimana kalau\n"
+	.string "mendaftarkan ibumu?\p"
 	.string "… … …$"
 
 PlayersHouse_1F_Text_RegisteredMom:
-	.string "Registered MOM\n"
-	.string "in the POKéNAV.$"
+	.string "IBU terdaftar\n"
+	.string "di POKéNAV.$"
 
 PlayersHouse_1F_Text_Vigoroth1:
 	.string "Fugiiiiih!$"
@@ -368,69 +368,67 @@ PlayersHouse_1F_Text_Vigoroth2:
 	.string "Huggoh, uggo uggo…$"
 
 PlayersHouse_1F_Text_ReportFromPetalburgGym:
-	.string "INTERVIEWER: …We brought you this\n"
-	.string "report from in front of PETALBURG GYM.$"
+	.string "PEWAWANCARA: …Kami bawakan laporan\n"
+	.string "ini dari depan GYM PETALBURG.$"
 
 PlayersHouse_1F_Text_TheresAMovieOnTV:
-	.string "There is a movie on TV.\p"
-	.string "Two men are dancing on a big piano\n"
-	.string "keyboard.\p"
-	.string "Better get going!$"
+	.string "Ada film di TV.\p"
+	.string "Dua pria menari di atas keyboard\n"
+	.string "piano besar.\p"
+	.string "Sebaiknya pergi!$"
 
 PlayersHouse_1F_Text_RunningShoesManual:
-	.string "It's the instruction booklet for the\n"
-	.string "RUNNING SHOES.\p"
-	.string "“Press the B Button to run while\n"
-	.string "wearing your RUNNING SHOES.\p"
-	.string "“Lace up your RUNNING SHOES and hit\n"
-	.string "the road running!”$"
+	.string "Ini buku petunjuk untuk RUNNING SHOES.\p"
+	.string "“Tekan Tombol B untuk berlari saat\n"
+	.string "memakai RUNNING SHOES-mu.\p"
+	.string "“Ikat tali RUNNING SHOES-mu dan\n"
+	.string "mulailah berlari!”$"
 
 PlayersHouse_1F_Text_TicketFromBrineyCameForYou:
-	.string "DAD: Hm?\p"
-	.string "Hey, it's {PLAYER}!\p"
-	.string "It's been a while since I saw you,\n"
-	.string "but you look…stronger, somehow.\p"
-	.string "That's the impression I get.\n"
-	.string "But your old man hasn't given up yet!\p"
-	.string "Oh, yes, I have something for you.\n"
-	.string "This came to you from someone named\l"
-	.string "MR. BRINEY.$"
+	.string "AYAH: Hm?\p"
+	.string "Hei, itu {PLAYER}!\p"
+	.string "Sudah lama tidak bertemu, tapi kamu\n"
+	.string "terlihat… lebih kuat, entah bagaimana.\p"
+	.string "Itulah kesanku.\n"
+	.string "Tapi ayahmu ini belum menyerah!\p"
+	.string "Oh, ya, aku punya sesuatu untukmu.\n"
+	.string "Ini datang untukmu dari seseorang\l"
+	.string "bernama MR. BRINEY.$"
 
 PlayersHouse_1F_Text_PortsInSlateportLilycove:
-	.string "DAD: Hm, a TICKET for a ferry?\p"
-	.string "If I recall, there are ferry ports in\n"
-	.string "SLATEPORT and LILYCOVE.$"
+	.string "AYAH: Hm, sebuah TIKET untuk feri?\p"
+	.string "Seingatku, ada pelabuhan feri di\n"
+	.string "SLATEPORT dan LILYCOVE.$"
 
 PlayersHouse_1F_Text_BetterGetBackToGym:
-	.string "I'd better get back to PETALBURG GYM.\p"
-	.string "MOM, thanks for looking after the house\n"
-	.string "while I'm away.$"
+	.string "Sebaiknya aku kembali ke GYM PETALBURG.\p"
+	.string "IBU, terima kasih sudah menjaga rumah\n"
+	.string "selagi aku pergi.$"
 
 PlayersHouse_1F_Text_DadShouldStayLonger:
-	.string "MOM: That DAD of yours…\p"
-	.string "He comes home for the first time in a\n"
-	.string "while, but all he talks about is POKéMON.\p"
-	.string "He should relax and stay a little longer.$"
+	.string "IBU: AYAHmu itu…\p"
+	.string "Pulang setelah sekian lama, tapi yang\n"
+	.string "dibicarakan hanya POKéMON.\p"
+	.string "Seharusnya dia santai dan tinggal\n"
+	.string "sedikit lebih lama.$"
 
 PlayersHouse_1F_Text_IsThatABreakingStory:
-	.string "MOM: Is that a breaking news story?$"
+	.string "IBU: Apa itu berita terbaru?$"
 
 PlayersHouse_1F_Text_LatiEmergencyNewsFlash:
-	.string "We bring you this emergency\n"
-	.string "news flash!\p"
-	.string "In various HOENN locales, there have\n"
-	.string "been reports of a BZZT…colored\l"
-	.string "POKéMON in flight.\p"
-	.string "The identity of this POKéMON is\n"
-	.string "currently unknown.\p"
-	.string "We now return you to the regular\n"
-	.string "movie program.$"
+	.string "Kami sampaikan berita darurat!\p"
+	.string "Di berbagai lokasi HOENN, ada laporan\n"
+	.string "tentang POKéMON berwarna BZZT…\l"
+	.string "yang sedang terbang.\p"
+	.string "Identitas POKéMON ini saat ini\n"
+	.string "tidak diketahui.\p"
+	.string "Kami sekarang kembali ke program\n"
+	.string "film reguler.$"
 
 PlayersHouse_1F_Text_WhatColorDidTheySay:
-	.string "MOM: {PLAYER}, did you catch that?\p"
-	.string "What color did the announcer say\n"
-	.string "that POKéMON was?$"
+	.string "IBU: {PLAYER}, apa kamu mendengarnya?\p"
+	.string "Penyiar bilang POKéMON itu warna apa?$"
 
 PlayersHouse_1F_Text_StillUnknownPokemon:
-	.string "MOM: Well, isn't that something!\n"
-	.string "There are still unknown POKéMON.$"
+	.string "IBU: Wah, hebat sekali!\n"
+	.string "Masih ada POKéMON yang tidak dikenal.$"

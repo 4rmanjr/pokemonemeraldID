@@ -43,83 +43,84 @@ BattleFrontier_Lounge5_EventScript_LittleBoy::
 
 BattleFrontier_Lounge5_Text_NatureGirlGreeting::
 	.string "Ehehe!\n"
-	.string "I can tell what POKéMON are thinking!\p"
-	.string "Please!\n"
-	.string "Can I see your POKéMON?$"
+	.string "Aku bisa tahu apa yang dipikirkan POKéMON!\p"
+	.string "Tolong!\n"
+	.string "Boleh aku lihat POKéMON-mu?$"
 
 BattleFrontier_Lounge5_Text_NatureGirlNoneShown::
-	.string "Boo!\n"
-	.string "Cheapie!$"
+	.string "Huuu!\n"
+	.string "Pelit!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlAttackHighAttackLow::
 	.string "Hmhm…\p"
-	.string "This one says it likes to battle!\n"
-	.string "It will battle even if it has a lot\l"
-	.string "of ouchies!$"
+	.string "Yang ini bilang dia suka bertarung!\n"
+	.string "Dia akan bertarung meskipun punya banyak\l"
+	.string "luka!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlAttackHighDefenseLow::
 	.string "Hmhm…\p"
-	.string "This one says it likes to battle!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will worry about itself!$"
+	.string "Yang ini bilang dia suka bertarung!\n"
+	.string "Tapi kalau sudah banyak luka,\l"
+	.string "dia akan mengkhawatirkan dirinya sendiri!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlAttackHighSupportLow::
 	.string "Hmhm…\p"
-	.string "This one says it likes to battle!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will turn sneaky!$"
+	.string "Yang ini bilang dia suka bertarung!\n"
+	.string "Tapi kalau sudah banyak luka,\l"
+	.string "dia akan jadi licik!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlDefenseHighAttackLow::
 	.string "Hmhm…\p"
-	.string "This one says it looks after itself!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will hit back!$"
+	.string "Yang ini bilang dia menjaga dirinya sendiri!\n"
+	.string "Tapi kalau sudah banyak luka,\l"
+	.string "dia akan balas menyerang!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlDefenseHighDefenseLow::
 	.string "Hmhm…\p"
-	.string "This one says it looks after itself!\n"
-	.string "It says it worries about itself whether\l"
-	.string "or not it has a lot of ouchies!$"
+	.string "Yang ini bilang dia menjaga dirinya sendiri!\n"
+	.string "Dia bilang dia mengkhawatirkan dirinya sendiri\l"
+	.string "baik punya banyak luka atau tidak!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlDefenseHighSupportLow::
 	.string "Hmhm…\p"
-	.string "This one says it looks after itself!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will turn sneaky!$"
+	.string "Yang ini bilang dia menjaga dirinya sendiri!\n"
+	.string "Tapi kalau sudah banyak luka,\l"
+	.string "dia akan jadi licik!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlSupportHighAttackLow::
 	.string "Hmhm…\p"
-	.string "This one says it likes to be sneaky!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will hit back!$"
+	.string "Yang ini bilang dia suka berbuat licik!\n"
+	.string "Tapi kalau sudah banyak luka,\l"
+	.string "dia akan balas menyerang!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlSupportHighDefenseLow::
 	.string "Hmhm…\p"
-	.string "This one says it likes to be sneaky!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will worry about itself!$"
+	.string "Yang ini bilang dia suka berbuat licik!\n"
+	.string "Tapi kalau sudah banyak luka,\l"
+	.string "dia akan mengkhawatirkan dirinya sendiri!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlSupportHighSupportLow::
 	.string "Hmhm…\p"
-	.string "This one says it likes to be sneaky!\n"
-	.string "It says it likes to be sneaky even\l"
-	.string "if it has a lot of ouchies!$"
+	.string "Yang ini bilang dia suka berbuat licik!\n"
+	.string "Dia bilang dia suka berbuat licik meskipun\l"
+	.string "punya banyak luka!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlEgg::
-	.string "That's silly! An EGG is asleep!\n"
-	.string "I can't talk to it!$"
+	.string "Konyol! TELUR itu sedang tidur!\n"
+	.string "Aku tidak bisa bicara dengannya!$"
 
 BattleFrontier_Lounge5_Text_LadyClaimsSheUnderstandsPokemon::
-	.string "How charming!\n"
-	.string "That little lady claims she can\l"
-	.string "understand POKéMON!$"
+	.string "Menawan sekali!\n"
+	.string "Gadis kecil itu mengklaim dia bisa\l"
+	.string "mengerti POKéMON!$"
 
 BattleFrontier_Lounge5_Text_GirlSayingSomethingProfound::
-	.string "I have this feeling that the little girl\n"
-	.string "is saying something profound.$"
+	.string "Aku punya perasaan bahwa gadis kecil itu\n"
+	.string "mengatakan sesuatu yang mendalam.$"
 
 BattleFrontier_Lounge5_Text_GirlPlaysAtRedHouseALot::
-	.string "I know something!\p"
-	.string "That little girl plays at the red house\n"
-	.string "a lot!$"
+	.string "Aku tahu sesuatu!\p"
+	.string "Gadis kecil itu sering bermain di rumah\n"
+	.string "merah!$"
+
 

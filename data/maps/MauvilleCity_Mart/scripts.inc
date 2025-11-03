@@ -1,3 +1,4 @@
+//gemini
 MauvilleCity_Mart_MapScripts::
 	.byte 0
 
@@ -36,16 +37,15 @@ MauvilleCity_Mart_EventScript_Man::
 	end
 
 MauvilleCity_Mart_Text_ItemsToTemporarilyElevateStats:
-	.string "There are items that temporarily\n"
-	.string "elevate the stats of POKéMON.\p"
-	.string "The ones I know you use in battle\n"
-	.string "are X ATTACK and X DEFEND…\p"
-	.string "I do believe that there are others\n"
-	.string "like them.$"
+	.string "Ada item yang bisa meningkatkan\n"
+	.string "stat POKéMON untuk sementara.\p"
+	.string "Yang kutahu kamu gunakan dalam\n"
+	.string "pertarungan adalah X ATTACK &\l"
+	.string "X DEFEND… Aku yakin ada item\n"
+	.string "lain yang serupa.$"
 
 MauvilleCity_Mart_Text_DecisionsDetermineBattle:
-	.string "Use a certain move, or use an item\n"
-	.string "instead…\p"
-	.string "The TRAINER's decisions determine how\n"
-	.string "battles turn out, I think.$"
-
+	.string "Gunakan jurus tertentu, atau\n"
+	.string "gunakan item saja…\p"
+	.string "Keputusan TRAINER menentukan\n"
+	.string "hasil pertarungan, kurasa.$"

@@ -149,66 +149,66 @@ MossdeepCity_StevensHouse_EventScript_DiveItemBall::
 
 MossdeepCity_StevensHouse_Text_YouveEarnedHMDive:
 	.string "STEVEN: {PLAYER}{KUN}…\p"
-	.string "As you can see, there's not much here,\n"
-	.string "but this is my home.\p"
-	.string "Thank you for all that you've done.\p"
-	.string "This is my token of appreciation.\n"
-	.string "It's the HIDDEN MACHINE DIVE.\p"
-	.string "No need to be shy--you've earned\n"
-	.string "this HM.$"
+	.string "Seperti yang kamu lihat, tidak banyak di sini,\n"
+	.string "tapi ini adalah rumahku.\p"
+	.string "Terima kasih atas semua yang telah kamu lakukan.\p"
+	.string "Ini adalah tanda penghargaanku.\n"
+	.string "Ini adalah HIDDEN MACHINE DIVE.\p"
+	.string "Tidak perlu malu-kamu telah mendapatkan\n"
+	.string "HM ini.$"
 
 MossdeepCity_StevensHouse_Text_ExplainDive:
-	.string "STEVEN: While you're using SURF, you\n"
-	.string "should notice dark patches of water.\p"
-	.string "Use DIVE if you come to deep water\n"
-	.string "like it. You'll drop to the seafloor.\p"
-	.string "When you want to come back up, use\n"
-	.string "DIVE again.\p"
-	.string "In some places, it won't be possible\n"
-	.string "for you to surface, though.$"
+	.string "STEVEN: Saat kamu menggunakan SURF, kamu\n"
+	.string "akan melihat area air yang gelap.\p"
+	.string "Gunakan DIVE jika kamu menemukan air dalam\n"
+	.string "seperti itu. Kamu akan turun ke dasar laut.\p"
+	.string "Saat kamu ingin kembali ke permukaan, gunakan\n"
+	.string "DIVE lagi.\p"
+	.string "Namun, di beberapa tempat, kamu tidak akan bisa\n"
+	.string "kembali ke permukaan.$"
 
 MossdeepCity_StevensHouse_Text_UnderwateCavernBetweenMossdeepSootopolis:
-	.string "STEVEN: Apparently, there's an\n"
-	.string "underwater cavern between\l"
-	.string "MOSSDEEP and SOOTOPOLIS.\p"
-	.string "You know, the one that CAPT. STERN\n"
-	.string "found in his submarine.$"
+	.string "STEVEN: Rupanya, ada sebuah\n"
+	.string "gua bawah air antara\l"
+	.string "MOSSDEEP dan SOOTOPOLIS.\p"
+	.string "Kamu tahu, yang ditemukan oleh KAPT. STERN\n"
+	.string "di dalam kapal selamnya.$"
 
 MossdeepCity_StevensHouse_Text_TakeBallContainingBeldum:
-	.string "{PLAYER} checked the POKé BALL.\p"
-	.string "It contained the POKéMON\n"
+	.string "{PLAYER} memeriksa POKé BALL.\p"
+	.string "Di dalamnya terdapat POKéMON\n"
 	.string "BELDUM.\p"
-	.string "Take the POKé BALL?$"
+	.string "Ambil POKé BALL ini?$"
 
 MossdeepCity_StevensHouse_Text_ObtainedBeldum:
-	.string "{PLAYER} obtained a BELDUM.$"
+	.string "{PLAYER} mendapatkan BELDUM.$"
 
 @ Unused
 MossdeepCity_StevensHouse_Text_NoSpaceForAnotherMon:
-	.string "There is no space for another POKéMON.$"
+	.string "Tidak ada ruang untuk POKéMON lain.$"
 
 MossdeepCity_StevensHouse_Text_LeftPokeBallWhereItWas:
-	.string "{PLAYER} left the POKé BALL where\n"
-	.string "it was.$"
+	.string "{PLAYER} meninggalkan POKé BALL di\n"
+	.string "tempatnya.$"
 
 MossdeepCity_StevensHouse_Text_LetterFromSteven:
-	.string "It's a letter.\p"
+	.string "Ini adalah sebuah surat.\p"
 	.string "… … … … … …\p"
-	.string "To {PLAYER}{KUN}…\p"
-	.string "I've decided to do a little soul-\n"
-	.string "searching and train on the road.\p"
-	.string "I don't plan to return home for some\n"
-	.string "time.\p"
-	.string "I have a favor to ask of you.\p"
-	.string "I want you to take the POKé BALL on\n"
-	.string "the desk.\p"
-	.string "Inside it is a BELDUM, my favorite\n"
-	.string "POKéMON.\p"
-	.string "I'm counting on you.\p"
-	.string "May our paths cross someday.\p"
+	.string "Untuk {PLAYER}{KUN}…\p"
+	.string "Aku memutuskan untuk mencari jati diri\n"
+	.string "dan berlatih di jalan.\p"
+	.string "Aku tidak berencana untuk kembali ke rumah\n"
+	.string "untuk sementara waktu.\p"
+	.string "Aku punya permintaan padamu.\p"
+	.string "Aku ingin kamu mengambil POKé BALL di\n"
+	.string "atas meja.\p"
+	.string "Di dalamnya ada BELDUM, POKéMON\n"
+	.string "kesayanganku.\p"
+	.string "Aku mengandalkanmu.\p"
+	.string "Semoga jalan kita bertemu suatu hari nanti.\p"
 	.string "STEVEN STONE$"
 
 MossdeepCity_StevensHouse_Text_CollectionOfRareRocks:
-	.string "It's a collection of rare rocks and\n"
-	.string "stones assembled by STEVEN.$"
+	.string "Ini adalah koleksi batuan dan\n"
+	.string "batu langka yang dikumpulkan oleh STEVEN.$"
 

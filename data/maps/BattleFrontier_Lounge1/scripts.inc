@@ -151,108 +151,109 @@ BattleFrontier_Lounge1_EventScript_Boy2::
 	end
 
 BattleFrontier_Lounge1_Text_PokemonBreederIntro:
-	.string "For 70 years I have raised POKéMON!\n"
-	.string "I am the man they revere as\l"
-	.string "the legendary top POKéMON BREEDER!\p"
-	.string "If you ever become as seasoned as me,\n"
-	.string "you'll see the abilities of POKéMON\l"
-	.string "at a glance.\p"
-	.string "You're a TRAINER. Doesn't it interest\n"
-	.string "you to know your own POKéMON's\l"
-	.string "abilities?\p"
-	.string "Here!\n"
-	.string "Let's have a look at your POKéMON!$"
+	.string "Selama 70 tahun aku telah membesarkan POKéMON!\n"
+	.string "Akulah pria yang mereka hormati sebagai\l"
+	.string "POKéMON BREEDER legendaris!\p"
+	.string "Jika kamu sudah berpengalaman sepertiku,\n"
+	.string "kamu akan melihat kemampuan POKéMON\l"
+	.string "sekilas.\p"
+	.string "Kamu seorang TRAINER. Tidakkah kamu\n"
+	.string "tertarik untuk mengetahui kemampuan\l"
+	.string "POKéMON-mu sendiri?\p"
+	.string "Sini!\n"
+	.string "Mari kita lihat POKéMON-mu!$"
 
 BattleFrontier_Lounge1_Text_AverageAbility:
 	.string "…Hmm…\p"
-	.string "This one, overall, I would describe\n"
-	.string "as being of average ability.$"
+	.string "Yang ini, secara keseluruhan, akan\n"
+	.string "kugambarkan memiliki kemampuan rata-rata.$"
 
 BattleFrontier_Lounge1_Text_BetterThanAverageAbility:
 	.string "…Hmm…\p"
-	.string "This one, overall, I would describe as\n"
-	.string "having better-than-average ability.$"
+	.string "Yang ini, secara keseluruhan, akan\n"
+	.string "kugambarkan memiliki kemampuan di atas rata-rata.$"
 
 BattleFrontier_Lounge1_Text_ImpressiveAbility:
 	.string "…Hmm…\p"
-	.string "This one, overall, I would say is\n"
-	.string "quite impressive in ability!$"
+	.string "Yang ini, secara keseluruhan, menurutku\n"
+	.string "kemampuannya cukup mengesankan!$"
 
 BattleFrontier_Lounge1_Text_OutstandingAbility:
 	.string "…Hmm…\p"
-	.string "This one, overall, I would say is\n"
-	.string "wonderfully outstanding in ability!$"
+	.string "Yang ini, secara keseluruhan, menurutku\n"
+	.string "kemampuannya luar biasa hebat!$"
 
 BattleFrontier_Lounge1_Text_BestAspectHP:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its HP…$"
+	.string "Kebetulan, aspek terbaiknya,\n"
+	.string "menurutku, adalah HP-nya…$"
 
 BattleFrontier_Lounge1_Text_BestAspectAtk:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its ATTACK…$"
+	.string "Kebetulan, aspek terbaiknya,\n"
+	.string "menurutku, adalah ATTACK-nya…$"
 
 BattleFrontier_Lounge1_Text_BestAspectDef:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its DEFENSE…$"
+	.string "Kebetulan, aspek terbaiknya,\n"
+	.string "menurutku, adalah DEFENSE-nya…$"
 
 BattleFrontier_Lounge1_Text_BestAspectSpAtk:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its SPECIAL ATTACK…$"
+	.string "Kebetulan, aspek terbaiknya,\n"
+	.string "menurutku, adalah SPECIAL ATTACK-nya…$"
 
 BattleFrontier_Lounge1_Text_BestAspectSpDef:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its SPECIAL DEFENSE…$"
+	.string "Kebetulan, aspek terbaiknya,\n"
+	.string "menurutku, adalah SPECIAL DEFENSE-nya…$"
 
 BattleFrontier_Lounge1_Text_BestAspectSpeed:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its SPEED…$"
+	.string "Kebetulan, aspek terbaiknya,\n"
+	.string "menurutku, adalah SPEED-nya…$"
 
 BattleFrontier_Lounge1_Text_StatRelativelyGood:
-	.string "That stat is relatively good.\n"
-	.string "…Hm… That's how I call it.$"
+	.string "Status itu relatif bagus.\n"
+	.string "…Hm… Begitulah aku menilainya.$"
 
 BattleFrontier_Lounge1_Text_StatImpressive:
-	.string "That stat is quite impressive.\n"
-	.string "…Hm… That's how I call it.$"
+	.string "Status itu cukup mengesankan.\n"
+	.string "…Hm… Begitulah aku menilainya.$"
 
 BattleFrontier_Lounge1_Text_StatOutstanding:
-	.string "That stat is outstanding!\n"
-	.string "…Hm… That's how I call it.$"
+	.string "Status itu luar biasa!\n"
+	.string "…Hm… Begitulah aku menilainya.$"
 
 BattleFrontier_Lounge1_Text_StatFlawless:
-	.string "It's flawless! A thing of perfection!\n"
-	.string "…Hm… That's how I call it.$"
+	.string "Sempurna! Sesuatu yang sempurna!\n"
+	.string "…Hm… Begitulah aku menilainya.$"
 
 BattleFrontier_Lounge1_Text_NoTimeForMyAdvice:
-	.string "What?\n"
-	.string "You have no time for my advice?\p"
-	.string "You should always be eager to learn\n"
-	.string "from the experiences of your elders!$"
+	.string "Apa?\n"
+	.string "Kamu tidak punya waktu untuk nasihatku?\p"
+	.string "Kamu harus selalu bersemangat untuk belajar\n"
+	.string "dari pengalaman orang yang lebih tua!$"
 
 @ Unused
 BattleFrontier_Lounge1_Text_HaveBusinessNeedsTending:
-	.string "Yes, what is it now?\p"
-	.string "I have business that needs tending!\n"
-	.string "Save it for next time!$"
+	.string "Ya, ada apa sekarang?\p"
+	.string "Aku punya urusan yang harus diselesaikan!\n"
+	.string "Lain kali saja!$"
 
 BattleFrontier_Lounge1_Text_LetsLookAtYourPokemon:
-	.string "Ah, youngster! Do your POKéMON's\n"
-	.string "abilities intrigue you?\p"
-	.string "Here, here!\n"
-	.string "Let's have a look at your POKéMON!$"
+	.string "Ah, anak muda! Apakah kemampuan\n"
+	.string "POKéMON-mu membuatmu penasaran?\p"
+	.string "Sini, sini!\n"
+	.string "Mari kita lihat POKéMON-mu!$"
 
 BattleFrontier_Lounge1_Text_EvenICantTell:
-	.string "An expert I am, but even I can't tell\n"
-	.string "anything about an unhatched POKéMON!\p"
-	.string "Show me a POKéMON!\n"
-	.string "A POKéMON is what I need to see!$"
+	.string "Aku memang ahli, tapi bahkan aku tidak bisa\n"
+	.string "memberi tahu apa pun tentang TELUR!\p"
+	.string "Tunjukkan POKéMON!\n"
+	.string "Aku perlu melihat POKéMON!$"
 
 BattleFrontier_Lounge1_Text_SaidMyMonIsOutstanding:
-	.string "He said my POKéMON is outstanding!\n"
-	.string "I'm glad I raised it carefully!$"
+	.string "Dia bilang POKéMON-ku luar biasa!\n"
+	.string "Aku senang telah membesarkannya dengan hati-hati!$"
 
 BattleFrontier_Lounge1_Text_DidntDoAnythingSpecialRaisingIt:
-	.string "He said my POKéMON is outstanding!\n"
-	.string "But I didn't do anything special\l"
-	.string "raising it…$"
+	.string "Dia bilang POKéMON-ku luar biasa!\n"
+	.string "Padahal aku tidak melakukan sesuatu yang\l"
+	.string "istimewa saat membesarkannya…$"
+
 

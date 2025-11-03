@@ -1,3 +1,4 @@
+//gemini
 @ On this map the player will automatically walk into the room, but the camera is supposed to remain still.
 @ To do this GF sets the player (LOCALID_PLAYER) invisible and creates a fake player object (LOCALID_ARENA_BATTLE_PLAYER).
 @ The graphics of this fake player object are represented with VAR_OBJ_GFX_ID_1.
@@ -486,146 +487,146 @@ BattleFrontier_BattleArenaBattleRoom_Movement_GretaWalkBackToCenter:
 	step_end
 
 BattleFrontier_BattleArenaBattleRoom_Text_PlayerStepForward:
-	.string "REFEREE: TRAINER {PLAYER}!\n"
-	.string "Step forward, please!$"
+	.string "WASIT: TRAINER {PLAYER}! Silakan\n"
+	.string "maju!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_OpponentStepForward:
-	.string "REFEREE: TRAINER {STR_VAR_1}!\n"
-	.string "Step forward, please!$"
+	.string "WASIT: TRAINER {STR_VAR_1}! Silakan\n"
+	.string "maju!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SetKOTourneyBegin:
-	.string "REFEREE: Set KO Tourney!\n"
-	.string "Begin!$"
+	.string "WASIT: Turnamen KO Set! Mulai!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_WinnerIsPlayer:
-	.string "REFEREE: The winner is {PLAYER}!$"
+	.string "WASIT: Pemenangnya adalah {PLAYER}!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_WinnerIsOpponent:
-	.string "REFEREE: The winner is {STR_VAR_1}!$"
+	.string "WASIT: Pemenangnya adalah\n"
+	.string "{STR_VAR_1}!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_MonsWillBeRestored:
-	.string "Your POKéMON will be restored to\n"
-	.string "full health.$"
+	.string "POKéMON-mu akan dipulihkan hingga\n"
+	.string "pulih sepenuhnya.$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor2ndOpponent:
-	.string "Next up, your second opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "Selanjutnya, lawan keduamu! Apakah\n"
+	.string "kamu siap untuk lanjut?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor3rdOpponent:
-	.string "Next up, your third opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "Selanjutnya, lawan ketigamu! Apakah\n"
+	.string "kamu siap untuk lanjut?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor4thOpponent:
-	.string "Next up, your fourth opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "Selanjutnya, lawan keempatmu!\n"
+	.string "Apakah kamu siap untuk lanjut?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor5thOpponent:
-	.string "Next up, your fifth opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "Selanjutnya, lawan kelimamu! Apakah\n"
+	.string "kamu siap untuk lanjut?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor6thOpponent:
-	.string "Next up, your sixth opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "Selanjutnya, lawan keenammu! Apakah\n"
+	.string "kamu siap untuk lanjut?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor7thOpponent:
-	.string "Next up, your seventh opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "Selanjutnya, lawan ketujuhmu!\n"
+	.string "Apakah kamu siap untuk lanjut?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SaveAndShutDown:
-	.string "Would you like to save the game and\n"
-	.string "shut down now?$"
+	.string "Apakah kamu ingin menyimpan\n"
+	.string "permainan dan mematikan sekarang?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_RetireFromChallenge:
-	.string "Would you like to retire from your\n"
-	.string "Set KO Tourney challenge?$"
+	.string "Apakah kamu ingin mundur dari\n"
+	.string "tantangan Turnamen KO Set-mu?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SavingPleaseWait:
-	.string "I am saving your game data.\n"
-	.string "Please wait.$"
+	.string "Aku sedang menyimpan data\n"
+	.string "permainanmu. Mohon tunggu.$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_RecordLastBattle:
-	.string "Would you like to record your last\n"
-	.string "battle on your FRONTIER PASS?$"
+	.string "Apakah kamu ingin mencatat\n"
+	.string "pertarungan terakhirmu pada PASS\l"
+	.string "PERBATASAN-mu?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_NowFaceTycoon:
-	.string "My dear challenger!\p"
-	.string "Your skill level is truly astounding!\p"
-	.string "We now would like you to face our\n"
-	.string "leader, the ARENA TYCOON!$"
+	.string "Penantangku yang terkasih!\p"
+	.string "Tingkat keahlianmu benar-benar\n"
+	.string "mencengangkan!\p"
+	.string "Sekarang kami ingin kamu menghadapi\n"
+	.string "pemimpin kami, TAIPAN ARENA!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_PreparedForTycoon:
-	.string "A battle with the ARENA TYCOON!\n"
-	.string "Are you prepared?$"
+	.string "Pertarungan dengan TAIPAN ARENA!\n"
+	.string "Apakah kamu siap?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_MakeWayForGreta:
-	.string "REFEREE: The ARENA TYCOON!\n"
-	.string "Make way for GRETA!$"
+	.string "WASIT: TAIPAN ARENA! Beri jalan\n"
+	.string "untuk GRETA!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureChallenger:
-	.string "GRETA: Hey!\n"
-	.string "Howdy!\p"
-	.string "…Wait, are you the challenger?$"
+	.string "GRETA: Hei! Apa kabar!\p"
+	.string "…Tunggu, apakah kamu penantangnya?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_IsThatRight:
-	.string "Is that right? Hmm…\n"
-	.string "Hmhm…$"
+	.string "Begitu, ya? Hmm… Hmhm…$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_YouLookWeakTakeThingsEasy:
-	.string "I don't know how to say it, but…\n"
-	.string "To put it bluntly, you look pretty weak.\l"
-	.string "Are you sure you're up for me?\p"
+	.string "Aku tidak tahu bagaimana\n"
+	.string "mengatakannya, tapi… Terus terang\l"
+	.string "saja, kamu terlihat agak lemah. Apa\l"
+	.string "kamu yakin sanggup melawanku?\p"
 	.string "Hmm…\p"
-	.string "Well, all right!\n"
-	.string "We'll take things easy to start with!$"
+	.string "Baiklah! Kita akan mulai dengan\n"
+	.string "santai!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_IgniteMyPassionForBattle:
-	.string "Okay! Let's see you ignite my passion\n"
-	.string "for battle!$"
+	.string "Oke! Mari kulihat kamu\n"
+	.string "membangkitkan gairah bertarungku!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureToughAfterAll:
-	.string "GRETA: Ow, wait a second!\n"
-	.string "You are tough after all!\p"
-	.string "I like you!\n"
-	.string "Let's see your FRONTIER PASS.$"
+	.string "GRETA: Aduh, tunggu sebentar!\n"
+	.string "Ternyata kamu tangguh juga!\p"
+	.string "Aku suka kamu! Mari kulihat PASS\n"
+	.string "PERBATASAN-mu.$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReceivedGutsSymbol:
-	.string "The Guts Symbol was embossed on\n"
-	.string "the FRONTIER PASS!$"
+	.string "Simbol Keberanian telah dicetak\n"
+	.string "pada PASS PERBATASAN!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GoingToBeFunNextTime:
 	.string "Hmm…\p"
-	.string "It's going to be fun the next time!\n"
-	.string "I'm looking forward to it!$"
+	.string "Pertemuan berikutnya pasti\n"
+	.string "menyenangkan! Aku menantikannya!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaLookingForwardToSeeingAgain:
-	.string "GRETA: Hey! Howdy!\n"
-	.string "You finally won your way up to me!\p"
-	.string "I was getting worried waiting for you!\n"
-	.string "I was really looking forward to seeing\l"
-	.string "you again!$"
+	.string "GRETA: Hei! Apa kabar! Kamu\n"
+	.string "akhirnya berhasil sampai kepadaku!\p"
+	.string "Aku mulai khawatir menunggumu! Aku\n"
+	.string "sangat menantikan untuk bertemu\l"
+	.string "kamu lagi!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SoAreYouReady:
-	.string "… … …\n"
-	.string "So, are you ready?$"
+	.string "… … … Jadi, apakah kamu siap?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_WontAllowHalfheartedEffort:
-	.string "I won't allow a halfhearted effort!\n"
-	.string "Be ready for a thrashing!$"
+	.string "Aku tidak akan membiarkan usaha\n"
+	.string "setengah hati! Bersiaplah untuk\l"
+	.string "dihajar habis!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_LetsGetThisStarted:
-	.string "Come on, REFEREE!\n"
-	.string "Let's get this started!$"
+	.string "Ayo, WASIT! Mari kita mulai ini!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaBlownAway:
-	.string "GRETA: Gaaah! Blown away!\n"
-	.string "Let's see your FRONTIER PASS!$"
+	.string "GRETA: Gaaah! Aku terhempas! Mari\n"
+	.string "kulihat PASS PERBATASAN-mu!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GutsSymbolTookGoldenShine:
-	.string "The Guts Symbol took on\n"
-	.string "a golden shine!$"
+	.string "Simbol Keberanian bersinar\n"
+	.string "keemasan!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_IfWeBattleAgainWontLose:
-	.string "Arrrgh!\n"
-	.string "This is so infuriating!\p"
-	.string "If we ever battle again, I won't lose!\n"
-	.string "Don't you forget it! Bye-bye!$"
+	.string "Arrrgh! Ini sangat menjengkelkan!\p"
+	.string "Jika kita bertarung lagi, aku tidak\n"
+	.string "akan kalah! Jangan kamu lupakan\l"
+	.string "itu! Sampai jumpa!$"

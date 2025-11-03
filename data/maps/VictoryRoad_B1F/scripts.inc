@@ -27,65 +27,67 @@ VictoryRoad_B1F_EventScript_Halle::
 	end
 
 VictoryRoad_B1F_Text_SamuelIntro:
-	.string "The thought that I'm getting closer to\n"
-	.string "the POKéMON LEAGUE…\p"
-	.string "I'm getting stage fright…$"
+	.string "Pikiran bahwa aku semakin dekat\n"
+	.string "dengan POKéMON LEAGUE…\p"
+	.string "Aku jadi demam panggung…$"
 
 VictoryRoad_B1F_Text_SamuelDefeat:
-	.string "I couldn't do a thing…$"
+	.string "Aku tidak bisa berbuat apa-apa…$"
 
 VictoryRoad_B1F_Text_SamuelPostBattle:
-	.string "The POKéMON LEAGUE became distant\n"
-	.string "again… What a letdown…$"
+	.string "POKéMON LEAGUE jadi jauh lagi…\n"
+	.string "Sungguh mengecewakan…$"
 
 VictoryRoad_B1F_Text_ShannonIntro:
-	.string "To win your way through the POKéMON\n"
-	.string "LEAGUE, you need the trust of your\l"
-	.string "POKéMON.$"
+	.string "Untuk memenangkan POKéMON LEAGUE,\n"
+	.string "kamu butuh kepercayaan dari\l"
+	.string "POKéMON-mu.$"
 
 VictoryRoad_B1F_Text_ShannonDefeat:
-	.string "Your relationship is based on\n"
-	.string "solid trust.$"
+	.string "Hubungan kalian didasari oleh\n"
+	.string "kepercayaan yang kuat.$"
 
 VictoryRoad_B1F_Text_ShannonPostBattle:
-	.string "By being together all the time, trust\n"
-	.string "grows between POKéMON and TRAINERS.$"
+	.string "Dengan selalu bersama, kepercayaan\n"
+	.string "tumbuh antara POKéMON & TRAINER.$"
 
 VictoryRoad_B1F_Text_MichelleIntro:
-	.string "This isn't the goal. It's only a place\n"
-	.string "on the way to the POKéMON LEAGUE.$"
+	.string "Ini bukan tujuan akhir. Ini hanya\n"
+	.string "tempat di jalan menuju\l"
+	.string "POKéMON LEAGUE.$"
 
 VictoryRoad_B1F_Text_MichelleDefeat:
-	.string "That's the way!$"
+	.string "Begitulah!$"
 
 VictoryRoad_B1F_Text_MichellePostBattle:
-	.string "You'll do fine, for sure!\n"
-	.string "Your POKéMON are all eager to go!$"
+	.string "Kamu pasti baik-baik saja!\n"
+	.string "POKéMON-mu semua bersemangat pergi!$"
 
 VictoryRoad_B1F_Text_MitchellIntro:
-	.string "My POKéMON are cosmically\n"
-	.string "awe inspiring!$"
+	.string "POKéMON-ku sangat\n"
+	.string "menakjubkan!$"
 
 VictoryRoad_B1F_Text_MitchellDefeat:
-	.string "I've never met anyone like you before.$"
+	.string "Aku belum pernah bertemu orang\n"
+	.string "sepertimu sebelumnya.$"
 
 VictoryRoad_B1F_Text_MitchellPostBattle:
-	.string "Even outside of battle, I sense\n"
-	.string "incredible power emanating from you\l"
-	.string "and your POKéMON.$"
+	.string "Bahkan di luar pertarungan, aku\n"
+	.string "merasakan kekuatan luar biasa\l"
+	.string "memancar darimu & POKéMON-mu.$"
 
 VictoryRoad_B1F_Text_HalleIntro:
-	.string "Okay, no need to get your back up!\n"
-	.string "Relax, let's take it easy!$"
+	.string "Oke, tidak perlu tegang!\n"
+	.string "Santai saja!$"
 
 VictoryRoad_B1F_Text_HalleDefeat:
 	.string "Whoa!\n"
-	.string "Wonderful!$"
+	.string "Hebat!$"
 
 VictoryRoad_B1F_Text_HallePostBattle:
-	.string "Sure, this is VICTORY ROAD.\p"
-	.string "But it's not all that different from\n"
-	.string "the path you've taken so far.\p"
-	.string "Try to enjoy things the rest of\n"
-	.string "the way!$"
-
+	.string "Tentu, ini VICTORY ROAD.\p"
+	.string "Tapi ini tidak jauh berbeda dari\n"
+	.string "jalan yang sudah kamu lalui\l"
+	.string "sejauh ini.\p"
+	.string "Cobalah nikmati sisa\n"
+	.string "perjalanan!$"

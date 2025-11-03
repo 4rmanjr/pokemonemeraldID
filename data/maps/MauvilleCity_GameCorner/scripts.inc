@@ -1,3 +1,4 @@
+//gemini
 MauvilleCity_GameCorner_MapScripts::
 	.byte 0
 
@@ -627,152 +628,157 @@ MauvilleCity_GameCorner_EventScript_NoCoinCase::
 	end
 
 MauvilleCity_GameCorner_Text_ThisIsMauvilleGameCorner:
-	.string "This is MAUVILLE GAME CORNER.$"
+	.string "Ini adalah MAUVILLE GAME CORNER.$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseForCoins:
-	.string "Okay, you wanted some COINS for\n"
-	.string "the games?\p"
-	.string "But you don't have a COIN CASE for\n"
-	.string "stowing the COINS.$"
+	.string "Oke, kamu mau KOIN untuk\n"
+	.string "bermain?\p"
+	.string "Tapi kamu tidak punya KOTAK KOIN\n"
+	.string "untuk menyimpan KOIN.$"
 
 MauvilleCity_GameCorner_Text_WereYouLookingForCoins:
-	.string "Were you looking for COINS?\p"
-	.string "It's ¥1000 for 50 COINS.\n"
-	.string "Would you like some?$"
+	.string "Kamu mencari KOIN?\p"
+	.string "¥1000 untuk 50 KOIN.\n"
+	.string "Kamu mau?$"
 
 MauvilleCity_GameCorner_Text_ThankYouHereAreYourCoins:
-	.string "Thank you very much!\n"
-	.string "Here are your COINS!$"
+	.string "Terima kasih banyak!\n"
+	.string "Ini KOIN-mu!$"
 
 MauvilleCity_GameCorner_Text_DontHaveEnoughMoney:
-	.string "Um… You don't appear to have\n"
-	.string "enough money…$"
+	.string "Hmm… Sepertinya uangmu\n"
+	.string "tidak cukup…$"
 
 MauvilleCity_GameCorner_Text_CoinCaseIsFull:
 	.string "Oh?\n"
-	.string "Your COIN CASE is full.$"
+	.string "KOTAK KOIN-mu penuh.$"
 
 MauvilleCity_GameCorner_Text_DontNeedCoinsThen:
-	.string "Oh… You don't need COINS, then?\n"
-	.string "Good luck on your adventure!$"
+	.string "Oh… Kamu tidak butuh KOIN, ya?\n"
+	.string "Semoga berhasil dalam petualanganmu!$"
 
 MauvilleCity_GameCorner_Text_ExchangeCoinsForPrizes:
-	.string "Welcome.\p"
-	.string "You can exchange your COINS for\n"
-	.string "prizes here.$"
+	.string "Selamat datang.\p"
+	.string "Kamu bisa menukar KOIN-mu\n"
+	.string "dengan hadiah di sini.$"
 
 MauvilleCity_GameCorner_Text_WhichPrize:
-	.string "Which prize would you like?$"
+	.string "Hadiah mana yang kamu inginkan?$"
 
 MauvilleCity_GameCorner_Text_SoYourChoiceIsTheTMX:
-	.string "So your choice is\n"
-	.string "the {STR_VAR_1} {STR_VAR_2}?$"
+	.string "Jadi pilihanmu adalah\n"
+	.string "yang {STR_VAR_1} {STR_VAR_2}?$"
 
 MauvilleCity_GameCorner_Text_SendToYourHomePC:
-	.string "Thank you!\n"
-	.string "We'll send it to your PC at home.$"
+	.string "Terima kasih!\n"
+	.string "Kami akan mengirimnya ke PC-mu\l"
+	.string "di rumah.$"
 
 MauvilleCity_GameCorner_Text_NotEnoughCoins:
-	.string "You don't have enough COINS.$"
+	.string "KOIN-mu tidak cukup.$"
 
 @ Unused
 MauvilleCity_GameCorner_Text_NoRoomForPlacingDecor:
-	.string "There isn't any room available for\n"
-	.string "placing {STR_VAR_1}.$"
+	.string "Tidak ada ruang yang tersedia\n"
+	.string "untuk menempatkan {STR_VAR_1}.$"
 
 MauvilleCity_GameCorner_Text_OhIsThatSo:
-	.string "Oh, is that so? \n"
-	.string "You need to save some COINS before\l"
-	.string "coming back here.$"
+	.string "Oh, begitu?\n"
+	.string "Kamu perlu menabung KOIN sebelum\l"
+	.string "kembali ke sini.$"
 
 MauvilleCity_GameCorner_Text_SoYourChoiceIsX:
-	.string "So your choice is {STR_VAR_1}?$"
+	.string "Jadi pilihanmu adalah {STR_VAR_1}?$"
 
 MauvilleCity_GameCorner_Text_HereYouGo:
-	.string "Here you go!$"
+	.string "Ini dia!$"
 
 @ Unused
 MauvilleCity_GameCorner_Text_CantCarryAnyMore:
-	.string "Oh, you can't carry any more than that.$"
+	.string "Oh, kamu tidak bisa membawa\n"
+	.string "lebih dari itu.$"
 
 MauvilleCity_GameCorner_Text_GotTwoOfSameDollWantOne:
-	.string "I made a mistake and got two of\n"
-	.string "the same DOLLS.\p"
-	.string "Would you like one of them?$"
+	.string "Aku salah & mendapat dua\n"
+	.string "BONEKA yang sama.\p"
+	.string "Kamu mau salah satunya?$"
 
 MauvilleCity_GameCorner_Text_HereYouGo2:
-	.string "Here you go!$"
+	.string "Ini dia!$"
 
 MauvilleCity_GameCorner_Text_YouWantItButNotNow:
-	.string "Huh?\n"
-	.string "You want it, but not right now?$"
+	.string "Hah?\n"
+	.string "Kamu mau, tapi tidak sekarang?$"
 
 MauvilleCity_GameCorner_Text_DontBeNegative:
-	.string "Oh, don't be so negative!\n"
-	.string "You can have this!$"
+	.string "Oh, jangan pesimis begitu!\n"
+	.string "Kamu bisa punya ini!$"
 
 MauvilleCity_GameCorner_Text_CantWinJackpot:
-	.string "There's a prize I want, but I can't win\n"
-	.string "the jackpot.$"
+	.string "Ada hadiah yang aku inginkan,\n"
+	.string "tapi aku tidak bisa menang jackpot.$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseGoNextDoor:
-	.string "Hey, kid, if you want to play here,\n"
-	.string "you need a COIN CASE.\p"
-	.string "I think the young lady next door\n"
-	.string "had one. Go see her!$"
+	.string "Hei, Nak, kalau kamu mau main\n"
+	.string "di sini, kamu butuh KOTAK KOIN.\p"
+	.string "Kurasa gadis di sebelah punya.\n"
+	.string "Temui dia!$"
 
 MauvilleCity_GameCorner_Text_LuckOnlyLastSoLongTakeCoins:
-	.string "My luck can only last so long.\n"
-	.string "This is too much for me.\l"
-	.string "Here, take some COINS!$"
+	.string "Keberuntunganku tidak akan\n"
+	.string "bertahan lama. Ini terlalu banyak\l"
+	.string "untukku. Ini, ambil beberapa KOIN!$"
 
 MauvilleCity_GameCorner_Text_MauvilleSomethingForEveryone:
-	.string "MAUVILLE has something for\n"
-	.string "everyone.\p"
-	.string "For me, it's the GAME CORNER.$"
+	.string "MAUVILLE punya sesuatu untuk\n"
+	.string "semua orang.\p"
+	.string "Bagiku, itu GAME CORNER.$"
 
 MauvilleCity_GameCorner_Text_RouletteTablesDifferentRates:
-	.string "The ROULETTE tables have different\n"
-	.string "rates.\p"
-	.string "Check your COINS if you're going to\n"
-	.string "pick a table.$"
+	.string "Meja ROULETTE punya tarif\n"
+	.string "yang berbeda.\p"
+	.string "Periksa KOIN-mu jika kamu akan\n"
+	.string "memilih meja.$"
 
 MauvilleCity_GameCorner_Text_EasyToLoseTrackOfTime:
-	.string "It's easy to lose track of time in here. \n"
-	.string "I should get back to work.$"
+	.string "Mudah sekali lupa waktu di sini.\n"
+	.string "Aku harus kembali bekerja.$"
 
 MauvilleCity_GameCorner_Text_CoinsAreNeededToPlay:
-	.string "COINS are needed to play here\n"
-	.string "in the GAME CORNER.$"
+	.string "KOIN dibutuhkan untuk bermain\n"
+	.string "di sini di GAME CORNER.$"
 
 MauvilleCity_GameCorner_Text_RouletteOnlyLuck:
-	.string "This ROULETTE thing…\n"
-	.string "It's rather demanding.\p"
-	.string "Win or lose, it's only by luck.$"
+	.string "ROULETTE ini…\n"
+	.string "Cukup menantang.\p"
+	.string "Menang atau kalah, itu hanya\n"
+	.string "keberuntungan.$"
 
 MauvilleCity_GameCorner_Text_UpTo3CoinsCanBeUsed:
-	.string "Up to three COINS can be used to play\n"
-	.string "the SLOTS.$"
+	.string "Hingga tiga KOIN bisa digunakan\n"
+	.string "untuk bermain SLOTS.$"
 
 MauvilleCity_GameCorner_Text_DifficultToStopOn7:
-	.string "It's very difficult to make it stop\n"
-	.string "right on “7.”\p"
-	.string "If it stops on “7” during the REEL TIME\n"
-	.string "bonus game, you'll receive extra COINS.$"
+	.string "Sangat sulit membuatnya berhenti\n"
+	.string "tepat di “7.”\p"
+	.string "Jika berhenti di “7” selama\n"
+	.string "permainan bonus REEL TIME,\l"
+	.string "kamu akan menerima KOIN ekstra.$"
 
 MauvilleCity_GameCorner_Text_HeresSomeSlotsInfo:
-	.string "Here's some information for you\n"
-	.string "about the SLOTS.\p"
-	.string "The more lightning bolts you stock,\n"
-	.string "the more REEL TIME chances you get.\p"
-	.string "In a game with the maximum five\n"
-	.string "REEL TIME chances…\p"
-	.string "It is possible to receive four regular\n"
-	.string "bonuses, then a big bonus.\p"
-	.string "That would total 660 COINS, but it's\n"
-	.string "very difficult to get.$"
+	.string "Ini beberapa informasi untukmu\n"
+	.string "tentang SLOTS.\p"
+	.string "Semakin banyak petir yang kamu\n"
+	.string "kumpulkan, semakin banyak\l"
+	.string "kesempatan REEL TIME yang\l"
+	.string "kamu dapatkan.\p"
+	.string "Dalam permainan dengan maksimal\n"
+	.string "lima kesempatan REEL TIME…\p"
+	.string "Mungkin saja menerima empat\n"
+	.string "bonus reguler, lalu bonus besar.\p"
+	.string "Totalnya 660 KOIN, tapi sangat\n"
+	.string "sulit didapatkan.$"
 
 MauvilleCity_GameCorner_Text_CantPlayWithNoCoinCase:
-	.string "You can't play if you don't have\n"
-	.string "a COIN CASE.$"
-
+	.string "Kamu tidak bisa bermain jika\n"
+	.string "kamu tidak punya KOTAK KOIN.$"

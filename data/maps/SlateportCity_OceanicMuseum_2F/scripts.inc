@@ -1,3 +1,4 @@
+//gemini
 SlateportCity_OceanicMuseum_2F_MapScripts::
 	.byte 0
 
@@ -269,167 +270,178 @@ SlateportCity_OceanicMuseum_2F_EventScript_MuseumPatron3::
 	end
 
 SlateportCity_OceanicMuseum_2F_Text_ThankYouForTheParts:
-	.string "Yes? If you're looking for STERN,\n"
-	.string "that would be me.\p"
-	.string "Ah! Those must be the parts I ordered\n"
-	.string "from MR. STONE of DEVON.\p"
-	.string "Thank you! That's great!\n"
-	.string "We can prepare for our expedition now.$"
+	.string "Ya? Jika Kamu mencari STERN, itu\n"
+	.string "adalah Aku.\p"
+	.string "Ah! Itu pasti suku cadang yang Aku\n"
+	.string "pesan dari MR. STONE dari DEVON.\p"
+	.string "Terima kasih! Bagus sekali! Kami\n"
+	.string "bisa mempersiapkan ekspedisi kami\l"
+	.string "sekarang.$"
 
 SlateportCity_OceanicMuseum_2F_Text_WellTakeThoseParts:
-	.string "Hehehe, hold it!\n"
-	.string "We'll take those parts!$"
+	.string "Hehehe, tunggu! Kami akan mengambil\n"
+	.string "suku cadang itu!$"
 
 SlateportCity_OceanicMuseum_2F_Text_SternWhoAreYou:
-	.string "CAPT. STERN: Wh-what?\n"
-	.string "Who are you people?$"
+	.string "KAPT. STERN: A-apa? Siapa kalian?$"
 
 SlateportCity_OceanicMuseum_2F_Text_WereTeamAqua:
-	.string "We're TEAM AQUA!\p"
-	.string "Our BOSS wants those parts!\n"
-	.string "Shut your yap and fork them over!$"
+	.string "Kami TEAM AQUA!\p"
+	.string "BOSS kami menginginkan suku cadang\n"
+	.string "itu! Tutup mulutmu dan serahkan!$"
 
 SlateportCity_OceanicMuseum_2F_Text_Grunt1Defeat:
-	.string "Awaaaah!\n"
-	.string "A kid beat me!$"
+	.string "Awaaaah! Seorang anak\n"
+	.string "mengalahkanku!$"
 
 SlateportCity_OceanicMuseum_2F_Text_BossGoingToBeFurious:
-	.string "Oh, man, what a disaster…\n"
-	.string "The BOSS is going to be furious…$"
+	.string "Ya ampun, sungguh bencana... BOSS\n"
+	.string "pasti akan sangat marah...$"
 
 SlateportCity_OceanicMuseum_2F_Text_LetMeTakeCareOfThis:
-	.string "Humph, sniveling wimp!\n"
-	.string "Let me take care of this!$"
+	.string "Hmph, pecundang cengeng! Biar Aku\n"
+	.string "yang urus ini!$"
 
 SlateportCity_OceanicMuseum_2F_Text_Grunt2Defeat:
-	.string "What?!\n"
-	.string "I lost, too!$"
+	.string "Apa?! Aku kalah juga!$"
 
 SlateportCity_OceanicMuseum_2F_Text_MeddlingKid:
-	.string "Now what? If we don't get the parts,\n"
-	.string "we're in for it!\p"
-	.string "Arrgh, I didn't count on being meddled\n"
-	.string "with by some meddling kid!$"
+	.string "Sekarang bagaimana? Jika kita tidak\n"
+	.string "mendapatkan suku cadang itu, kita\l"
+	.string "akan celaka!\p"
+	.string "Arrgh, Aku tidak menyangka akan\n"
+	.string "diganggu oleh anak yang suka ikut\l"
+	.string "campur!$"
 
 SlateportCity_OceanicMuseum_2F_Text_CameToSeeWhatsTakingSoLong:
-	.string "I came to see what was taking so\n"
-	.string "long to snatch some parts, and you\l"
-	.string "simps are held up by a mere child?$"
+	.string "Aku datang untuk melihat mengapa\n"
+	.string "kalian begitu lama mengambil suku\l"
+	.string "cadang, dan kalian para bodoh\l"
+	.string "dihalangi oleh seorang anak kecil\l"
+	.string "saja?$"
 
 SlateportCity_OceanicMuseum_2F_Text_ArchieWarning:
-	.string "We are TEAM AQUA,\n"
-	.string "and we love the sea!\p"
-	.string "And I am TEAM AQUA's leader,\n"
+	.string "Kami adalah TEAM AQUA, dan kami\n"
+	.string "mencintai laut!\p"
+	.string "Dan Aku adalah pemimpin TEAM AQUA,\n"
 	.string "ARCHIE!\p"
-	.string "What makes you interfere with us?\p"
-	.string "…No! You can't be!\n"
-	.string "You're not one of TEAM MAGMA?\p"
-	.string "Wait, that can't be right.\n"
-	.string "You're not dressed for the part.\p"
-	.string "… … … … … …\n"
-	.string "… … … … … …\p"
-	.string "POKéMON, people… All life depends on\n"
-	.string "the sea.\p"
-	.string "So, TEAM AQUA is dedicated to\n"
-	.string "the expansion of the sea.\p"
-	.string "Don't you agree? What we are doing\n"
-	.string "is a magnificent undertaking.\p"
-	.string "Ah, fine…\n"
-	.string "You're still too young to understand\l"
-	.string "our noble objective.\p"
-	.string "But, I warn you, don't even consider\n"
-	.string "interfering with our plans again.\p"
-	.string "The consequences will cost you\n"
-	.string "dearly!\p"
-	.string "And don't you forget it!$"
+	.string "Apa yang membuatmu mengganggu kami?\p"
+	.string "...Tidak! Mustahil! Kamu bukan\n"
+	.string "salah satu dari TEAM MAGMA?\p"
+	.string "Tunggu, tidak mungkin. Pakaianmu\n"
+	.string "tidak cocok.\p"
+	.string "… … … … … … … … … … … …\p"
+	.string "POKéMON, manusia... Semua kehidupan\n"
+	.string "bergantung pada laut.\p"
+	.string "Jadi, TEAM AQUA berdedikasi untuk\n"
+	.string "perluasan laut.\p"
+	.string "Tidakkah Kamu setuju? Apa yang kami\n"
+	.string "lakukan adalah usaha yang luar\l"
+	.string "biasa.\p"
+	.string "Ah, baiklah... Kamu masih terlalu\n"
+	.string "muda untuk memahami tujuan mulia\l"
+	.string "kami.\p"
+	.string "Tapi, Aku peringatkan, jangan\n"
+	.string "pernah berpikir untuk mengganggu\l"
+	.string "rencana kami lagi.\p"
+	.string "Konsekuensinya akan merugikanmu\n"
+	.string "sangat mahal!\p"
+	.string "Dan jangan pernah lupakan itu!$"
 
 SlateportCity_OceanicMuseum_2F_Text_SternThankYouForSavingUs:
-	.string "CAPT. STERN: You're…\n"
-	.string "Ah, okay, you're {PLAYER}{KUN}…\p"
-	.string "Anyway, that was a tense situation!\n"
-	.string "Thank you for saving us!\p"
-	.string "Oh, yes, I almost forgot that you\n"
-	.string "even brought the parts from DEVON!$"
+	.string "KAPT. STERN: Kamu... Ah, oke, Kamu\n"
+	.string "{PLAYER}{KUN}...\p"
+	.string "Bagaimanapun, itu situasi yang\n"
+	.string "menegangkan! Terima kasih telah\l"
+	.string "menyelamatkan kami!\p"
+	.string "Oh, ya, Aku hampir lupa bahwa Kamu\n"
+	.string "bahkan membawa suku cadang dari\l"
+	.string "DEVON!$"
 
 SlateportCity_OceanicMuseum_2F_Text_SternIveGotToGo:
-	.string "CAPT. STERN: Whoops!\n"
-	.string "There's no time to lose!\p"
-	.string "We have to set out on our ocean-floor\n"
-	.string "expedition really soon.\p"
-	.string "Thanks again, but now I've got\n"
-	.string "to go!\p"
-	.string "Feel free to wander around and check\n"
-	.string "out our facilities, though.$"
+	.string "KAPT. STERN: Aduh! Tidak ada waktu\n"
+	.string "untuk dihabiskan!\p"
+	.string "Kami harus segera berangkat untuk\n"
+	.string "ekspedisi dasar laut kami.\p"
+	.string "Terima kasih lagi, tapi sekarang\n"
+	.string "Aku harus pergi!\p"
+	.string "Namun, jangan ragu untuk\n"
+	.string "berkeliling dan melihat fasilitas\l"
+	.string "kami.$"
 
 SlateportCity_OceanicMuseum_2F_Text_RemindsMeOfAbandonedShip:
-	.string "I saw a model of a ship here.\p"
-	.string "It reminded me of the ABANDONED SHIP\n"
-	.string "near DEWFORD TOWN…$"
+	.string "Aku melihat model kapal di sini.\p"
+	.string "Itu mengingatkanku pada KAPAL\n"
+	.string "TERLANTAR di dekat KOTA DEWFORD...$"
 
 SlateportCity_OceanicMuseum_2F_Text_DontRunInMuseum:
-	.string "Don't you dare run around inside\n"
-	.string "the MUSEUM!$"
+	.string "Jangan berani-berani berlarian di\n"
+	.string "dalam MUSEUM!$"
 
 SlateportCity_OceanicMuseum_2F_Text_WantToRideSubmarine:
-	.string "Wow, the submarine's awesome!\n"
-	.string "I want to go for a ride!$"
+	.string "Wow, kapal selamnya luar biasa! Aku\n"
+	.string "ingin ikut naik!$"
 
 SlateportCity_OceanicMuseum_2F_Text_WaterQualitySample1:
-	.string "“WATER QUALITY SAMPLE 1,” the\n"
-	.string "label says.\p"
-	.string "The sea is all connected, but the\n"
-	.string "water seems to differ by region.$"
+	.string "“SAMPEL KUALITAS AIR 1,” tertulis\n"
+	.string "pada label.\p"
+	.string "Laut semuanya terhubung, tetapi\n"
+	.string "airnya tampak berbeda menurut\l"
+	.string "wilayah.$"
 
 SlateportCity_OceanicMuseum_2F_Text_WaterQualitySample2:
-	.string "“WATER QUALITY SAMPLE 2,” the\n"
-	.string "label says.\p"
-	.string "Does the saltiness of seawater differ\n"
-	.string "by region, too?$"
+	.string "“SAMPEL KUALITAS AIR 2,” tertulis\n"
+	.string "pada label.\p"
+	.string "Apakah kadar garam air laut juga\n"
+	.string "berbeda menurut wilayah?$"
 
 SlateportCity_OceanicMuseum_2F_Text_PressureExperiment:
-	.string "A rubber ball is expanding and\n"
-	.string "shrinking.\p"
-	.string "“In the sea, the weight of water itself\n"
-	.string "exerts pressure.\p"
-	.string "“In shallow water, the pressure is not\n"
-	.string "very heavy.\p"
-	.string "“However, in extremely deep water,\n"
-	.string "the pressure can reach even tens of\l"
-	.string "thousands of tons on a small area.”$"
+	.string "Sebuah bola karet mengembang dan\n"
+	.string "menyusut.\p"
+	.string "“Di laut, berat air itu sendiri\n"
+	.string "memberikan tekanan.\p"
+	.string "“Di perairan dangkal, tekanannya\n"
+	.string "tidak terlalu berat.\p"
+	.string "“Namun, di perairan yang sangat\n"
+	.string "dalam, tekanan dapat mencapai\l"
+	.string "bahkan puluhan ribu ton pada area\l"
+	.string "kecil."
 
 SlateportCity_OceanicMuseum_2F_Text_HoennModel:
-	.string "“MODEL OF HOENN REGION”\p"
-	.string "It's a miniature diorama of the\n"
-	.string "HOENN region.\p"
-	.string "Where is LITTLEROOT TOWN on this?$"
+	.string "“MODEL WILAYAH HOENN” Itu adalah\n"
+	.string "diorama miniatur wilayah HOENN.\p"
+	.string "Di mana KOTA LITTLEROOT di sini?$"
 
 SlateportCity_OceanicMuseum_2F_Text_DeepSeawaterDisplay:
-	.string "It's a display on the flow of seawater.\p"
-	.string "“Near the bottom of the sea, water\n"
-	.string "flows due to differences in such\l"
-	.string "factors as temperature and salinity.”$"
+	.string "Ini adalah tampilan tentang aliran\n"
+	.string "air laut.\p"
+	.string "“Di dekat dasar laut, air mengalir\n"
+	.string "karena perbedaan faktor-faktor\l"
+	.string "seperti suhu dan salinitas."
 
 SlateportCity_OceanicMuseum_2F_Text_SurfaceSeawaterDisplay:
-	.string "It's a display on the flow of seawater.\p"
-	.string "“Toward the surface, seawater flows\n"
-	.string "as currents driven by the winds.”$"
+	.string "Ini adalah tampilan tentang aliran\n"
+	.string "air laut.\p"
+	.string "“Menuju permukaan, air laut\n"
+	.string "mengalir sebagai arus yang didorong\l"
+	.string "oleh angin."
 
 SlateportCity_OceanicMuseum_2F_Text_SSTidalReplica:
-	.string "“THE FERRY S.S. TIDAL\p"
-	.string "“A scale replica of the ship under\n"
-	.string "construction at STERN'S SHIPYARD.”$"
+	.string "“KAPAL FERRY S.S. TIDAL”\p"
+	.string "“Replika skala kapal yang sedang\n"
+	.string "dibangun di GALANGAN KAPAL STERN."
 
 SlateportCity_OceanicMuseum_2F_Text_SubmarineReplica:
-	.string "“SUBMARINE EXPLORER 1\p"
-	.string "“A replica of the high-performance\n"
-	.string "ocean floor exploration submarine.”$"
+	.string "“KAPAL SELAM EXPLORER 1”\p"
+	.string "“Replika kapal selam eksplorasi\n"
+	.string "dasar laut berkinerja tinggi."
 
 SlateportCity_OceanicMuseum_2F_Text_SumbersibleReplica:
-	.string "“SUBMERSIBLE POD\p"
-	.string "“A replica of a compact, unmanned\n"
-	.string "pod for seafloor exploration.”$"
+	.string "“KAPAL SELAM MINI”\p"
+	.string "“Replika pod ringkas tanpa awak\n"
+	.string "untuk eksplorasi dasar laut."
 
 SlateportCity_OceanicMuseum_2F_Text_SSAnneReplica:
-	.string "“S.S. ANNE\p"
-	.string "“A replica of the luxury liner that\n"
-	.string "circles the globe.”$"
+	.string "“S.S. ANNE”\p"
+	.string "“Replika kapal pesiar mewah yang\n"
+	.string "mengelilingi dunia."

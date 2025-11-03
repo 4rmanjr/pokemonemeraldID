@@ -1,3 +1,4 @@
+//gemini
 AbandonedShip_Rooms_1F_MapScripts::
 	.byte 0
 
@@ -32,46 +33,47 @@ AbandonedShip_Rooms_1F_EventScript_ThaliaRematch::
 	end
 
 AbandonedShip_Rooms_1F_Text_TakingALookAround:
-	.string "Ships of this sort are rare, so I'm\n"
-	.string "taking a look around.\p"
-	.string "Hmhm…\n"
-	.string "There appear to be other cabins…$"
+	.string "Kapal jenis ini langka, jadi aku\n"
+	.string "sedang melihat-lihat.\p"
+	.string "Hmhm… Sepertinya ada kabin lain…$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaIntro:
-	.string "What on earth would compel you to\n"
-	.string "come here? You must be curious!$"
+	.string "Apa yang membuatmu datang ke sini?\n"
+	.string "Kamu pasti penasaran!$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaDefeat:
-	.string "Not just curious, but also strong…$"
+	.string "Tidak hanya penasaran, tapi juga\n"
+	.string "kuat…$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaPostBattle:
-	.string "The man next door…\p"
-	.string "He says he's just sightseeing,\n"
-	.string "but I don't know about that.$"
+	.string "Pria di sebelah…\p"
+	.string "Dia bilang dia hanya jalan-jalan,\n"
+	.string "tapi aku tidak tahu soal itu.$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaRegister:
-	.string "You're such a tough TRAINER!\n"
-	.string "Let me register you as a memento!$"
+	.string "Kamu TRAINER yang tangguh! Biarkan\n"
+	.string "aku mendaftarkanmu sebagai\l"
+	.string "kenang-kenangan!$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaRematchIntro:
-	.string "What on earth would compel you to\n"
-	.string "come back? You must really be curious!$"
+	.string "Apa yang membuatmu kembali? Kamu\n"
+	.string "pasti benar-benar penasaran!$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaRematchDefeat:
-	.string "Aren't you too strong?$"
+	.string "Apa kamu terlalu kuat?$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaPostRematch:
-	.string "I'm sure that man's up to something!\n"
-	.string "He just acts so suspiciously!$"
+	.string "Aku yakin pria itu sedang\n"
+	.string "merencanakan sesuatu! Dia\l"
+	.string "bertingkah sangat mencurigakan!$"
 
 AbandonedShip_Rooms_1F_Text_DemetriusIntro:
-	.string "Waaah!\n"
-	.string "I've been found! …Huh?$"
+	.string "Waaah! Aku ketahuan! …Hah?$"
 
 AbandonedShip_Rooms_1F_Text_DemetriusDefeat:
-	.string "Oh, you're not my mom.$"
+	.string "Oh, kamu bukan ibuku.$"
 
 AbandonedShip_Rooms_1F_Text_DemetriusPostBattle:
-	.string "I'm in trouble with my mom, so I ran.\n"
-	.string "Keep it a secret where I am!$"
-
+	.string "Aku bermasalah dengan ibuku, jadi\n"
+	.string "aku kabur. Rahasiakan di mana aku\l"
+	.string "berada!$"

@@ -215,114 +215,115 @@ LilycoveCity_LilycoveMuseum_2F_EventScript_ShowToughPainting::
 	end
 
 LilycoveCity_LilycoveMuseum_2F_Text_ThisIsExhibitHall:
-	.string "This is our special exhibit hall.$"
+	.string "Ini adalah ruang pameran khusus kami.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ExplainExhibitHall:
-	.string "As you can plainly see, there is not\n"
-	.string "a single painting on exhibit.\p"
-	.string "Here, I don't wish to exhibit works of\n"
-	.string "so-called classical art.\p"
-	.string "Such classical works you can see on\n"
-	.string "our ground floor.\p"
-	.string "I wish to exhibit work that is far\n"
-	.string "different from the classics.\p"
-	.string "Art, after all, is not restricted to old,\n"
-	.string "famous works!\p"
-	.string "This exhibit hall, I wish to fill it with…\p"
-	.string "Modern and vibrant artworks of\n"
-	.string "POKéMON seemingly ready to spring\l"
-	.string "forth into glorious life!$"
+	.string "Seperti yang bisa kamu lihat, tidak ada\n"
+	.string "satu pun lukisan yang dipamerkan.\p"
+	.string "Di sini, aku tidak ingin memamerkan\n"
+	.string "karya seni yang disebut klasik.\p"
+	.string "Karya-karya klasik seperti itu bisa\n"
+	.string "kamu lihat di lantai dasar kami.\p"
+	.string "Aku ingin memamerkan karya yang jauh\n"
+	.string "berbeda dari yang klasik.\p"
+	.string "Seni, bagaimanapun juga, tidak terbatas\n"
+	.string "pada karya-karya tua yang terkenal!\p"
+	.string "Ruang pameran ini, aku ingin\n"
+	.string "mengisinya dengan…\p"
+	.string "Karya seni POKéMON yang modern dan\n"
+	.string "bersemangat yang seolah siap untuk hidup!$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_PleaseObtainPaintingsForExhibit:
-	.string "I beg your pardon. I didn't intend\n"
-	.string "to monopolize the conversation.\p"
-	.string "Now, as you are young, and yet\n"
-	.string "obviously well traveled…\p"
-	.string "You must encounter lively POKéMON\n"
-	.string "and works of art depicting them.\p"
-	.string "If you were to come across such\n"
-	.string "a painting, may we ask you to obtain\l"
-	.string "the artist's permission to exhibit\l"
-	.string "it here?$"
+	.string "Maafkan aku. Aku tidak bermaksud\n"
+	.string "memonopoli pembicaraan.\p"
+	.string "Nah, karena kamu masih muda, namun\n"
+	.string "jelas sudah banyak bepergian…\p"
+	.string "Kamu pasti bertemu POKéMON yang lincah\n"
+	.string "dan karya seni yang menggambarkannya.\p"
+	.string "Jika kamu menemukan lukisan seperti itu,\n"
+	.string "bolehkah kami memintamu untuk mendapatkan\l"
+	.string "izin dari senimannya untuk memamerkannya\l"
+	.string "di sini?$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_WishToFillExhibit:
-	.string "I wish to fill this exhibit hall with\n"
-	.string "modern and vibrant paintings of\l"
-	.string "POKéMON.$"
+	.string "Aku ingin mengisi ruang pameran ini\n"
+	.string "dengan lukisan POKéMON yang modern dan\l"
+	.string "bersemangat.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ThanksAddedNewPainting:
-	.string "Thanks to you, we've added a new\n"
-	.string "painting to our collection!\p"
-	.string "I've heard it depicts your POKéMON.\n"
-	.string "Truly magnificent!\p"
-	.string "Thank you so very, very much!$"
+	.string "Berkat kamu, kami telah menambahkan\n"
+	.string "lukisan baru ke koleksi kami!\p"
+	.string "Aku dengar itu menggambarkan POKéMON-mu.\n"
+	.string "Sungguh luar biasa!\p"
+	.string "Terima kasih banyak!$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsYouPlayer:
-	.string "Ah! It's you!\n"
+	.string "Ah! Itu kamu!\n"
 	.string "{PLAYER}!$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_PaintingsAttractedMoreGuests:
-	.string "Isn't this marvelous?\n"
-	.string "This collection of paintings!\p"
-	.string "Each one of them flawless!\n"
-	.string "None better than another!\p"
-	.string "These paintings have attracted\n"
-	.string "more guests to our ART MUSEUM.\p"
-	.string "Sincerely, I thank you, {PLAYER}.\n"
-	.string "This is my dream come true!$"
+	.string "Luar biasa, bukan?\n"
+	.string "Koleksi lukisan ini!\p"
+	.string "Setiap lukisannya sempurna!\n"
+	.string "Tidak ada yang lebih baik dari yang lain!\p"
+	.string "Lukisan-lukisan ini telah menarik lebih\n"
+	.string "banyak pengunjung ke MUSEUM SENI kami.\p"
+	.string "Dengan tulus, aku berterima kasih\n"
+	.string "padamu, {PLAYER}.\l"
+	.string "Ini adalah mimpiku yang menjadi kenyataan!$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_TokenOfGratitude:
-	.string "This is merely a token of my gratitude.$"
+	.string "Ini hanyalah sebuah tanda terima kasihku.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_KeepThisForYou:
-	.string "I will keep this for you until we\n"
-	.string "meet again.$"
+	.string "Aku akan menyimpannya untukmu sampai\n"
+	.string "kita bertemu lagi.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_HonorToHaveYouVisit:
-	.string "Ah, so good to see you, {PLAYER}!\p"
-	.string "It's an honor to have you visit us\n"
-	.string "on your busy journeys.\p"
-	.string "Please, relax and do enjoy your\n"
-	.string "visit with us.$"
+	.string "Ah, senang bertemu denganmu, {PLAYER}!\p"
+	.string "Suatu kehormatan kamu mengunjungi kami\n"
+	.string "di tengah perjalanan sibukmu.\p"
+	.string "Silakan, santai dan nikmati\n"
+	.string "kunjunganmu bersama kami.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsPinkPictureFrame:
-	.string "It's a picture frame with pink-colored\n"
-	.string "adornments.$"
+	.string "Ini adalah bingkai foto dengan hiasan\n"
+	.string "berwarna merah muda.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsYellowPictureFrame:
-	.string "It's a picture frame with\n"
-	.string "yellow-colored adornments.$"
+	.string "Ini adalah bingkai foto dengan hiasan\n"
+	.string "berwarna kuning.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsBluePictureFrame:
-	.string "It's a picture frame with\n"
-	.string "blue-colored adornments.$"
+	.string "Ini adalah bingkai foto dengan hiasan\n"
+	.string "berwarna biru.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsRedPictureFrame:
-	.string "It's a picture frame with\n"
-	.string "red-colored adornments.$"
+	.string "Ini adalah bingkai foto dengan hiasan\n"
+	.string "berwarna merah.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsGreenPictureFrame:
-	.string "It's a picture frame with\n"
-	.string "green-colored adornments.$"
+	.string "Ini adalah bingkai foto dengan hiasan\n"
+	.string "berwarna hijau.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsPaintingOfPokemon:
-	.string "It's a painting of POKéMON.$"
+	.string "Ini adalah lukisan POKéMON.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_NewPaintingsSurprisedMe:
-	.string "I've been away awhile, so the new\n"
-	.string "paintings up here surprised me.\p"
-	.string "I wish someone would paint my POKéMON\n"
-	.string "this pretty.$"
+	.string "Aku sudah lama tidak ke sini, jadi\n"
+	.string "lukisan-lukisan baru di sini mengejutkanku.\p"
+	.string "Andai saja ada yang mau melukis\n"
+	.string "POKéMON-ku secantik ini.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_NewPaintingsRatherAmusing:
-	.string "Well… So this is where they show\n"
-	.string "the topical POKéMON paintings.\p"
-	.string "I see, these new paintings are indeed\n"
-	.string "rather amusing.$"
+	.string "Yah… Jadi di sinilah mereka memajang\n"
+	.string "lukisan POKéMON yang sedang tren.\p"
+	.string "Begitu, lukisan-lukisan baru ini\n"
+	.string "memang cukup menghibur.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ThesePaintingsOfYourPokemon:
-	.string "Wow, is that right?\n"
-	.string "These paintings are of your POKéMON.\p"
-	.string "Isn't that just the ultimate joy for\n"
-	.string "a TRAINER?$"
+	.string "Wow, benarkah?\n"
+	.string "Lukisan-lukisan ini adalah POKéMON milikmu.\p"
+	.string "Bukankah itu kebahagiaan tertinggi\n"
+	.string "bagi seorang TRAINER?$"
 

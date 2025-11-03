@@ -28,42 +28,41 @@ MtPyre_6F_EventScript_Cedric::
 	end
 
 MtPyre_6F_Text_ValerieIntro:
-	.string "When I'm here…\n"
-	.string "A curious power flows into me…$"
+	.string "Ketika Aku di sini…\n"
+	.string "Kekuatan aneh mengalir ke dalam diriku…$"
 
 MtPyre_6F_Text_ValerieDefeat:
-	.string "The power is ebbing away…$"
+	.string "Kekuatan itu memudar…$"
 
 MtPyre_6F_Text_ValeriePostBattle:
-	.string "Perhaps the power is from the spirits\n"
-	.string "of POKéMON in fitful sleep here…$"
+	.string "Mungkin kekuatan itu berasal dari roh\n"
+	.string "POKéMON yang tidur gelisah di sini…$"
 
 MtPyre_6F_Text_ValerieRegister:
-	.string "Fufufu… I lost the match, but…\n"
-	.string "I have this little ability…\p"
-	.string "Without ever laying my hands on\n"
-	.string "your POKéNAV… Hiyah!$"
+	.string "Fufufu… Aku kalah dalam pertandingan, tapi…\n"
+	.string "Aku punya sedikit kemampuan ini…\p"
+	.string "Tanpa menyentuh POKéNAV-mu… Hiyah!$"
 
 MtPyre_6F_Text_ValerieRematchIntro:
-	.string "Behind you…\n"
-	.string "What is it…$"
+	.string "Di belakangmu…\n"
+	.string "Ada apa…$"
 
 MtPyre_6F_Text_ValerieRematchDefeat:
-	.string "Something faded away…$"
+	.string "Sesuatu memudar…$"
 
 MtPyre_6F_Text_ValeriePostRematch:
-	.string "The POKéMON at rest here…\n"
-	.string "Sometimes, they play…$"
+	.string "POKéMON yang beristirahat di sini…\n"
+	.string "Terkadang, mereka bermain…$"
 
 MtPyre_6F_Text_CedricIntro:
-	.string "Have you lost your bearings?\n"
-	.string "Have no fear for I am here!$"
+	.string "Apakah kamu tersesat?\n"
+	.string "Jangan takut karena Aku di sini!$"
 
 MtPyre_6F_Text_CedricDefeat:
-	.string "Weren't you lost?$"
+	.string "Bukankah kamu tersesat?$"
 
 MtPyre_6F_Text_CedricPostBattle:
-	.string "I had this feeling that a lost TRAINER\n"
-	.string "would be panicked and easy to beat.\p"
-	.string "It's dirty and I won't try it again…$"
+	.string "Aku punya firasat bahwa TRAINER yang tersesat\n"
+	.string "akan panik dan mudah dikalahkan.\p"
+	.string "Itu kotor dan Aku tidak akan mencobanya lagi…$"
 

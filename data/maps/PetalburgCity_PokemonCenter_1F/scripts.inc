@@ -53,42 +53,42 @@ PetalburgCity_PokemonCenter_1F_EventScript_SayMudkipType::
 	return
 
 PetalburgCity_PokemonCenter_1F_Text_PCStorageSystem:
-	.string "That PC-based POKéMON Storage\n"
-	.string "System…\p"
-	.string "Whoever made it must be some kind\n"
-	.string "of a scientific wizard!$"
+	.string "Sistem Penyimpanan POKéMON berbasis\n"
+	.string "PC itu…\p"
+	.string "Siapa pun yang membuatnya pasti\n"
+	.string "sejenis penyihir ilmiah!$"
 
 PetalburgCity_PokemonCenter_1F_Text_OranBerryRegainedHP:
-	.string "When my POKéMON ate an\n"
-	.string "ORAN BERRY, it regained HP!$"
+	.string "Ketika POKéMON-ku memakan\n"
+	.string "ORAN BERRY, HP-nya pulih!$"
 
 PetalburgCity_PokemonCenter_1F_Text_ManyTypesOfPokemon:
-	.string "There are many types of POKéMON.\p"
-	.string "All types have their strengths and\n"
-	.string "weaknesses against other types.\p"
-	.string "Depending on the types of POKéMON,\n"
-	.string "a battle could be easy or hard.$"
+	.string "Ada banyak jenis POKéMON.\p"
+	.string "Semua jenis memiliki kekuatan dan\n"
+	.string "kelemahan terhadap jenis lain.\p"
+	.string "Tergantung jenis POKéMON-nya,\n"
+	.string "pertarungan bisa mudah atau sulit.$"
 
 PetalburgCity_PokemonCenter_1F_Text_TreeckoIsGrassType:
-	.string "For example, your TREECKO\n"
-	.string "is a GRASS type.\p"
-	.string "It's strong against the WATER and\n"
-	.string "GROUND types.\p"
-	.string "But, it's weak against FIRE-type\n"
-	.string "POKéMON.$"
+	.string "Misalnya, TREECKO-mu\n"
+	.string "adalah tipe RUMPUT.\p"
+	.string "Ia kuat terhadap tipe AIR dan\n"
+	.string "TANAH.\p"
+	.string "Tapi, ia lemah terhadap POKéMON\n"
+	.string "tipe API.$"
 
 PetalburgCity_PokemonCenter_1F_Text_TorchicIsFireType:
-	.string "For example, your TORCHIC\n"
-	.string "is a FIRE type.\p"
-	.string "It's strong against the GRASS and\n"
-	.string "BUG types.\p"
-	.string "But, it's weak against WATER-type\n"
-	.string "POKéMON.$"
+	.string "Misalnya, TORCHIC-mu\n"
+	.string "adalah tipe API.\p"
+	.string "Ia kuat terhadap tipe RUMPUT dan\n"
+	.string "SERANGGA.\p"
+	.string "Tapi, ia lemah terhadap POKéMON\n"
+	.string "tipe AIR.$"
 
 PetalburgCity_PokemonCenter_1F_Text_MudkipIsWaterType:
-	.string "For example, your MUDKIP\n"
-	.string "is a WATER type.\p"
-	.string "It's strong against the FIRE type.\p"
-	.string "But, it's weak against GRASS-type\n"
-	.string "and ELECTRIC-type POKéMON.$"
+	.string "Misalnya, MUDKIP-mu\n"
+	.string "adalah tipe AIR.\p"
+	.string "Ia kuat terhadap tipe API.\p"
+	.string "Tapi, ia lemah terhadap POKéMON\n"
+	.string "tipe RUMPUT dan tipe LISTRIK.$"
 

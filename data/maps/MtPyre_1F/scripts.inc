@@ -26,22 +26,22 @@ MtPyre_1F_EventScript_Man::
 	end
 
 MtPyre_1F_Text_TakeThisForYourOwnGood:
-	.string "All sorts of beings wander the slopes\n"
-	.string "of MT. PYRE…\p"
-	.string "There is no telling what may happen.\n"
-	.string "Take this. It's for your own good.$"
+	.string "Berbagai macam makhluk berkeliaran di lereng\n"
+	.string "GUNUNG PYRE…\p"
+	.string "Tidak ada yang tahu apa yang mungkin terjadi.\n"
+	.string "Ambillah ini. Ini demi kebaikanmu.$"
 
 MtPyre_1F_Text_ExplainCleanseTag:
-	.string "Have a POKéMON hold that\n"
-	.string "CLEANSE TAG.\p"
-	.string "It will help ward off wild POKéMON.$"
+	.string "Minta POKéMON memegang\n"
+	.string "CLEANSE TAG itu.\p"
+	.string "Itu akan membantu mengusir POKéMON liar.$"
 
 MtPyre_1F_Text_ComeToPayRespects:
-	.string "Did you come to pay your respect\n"
-	.string "to the spirits of departed POKéMON?\p"
-	.string "You must care for your POKéMON a lot.$"
+	.string "Apakah kamu datang untuk menghormati\n"
+	.string "roh-roh POKéMON yang telah tiada?\p"
+	.string "Kamu pasti sangat peduli pada POKéMON-mu.$"
 
 MtPyre_1F_Text_RestingPlaceOfZigzagoon:
-	.string "This is the final resting place of my\n"
-	.string "ZIGZAGOON. I cherished it…$"
+	.string "Ini adalah tempat peristirahatan terakhir\n"
+	.string "ZIGZAGOON-ku. Aku sangat menyayanginya…$"
 

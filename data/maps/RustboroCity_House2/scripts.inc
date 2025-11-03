@@ -10,12 +10,12 @@ RustboroCity_House2_EventScript_LittleGirl::
 	end
 
 RustboroCity_House2_Text_TrainerSchoolExcellent:
-	.string "The TRAINER'S SCHOOL is excellent.\p"
-	.string "If you study there, you could even\n"
-	.string "become a GYM LEADER.$"
+	.string "SEKOLAH TRAINER sangat bagus.\p"
+	.string "Jika kamu belajar di sana, kamu bahkan\n"
+	.string "bisa menjadi PEMIMPIN GYM.$"
 
 RustboroCity_House2_Text_RoxanneKnowsALot:
-	.string "ROXANNE, the GYM LEADER, really knows\n"
-	.string "a lot about POKéMON.\p"
-	.string "She's really strong, too!$"
+	.string "ROXANNE, PEMIMPIN GYM, benar-benar tahu\n"
+	.string "banyak tentang POKéMON.\p"
+	.string "Dia juga sangat kuat!$"
 

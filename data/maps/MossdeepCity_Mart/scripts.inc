@@ -37,22 +37,22 @@ MossdeepCity_Mart_EventScript_Sailor::
 	end
 
 MossdeepCity_Mart_Text_ReviveIsFantastic:
-	.string "REVIVE is fantastic!\p"
-	.string "Give it to a fainted POKéMON,\n"
-	.string "and the POKéMON will arise.\p"
-	.string "But be careful, REVIVE doesn't restore\n"
-	.string "the used-up PP of moves.$"
+	.string "REVIVE itu hebat!\p"
+	.string "Berikan pada POKéMON yang pingsan,\n"
+	.string "dan POKéMON itu akan bangkit.\p"
+	.string "Tapi hati-hati, REVIVE tidak memulihkan\n"
+	.string "PP yang terpakai dari gerakan.$"
 
 MossdeepCity_Mart_Text_MaxRepelLastsLongest:
-	.string "MAX REPEL keeps all weak POKéMON away.\p"
-	.string "Out of all the REPEL sprays, it lasts\n"
-	.string "the longest.$"
+	.string "MAX REPEL menjauhkan semua POKéMON lemah.\p"
+	.string "Dari semua semprotan REPEL, ini yang\n"
+	.string "bertahan paling lama.$"
 
 MossdeepCity_Mart_Text_NetAndDiveBallsRare:
-	.string "The NET and DIVE BALLS are rare POKé\n"
-	.string "BALLS that are only made in MOSSDEEP.\p"
-	.string "A NET BALL is effective against\n"
-	.string "BUG-type and WATER-type POKéMON.\p"
-	.string "A DIVE BALL works best on POKéMON\n"
-	.string "at the bottom of the sea.$"
+	.string "NET BALL dan DIVE BALL adalah POKé BALL\n"
+	.string "langka yang hanya dibuat di MOSSDEEP.\p"
+	.string "NET BALL efektif melawan POKéMON\n"
+	.string "tipe SERANGGA dan AIR.\p"
+	.string "DIVE BALL paling baik digunakan pada POKéMON\n"
+	.string "di dasar laut.$"
 

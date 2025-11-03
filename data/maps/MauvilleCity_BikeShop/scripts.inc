@@ -1,3 +1,4 @@
+//gemini
 MauvilleCity_BikeShop_MapScripts::
 	.byte 0
 
@@ -177,146 +178,151 @@ MauvilleCity_BikeShop_EventScript_ExitAcroHandbook::
 	end
 
 MauvilleCity_BikeShop_Text_RydelGreeting:
-	.string "Well, well, what have we here?\n"
-	.string "A most energetic customer!\p"
-	.string "Me? You may call me RYDEL.\n"
-	.string "I'm the owner of this cycle shop.$"
+	.string "Wah, wah, ada apa ini?\n"
+	.string "Seorang pelanggan yang paling\n"
+	.string "bersemangat!\p"
+	.string "Aku? Kamu bisa memanggilku RYDEL.\n"
+	.string "Aku pemilik toko sepeda ini.$"
 
 MauvilleCity_BikeShop_Text_DidYouComeFromFarAway:
-	.string "RYDEL: Your RUNNING SHOES…\n"
-	.string "They're awfully filthy.\p"
-	.string "Did you come from far away?$"
+	.string "RYDEL: RUNNING SHOES-mu…\n"
+	.string "Sangat kotor sekali.\p"
+	.string "Apa kamu datang dari jauh?$"
 
 MauvilleCity_BikeShop_Text_GuessYouDontNeedBike:
-	.string "RYDEL: Is that right?\p"
-	.string "Then, I guess you have no need for\n"
-	.string "any of my BIKES.$"
+	.string "RYDEL: Benarkah?\p"
+	.string "Kalau begitu, kurasa kamu tidak\n"
+	.string "membutuhkan BIKE-ku.$"
 
 MauvilleCity_BikeShop_Text_ExplainBikesChooseWhichOne:
 	.string "RYDEL: Hm, hm… … … … …\p"
-	.string "You're saying that you came all this\n"
-	.string "way from LITTLEROOT?\p"
-	.string "My goodness!\n"
-	.string "That's ridiculously far!\p"
-	.string "If you had one of my BIKES, you could\n"
-	.string "go anywhere easily while feeling the\l"
-	.string "gentle caress of the wind!\p"
-	.string "I'll tell you what!\n"
-	.string "I'll give you a BIKE!\p"
-	.string "Oh, wait a second!\p"
-	.string "I forgot to tell you that there are\n"
-	.string "two kinds of BIKES!\p"
-	.string "They are the MACH BIKE and\n"
-	.string "the ACRO BIKE!\p"
-	.string "The MACH BIKE is for cyclists who want\n"
-	.string "to feel the wind with their bodies!\p"
-	.string "And an ACRO BIKE is for those who\n"
-	.string "prefer technical rides!\p"
-	.string "I'm a real sweetheart, so you can\n"
-	.string "have whichever one you like!\p"
-	.string "Which one will you choose?$"
+	.string "Kamu bilang kamu datang jauh-jauh\n"
+	.string "dari Kota LITTLEROOT?\p"
+	.string "Astaga!\n"
+	.string "Itu sangat jauh sekali!\p"
+	.string "Jika kamu punya salah satu BIKE-ku,\n"
+	.string "kamu bisa pergi ke mana saja dengan\l"
+	.string "mudah sambil merasakan belaian\l"
+	.string "lembut angin!\p"
+	.string "Aku akan beritahu kamu!\n"
+	.string "Aku akan memberimu sebuah BIKE!\p"
+	.string "Oh, tunggu sebentar!\p"
+	.string "Aku lupa memberitahumu bahwa ada\n"
+	.string "dua jenis BIKE!\p"
+	.string "Yaitu MACH BIKE & ACRO BIKE!\p"
+	.string "MACH BIKE untuk pengendara yang\n"
+	.string "ingin merasakan angin dengan tubuh\l"
+	.string "mereka!\p"
+	.string "& ACRO BIKE untuk mereka yang lebih\n"
+	.string "suka berkendara teknis!\p"
+	.string "Aku orang yang baik hati, jadi kamu\n"
+	.string "bisa punya yang mana saja yang kamu\l"
+	.string "suka!\p"
+	.string "Kamu akan pilih yang mana?$"
 
 MauvilleCity_BikeShop_Text_ChoseMachBike:
-	.string "{PLAYER} chose the MACH BIKE.$"
+	.string "{PLAYER} memilih MACH BIKE.$"
 
 MauvilleCity_BikeShop_Text_ChoseAcroBike:
-	.string "{PLAYER} chose the ACRO BIKE.$"
+	.string "{PLAYER} memilih ACRO BIKE.$"
 
 MauvilleCity_BikeShop_Text_ComeBackToSwitchBikes:
-	.string "RYDEL: If you get the urge to switch\n"
-	.string "BIKES, just come see me!$"
+	.string "RYDEL: Jika kamu ingin menukar BIKE,\n"
+	.string "datang saja padaku!$"
 
 MauvilleCity_BikeShop_Text_WantToSwitchBikes:
-	.string "RYDEL: Oh? Were you thinking about\n"
-	.string "switching BIKES?$"
+	.string "RYDEL: Oh? Apa kamu berpikir untuk\n"
+	.string "menukar BIKE?$"
 
 MauvilleCity_BikeShop_Text_IllSwitchBikes:
-	.string "RYDEL: Okay, no problem!\n"
-	.string "I'll switch BIKES for you!$"
+	.string "RYDEL: Oke, tidak masalah!\n"
+	.string "Aku akan menukar BIKE untukmu!$"
 
 MauvilleCity_BikeShop_Text_ExchangedMachForAcro:
-	.string "{PLAYER} got the MACH BIKE exchanged\n"
-	.string "for an ACRO BIKE.$"
+	.string "{PLAYER} menukar MACH BIKE dengan\n"
+	.string "ACRO BIKE.$"
 
 MauvilleCity_BikeShop_Text_ExchangedAcroForMach:
-	.string "{PLAYER} got the ACRO BIKE exchanged\n"
-	.string "for a MACH BIKE.$"
+	.string "{PLAYER} menukar ACRO BIKE dengan\n"
+	.string "MACH BIKE.$"
 
 MauvilleCity_BikeShop_Text_HappyYouLikeIt:
-	.string "RYDEL: Good, good!\n"
-	.string "I'm happy that you like it!$"
+	.string "RYDEL: Bagus, bagus!\n"
+	.string "Aku senang kamu menyukainya!$"
 
 MauvilleCity_BikeShop_Text_OhYourBikeIsInPC:
-	.string "Oh? What happened to that BIKE\n"
-	.string "I gave you?\p"
-	.string "Oh, I get it, you stored it using your PC.\p"
-	.string "Well, take it out of PC storage,\n"
-	.string "and I'll be happy to exchange it!\p"
-	.string "May the wind always be at your back\n"
-	.string "on your adventure!$"
+	.string "Oh? Apa yang terjadi pada BIKE yang\n"
+	.string "kuberikan padamu?\p"
+	.string "Oh, aku mengerti, kamu menyimpannya\n"
+	.string "menggunakan PC-mu.\p"
+	.string "Baiklah, keluarkan dari penyimpanan\n"
+	.string "PC, & aku akan senang menukarnya!\p"
+	.string "Semoga angin selalu mendukungmu\n"
+	.string "dalam petualanganmu!$"
 
 MauvilleCity_BikeShop_Text_HandbooksAreInBack:
-	.string "I'm learning about BIKES while\n"
-	.string "I work here.\p"
-	.string "If you need advice on how to ride your\n"
-	.string "BIKE, there're a couple handbooks in\l"
-	.string "the back.$"
+	.string "Aku belajar tentang BIKE sambil\n"
+	.string "bekerja di sini.\p"
+	.string "Jika kamu butuh saran tentang cara\n"
+	.string "mengendarai BIKE-mu, ada beberapa\l"
+	.string "buku panduan di belakang.$"
 
 MauvilleCity_BikeShop_Text_MachHandbookWhichPage:
-	.string "It's a handbook on the MACH BIKE.\p"
-	.string "Which page do you want to read?$"
+	.string "Ini buku panduan tentang MACH BIKE.\p"
+	.string "Halaman mana yang ingin kamu baca?$"
 
 MauvilleCity_BikeShop_Text_HowToRideMachBike:
-	.string "A BIKE moves in the direction that\n"
-	.string "the + Control Pad is pressed.\p"
-	.string "It will speed up once it gets rolling.\p"
-	.string "To stop, release the + Control Pad.\n"
-	.string "The BIKE will slow to a stop.\p"
-	.string "Want to read a different page?$"
+	.string "BIKE bergerak ke arah yang ditekan\n"
+	.string "pada + Control Pad.\p"
+	.string "Akan melaju setelah bergerak.\p"
+	.string "Untuk berhenti, lepaskan + Control\n"
+	.string "Pad. BIKE akan melambat hingga\l"
+	.string "berhenti.\p"
+	.string "Mau baca halaman lain?$"
 
 MauvilleCity_BikeShop_Text_HowToTurnMachBike:
-	.string "A MACH BIKE is speedy, but it can't\n"
-	.string "stop very quickly.\p"
-	.string "It gets a little tricky to get around\n"
-	.string "a corner.\p"
-	.string "Release the + Control Pad a little\n"
-	.string "before the corner and slow down.\p"
-	.string "Want to read a different page?$"
+	.string "MACH BIKE memang cepat, tapi tidak\n"
+	.string "bisa berhenti dengan cepat.\p"
+	.string "Agak sulit untuk berbelok di\n"
+	.string "tikungan.\p"
+	.string "Lepaskan + Control Pad sedikit\n"
+	.string "sebelum tikungan & pelan-pelan.\p"
+	.string "Mau baca halaman lain?$"
 
 MauvilleCity_BikeShop_Text_SandySlopes:
-	.string "There are small sandy slopes\n"
-	.string "throughout the HOENN region.\p"
-	.string "The loose, crumbly sand makes it\n"
-	.string "impossible to climb normally.\p"
-	.string "But if you have a MACH BIKE, you can\n"
-	.string "zip up a sandy slope.\p"
-	.string "Want to read a different page?$"
+	.string "Ada lereng berpasir kecil di seluruh\n"
+	.string "wilayah HOENN.\p"
+	.string "Pasir yang gembur membuat mustahil\n"
+	.string "untuk mendaki secara normal.\p"
+	.string "Tapi jika kamu punya MACH BIKE,\n"
+	.string "kamu bisa melaju di lereng berpasir.\p"
+	.string "Mau baca halaman lain?$"
 
 MauvilleCity_BikeShop_Text_AcroHandbookWhichPage:
-	.string "It's a handbook on the ACRO BIKE.\p"
-	.string "Which page do you want to read?$"
+	.string "Ini buku panduan tentang ACRO BIKE.\p"
+	.string "Halaman mana yang ingin kamu baca?$"
 
 MauvilleCity_BikeShop_Text_Wheelies:
-	.string "Press the B Button while riding,\n"
-	.string "and the front wheel lifts up.\p"
-	.string "You can zip around with the front\n"
-	.string "wheel up using the + Control Pad.\p"
-	.string "This technique is called a wheelie.\p"
-	.string "Want to read a different page?$"
+	.string "Tekan Tombol B saat berkendara,\n"
+	.string "roda depan akan terangkat.\p"
+	.string "Kamu bisa melaju dengan roda depan\n"
+	.string "terangkat menggunakan + Control Pad.\p"
+	.string "Teknik ini disebut wheelie.\p"
+	.string "Mau baca halaman lain?$"
 
 MauvilleCity_BikeShop_Text_BunnyHops:
-	.string "Keeping the B Button pressed,\n"
-	.string "your BIKE can hop on the spot.\p"
-	.string "This technique is called a bunny hop.\p"
-	.string "You can ride while hopping, too.\p"
-	.string "Want to read a different page?$"
+	.string "Dengan menekan Tombol B terus,\n"
+	.string "BIKE-mu bisa melompat di tempat.\p"
+	.string "Teknik ini disebut bunny hop.\p"
+	.string "Kamu juga bisa berkendara sambil\n"
+	.string "melompat.\p"
+	.string "Mau baca halaman lain?$"
 
 MauvilleCity_BikeShop_Text_Jumps:
-	.string "Press the B Button and the + Control\n"
-	.string "Pad at the same time to jump.\p"
-	.string "Press the + Control Pad to the side\n"
-	.string "to jump sideways.\p"
-	.string "Press it backwards to make the BIKE\n"
-	.string "change directions while jumping.\p"
-	.string "Want to read a different page?$"
-
+	.string "Tekan Tombol B & + Control Pad\n"
+	.string "secara bersamaan untuk melompat.\p"
+	.string "Tekan + Control Pad ke samping\n"
+	.string "untuk melompat ke samping.\p"
+	.string "Tekan ke belakang agar BIKE berganti\n"
+	.string "arah saat melompat.\p"
+	.string "Mau baca halaman lain?$"

@@ -333,7 +333,7 @@ LilycoveCity_Harbor_EventScript_BoardFerryWithSailor::
 	call_if_eq VAR_FACING, DIR_NORTH, LilycoveCity_Harbor_EventScript_PlayerBoardFerryNorth
 	call_if_eq VAR_FACING, DIR_EAST, LilycoveCity_Harbor_EventScript_PlayerBoardFerryEast
 	delay 30
-	hideplayer
+	hideobjectat LOCALID_PLAYER, 0
 	setvar VAR_0x8004, LOCALID_LILYCOVE_HARBOR_SS_TIDAL
 	call Common_EventScript_FerryDepart
 	return
@@ -393,7 +393,7 @@ LilycoveCity_Harbor_EventScript_BoardFerry::
 	call_if_eq VAR_FACING, DIR_NORTH, LilycoveCity_Harbor_EventScript_PlayerBoardFerryNorth
 	call_if_eq VAR_FACING, DIR_EAST, LilycoveCity_Harbor_EventScript_PlayerBoardFerryEast
 	delay 30
-	hideplayer
+	hideobjectat LOCALID_PLAYER, 0
 	setvar VAR_0x8004, LOCALID_LILYCOVE_HARBOR_SS_TIDAL
 	call Common_EventScript_FerryDepart
 	return
@@ -537,51 +537,50 @@ LilycoveCity_Harbor_Movement_SailorBoardWithBrineyEast:
 	step_end
 
 LilycoveCity_Harbor_Text_FerryUnavailable:
-	.string "I beg your pardon?\n"
-	.string "You're looking for a ship?\p"
-	.string "I'm sorry, the ferry service isn't\n"
-	.string "available at present…$"
+	.string "Maaf? Kamu mencari kapal?\p"
+	.string "Maaf, layanan feri tidak tersedia\n"
+	.string "saat ini…$"
 
 LilycoveCity_Harbor_Text_MayISeeYourTicket:
-	.string "Hello, are you here for the ferry?\n"
-	.string "May I see your TICKET?$"
+	.string "Halo, apa kamu ke sini untuk naik feri?\n"
+	.string "Boleh aku lihat TIKET-mu?$"
 
 LilycoveCity_Harbor_Text_NoTicket:
-	.string "{PLAYER} doesn't have the TICKET…\p"
-	.string "I'm terribly sorry.\p"
-	.string "You must have a TICKET to board\n"
-	.string "the ferry.$"
+	.string "{PLAYER} tidak punya TIKET…\p"
+	.string "Aku sangat menyesal.\p"
+	.string "Kamu harus punya TIKET untuk naik\n"
+	.string "feri.$"
 
 LilycoveCity_Harbor_Text_FlashTicketWhereTo:
-	.string "{PLAYER} flashed the TICKET.\p"
-	.string "Perfect! That's all you need!\p"
-	.string "And where would you like to go?$"
+	.string "{PLAYER} menunjukkan TIKET.\p"
+	.string "Sempurna! Hanya itu yang kamu butuhkan!\p"
+	.string "Dan ke mana kamu ingin pergi?$"
 
 LilycoveCity_Harbor_Text_SailAnotherTime:
-	.string "Please sail with us another time!$"
+	.string "Silakan berlayar bersama kami lain\n"
+	.string "waktu!$"
 
 LilycoveCity_Harbor_Text_SlateportItIs:
-	.string "SLATEPORT CITY it is, then!$"
+	.string "Baiklah, ke SLATEPORT CITY!$"
 
 LilycoveCity_Harbor_Text_BattleFrontierItIs:
-	.string "BATTLE FRONTIER it is, then!$"
+	.string "Baiklah, ke BATTLE FRONTIER!$"
 
 LilycoveCity_Harbor_Text_PleaseBoard:
-	.string "Please board the ferry and wait for\n"
-	.string "departure.$"
+	.string "Silakan naik ke feri dan tunggu\n"
+	.string "keberangkatan.$"
 
 LilycoveCity_Harbor_Text_WhereWouldYouLikeToGo:
-	.string "Then, where would you like to go?$"
+	.string "Jadi, ke mana kamu ingin pergi?$"
 
 LilycoveCity_Harbor_Text_SailorFerryUnavailable:
-	.string "Until they finish making the ferry,\n"
-	.string "we sailors have nothing to do…\p"
-	.string "I wish they'd get a move on, the folks\n"
-	.string "at the SHIPYARD in SLATEPORT.$"
+	.string "Sampai mereka selesai membuat feri,\n"
+	.string "kami para pelaut tidak ada kerjaan…\p"
+	.string "Kuharap mereka cepat menyelesaikannya,\n"
+	.string "orang-orang di GALANGAN KAPAL SLATEPORT.$"
 
 LilycoveCity_Harbor_Text_SailorFerryAvailable:
-	.string "The ferry S.S. TIDAL is finally in\n"
-	.string "operation.\p"
-	.string "The folks at the SHIPYARD in SLATEPORT\n"
-	.string "must've worked extra hard.\p"
-	.string "Well, it's my turn to get busy now!$"
+	.string "Feri S.S. TIDAL akhirnya beroperasi.\p"
+	.string "Orang-orang di GALANGAN KAPAL SLATEPORT\n"
+	.string "pasti bekerja ekstra keras.\p"
+	.string "Nah, sekarang giliranku untuk sibuk!$"
