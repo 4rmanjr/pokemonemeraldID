@@ -86,15 +86,15 @@ FallarborTown_Text_HaveYouChallengedFlannery:
 
 FallarborTown_Text_BattleTentSign:
 	.string "TENDA PERTARUNGAN LOKASI\n"
-	.string "FALLARBOR\n"
+	.string "FALLARBOR\l"
 	.string "“Semoga Tim Terhebat Berkumpul!”$"
 
 FallarborTown_Text_TownSign:
 	.string "KOTA FALLARBOR\n"
-	.string "“Komunitas pertanian dengan\n"
+	.string "“Komunitas pertanian dengan\l"
 	.string "kebun kecil.”$"
 
 FallarborTown_Text_MoveTutorSign:
 	.string "RUMAH GURU GERAKAN\n"
-	.string "“Gerakan baru diajarkan ke\n"
+	.string "“Gerakan baru diajarkan ke\l"
 	.string "POKéMON.”$"

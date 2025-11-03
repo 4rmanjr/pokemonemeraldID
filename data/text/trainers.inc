@@ -1940,7 +1940,7 @@ Route114_Text_NolanDefeat:
 Route114_Text_NolanPostBattle:
 	.string "Kali ini pasti berhasil!\p"
 	.string "Aku selalu berpikir begitu,\n"
-	.string "jadi tak bisa berhenti mancing\n"
+	.string "jadi tak bisa berhenti mancing\l"
 	.string "atau main POKéMON.$"
 
 Route114_Text_TyraIntro:
