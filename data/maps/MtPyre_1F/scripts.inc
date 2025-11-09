@@ -26,22 +26,25 @@ MtPyre_1F_EventScript_Man::
 	end
 
 MtPyre_1F_Text_TakeThisForYourOwnGood:
-	.string "Berbagai macam makhluk berkeliaran di lereng\n"
+	.string "Berbagai makhluk berkeliaran di lereng\n"
 	.string "GUNUNG PYRE…\p"
-	.string "Tidak ada yang tahu apa yang mungkin terjadi.\n"
-	.string "Ambillah ini. Ini demi kebaikanmu.$"
+	.string "Tidak ada yang tahu apa yang mungkin\n"
+	.string "terjadi. Ambil ini. Ini demi\l"
+	.string "kebaikanmu sendiri.$"
 
 MtPyre_1F_Text_ExplainCleanseTag:
-	.string "Minta POKéMON memegang\n"
+	.string "Minta POKéMON-mu memegang\n"
 	.string "CLEANSE TAG itu.\p"
-	.string "Itu akan membantu mengusir POKéMON liar.$"
+	.string "Itu akan membantu mengusir\n"
+	.string "POKéMON liar.$"
 
 MtPyre_1F_Text_ComeToPayRespects:
 	.string "Apakah kamu datang untuk menghormati\n"
-	.string "roh-roh POKéMON yang telah tiada?\p"
-	.string "Kamu pasti sangat peduli pada POKéMON-mu.$"
+	.string "arwah POKéMON yang telah tiada?\p"
+	.string "Kamu pasti sangat menyayangi\n"
+	.string "POKéMON-mu.$"
 
 MtPyre_1F_Text_RestingPlaceOfZigzagoon:
-	.string "Ini adalah tempat peristirahatan terakhir\n"
-	.string "ZIGZAGOON-ku. Aku sangat menyayanginya…$"
-
+	.string "Ini adalah tempat peristirahatan\n"
+	.string "terakhir ZIGZAGOON-ku. Aku sangat\l"
+	.string "menyayanginya…$"

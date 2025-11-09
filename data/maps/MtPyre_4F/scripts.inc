@@ -1,23 +1,26 @@
-MtPyre_4F_MapScripts::
+MtPyre_5F_MapScripts::
 	.byte 0
 
 @ Seems like the scripts for the 4F and 5F were swapped
 
-MtPyre_5F_EventScript_Atsushi::
-	trainerbattle_single TRAINER_ATSUSHI, MtPyre_5F_Text_AtsushiIntro, MtPyre_5F_Text_AtsushiDefeat
-	msgbox MtPyre_5F_Text_AtsushiPostBattle, MSGBOX_AUTOCLOSE
+MtPyre_4F_EventScript_Tasha::
+	trainerbattle_single TRAINER_TASHA, MtPyre_4F_Text_TashaIntro, MtPyre_4F_Text_TashaDefeat
+	msgbox MtPyre_4F_Text_TashaPostBattle, MSGBOX_AUTOCLOSE
 	end
 
-MtPyre_5F_Text_AtsushiIntro:
-	.string "Guru…\n"
-	.string "Tolong awasi kemajuanku!$"
+MtPyre_4F_Text_TashaIntro:
+	.string "Aku suka semua hal\n"
+	.string "yang mengerikan…\p"
+	.string "Ini seperti penyakit…\p"
+	.string "Saat aku di sini…\n"
+	.string "Aku gemetar ketakutan…$"
 
-MtPyre_5F_Text_AtsushiDefeat:
-	.string "Guru…\n"
-	.string "Tolong maafkan Aku!$"
+MtPyre_4F_Text_TashaDefeat:
+	.string "Aku tidak suka kalah…$"
 
-MtPyre_5F_Text_AtsushiPostBattle:
-	.string "Sampai Aku menjadi lebih baik,\n"
-	.string "guruku, yang beristirahat di sini,\n"
-	.string "tidak akan pernah menemukan kedamaian sejati…$"
-
+MtPyre_4F_Text_TashaPostBattle:
+	.string "Aku ingin melihat\n"
+	.string "hal-hal mengerikan…\p"
+	.string "Aku tidak bisa pergi…\p"
+	.string "Tinggallah…\n"
+	.string "Maukah kamu tinggal bersamaku?$"

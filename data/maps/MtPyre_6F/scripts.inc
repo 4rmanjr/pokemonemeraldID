@@ -1,3 +1,4 @@
+//aistudio
 MtPyre_6F_MapScripts::
 	.byte 0
 
@@ -28,20 +29,22 @@ MtPyre_6F_EventScript_Cedric::
 	end
 
 MtPyre_6F_Text_ValerieIntro:
-	.string "Ketika Aku di sini…\n"
-	.string "Kekuatan aneh mengalir ke dalam diriku…$"
+	.string "Saat aku di sini…\n"
+	.string "Kekuatan aneh mengalir ke dalam\l"
+	.string "diriku…$"
 
 MtPyre_6F_Text_ValerieDefeat:
-	.string "Kekuatan itu memudar…$"
+	.string "Kekuatannya memudar…$"
 
 MtPyre_6F_Text_ValeriePostBattle:
-	.string "Mungkin kekuatan itu berasal dari roh\n"
+	.string "Mungkin kekuatan itu dari arwah\n"
 	.string "POKéMON yang tidur gelisah di sini…$"
 
 MtPyre_6F_Text_ValerieRegister:
-	.string "Fufufu… Aku kalah dalam pertandingan, tapi…\n"
-	.string "Aku punya sedikit kemampuan ini…\p"
-	.string "Tanpa menyentuh POKéNAV-mu… Hiyah!$"
+	.string "Fufufu… Aku kalah, tapi…\n"
+	.string "Aku punya kemampuan kecil ini…\p"
+	.string "Tanpa menyentuh POKéNAV-mu…\n"
+	.string "Hiyah!$"
 
 MtPyre_6F_Text_ValerieRematchIntro:
 	.string "Di belakangmu…\n"
@@ -55,14 +58,14 @@ MtPyre_6F_Text_ValeriePostRematch:
 	.string "Terkadang, mereka bermain…$"
 
 MtPyre_6F_Text_CedricIntro:
-	.string "Apakah kamu tersesat?\n"
-	.string "Jangan takut karena Aku di sini!$"
+	.string "Apa kamu tersesat?\n"
+	.string "Jangan takut, aku di sini!$"
 
 MtPyre_6F_Text_CedricDefeat:
 	.string "Bukankah kamu tersesat?$"
 
 MtPyre_6F_Text_CedricPostBattle:
-	.string "Aku punya firasat bahwa TRAINER yang tersesat\n"
-	.string "akan panik dan mudah dikalahkan.\p"
-	.string "Itu kotor dan Aku tidak akan mencobanya lagi…$"
-
+	.string "Aku merasa TRAINER yang tersesat\n"
+	.string "akan panik & mudah dikalahkan.\p"
+	.string "Itu curang & aku tidak akan\n"
+	.string "mencobanya lagi…$"
