@@ -1,62 +1,66 @@
-//gemini
+//aistudio
 gText_Birch_Welcome::
 	.string "Hai! Maaf membuatmu menunggu!\p"
 	.string "Selamat datang di dunia POKéMON!\p"
 	.string "Namaku BIRCH.\p"
 	.string "Tapi semua orang memanggilku\n"
 	.string "PROFESOR POKéMON.\p"
-	.string "Inilah yang kami sebut “POKéMON.$"
+	.string "$"
 
 gText_Birch_Pokemon::
-	.string "Dunia ini dihuni secara luas oleh\n"
-	.string "makhluk yang dikenal sebagai\l"
-	.string "POKéMON.$"
+	.string "Ini yang kami sebut “POKéMON.”\p"
+	.string "\n"
+	.string "$"
 
 gText_Birch_MainSpeech::
-	.string "Kami, manusia, hidup berdampingan\n"
+	.string "Dunia ini dihuni secara luas oleh\n"
+	.string "makhluk yang dikenal sebagai POKéMON.\p"
+	.string "Kami manusia hidup berdampingan\n"
 	.string "dengan POKéMON, kadang sebagai\l"
-	.string "teman bermain yang ramah, dan\l"
+	.string "teman bermain yang ramah, &\l"
 	.string "kadang sebagai rekan kerja yang\l"
 	.string "kooperatif.\p"
-	.string "Dan kadang-kadang, kami bersatu dan\n"
+	.string "& Terkadang, kami bersatu &\n"
 	.string "bertarung melawan yang lain seperti\l"
 	.string "kami.\p"
-	.string "Tapi terlepas dari kedekatan kita,\n"
+	.string "Tapi terlepas dari kedekatan kami,\n"
 	.string "kami tidak tahu segalanya tentang\l"
 	.string "POKéMON.\p"
-	.string "Bahkan, ada banyak, banyak rahasia\n"
-	.string "di sekitar POKéMON.\p"
-	.string "Untuk menguak misteri POKéMON, Aku\n"
-	.string "telah melakukan penelitian. Itulah\l"
-	.string "yang Aku lakukan.\p"
-	.string "Dan kamu?\p"
-	.string "Apakah kamu laki-laki? Atau apakah\n"
-	.string "kamu perempuan?$"
+	.string "Faktanya, ada banyak sekali\n"
+	.string "rahasia seputar POKéMON.\p"
+	.string "Untuk mengungkap misteri POKéMON,\n"
+	.string "aku telah melakukan penelitian.\l"
+	.string "Itulah yang aku lakukan.\p"
+	.string "$"
 
 gText_Birch_AndYouAre::
-	.string "Baiklah. Siapa namamu?$"
+	.string "& Kamu siapa?$"
 
 gText_Birch_BoyOrGirl::
-	.string "Jadi, namamu {PLAYER}{KUN}?$"
+	.string "Kamu laki-laki?\n"
+	.string "Atau perempuan?$"
 
 gText_Birch_WhatsYourName::
-	.string "Ah, baiklah!$"
+	.string "Baiklah.\n"
+	.string "Siapa namamu?$"
 
 gText_Birch_SoItsPlayer::
-	.string "Kamu {PLAYER}{KUN} yang pindah ke\n"
-	.string "kampung halamanku, LITTLEROOT. Aku\l"
-	.string "mengerti sekarang!$"
+	.string "Jadi, {PLAYER}{KUN}?$"
 
 gText_Birch_YourePlayer::
-	.string "Baiklah, apakah kamu siap?\p"
-	.string "Petualanganmu sendiri akan segera\n"
-	.string "dimulai.\p"
-	.string "Beranilah, dan terjunlah ke dunia\n"
-	.string "POKéMON tempat impian, petualangan,\l"
-	.string "dan persahabatan menanti!$"
+	.string "Ah, oke!\p"
+	.string "Kamu {PLAYER}{KUN} yang pindah ke\n"
+	.string "Kota LITTLEROOT.\l"
+	.string "Aku mengerti sekarang!\p"
+	.string "$"
 
 gText_Birch_AreYouReady::
-	.string "Nah, Aku akan menunggumu nanti.\n"
-	.string "Datanglah menemuiku di LAB\l"
-	.string "POKéMON-ku.\p"
-	.string "\p"
+	.string "Baiklah, kamu siap?\p"
+	.string "Petualanganmu sendiri akan segera\n"
+	.string "dimulai.\p"
+	.string "Beranilah, & melompatlah ke dunia\n"
+	.string "POKéMON tempat impian, petualangan,\l"
+	.string "& persahabatan menanti!\p"
+	.string "Aku akan menunggumu nanti.\n"
+	.string "Datanglah menemuiku di LAB POKéMON-ku.\p"
+	.string "$"
