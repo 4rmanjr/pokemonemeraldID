@@ -1,4 +1,3 @@
-//gemini
 BattleFrontier_BattleArenaLobby_MapScripts::
 	map_script MAP_SCRIPT_ON_FRAME_TABLE, BattleFrontier_BattleArenaLobby_OnFrame
 	map_script MAP_SCRIPT_ON_WARP_INTO_MAP_TABLE, BattleFrontier_BattleArenaLobby_OnWarp
@@ -183,10 +182,14 @@ BattleFrontier_BattleArenaLobby_EventScript_NotEnoughValidMons::
 
 BattleFrontier_BattleArenaLobby_EventScript_NotEnoughValidMonsLv50::
 	msgbox BattleFrontier_BattleArenaLobby_Text_NotEnoughValidMonsLv50, MSGBOX_DEFAULT
+	call BattleFrontier_ShowCaughtBannedSpecies
+	msgbox BattleFrontier_BattleArenaLobby_Text_NotEnoughValidMonsEnd, MSGBOX_DEFAULT
 	goto BattleFrontier_BattleArenaLobby_EventScript_EndCancelChallenge
 
 BattleFrontier_BattleArenaLobby_EventScript_NotEnoughValidMonsLvOpen::
 	msgbox BattleFrontier_BattleArenaLobby_Text_NotEnoughValidMonsLvOpen, MSGBOX_DEFAULT
+	call BattleFrontier_ShowCaughtBannedSpecies
+	msgbox BattleFrontier_BattleArenaLobby_Text_NotEnoughValidMonsEnd, MSGBOX_DEFAULT
 	goto BattleFrontier_BattleArenaLobby_EventScript_EndCancelChallenge
 
 BattleFrontier_BattleArenaLobby_EventScript_CancelChallengeSaveFailed::
@@ -355,257 +358,224 @@ BattleFrontier_BattleArenaLobby_EventScript_ExitRules::
 	end
 
 BattleFrontier_BattleArenaLobby_Text_WelcomeToBattleArena:
-	.string "Tempat semangat bertarung TRAINER\n"
-	.string "diuji!\p"
-	.string "Aku menyambut kamu di BATTLE ARENA!\p"
-	.string "Aku adalah pemandumu untuk Turnamen\n"
-	.string "KO Set!$"
+	.string "Where the battling spirit of TRAINERS\n"
+	.string "is put to the test!\p"
+	.string "I welcome you to the BATTLE ARENA!\p"
+	.string "I am your guide to the Set KO Tourney!$"
 
 BattleFrontier_BattleArenaLobby_Text_WishToTakeChallenge:
-	.string "Sekarang, apakah kamu ingin\n"
-	.string "mengambil tantangan BATTLE ARENA?$"
+	.string "Now, do you wish to take\n"
+	.string "the BATTLE ARENA challenge?$"
 
 BattleFrontier_BattleArenaLobby_Text_AwaitAnotherChallenge:
-	.string "Kami menantikan tantangan kamu di\n"
-	.string "lain kesempatan!$"
+	.string "We await your challenge on\n"
+	.string "another occasion!$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainChallenge:
-	.string "Di BATTLE ARENA, kita melaksanakan\n"
-	.string "Turnamen KO Set.\p"
-	.string "Semua peserta masuk dengan tim\n"
-	.string "berisi tiga POKéMON.\p"
-	.string "Ketiga POKéMON harus diurutkan\n"
-	.string "dalam urutan penampilan mereka.\p"
-	.string "Selama pertarungan, POKéMON akan\n"
-	.string "muncul satu per satu dalam urutan\l"
-	.string "yang telah ditentukan.\p"
-	.string "Setelah POKéMON masuk pertarungan,\n"
-	.string "ia harus tetap di sana hingga\l"
-	.string "pertandingan diputuskan.\p"
-	.string "Jika pertandingan tetap tidak\n"
-	.string "diputuskan dalam tiga giliran, itu\l"
-	.string "akan dinilai.\p"
-	.string "Jika kamu ingin mengganggu\n"
-	.string "tantanganmu, silakan simpan\l"
-	.string "permainan.\p"
-	.string "Jika kamu tidak menyimpan, kamu\n"
-	.string "tidak akan dapat melanjutkan\l"
-	.string "tantangan kamu.\p"
-	.string "Jika kamu berhasil mengalahkan\n"
-	.string "tujuh TRAINER berturut-turut, kami\l"
-	.string "akan memberikan kamu Battle Point.$"
+	.string "In the BATTLE ARENA, we undertake\n"
+	.string "the Set KO Tourney.\p"
+	.string "All participants enter with a team of\n"
+	.string "three POKéMON.\p"
+	.string "The three POKéMON must be lined up in\n"
+	.string "the order in which they are to appear.\p"
+	.string "During battle, the POKéMON will appear\n"
+	.string "one at a time in the preset order.\p"
+	.string "Once a POKéMON enters battle, it must\n"
+	.string "remain out until the match is decided.\p"
+	.string "If a match remains undecided in\n"
+	.string "three turns, it goes to judging.\p"
+	.string "If you wish to interrupt your challenge,\n"
+	.string "please save the game.\p"
+	.string "If you don't save, you will not be able\n"
+	.string "to continue with your challenge.\p"
+	.string "If you pull off the feat of beating\n"
+	.string "seven TRAINERS in succession,\l"
+	.string "we will present you with Battle Points.$"
 
 BattleFrontier_BattleArenaLobby_Text_OkayToSave:
-	.string "Sebelum menunjukkan kamu ke BATTLE\n"
-	.string "ARENA, kamu harus menyimpan. Apakah\l"
-	.string "itu baik-baik saja?$"
+	.string "Before showing you to the BATTLE\n"
+	.string "ARENA, you must save. Is that okay?$"
 
 BattleFrontier_BattleArenaLobby_Text_WhichLevelMode:
-	.string "BATTLE ARENA menawarkan dua tingkat\n"
-	.string "tantangan, Level 50 dan Level\l"
-	.string "Terbuka. Mana pilihan kamu?$"
+	.string "The BATTLE ARENA offers two levels\n"
+	.string "of challenge, Level 50 and Open Level.\l"
+	.string "Which is your choice?$"
 
 BattleFrontier_BattleArenaLobby_Text_SelectThreeMons:
-	.string "Baiklah, sekarang pilih tiga\n"
-	.string "POKéMON kamu, silakan.$"
+	.string "Very well, now select your\n"
+	.string "three POKéMON, please.$"
 
 BattleFrontier_BattleArenaLobby_Text_NotEnoughValidMonsLvOpen:
-	.string "Penantangku yang terkasih!\p"
-	.string "Kamu tidak memiliki tiga POKéMON\n"
-	.string "yang diperlukan untuk masuk.\p"
-	.string "Untuk memenuhi syarat, kamu harus\n"
-	.string "membawa tiga jenis POKéMON yang\l"
-	.string "berbeda.\p"
-	.string "Mereka juga tidak boleh memegang\n"
-	.string "jenis Item yang sama.\p"
-	.string "TELUR{STR_VAR_1} tidak memenuhi\n"
-	.string "syarat.\p"
-	.string "Setelah kamu selesai dengan\n"
-	.string "persiapan, silakan kembali.$"
+	.string "My dear challenger!\p"
+	.string "You do not have the three POKéMON\n"
+	.string "required for entry.\p"
+	.string "To qualify, you must bring three\n"
+	.string "different kinds of POKéMON.\p"
+	.string "They also must not hold the same\n"
+	.string "kinds of items.\p"
+	.string "EGGS{STR_VAR_1}.$"
+
+BattleFrontier_BattleArenaLobby_Text_NotEnoughValidMonsEnd:
+	.string "When you have made your preparations,\n"
+	.string "please do return.$"
 
 BattleFrontier_BattleArenaLobby_Text_NotEnoughValidMonsLv50:
-	.string "Penantangku yang terkasih!\p"
-	.string "Kamu tidak memiliki tiga POKéMON\n"
-	.string "yang diperlukan untuk masuk.\p"
-	.string "Untuk memenuhi syarat, kamu harus\n"
-	.string "membawa tiga jenis POKéMON yang\l"
-	.string "berbeda.\p"
-	.string "Ketiga POKéMON yang berbeda itu\n"
-	.string "harus Level 50 atau lebih rendah.\p"
-	.string "Mereka juga tidak boleh memegang\n"
-	.string "jenis Item yang sama.\p"
-	.string "TELUR{STR_VAR_1} tidak memenuhi\n"
-	.string "syarat.\p"
-	.string "Setelah kamu selesai dengan\n"
-	.string "persiapan, silakan kembali.$"
+	.string "My dear challenger!\p"
+	.string "You do not have the three POKéMON\n"
+	.string "required for entry.\p"
+	.string "To qualify, you must bring three\n"
+	.string "different kinds of POKéMON.\p"
+	.string "The three different POKéMON\n"
+	.string "must all be Level 50 or lower.\p"
+	.string "They also must not hold the same\n"
+	.string "kinds of items.\p"
+	.string "EGGS{STR_VAR_1}.$"
 
 BattleFrontier_BattleArenaLobby_Text_GuideYouToArena:
-	.string "Aku sekarang akan memandu kamu ke\n"
-	.string "BATTLE ARENA.$"
+	.string "I shall now guide you to\n"
+	.string "the BATTLE ARENA.$"
 
 BattleFrontier_BattleArenaLobby_Text_DidntSaveBeforeShuttingDown:
-	.string "Penantangku yang terkasih!\p"
-	.string "Kamu tidak menyimpan permainan\n"
-	.string "sebelum mematikan, bukan?\p"
-	.string "Sangat disayangkan, tetapi itu\n"
-	.string "mengakibatkan diskualifikasi kamu\l"
-	.string "dari tantangan kamu.\p"
-	.string "Tentu saja, kamu dapat memulai\n"
-	.string "dengan tantangan baru.$"
+	.string "My dear challenger!\p"
+	.string "You did not save the game before\n"
+	.string "shutting down, did you?\p"
+	.string "It is unfortunate, but that has\n"
+	.string "resulted in your disqualification\l"
+	.string "from your challenge.\p"
+	.string "You may, of course, start with a fresh\n"
+	.string "challenge.$"
 
 BattleFrontier_BattleArenaLobby_Text_CongratsOnSevenWins:
-	.string "Kami mengucapkan selamat atas\n"
-	.string "rentetan kemenangan luar biasa kamu\l"
-	.string "atas tujuh TRAINER!$"
+	.string "We congratulate you for your splendid\n"
+	.string "string of wins over seven TRAINERS!$"
 
 BattleFrontier_BattleArenaLobby_Text_RecordAchievement:
-	.string "Pencapaian kamu akan dicatat. Mohon\n"
-	.string "tunggu selagi Aku menyimpan\l"
-	.string "permainan.$"
+	.string "Your achievement will be recorded.\n"
+	.string "Please wait while I save the game.$"
 
 @ Unused
 BattleFrontier_BattleArenaLobby_Text_PresentYouWithPrize:
-	.string "Untuk memperingati 7 kemenangan\n"
-	.string "beruntun kamu, kami memberikan kamu\l"
-	.string "hadiah ini.$"
+	.string "In commemoration of your 7-win streak,\n"
+	.string "we present you with this prize.$"
 
 @ Unused
 BattleFrontier_BattleArenaLobby_Text_ReceivedPrize:
-	.string "{PLAYER} menerima hadiah\n"
+	.string "{PLAYER} received the prize\n"
 	.string "{STR_VAR_1}.$"
 
 @ Unused
 BattleFrontier_BattleArenaLobby_Text_BagFullReturnForPrize:
-	.string "Oh? TAS kamu sepertinya penuh.\p"
-	.string "Aku mendesak kamu untuk\n"
-	.string "mengosongkan ruang dan kembali\l"
-	.string "untuk hadiah kamu.$"
+	.string "Oh?\n"
+	.string "Your BAG seems to be full.\p"
+	.string "I urge you to clear space and\n"
+	.string "return for your prize.$"
 
 BattleFrontier_BattleArenaLobby_Text_ThankYouWaitWhileSave:
-	.string "Terima kasih banyak atas\n"
-	.string "partisipasi kamu!\p"
-	.string "Mohon tunggu selagi Aku menyimpan\n"
-	.string "permainan.$"
+	.string "Thank you so much for participating!\p"
+	.string "Please wait while I save the game.$"
 
 BattleFrontier_BattleArenaLobby_Text_AwaitAnotherChallenge2:
-	.string "Kami menantikan tantangan kamu di\n"
-	.string "lain kesempatan!$"
+	.string "We await your challenge on\n"
+	.string "another occasion!$"
 
 BattleFrontier_BattleArenaLobby_Text_LookingForwardToArrivalSaveGame:
-	.string "Kami telah menantikan kedatangan\n"
-	.string "kamu.\p"
-	.string "Sebelum Aku menunjukkan kamu ke\n"
-	.string "BATTLE ARENA, Aku harus menyimpan\l"
-	.string "permainan. Mohon tunggu.$"
+	.string "We have been looking forward to\n"
+	.string "your arrival.\p"
+	.string "Before I show you to the BATTLE\n"
+	.string "ARENA, I must save the game.\l"
+	.string "Please wait.$"
 
 BattleFrontier_BattleArenaLobby_Text_RecordLastMatch:
-	.string "Haruskah Aku merekam pertandingan\n"
-	.string "BATTLE ARENA terakhir kamu di\l"
-	.string "FRONTIER PASS kamu?$"
+	.string "Shall I record your last BATTLE ARENA\n"
+	.string "match on your FRONTIER PASS?$"
 
 BattleFrontier_BattleArenaLobby_Text_BadIdeaToNotAttack:
-	.string "Aku kalah atas keputusan WASIT…\p"
-	.string "Aku tidak berpikir itu ide yang\n"
-	.string "baik untuk hanya menggunakan\l"
-	.string "gerakan defensif dan tidak\l"
-	.string "menyerang…$"
+	.string "I lost on the REFEREE's decision…\p"
+	.string "I don't think it was a good idea to only\n"
+	.string "use defensive moves and not attack…$"
 
 BattleFrontier_BattleArenaLobby_Text_LandingHitsWorked:
-	.string "Aku menang dalam penilaian!\p"
-	.string "Mendaratkan serangan secara\n"
-	.string "konsisten pada POKéMON lawan\l"
-	.string "berhasil!$"
+	.string "I won in judging!\p"
+	.string "Landing hits consistently on\n"
+	.string "the opponent's POKéMON worked!$"
 
 BattleFrontier_BattleArenaLobby_Text_MatchWasDeclaredDraw:
-	.string "Pertandingan kami dinyatakan seri.\p"
-	.string "Ketika kami kehabisan waktu, baik\n"
-	.string "POKéMON-ku maupun POKéMON lawan\l"
-	.string "memiliki jumlah HP yang hampir sama\l"
-	.string "tersisa.$"
+	.string "Our match was declared a draw.\p"
+	.string "When we ran out of time, both my\n"
+	.string "POKéMON and the opponent's had about\l"
+	.string "the same amount of HP left.$"
 
 BattleFrontier_BattleArenaLobby_Text_OrderOfMonsImportant:
-	.string "Di BATTLE ARENA, urutan POKéMON\n"
-	.string "benar-benar penting.\p"
-	.string "Contohnya, jika POKéMON pertama\n"
-	.string "kamu memiliki kelemahan tipe\l"
-	.string "tertentu, coba jadikan POKéMON\l"
-	.string "kedua kamu salah satu dengan\l"
-	.string "gerakan yang sangat efektif\l"
-	.string "melawannya.\p"
-	.string "Aku pikir itu akan menjadi cara\n"
-	.string "yang baik untuk membuat tim yang\l"
-	.string "efektif.$"
+	.string "In the BATTLE ARENA, the order of\n"
+	.string "POKéMON is totally important.\p"
+	.string "For example, if your first POKéMON\n"
+	.string "has certain type disadvantages,\l"
+	.string "try making your second POKéMON one\l"
+	.string "with moves that are super effective\l"
+	.string "against the first one.\p"
+	.string "I think that will be a good way of\n"
+	.string "making an effective team.$"
 
 BattleFrontier_BattleArenaLobby_Text_RulesAreListed:
-	.string "Aturan Turnamen KO Set tercantum.$"
+	.string "The Set KO Tourney's rules are listed.$"
 
 BattleFrontier_BattleArenaLobby_Text_ReadWhichHeading:
-	.string "Judul mana yang ingin kamu baca?$"
+	.string "Which heading do you want to read?$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainBattleRules:
-	.string "Turnamen KO Set memiliki aturan\n"
-	.string "khusus, tidak seperti pertarungan\l"
-	.string "standar.\p"
-	.string "Pertama, satu pertarungan hanya\n"
-	.string "berlangsung tiga giliran.\p"
-	.string "Jika hasilnya tidak diputuskan\n"
-	.string "setelah tiga giliran, itu akan\l"
-	.string "dinilai.\p"
-	.string "WASIT akan memilih pemenang\n"
-	.string "berdasarkan bagaimana POKéMON\l"
-	.string "bertarung.\p"
-	.string "Juga, POKéMON tidak dapat diganti\n"
-	.string "keluar sampai hasil pertarungannya\l"
-	.string "diputuskan.$"
+	.string "The Set KO Tourney has special rules,\n"
+	.string "unlike standard battles.\p"
+	.string "First, one battle lasts only\n"
+	.string "three turns.\p"
+	.string "If the outcome is not decided after\n"
+	.string "three turns, it goes to judging.\p"
+	.string "The REFEREE will choose the winner\n"
+	.string "based on how the POKéMON battled.\p"
+	.string "Also, a POKéMON cannot be switched out\n"
+	.string "until its battle's outcome is decided.$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainMindRules:
-	.string "Faktor penilaian pertama adalah\n"
-	.string "“Pikiran.” Faktor ini mengevaluasi\l"
-	.string "seberapa agresif para petarung.\p"
-	.string "Penilaian didasarkan pada seberapa\n"
-	.string "sering TRAINER memerintahkan\l"
-	.string "penggunaan gerakan ofensif.$"
+	.string "The first judging factor is “Mind.”\n"
+	.string "This factor evaluates how aggressive\l"
+	.string "the battlers were.\p"
+	.string "The judging is based on how often\n"
+	.string "the TRAINERS ordered the use of\l"
+	.string "offensive moves.$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainSkillRules:
-	.string "Faktor penilaian kedua adalah\n"
-	.string "“Keahlian.” Faktor ini mengevaluasi\l"
-	.string "seberapa efektif gerakan POKéMON\l"
-	.string "digunakan.\p"
-	.string "Jika suatu gerakan berhasil,\n"
-	.string "peringkat Keahlian naik.\p"
-	.string "Jika suatu gerakan gagal, peringkat\n"
-	.string "Keahlian diturunkan.\p"
-	.string "Jika itu adalah gerakan ofensif,\n"
-	.string "peringkat Keahlian naik jika\l"
-	.string "gerakan itu “sangat efektif” atau\l"
-	.string "“kurang efektif.” Peringkat\l"
-	.string "Keahlian tidak akan naik untuk\l"
-	.string "gerakan seperti PROTECT dan DETECT.\p"
-	.string "Jika lawan menggunakan PROTECT atau\n"
-	.string "DETECT, dan POKéMON kamu gagal\l"
-	.string "menyerang dengan suatu gerakan,\l"
-	.string "peringkat Keahliannya tidak akan\l"
-	.string "turun.$"
+	.string "The second judging factor is “Skill.”\n"
+	.string "This factor evaluates how effectively\l"
+	.string "POKéMON moves were used.\p"
+	.string "If a move worked successfully,\n"
+	.string "the Skill rating goes up.\p"
+	.string "If a move failed, the Skill rating\n"
+	.string "is lowered.\p"
+	.string "If it was an offensive move, the Skill\n"
+	.string "rating goes up if the move was “super\l"
+	.string "effective” and goes down if it was\l"
+	.string "“not very effective.”\p"
+	.string "The Skill rating will not go up for\n"
+	.string "moves such as PROTECT and DETECT.\p"
+	.string "If the opponent used PROTECT or\n"
+	.string "DETECT, and your POKéMON failed to\l"
+	.string "hit with a move, its Skill rating will not\l"
+	.string "go down.$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainBodyRules:
-	.string "Faktor penilaian ketiga adalah\n"
-	.string "“Badan.” Faktor ini didasarkan pada\l"
-	.string "seberapa banyak HP yang tersisa\l"
-	.string "pada akhir pertarungan.\p"
-	.string "Peringkat memperhitungkan berapa\n"
-	.string "banyak HP yang dimiliki POKéMON\l"
-	.string "pada awal pertarungan, dan apa yang\l"
-	.string "tersisa pada akhirnya.$"
+	.string "The third judging factor is “Body.”\n"
+	.string "This factor is based on how much HP\l"
+	.string "remained at the end of a battle.\p"
+	.string "The rating takes into account how much\n"
+	.string "HP a POKéMON had at the start of\l"
+	.string "battle, and what remained at the end.$"
 
 BattleFrontier_BattleArenaLobby_Text_CongratsOnDefeatingTycoon:
-	.string "Kemenangan direbut dari ARENA\n"
-	.string "TYCOON, dan sapuan tujuh TRAINER!\p"
-	.string "Kami mengucapkan selamat atas\n"
-	.string "tantangan kamu yang paling luar\l"
-	.string "biasa!$"
+	.string "A victory snatched from the ARENA\n"
+	.string "TYCOON, and a seven-TRAINER sweep!\p"
+	.string "We congratulate you on your most\n"
+	.string "splendid challenge!$"
 
 BattleFrontier_BattleArenaLobby_Text_PleaseAcceptBattlePoints:
-	.string "Penantangku yang terkasih, sebagai\n"
-	.string "pengakuan atas semangat kamu yang\l"
-	.string "tak kenal lelah, terimalah Battle\l"
-	.string "Point ini.$"
+	.string "My dear challenger, in recognition of\n"
+	.string "your indefatigable spirit, please\l"
+	.string "accept these Battle Point(s).$"
