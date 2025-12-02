@@ -530,193 +530,212 @@ BattleFrontier_BattlePyramidLobby_EventScript_ExitRules::
 	end
 
 BattleFrontier_BattlePyramidLobby_Text_WelcomeToBattlePyramid:
-	.string "Where the courage of TRAINERS\n"
-	.string "is put to the test!\p"
-	.string "Welcome to the BATTLE PYRAMID!\p"
-	.string "I am your guide to\n"
-	.string "the Battle Quest.$"
+	.string "Tempat keberanian TRAINER\n"
+	.string "diuji!\p"
+	.string "Selamat datang di PIRAMIDA\n"
+	.string "PERTARUNGAN!\p"
+	.string "Aku adalah pemandumu untuk\n"
+	.string "Misi Pertarungan.$"
 
 BattleFrontier_BattlePyramidLobby_Text_EmbarkOnChallenge:
-	.string "Have you the courage to embark on\n"
-	.string "the Battle Quest challenge?$"
+	.string "Apakah kamu punya keberanian untuk\n"
+	.string "memulai tantangan Misi Pertarungan?$"
 
 BattleFrontier_BattlePyramidLobby_Text_AwaitFutureChallenge:
-	.string "We await your challenge in the future!$"
+	.string "Kami menantikan tantanganmu di\n"
+	.string "masa depan!$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainBattlePyramid:
-	.string "The Battle Quest is a battling\n"
-	.string "event in which you must explore\l"
-	.string "the PYRAMID and try to reach the top.\p"
-	.string "In the PYRAMID are seven floors of\n"
-	.string "mazes, all of them filled with not only\l"
-	.string "skilled TRAINERS but also wild POKéMON.\p"
-	.string "You must enter with three POKéMON,\n"
-	.string "none of them holding an item.\p"
-	.string "On your ascent, you will be provided\n"
-	.string "with a BATTLE BAG for items.\p"
-	.string "If you fail in your challenge, any item\n"
-	.string "placed in the BATTLE BAG disappears.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, you must select “REST”\l"
-	.string "and save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "Misi Pertarungan adalah event\n"
+	.string "pertarungan di mana kamu harus\l"
+	.string "menjelajahi PIRAMIDA & mencoba\l"
+	.string "mencapai puncak.\p"
+	.string "Di dalam PIRAMIDA ada tujuh lantai\n"
+	.string "labirin, semuanya dipenuhi tidak\l"
+	.string "hanya TRAINER terampil, tapi juga\l"
+	.string "POKéMON liar.\p"
+	.string "Kamu harus masuk dengan tiga\n"
+	.string "POKéMON, tidak ada yang memegang\l"
+	.string "item.\p"
+	.string "Saat naik, kamu akan diberi TAS\n"
+	.string "PERTARUNGAN untuk item.\p"
+	.string "Jika kamu gagal dalam tantanganmu,\n"
+	.string "item apa pun yang ditempatkan di\l"
+	.string "TAS PERTARUNGAN akan hilang.\p"
+	.string "Jika kamu ingin menginterupsi\n"
+	.string "tantanganmu, kamu harus memilih\l"
+	.string "“ISTIRAHAT” & menyimpan game.\p"
+	.string "Jika kamu tidak menyimpan sebelum\n"
+	.string "menginterupsi, kamu akan\l"
+	.string "didiskualifikasi.$"
 
 BattleFrontier_BattlePyramidLobby_Text_WhichLevelMode:
-	.string "The PYRAMID offers two courses,\n"
-	.string "Level 50 and Open Level.\l"
-	.string "Which will you enter?$"
+	.string "PIRAMIDA menawarkan dua jalur,\n"
+	.string "Level 50 & Level Bebas.\l"
+	.string "Yang mana yang akan kamu masuki?$"
 
 BattleFrontier_BattlePyramidLobby_Text_SelectThreeMons:
-	.string "Very good. Now, please select the three\n"
-	.string "POKéMON you wish to accompany you.$"
+	.string "Bagus sekali. Sekarang, silakan\n"
+	.string "pilih tiga POKéMON yang ingin\l"
+	.string "menemanimu.$"
 
 BattleFrontier_BattlePyramidLobby_Text_NotEnoughValidMonsLvOpen:
-	.string "A slight problem, adventurer!\p"
-	.string "You seem to not have the three\n"
-	.string "POKéMON qualified for the challenge.\p"
-	.string "Please also remember to take all\n"
-	.string "items from your POKéMON.\p"
-	.string "EGGS{STR_VAR_1}.$"
+	.string "Ada sedikit masalah, petualang!\p"
+	.string "Kamu sepertinya tidak punya tiga\n"
+	.string "POKéMON yang memenuhi syarat\l"
+	.string "untuk tantangan ini.\p"
+	.string "Harap ingat juga untuk mengambil\n"
+	.string "semua item dari POKéMON-mu.\p"
+	.string "TELUR{STR_VAR_1}.$"
 
 BattleFrontier_BattlePyramidLobby_Text_NotEnoughValidMonsLv50:
-	.string "A slight problem, adventurer!\p"
-	.string "You seem to not have the three\n"
-	.string "POKéMON qualified for the challenge.\p"
-	.string "The three POKéMON must be different\n"
-	.string "and each no higher than Level 50.\p"
-	.string "Please also remember to take all\n"
-	.string "items from your POKéMON.\p"
-	.string "EGGS{STR_VAR_1}.$"
+	.string "Ada sedikit masalah, petualang!\p"
+	.string "Kamu sepertinya tidak punya tiga\n"
+	.string "POKéMON yang memenuhi syarat\l"
+	.string "untuk tantangan ini.\p"
+	.string "Ketiga POKéMON harus berbeda &\n"
+	.string "masing-masing tidak lebih tinggi\l"
+	.string "dari Level 50.\p"
+	.string "Harap ingat juga untuk mengambil\n"
+	.string "semua item dari POKéMON-mu.\p"
+	.string "TELUR{STR_VAR_1}.$"
 
 BattleFrontier_BattlePyramidLobby_Text_NotEnoughValidMonsEnd:
-	.string "When you are ready, please have\n"
-	.string "a word with me.$"
+	.string "Jika kamu sudah siap, silakan\n"
+	.string "bicara denganku.$"
 
 BattleFrontier_BattlePyramidLobby_Text_OkayToSaveBeforeChallenge:
-	.string "Before you enter the BATTLE PYRAMID,\n"
-	.string "the game must be saved. Is that okay?$"
+	.string "Sebelum kamu memasuki PIRAMIDA\n"
+	.string "PERTARUNGAN, game harus disimpan.\l"
+	.string "Apakah tidak apa-apa?$"
 
 BattleFrontier_BattlePyramidLobby_Text_ShowYouIntoPyramid:
-	.string "Very good. I will now show you into\n"
-	.string "the BATTLE PYRAMID.$"
+	.string "Bagus sekali. Aku akan mengantarmu\n"
+	.string "masuk ke PIRAMIDA PERTARUNGAN\l"
+	.string "sekarang.$"
 
 BattleFrontier_BattlePyramidLobby_Text_WeWillHoldBagForSafekeeping:
-	.string "We will hold your BAG for safekeeping,\n"
-	.string "{PLAYER}, while you are exploring.$"
+	.string "Kami akan menyimpan TAS-mu dengan\n"
+	.string "aman, {PLAYER}, selagi kamu\l"
+	.string "menjelajah.$"
 
 BattleFrontier_BattlePyramidLobby_Text_PleaseTakePreviousBattleBag:
-	.string "In exchange, please take this BATTLE\n"
-	.string "BAG, the one you used previously.$"
+	.string "Sebagai gantinya, silakan ambil TAS\n"
+	.string "PERTARUNGAN ini, yang kamu gunakan\l"
+	.string "sebelumnya.$"
 
 BattleFrontier_BattlePyramidLobby_Text_PleaseTakeThisBattleBag:
-	.string "In exchange, please take this\n"
-	.string "BATTLE BAG.$"
+	.string "Sebagai gantinya, silakan ambil\n"
+	.string "TAS PERTARUNGAN ini.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExchangedBagForBattleBag:
-	.string "{PLAYER} exchanged the BAG for\n"
-	.string "the BATTLE BAG.$"
+	.string "{PLAYER} menukar TAS dengan\n"
+	.string "TAS PERTARUNGAN.$"
 
 BattleFrontier_BattlePyramidLobby_Text_StepOnFloorPanel:
-	.string "When you step on this floor panel,\n"
-	.string "you will be transported to a higher\l"
-	.string "floor in the PYRAMID.\p"
-	.string "I hope for your sake that your\n"
-	.string "quest goes safely!$"
+	.string "Saat kamu menginjak panel lantai\n"
+	.string "ini, kamu akan diangkut ke lantai\l"
+	.string "yang lebih tinggi di PIRAMIDA.\p"
+	.string "Aku harap demi keselamatanmu,\n"
+	.string "misimu berjalan lancar!$"
 
 BattleFrontier_BattlePyramidLobby_Text_DidntSaveBeforeQuittingTakeBag:
-	.string "A major problem, explorer!\p"
-	.string "You did not save before ending\n"
-	.string "your challenge the last time.\p"
-	.string "Consequently, your challenge has\n"
-	.string "been disqualified, I'm sorry to say.\p"
-	.string "Here is the BAG we've been holding\n"
-	.string "for you.\p"
-	.string "{PLAYER} got the BAG back.$"
+	.string "Masalah besar, penjelajah!\p"
+	.string "Kamu tidak menyimpan sebelum\n"
+	.string "mengakhiri tantanganmu terakhir\l"
+	.string "kali.\p"
+	.string "Akibatnya, tantanganmu telah\n"
+	.string "didiskualifikasi, maafkan aku.\p"
+	.string "Ini TAS yang kami simpan untukmu.\p"
+	.string "{PLAYER} mendapatkan kembali TAS.$"
 
 BattleFrontier_BattlePyramidLobby_Text_YouveConqueredPyramid:
-	.string "Excellent to see you back!\p"
-	.string "You've conquered the PYRAMID!\n"
-	.string "How splendid!$"
+	.string "Senang sekali melihatmu kembali!\p"
+	.string "Kamu telah menaklukkan PIRAMIDA!\n"
+	.string "Betapa hebatnya!$"
 
 BattleFrontier_BattlePyramidLobby_Text_MonHoldingItemCannotTake:
-	.string "Ah, a slight problem.\p"
-	.string "At least one POKéMON is holding\n"
-	.string "an item.\p"
-	.string "I'm sorry to say, items obtained in\n"
-	.string "the PYRAMID cannot be taken away.$"
+	.string "Ah, ada sedikit masalah.\p"
+	.string "Setidaknya satu POKéMON memegang\n"
+	.string "item.\p"
+	.string "Maaf, item yang didapat di PIRAMIDA\n"
+	.string "tidak bisa dibawa pergi.$"
 
 BattleFrontier_BattlePyramidLobby_Text_HeldItemsMovedToBag:
-	.string "All items held by your POKéMON will be\n"
-	.string "moved to your BATTLE BAG, {PLAYER}.$"
+	.string "Semua item yang dipegang POKéMON-mu\n"
+	.string "akan dipindahkan ke TAS PERTARUNGAN-\l"
+	.string "mu, {PLAYER}.$"
 
 BattleFrontier_BattlePyramidLobby_Text_BagCannotHoldPickItemsToKeep:
-	.string "The BATTLE BAG cannot hold all your\n"
-	.string "items, I'm sorry to say.\p"
-	.string "Please pick the items you'll keep in the\n"
-	.string "BATTLE BAG, and with your POKéMON.$"
+	.string "TAS PERTARUNGAN tidak bisa\n"
+	.string "menampung semua itemmu,\l"
+	.string "maafkan aku.\p"
+	.string "Silakan pilih item yang akan kamu\n"
+	.string "simpan di TAS PERTARUNGAN &\l"
+	.string "dengan POKéMON-mu.$"
 
 BattleFrontier_BattlePyramidLobby_Text_LeastOneMonHoldingItem:
-	.string "At least one POKéMON is still\n"
-	.string "holding an item.$"
+	.string "Setidaknya satu POKéMON masih\n"
+	.string "memegang item.$"
 
 BattleFrontier_BattlePyramidLobby_Text_PickItemsToKeep:
-	.string "Please pick the items you'll keep in the\n"
-	.string "BATTLE BAG, and with your POKéMON.$"
+	.string "Silakan pilih item yg akan Kamu simpan\n"
+	.string "di BATTLE BAG, & dengan POKéMON-mu.$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ReturnedEverythingMonsHeld:
-	.string "{PLAYER} returned everything that\n"
-	.string "the POKéMON held.$"
+	.string "{PLAYER} mengembalikan semua yang\n"
+	.string "dipegang POKéMON.$"
 
 BattleFrontier_BattlePyramidLobby_Text_UsedBattleBagWillBeKept:
-	.string "The BATTLE BAG you used will be kept\n"
-	.string "in readiness for your next challenge.\p"
-	.string "{PLAYER} turned the BATTLE BAG over\n"
-	.string "for the BAG's return.$"
+	.string "BATTLE BAG yang Kamu gunakan akan\n"
+	.string "disimpan untuk tantanganmu berikutnya.\p"
+	.string "{PLAYER} menyerahkan BATTLE BAG\n"
+	.string "untuk dikembalikan.$"
 
 BattleFrontier_BattlePyramidLobby_Text_RecordResultsWait:
-	.string "I must record your results.\n"
-	.string "Please wait.$"
+	.string "Aku harus mencatat hasilmu.\n"
+	.string "Mohon tunggu.$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ForConqueringPyramidTakeThis:
-	.string "As a memento for conquering\n"
-	.string "the BATTLE PYRAMID, please take this.$"
+	.string "Sebagai kenang-kenangan menaklukkan\n"
+	.string "BATTLE PYRAMID, silakan ambil ini.$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ReceivedPrizeItem:
-	.string "{PLAYER} received the prize\n"
+	.string "{PLAYER} menerima hadiah\n"
 	.string "{STR_VAR_1}.$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_BagIsFull:
 	.string "…Ah…\n"
-	.string "Your BAG appears to be filled.\p"
-	.string "Please return after you've organized\n"
-	.string "your BAG's contents.$"
+	.string "BAG-mu sepertinya penuh.\p"
+	.string "Mohon kembali setelah Kamu mengatur\n"
+	.string "isi BAG-mu.$"
 
 BattleFrontier_BattlePyramidLobby_Text_DisappointingHereIsBag:
-	.string "How disappointing for you…\p"
-	.string "Here is the BAG we've been holding\n"
-	.string "for you.\p"
-	.string "{PLAYER} got the BAG back.$"
+	.string "Betapa mengecewakannya bagimu…\p"
+	.string "Ini BAG yang kami simpan\n"
+	.string "untukmu.\p"
+	.string "{PLAYER} mendapatkan kembali BAG-nya.$"
 
 BattleFrontier_BattlePyramidLobby_Text_LookForwardToNextChallenge:
-	.string "We look forward to your\n"
-	.string "next challenge!$"
+	.string "Kami menantikan\n"
+	.string "tantanganmu berikutnya!$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_HereIsPrize:
-	.string "We have been looking forward to\n"
-	.string "your arrival!\p"
-	.string "Here is your prize for conquering\n"
-	.string "the PYRAMID.$"
+	.string "Kami sudah menantikan\n"
+	.string "kedatanganmu!\p"
+	.string "Ini hadiahmu karena menaklukkan\n"
+	.string "PYRAMID.$"
 
 BattleFrontier_BattlePyramidLobby_Text_TellYouWhatMisfortunesAwait:
-	.string "Welcome…\p"
-	.string "I shall be pleased to tell you what\n"
-	.string "misfortunes await in the PYRAMID…$"
+	.string "Selamat datang…\p"
+	.string "Aku akan senang memberitahumu\n"
+	.string "kemalangan apa yang menanti di\l"
+	.string "PYRAMID…$"
 
 BattleFrontier_BattlePyramidLobby_Text_Aah:
 	.string "… … … … … …\n"
@@ -725,183 +744,189 @@ BattleFrontier_BattlePyramidLobby_Text_Aah:
 	.string "Aah!$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintParalysis:
-	.string "I see a shower of sparks…\p"
-	.string "…And in it, I see your POKéMON\n"
-	.string "struggling with paralysis…$"
+	.string "Aku melihat percikan api…\p"
+	.string "& di dalamnya, aku melihat\n"
+	.string "POKéMON-mu berjuang melawan\l"
+	.string "PARALYSIS…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintPoison:
-	.string "I see poison…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from the effects of poison…$"
+	.string "Aku melihat racun…\p"
+	.string "& aku melihat POKéMON-mu\n"
+	.string "menderita efek racun…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintBurn:
-	.string "I see bright red flames…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from burns…$"
+	.string "Aku melihat api merah terang…\p"
+	.string "& aku melihat POKéMON-mu\n"
+	.string "menderita luka bakar…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintPPWaste:
-	.string "I sense the tremendous pressure of\n"
-	.string "unrequited anger…\p"
-	.string "It is a curse…\p"
-	.string "…And, I see your POKéMON drained of\n"
-	.string "Power Points and having no recourse\l"
-	.string "but to use STRUGGLE…$"
+	.string "Aku merasakan tekanan luar biasa\n"
+	.string "dari amarah yang tak terbalas…\p"
+	.string "Ini adalah kutukan…\p"
+	.string "& aku melihat POKéMON-mu\n"
+	.string "kehabisan Power Points & tidak\l"
+	.string "punya pilihan selain menggunakan\l"
+	.string "STRUGGLE…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintLevitate:
-	.string "I see POKéMON loftily airborne…\p"
-	.string "…And, I see your POKéMON frustrated\n"
-	.string "by powerless GROUND-type moves…$"
+	.string "Aku melihat POKéMON melayang\n"
+	.string "tinggi…\p"
+	.string "& aku melihat POKéMON-mu\n"
+	.string "frustrasi oleh serangan tipe\l"
+	.string "GROUND yang tak berdaya…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintTrapAbility:
-	.string "I sense terrific energy rising from\n"
-	.string "the ground below…\p"
-	.string "…And, I see your POKéMON unable to\n"
-	.string "escape the power's clutches…$"
+	.string "Aku merasakan energi luar biasa\n"
+	.string "bangkit dari tanah di bawah…\p"
+	.string "& aku melihat POKéMON-mu tidak\n"
+	.string "bisa lepas dari cengkeraman\l"
+	.string "kekuatan itu…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintIce:
-	.string "I see ICE-type POKéMON…\p"
-	.string "…And, I see your POKéMON fighting\n"
-	.string "the freezing effects of ice…$"
+	.string "Aku melihat POKéMON tipe ICE…\p"
+	.string "& aku melihat POKéMON-mu\n"
+	.string "melawan efek beku es…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintExplosion:
-	.string "I see a flurry of moves that imperil\n"
-	.string "the user…\p"
-	.string "…And, I see your POKéMON falling\n"
-	.string "to them…$"
+	.string "Aku melihat serangkaian serangan\n"
+	.string "yang membahayakan pengguna…\p"
+	.string "& aku melihat POKéMON-mu\n"
+	.string "tumbang karenanya…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintPsychic:
-	.string "I see PSYCHIC-type POKéMON…\p"
-	.string "…And, I see your POKéMON in torment\n"
-	.string "from PSYCHIC moves…$"
+	.string "Aku melihat POKéMON tipe PSYCHIC…\p"
+	.string "& aku melihat POKéMON-mu\n"
+	.string "tersiksa oleh serangan PSYCHIC…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintRock:
-	.string "I see ROCK-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from ROCK moves…$"
+	.string "Aku melihat POKéMON tipe ROCK…\p"
+	.string "& aku melihat POKéMON-mu\n"
+	.string "menderita serangan ROCK…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintFighting:
-	.string "I see FIGHTING-type POKéMON…\p"
-	.string "…And, I see your POKéMON pummeled\n"
-	.string "by FIGHTING moves…$"
+	.string "Aku melihat POKéMON tipe FIGHTING…\p"
+	.string "& aku melihat POKéMON-mu\n"
+	.string "dipukuli oleh serangan FIGHTING…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintWeather:
 	.string "RAIN DANCE… SUNNY DAY…\n"
 	.string "SANDSTORM… HAIL…\p"
-	.string "I see POKéMON that become stronger\n"
-	.string "with the weather…\p"
-	.string "…And, I see your POKéMON confounded\n"
-	.string "by different types of moves…$"
+	.string "Aku melihat POKéMON yang jadi\n"
+	.string "lebih kuat dengan cuaca…\p"
+	.string "…&, aku melihat POKéMON-mu\n"
+	.string "bingung oleh berbagai jurus…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintBug:
-	.string "I see BUG-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from different kinds of attacks…$"
+	.string "Aku melihat POKéMON tipe BUG…\p"
+	.string "…&, aku melihat POKéMON-mu\n"
+	.string "menderita dari berbagai serangan…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintDark:
-	.string "I see DARK-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from DARK-type moves…$"
+	.string "Aku melihat POKéMON tipe DARK…\p"
+	.string "…&, aku melihat POKéMON-mu\n"
+	.string "menderita dari jurus tipe DARK…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintWater:
-	.string "I see WATER-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from WATER-type moves…$"
+	.string "Aku melihat POKéMON tipe WATER…\p"
+	.string "…&, aku melihat POKéMON-mu\n"
+	.string "menderita dari jurus tipe WATER…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintGhost:
-	.string "I see GHOST-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from GHOST-type moves…$"
+	.string "Aku melihat POKéMON tipe GHOST…\p"
+	.string "…&, aku melihat POKéMON-mu\n"
+	.string "menderita dari jurus tipe GHOST…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintSteel:
-	.string "I see STEEL-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from enormously powerful moves…$"
+	.string "Aku melihat POKéMON tipe STEEL…\p"
+	.string "…&, aku melihat POKéMON-mu\n"
+	.string "menderita dari jurus sangat kuat…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintFlyingDragon:
-	.string "I see flying POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from enormously powerful moves…$"
+	.string "Aku melihat POKéMON terbang…\p"
+	.string "…&, aku melihat POKéMON-mu\n"
+	.string "menderita dari jurus sangat kuat…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintStoneEvolve:
-	.string "I see those that have evolved from\n"
-	.string "the power of stones…\p"
-	.string "I also sense fire, water,\n"
-	.string "and electricity…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from those three powers…$"
+	.string "Aku melihat mereka yang berevolusi\n"
+	.string "dari kekuatan batu…\p"
+	.string "Aku juga merasakan api, air,\n"
+	.string "& listrik…\p"
+	.string "…&, aku melihat POKéMON-mu\n"
+	.string "menderita dari ketiga kekuatan itu…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintNormal:
-	.string "I see NORMAL-type POKéMON…\p"
-	.string "…And, I see your POKéMON suffering\n"
-	.string "from enormously powerful moves…$"
+	.string "Aku melihat POKéMON tipe NORMAL…\p"
+	.string "…&, aku melihat POKéMON-mu\n"
+	.string "menderita dari jurus sangat kuat…$"
 
 BattleFrontier_BattlePyramidLobby_Text_BelieveMyFortunesOrNot:
-	.string "Whether you believe my fortunes\n"
-	.string "or not, the choice is yours…\p"
-	.string "The future can be changed anytime…\n"
-	.string "I wish you safe passage…$"
+	.string "Percaya atau tidak ramalanku,\n"
+	.string "pilihan ada padamu…\p"
+	.string "Masa depan bisa diubah kapan saja…\n"
+	.string "Aku berharap kamu selamat…$"
 
 BattleFrontier_BattlePyramidLobby_Text_TrainersNoticeRunning:
-	.string "Did you know?\p"
-	.string "If you run fast, TRAINERS may notice\n"
-	.string "and come after you for a battle.\p"
-	.string "So, if you want to avoid TRAINERS,\n"
-	.string "don't catch their eyes, but sneak\l"
-	.string "cautiously and quietly past them.$"
+	.string "Tahukah kamu?\p"
+	.string "Jika kamu lari cepat, TRAINER\n"
+	.string "mungkin melihat & mengejarmu.\p"
+	.string "Jadi, jika kamu ingin menghindari\n"
+	.string "TRAINER, jangan sampai terlihat,\l"
+	.string "tapi menyelinaplah diam-diam.$"
 
 BattleFrontier_BattlePyramidLobby_Text_LostLotOfItems:
 	.string "Awaaaaaaarrrrgh!\p"
-	.string "I had a whole lot of items, but I lost\n"
-	.string "them all when I lost!\p"
+	.string "Aku punya banyak item, tapi aku\n"
+	.string "kehilangan semuanya saat kalah!\p"
 	.string "Awaaaaaaarrrrgh!$"
 
 BattleFrontier_BattlePyramidLobby_Text_YouveDefeatedPyramidKing:
-	.string "Welcome back!\n"
-	.string "You've done the unthinkable!\p"
-	.string "You've defeated the PYRAMID KING\n"
-	.string "and conquered the BATTLE PYRAMID!$"
+	.string "Selamat datang kembali!\n"
+	.string "Kamu telah melakukan hal tak terduga!\p"
+	.string "Kamu telah mengalahkan PYRAMID KING\n"
+	.string "& menaklukkan BATTLE PYRAMID!$"
 
 BattleFrontier_BattlePyramidLobby_Text_GiveYouTheseBattlePoints:
-	.string "Young explorer!\n"
-	.string "In commendation of your courage,\l"
-	.string "we give you these Battle Point(s)!$"
+	.string "Penjelajah muda!\n"
+	.string "Sebagai penghargaan atas\p"
+	.string "keberanianmu, kami memberimu\n"
+	.string "Battle Point ini!$"
 
 BattleFrontier_BattlePyramidLobby_Text_RulesAreListed:
-	.string "The Battle Quest rules are listed.$"
+	.string "Aturan Battle Quest telah terdaftar.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+	.string "Judul mana yang ingin kamu baca?$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainMonRules:
-	.string "When the PYRAMID is conquered,\n"
-	.string "the wild POKéMON that appear in it\l"
-	.string "are replaced by different kinds.\p"
-	.string "Explore, observe, and learn what kinds\n"
-	.string "of wild POKéMON you may encounter.$"
+	.string "Saat PYRAMID ditaklukkan,\n"
+	.string "POKéMON liar yang muncul di sana\l"
+	.string "digantikan oleh jenis berbeda.\p"
+	.string "Jelajahi, amati, & pelajari jenis\n"
+	.string "POKéMON liar apa yang kamu temui.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainTrainerRules:
-	.string "TRAINERS are lying in wait for you\n"
-	.string "inside the PYRAMID.\p"
-	.string "On each floor, there are up to\n"
-	.string "eight TRAINERS.\p"
-	.string "When you defeat a TRAINER, you will\n"
-	.string "get a helpful hint for your adventure.$"
+	.string "TRAINER menunggumu di dalam\n"
+	.string "PYRAMID.\p"
+	.string "Di setiap lantai, ada hingga\n"
+	.string "delapan TRAINER.\p"
+	.string "Saat kamu mengalahkan TRAINER,\n"
+	.string "kamu akan mendapat petunjuk berguna.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainMazeRules:
-	.string "The mazes in the PYRAMID rearrange\n"
-	.string "themselves every time you enter it.\p"
-	.string "The mazes are poorly lit.\n"
-	.string "You must advance with caution.\p"
-	.string "The light grows brighter whenever you\n"
-	.string "defeat a wild POKéMON or a TRAINER.$"
+	.string "Labirin di PYRAMID menata ulang\n"
+	.string "dirinya setiap kali kamu masuk.\p"
+	.string "Labirinnya kurang terang.\n"
+	.string "Kamu harus maju dengan hati-hati.\p"
+	.string "Cahaya jadi lebih terang setiap\n"
+	.string "kali kalahkan POKéMON liar & TRAINER.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainBagRules:
-	.string "The BATTLE BAG serves as your BAG\n"
-	.string "while in the PYRAMID.\p"
-	.string "There are two separate BATTLE BAGS--\n"
-	.string "one each for the Level 50 and\l"
-	.string "Open Level adventures.\p"
-	.string "They each can hold up to 99 pieces\n"
-	.string "of ten kinds of items.\p"
-	.string "The contents of the BATTLE BAG are\n"
-	.string "lost if you fail in your quest.$"
+	.string "BATTLE BAG berfungsi sebagai TAS-mu\n"
+	.string "saat di PYRAMID.\p"
+	.string "Ada dua BATTLE BAG terpisah--\n"
+	.string "masing-masing untuk petualangan\l"
+	.string "Level 50 & Open Level.\p"
+	.string "Masing-masing dapat menampung\n"
+	.string "hingga 99 buah dari 10 jenis item.\p"
+	.string "Isi BATTLE BAG akan hilang jika\n"
+	.string "kamu gagal dalam misimu.$"
