@@ -27,6 +27,8 @@ KEEP_TEMPS  ?= 0
 
 # `File name`.gba
 FILE_NAME := poke$(BUILD_NAME)
+BASEROM ?= baserom.gba
+BASEROM_SHA1_EXPECTED := f3ae088181bf583e55daf962a92bb46f4f1d07b7
 BUILD_DIR := build
 
 # Compares the ROM to a checksum of the original - only makes sense using when non-modern
@@ -216,6 +218,7 @@ MAPJSON      := $(TOOLS_DIR)/mapjson/mapjson$(EXE)
 JSONPROC     := $(TOOLS_DIR)/jsonproc/jsonproc$(EXE)
 TRAINERPROC  := $(TOOLS_DIR)/trainerproc/trainerproc$(EXE)
 PATCHELF     := $(TOOLS_DIR)/patchelf/patchelf$(EXE)
+FLIPS        := $(TOOLS_DIR)/Flips/flips$(EXE)
 ifeq ($(shell uname),Darwin)
     ROMTEST ?= $(shell command -v mgba-rom-test-mac 2>/dev/null || echo $(TOOLS_DIR)/mgba/mgba-rom-test-mac)
     ROMTESTHYDRA := $(shell command -v mgba-rom-test-hydra 2>/dev/null || echo $(TOOLS_DIR)/mgba-rom-test-hydra/mgba-rom-test-hydra)
@@ -251,7 +254,8 @@ $(C_BUILDDIR)/trainer_see.o: c_dep += $(INCLUDE_DIRS)/constants/script_commands.
 $(C_BUILDDIR)/vs_seeker.o: c_dep += $(INCLUDE_DIRS)/constants/script_commands.h
 
 PERL := perl
-SHA1 := $(shell { command -v sha1sum || command -v shasum; } 2>/dev/null) -c
+SHA1SUM := $(shell { command -v sha1sum || command -v shasum; } 2>/dev/null)
+SHA1 := $(SHA1SUM) -c
 
 MAKEFLAGS += --no-print-directory
 
@@ -263,7 +267,7 @@ MAKEFLAGS += --no-print-directory
 .DELETE_ON_ERROR:
 
 RULES_NO_SCAN += libagbsyscall clean clean-assets tidy tidymodern tidycheck tidyrelease generated clean-generated
-.PHONY: all rom agbcc modern compare check debug release
+.PHONY: all rom bps agbcc modern compare check debug release
 .PHONY: $(RULES_NO_SCAN)
 
 infoshell = $(foreach line, $(shell $1 | sed "s/ /__SPACE__/g"), $(info $(subst __SPACE__, ,$(line))))
@@ -366,6 +370,16 @@ check: $(TESTELF)
 
 # Other rules
 rom: $(ROM)
+bps: $(ROM)
+	@if [ ! -f $(BASEROM) ]; then echo "Error: $(BASEROM) not found. Please obtain a clean Emerald ROM, name it $(BASEROM), and place it in the project root."; exit 1; fi
+	@BASEROM_CURRENT_SHA1=$$($(SHA1SUM) $(BASEROM) | awk '{print $$1}'); \
+	if [ "$$BASEROM_CURRENT_SHA1" != "$(BASEROM_SHA1_EXPECTED)" ]; then \
+		echo "Error: Checksum mismatch for $(BASEROM). Expected $(BASEROM_SHA1_EXPECTED), but got $$BASEROM_CURRENT_SHA1."; \
+		echo "Please ensure $(BASEROM) is an unmodified Emerald ROM."; \
+		exit 1; \
+	fi
+	$(FLIPS) --create --bps $(BASEROM) $(ROM) $(ROM:.gba=.bps)
+
 ifeq ($(COMPARE),1)
 	@$(SHA1) rom.sha1
 endif
