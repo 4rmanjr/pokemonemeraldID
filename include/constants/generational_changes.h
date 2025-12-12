@@ -114,7 +114,7 @@
     F(KNOCK_OFF_REMOVAL,         knockOffRemoval,         (u32, GEN_COUNT - 1)) /* TODO: use in tests */ \
     F(HEAL_BELL_SOUNDPROOF,      healBellSoundproof,      (u32, GEN_COUNT - 1)) \
     F(CHARGE,                    charge,                  (u32, GEN_COUNT - 1)) /* TODO: use in tests */ \
-    F(POWDER_RAIN,               powderRain,              (u32, GEN_COUNT - 1)) \
+    F(POWDER_STATUS_HEAVY_RAIN,  powderStatusHeavyRain,   (u32, GEN_COUNT - 1)) \
     F(AFTER_YOU_TURN_ORDER,      afterYouTurnOrder,       (u32, GEN_COUNT - 1)) \
     F(QUASH_TURN_ORDER,          quashTurnOrder,          (u32, GEN_COUNT - 1)) /* TODO: use in tests */ \
     F(DESTINY_BOND_FAIL,         destinyBondFail,         (u32, GEN_COUNT - 1)) \
@@ -195,6 +195,8 @@
     F(AFFECTION_MECHANICS,       affectionMechanics,      (u32, TRUE))          /* TODO: use in tests */ \
     F(OBEDIENCE_MECHANICS,       obedienceMechanics,      (u32, GEN_COUNT - 1)) /* TODO: use in tests */ \
     F(USE_FROSTBITE,             useFrostbite,            (u32, GEN_COUNT - 1)) /* TODO: use in tests */ \
+    F(FOCUS_PUNCH_FAILURE,       focusPunchFailure,       (u32, GEN_COUNT - 1)) \
+    F(SANDSTORM_SOLAR_BEAM,      standstormSolarBeam,     (u32, GEN_COUNT - 1)) \
 
 
 #define GET_CONFIG_MAXIMUM(_typeMaxValue, ...) INVOKE_WITH_B(GET_CONFIG_MAXIMUM_, _typeMaxValue)
