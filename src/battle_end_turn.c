@@ -123,7 +123,7 @@ static bool32 HandleEndTurnWeatherDamage(u32 battler)
     case BATTLE_WEATHER_RAIN_DOWNPOUR:
         if (ability == ABILITY_DRY_SKIN || ability == ABILITY_RAIN_DISH)
         {
-            if (AbilityBattleEffects(ABILITYEFFECT_ENDTURN, battler, ability, MOVE_NONE, TRUE))
+            if (AbilityBattleEffects(ABILITYEFFECT_ENDTURN, battler, ability, 0, MOVE_NONE))
                 effect = TRUE;
         }
         break;
@@ -131,7 +131,7 @@ static bool32 HandleEndTurnWeatherDamage(u32 battler)
     case BATTLE_WEATHER_SUN_PRIMAL:
         if (ability == ABILITY_DRY_SKIN || ability == ABILITY_SOLAR_POWER)
         {
-            if (AbilityBattleEffects(ABILITYEFFECT_ENDTURN, battler, ability, MOVE_NONE, TRUE))
+            if (AbilityBattleEffects(ABILITYEFFECT_ENDTURN, battler, ability, 0, MOVE_NONE))
                 effect = TRUE;
         }
         break;
@@ -156,7 +156,7 @@ static bool32 HandleEndTurnWeatherDamage(u32 battler)
     case BATTLE_WEATHER_SNOW:
         if (ability == ABILITY_ICE_BODY)
         {
-            if (AbilityBattleEffects(ABILITYEFFECT_ENDTURN, battler, ability, MOVE_NONE, TRUE))
+            if (AbilityBattleEffects(ABILITYEFFECT_ENDTURN, battler, ability, 0, MOVE_NONE))
                 effect = TRUE;
         }
         else if (currBattleWeather == BATTLE_WEATHER_HAIL)
@@ -192,8 +192,12 @@ static bool32 HandleEndTurnEmergencyExit(u32 battler)
     {
         gBattlerAbility = battler;
         gLastUsedAbility = ability;
-        gBattleScripting.battler = battler;
-        BattleScriptExecute(BattleScript_EmergencyExitEnd2);
+
+        if (gBattleTypeFlags & BATTLE_TYPE_TRAINER)
+            BattleScriptExecute(BattleScript_EmergencyExitEnd2);
+        else
+            BattleScriptExecute(BattleScript_EmergencyExitWildEnd2);
+
         effect = TRUE;
     }
 
@@ -266,10 +270,17 @@ static bool32 HandleEndTurnWish(u32 battler)
         s32 wishHeal = 0;
         gBattlerTarget = battler;
         PREPARE_MON_NICK_WITH_PREFIX_BUFFER(gBattleTextBuff1, battler, gWishFutureKnock.wishPartyId[battler])
-        if (B_WISH_HP_SOURCE >= GEN_5)
-            wishHeal = GetMonData(&GetBattlerParty(battler)[gWishFutureKnock.wishPartyId[battler]], MON_DATA_MAX_HP) / 2;
+        if (GetConfig(CONFIG_WISH_HP_SOURCE) >= GEN_5)
+        {
+            if (IsOnPlayerSide(battler))
+                wishHeal = GetMonData(&gPlayerParty[gWishFutureKnock.wishPartyId[battler]], MON_DATA_MAX_HP) / 2;
+            else
+                wishHeal = GetMonData(&gEnemyParty[gWishFutureKnock.wishPartyId[battler]], MON_DATA_MAX_HP) / 2;
+        }
         else
+        {
             wishHeal = GetNonDynamaxMaxHP(battler) / 2;
+        }
 
         SetHealAmount(battler, wishHeal);
         if (gBattleMons[battler].volatiles.healBlock)
@@ -330,7 +341,7 @@ static bool32 HandleEndTurnFirstEventBlock(u32 battler)
         if (gBattleMons[battler].volatiles.lockConfusionTurns && gBattleMons[battler].volatiles.semiInvulnerable != STATE_SKY_DROP)
         {
             gBattleMons[battler].volatiles.lockConfusionTurns--;
-            if (gDisableStructs[battler].unableToUseMove)
+            if (WasUnableToUseMove(battler))
             {
                 CancelMultiTurnMoves(battler, SKY_DROP_IGNORE);
             }
@@ -369,7 +380,7 @@ static bool32 HandleEndTurnFirstEventBlock(u32 battler)
         case ABILITY_HEALER:
         case ABILITY_HYDRATION:
         case ABILITY_SHED_SKIN:
-            if (AbilityBattleEffects(ABILITYEFFECT_ENDTURN, battler, ability, MOVE_NONE, TRUE))
+            if (AbilityBattleEffects(ABILITYEFFECT_ENDTURN, battler, ability, 0, MOVE_NONE))
                 effect = TRUE;
             break;
         default:
@@ -520,7 +531,7 @@ static bool32 HandleEndTurnBurn(u32 battler)
      && IsBattlerAlive(battler)
      && !IsAbilityAndRecord(battler, ability, ABILITY_MAGIC_GUARD))
     {
-        s32 burnDamage = GetNonDynamaxMaxHP(battler) / (B_BURN_DAMAGE >= GEN_7 ? 16 : 8);
+        s32 burnDamage = GetNonDynamaxMaxHP(battler) / (GetConfig(CONFIG_BURN_DAMAGE) >= GEN_7 ? 16 : 8);
         if (ability == ABILITY_HEATPROOF)
         {
             if (burnDamage > (burnDamage / 2) + 1) // Record ability if the burn takes less damage than it normally would.
@@ -545,7 +556,7 @@ static bool32 HandleEndTurnFrostbite(u32 battler)
      && IsBattlerAlive(battler)
      && !IsAbilityAndRecord(battler, GetBattlerAbility(battler), ABILITY_MAGIC_GUARD))
     {
-        SetPassiveDamageAmount(battler, GetNonDynamaxMaxHP(battler) / (B_BURN_DAMAGE >= GEN_7 ? 16 : 8));
+        SetPassiveDamageAmount(battler, GetNonDynamaxMaxHP(battler) / (GetConfig(CONFIG_BURN_DAMAGE) >= GEN_7 ? 16 : 8));
         BattleScriptExecute(BattleScript_FrostbiteTurnDmg);
         effect = TRUE;
     }
@@ -872,12 +883,12 @@ static bool32 HandleEndTurnYawn(u32 battler)
         {
             gEffectBattler = gBattlerTarget = battler;
             enum HoldEffect holdEffect = GetBattlerHoldEffect(battler);
-            if (IsElectricTerrainAffected(battler, ability, holdEffect, gFieldStatuses))
+            if (IsBattlerTerrainAffected(battler, ability, holdEffect, STATUS_FIELD_ELECTRIC_TERRAIN))
             {
                 gBattleCommunication[MULTISTRING_CHOOSER] = B_MSG_TERRAINPREVENTS_ELECTRIC;
                 BattleScriptExecute(BattleScript_TerrainPreventsEnd2);
             }
-            else if (IsMistyTerrainAffected(battler, ability, holdEffect, gFieldStatuses))
+            else if (IsBattlerTerrainAffected(battler, ability, holdEffect, STATUS_FIELD_MISTY_TERRAIN))
             {
                 gBattleCommunication[MULTISTRING_CHOOSER] = B_MSG_TERRAINPREVENTS_MISTY;
                 BattleScriptExecute(BattleScript_TerrainPreventsEnd2);
@@ -1235,7 +1246,7 @@ static bool32 HandleEndTurnThirdEventBlock(u32 battler)
             {
                 gBattlerAttacker = battler;
                 gBattleMons[battler].volatiles.uproarTurns--;  // uproar timer goes down
-                if (gDisableStructs[battler].unableToUseMove)
+                if (WasUnableToUseMove(battler))
                 {
                     CancelMultiTurnMoves(battler, SKY_DROP_IGNORE);
                     gBattleCommunication[MULTISTRING_CHOOSER] = B_MSG_UPROAR_ENDS;
@@ -1270,7 +1281,7 @@ static bool32 HandleEndTurnThirdEventBlock(u32 battler)
         case ABILITY_MOODY:
         case ABILITY_PICKUP:
         case ABILITY_SPEED_BOOST:
-            if (AbilityBattleEffects(ABILITYEFFECT_ENDTURN, battler, ability, MOVE_NONE, TRUE))
+            if (AbilityBattleEffects(ABILITYEFFECT_ENDTURN, battler, ability, 0, MOVE_NONE))
                 effect = TRUE;
             break;
         default:
@@ -1322,7 +1333,7 @@ static bool32 HandleEndTurnFormChangeAbilities(u32 battler)
     case ABILITY_SHIELDS_DOWN:
     case ABILITY_ZEN_MODE:
     case ABILITY_HUNGER_SWITCH:
-        if (AbilityBattleEffects(ABILITYEFFECT_ENDTURN, battler, ability, MOVE_NONE, TRUE))
+        if (AbilityBattleEffects(ABILITYEFFECT_ENDTURN, battler, ability, 0, MOVE_NONE))
             effect = TRUE;
     default:
         break;
