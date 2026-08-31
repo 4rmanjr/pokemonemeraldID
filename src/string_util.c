@@ -124,7 +124,7 @@ u16 StringLength(const u8 *str)
 
 u16 StringLineLength(const u8 *str)
 {
-    u16 i = 0, length = 0;
+    u16 length = 0;
 
     while (str[length] != EOS)
     {
@@ -135,7 +135,6 @@ u16 StringLineLength(const u8 *str)
         case CHAR_NEWLINE:
             return length;
         default:
-            i++;
             length++;
             break;
         }
@@ -479,10 +478,15 @@ static const u8 *ExpandPlaceholder_KunChan(void)
 
 static const u8 *ExpandPlaceholder_RivalName(void)
 {
+#if IS_FRLG
+    if (gSaveBlock1Ptr->rivalName[0] != EOS)
+        return gSaveBlock1Ptr->rivalName;
+#endif
+
     if (gSaveBlock2Ptr->playerGender == MALE)
-        return gText_ExpandedPlaceholder_May;
+        return (IS_FRLG ? gText_ExpandedPlaceholder_Green : gText_ExpandedPlaceholder_May);
     else
-        return gText_ExpandedPlaceholder_Brendan;
+        return (IS_FRLG ? gText_ExpandedPlaceholder_Red : gText_ExpandedPlaceholder_Brendan);
 }
 
 static const u8 *ExpandPlaceholder_Version(void)
@@ -520,6 +524,14 @@ static const u8 *ExpandPlaceholder_Groudon(void)
     return gText_ExpandedPlaceholder_Groudon;
 }
 
+static const u8 *ExpandPlaceholder_Region(void)
+{
+    if (IS_FRLG)
+        return gText_Kanto;
+    else
+        return gText_Hoenn;
+}
+
 const u8 *GetExpandedPlaceholder(u32 id)
 {
     typedef const u8 *(*ExpandPlaceholderFunc)(void);
@@ -540,6 +552,7 @@ const u8 *GetExpandedPlaceholder(u32 id)
         [PLACEHOLDER_ID_MAXIE]        = ExpandPlaceholder_Maxie,
         [PLACEHOLDER_ID_KYOGRE]       = ExpandPlaceholder_Kyogre,
         [PLACEHOLDER_ID_GROUDON]      = ExpandPlaceholder_Groudon,
+        [PLACEHOLDER_ID_REGION]       = ExpandPlaceholder_Region,
     };
 
     if (id >= ARRAY_COUNT(funcs))
@@ -772,7 +785,7 @@ s32 StringCompareWithoutExtCtrlCodes(const u8 *str1, const u8 *str2)
     return retVal;
 }
 
-void ConvertInternationalString(u8 *s, u8 language)
+void ConvertInternationalString(u8 *s, enum Language language)
 {
     if (language == LANGUAGE_JAPANESE)
     {
@@ -830,4 +843,15 @@ u8 *StringCopyUppercase(u8 *dest, const u8 *src)
 
     *dest = EOS;
     return dest;
+}
+
+bool32 DoesStringProperlyTerminate(const u8 *str, u32 last)
+{
+    for (u32 i = 0; i < last; i++)
+    {
+        if (str[i] == EOS)
+            return TRUE;
+    }
+
+    return FALSE;
 }

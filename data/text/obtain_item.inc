@@ -1,39 +1,57 @@
-//gemini
 gText_ObtainedTheItem::
-	.string "Mendapatkan {STR_VAR_2} !$"
+	.string "Obtained the {STR_VAR_2}!$"
 
 gText_TheBagIsFull::
-	.string "TAS sudah penuh…$"
+	.string "The BAG is full…$"
 
 gText_PutItemInPocket::
-	.string "{PLAYER} menyimpan {STR_VAR_2} di\n"
-	.string "SAKU {STR_VAR_3} .$"
+	.string "{PLAYER} put away the {STR_VAR_2}\n"
+	.string "in the {STR_VAR_3} POCKET.$"
 
 gText_PlayerFoundOneItem::
-	.string "{PLAYER} menemukan satu {STR_VAR_2}\n"
-	.string "!$"
+	.string "{PLAYER} found one {STR_VAR_2}!$"
 
 gText_TooBadBagIsFull::
-	.string "Sayang sekali! TAS sudah penuh…$"
+	.string "Too bad!\n"
+	.string "The BAG is full…$"
 
 gText_PlayerPutItemInBag::
-	.string "{PLAYER} menyimpan {STR_VAR_2} di\n"
-	.string "TAS.$"
+	.string "{PLAYER} put away the {STR_VAR_2}\n"
+	.string "in the BAG.$"
 
 gText_ObtainedTheDecor::
-	.string "Mendapatkan {STR_VAR_2} !$"
+	.string "Obtained the {STR_VAR_2}!$"
 
 gText_NoRoomLeftForAnother::
-	.string "Sayang sekali! Tidak ada ruang lagi\n"
-	.string "untuk {STR_VAR_2} yang lain…$"
+	.string "Too bad! There's no room left for\n"
+	.string "another {STR_VAR_2}…$"
 
 gText_TheDecorWasTransferredToThePC::
-	.string "{STR_VAR_2} dipindahkan ke PC.$"
+	.string "The {STR_VAR_2} was transferred\n"
+	.string "to the PC.$"
 
 gText_ObtainedTheItems::
-	.string "Mendapatkan {STR_VAR_1} {STR_VAR_2}\n"
-	.string "!$"
+	.string "Obtained {STR_VAR_1} {STR_VAR_2}!$"
 
 gText_PlayerFoundItems::
-	.string "{PLAYER} menemukan {STR_VAR_1}\n"
-	.string "{STR_VAR_2} !$"
+	.string "{PLAYER} found {STR_VAR_1} {STR_VAR_2}!$"
+
+gText_PutCoinsAwayInCoinCase::
+	.string "{PLAYER} put the COINS away in\n"
+	.string "the COIN CASE.$"
+
+gText_FoundXCoins::
+	.string "{PLAYER} found\n"
+	.string "{STR_VAR_1} {STR_VAR_2}!$"
+
+gText_FoundXItems::
+	.string "{PLAYER} found\n"
+	.string "{STR_VAR_1} {STR_VAR_2}(s)!$"
+
+gText_CoinCaseIsFull::
+	.string "Too bad!\n"
+	.string "The COIN CASE is full…$"
+
+gText_NothingToPutThemIn::
+	.string "Too bad!\n"
+	.string "There's nothing to put them in…$"

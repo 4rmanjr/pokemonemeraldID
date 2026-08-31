@@ -1,4 +1,3 @@
-//gemini
 @ Interact with cuttable tree
 EventScript_CutTree::
 	lockall
@@ -45,16 +44,16 @@ EventScript_CancelCut::
 	end
 
 Text_WantToCut:
-	.string "Pohon ini sepertinya bisa\n"
-	.string "ditebas!\p"
-	.string "Apa kamu mau menebasnya?$"
+	.string "This tree looks like it can be\n"
+	.string "CUT down!\p"
+	.string "Would you like to CUT it?$"
 
 Text_MonUsedFieldMove:
-	.string "{STR_VAR_1} menggunakan {STR_VAR_2}!$"
+	.string "{STR_VAR_1} used {STR_VAR_2}!$"
 
 Text_CantCut:
-	.string "Pohon ini sepertinya bisa\n"
-	.string "ditebas!$"
+	.string "This tree looks like it can be\n"
+	.string "CUT down!$"
 
 @ Use rock smash from party menu
 EventScript_UseRockSmash::
@@ -215,13 +214,12 @@ EventScript_CancelSmash::
 	end
 
 Text_WantToSmash:
-	.string "Batu ini sepertinya bisa dihancurkan.\n"
-	.string "Apakah kamu ingin menggunakan\l"
-	.string "ROCK SMASH?$"
+	.string "This rock appears to be breakable.\n"
+	.string "Would you like to use ROCK SMASH?$"
 
 Text_CantSmash:
-	.string "Ini adalah batu yang kokoh, tapi\n"
-	.string "POKéMON mungkin bisa menghancurkannya.$"
+	.string "It's a rugged rock, but a POKéMON\n"
+	.string "may be able to smash it.$"
 
 EventScript_StrengthBoulder::
 	lockall
@@ -266,23 +264,22 @@ EventScript_CancelStrength::
 	end
 
 Text_WantToStrength:
-	.string "Ini adalah batu besar, tapi\n"
-	.string "POKéMON mungkin bisa mendorongnya.\p"
-	.string "Apakah kamu ingin menggunakan\n"
-	.string "KEKUATAN?$"
+	.string "It's a big boulder, but a POKéMON\n"
+	.string "may be able to push it aside.\p"
+	.string "Would you like to use STRENGTH?$"
 
 Text_MonUsedStrength:
-	.string "{STR_VAR_1} menggunakan KEKUATAN!\p"
-	.string "KEKUATAN {STR_VAR_1} memungkinkan\n"
-	.string "untuk memindahkan batu-batu!$"
+	.string "{STR_VAR_1} used STRENGTH!\p"
+	.string "{STR_VAR_1}'s STRENGTH made it\n"
+	.string "possible to move boulders around!$"
 
 Text_CantStrength:
-	.string "Ini adalah batu besar, tapi\n"
-	.string "POKéMON mungkin bisa mendorongnya.$"
+	.string "It's a big boulder, but a POKéMON\n"
+	.string "may be able to push it aside.$"
 
 Text_StrengthActivated:
-	.string "KEKUATAN memungkinkan untuk\n"
-	.string "memindahkan batu-batu.$"
+	.string "STRENGTH made it possible to move\n"
+	.string "boulders around.$"
 
 EventScript_UseWaterfall::
 	lockall
@@ -309,16 +306,15 @@ EventScript_EndWaterfall::
 	end
 
 Text_CantWaterfall:
-	.string "Dinding air bergemuruh\n"
-	.string "dengan suara yang dahsyat.$"
+	.string "A wall of water is crashing down with\n"
+	.string "a mighty roar.$"
 
 Text_WantToWaterfall:
-	.string "Ini adalah air terjun yang besar.\n"
-	.string "Apakah kamu ingin menggunakan\l"
-	.string "WATERFALL?$"
+	.string "It's a large waterfall.\n"
+	.string "Would you like to use WATERFALL?$"
 
 Text_MonUsedWaterfall:
-	.string "{STR_VAR_1} menggunakan WATERFALL.$"
+	.string "{STR_VAR_1} used WATERFALL.$"
 
 EventScript_UseDive::
 	lockall
@@ -404,30 +400,30 @@ EventScript_UseCutGrass::
 	goto EventScript_CutGrassCommon
 
 Text_CantDive:
-	.string "Laut di sini dalam. POKéMON\n"
-	.string "mungkin bisa menyelam.$"
+	.string "The sea is deep here. A POKéMON\n"
+	.string "may be able to go underwater.$"
 
 Text_WantToDive:
-	.string "Laut di sini dalam.\n"
-	.string "Apakah Kamu ingin menggunakan DIVE?$"
+	.string "The sea is deep here.\n"
+	.string "Would you like to use DIVE?$"
 
 Text_MonUsedDive:
-	.string "{STR_VAR_1} menggunakan DIVE.$"
+	.string "{STR_VAR_1} used DIVE.$"
 
 Text_CantSurface:
-	.string "Cahaya menyaring dari atas.\n"
-	.string "POKéMON mungkin bisa muncul.$"
+	.string "Light is filtering down from above.\n"
+	.string "A POKéMON may be able to surface.$"
 
 Text_WantToSurface:
-	.string "Cahaya menyaring dari atas.\n"
-	.string "Apakah Kamu ingin menggunakan DIVE?$"
+	.string "Light is filtering down from above.\n"
+	.string "Would you like to use DIVE?$"
 
 EventScript_FailSweetScent::
 	msgbox Text_FailSweetScent, MSGBOX_SIGN
 	end
 
 Text_FailSweetScent:
-	.string "Sepertinya tidak ada apa-apa di sini…$"
+	.string "Looks like there's nothing here…$"
 
 EventScript_UseDefog::
 	lockall
@@ -469,13 +465,12 @@ EventScript_EndRockClimb::
 	end
 
 Text_WantToRockClimb:
-    .string "Tebingnya curam.\n"
-    .string "Apa kamu ingin menggunakan\l"
-    .string "Rock Climb?$"
+	.string "The cliff is steep.\n"
+	.string "Would you like to use Rock Climb?$"
 
 Text_MonUsedRockClimb:
-    .string "{STR_VAR_1} menggunakan Rock Climb!$"
+	.string "{STR_VAR_1} used Rock Climb!$"
 
 Text_CantRockClimb:
-    .string "Tebingnya curam.\n"
-    .string "Pokémon mungkin bisa memanjatnya.$"
+	.string "The cliff is steep.\n"
+	.string "A Pokémon may be able to climb it.$"

@@ -1,4 +1,3 @@
-//aistudio
 MtChimney_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, MtChimney_OnResume
 	map_script MAP_SCRIPT_ON_TRANSITION, MtChimney_OnTransition
@@ -472,7 +471,7 @@ MtChimney_EventScript_MachineOff::
 	end
 
 MtChimney_EventScript_MachineOn::
-	msgbox MtChimney_Text_MetoriteFittedOnMachine, MSGBOX_DEFAULT
+	msgbox MtChimney_Text_MeteoriteFittedOnMachine, MSGBOX_DEFAULT
 	releaseall
 	end
 
@@ -543,328 +542,312 @@ MtChimney_EventScript_SawyerRematch::
 	end
 
 MtChimney_Text_MeteoriteWillActivateVolcano:
-	.string "Kekuatan yang terkandung dalam\n"
-	.string "METEORITE…\p"
-	.string "Dengan memperkuat kekuatannya\n"
-	.string "menggunakan mesin ini, aktivitas\l"
-	.string "vulkanik MT. CHIMNEY akan langsung\l"
-	.string "meningkat…\p"
-	.string "Energinya akan tumbuh jauh di dalam\n"
-	.string "kawah &…\l"
+	.string "The power contained in the METEORITE…\p"
+	.string "By amplifying its power with this\n"
+	.string "machine, MT. CHIMNEY's volcanic\l"
+	.string "activity will instantly intensify…\p"
+	.string "Its energy will grow deep inside\n"
+	.string "the crater and…\l"
 	.string "Fufufu…$"
 
 MtChimney_Text_MaxieIntro:
 	.string "MAXIE: Hm?\n"
-	.string "Kamu siapa?\p"
+	.string "Who are you?\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
-	.string "Aku dengar ARCHIE mengeluh tentang\n"
-	.string "anak yang ikut campur urusan TEAM\l"
-	.string "AQUA.\p"
-	.string "Pasti kamu yang dia maksud.\p"
-	.string "Hmph! Jadi kamu berniat mengganggu\n"
-	.string "kami, TEAM MAGMA?\p"
-	.string "Dengar baik-baik.\n"
-	.string "Dulu, makhluk hidup memakai daratan\l"
-	.string "untuk hidup & tumbuh.\p"
-	.string "Itulah mengapa daratan sangat\n"
-	.string "penting! Itu adalah asal-usul semua!\p"
-	.string "Itulah mengapa TEAM MAGMA bertekad\n"
-	.string "memperluas daratan.\p"
-	.string "Ini demi kemajuan umat manusia &\n"
-	.string "POKéMON!\p"
-	.string "Untuk itu, kami butuh kekuatan dari\n"
-	.string "apa yang tertidur di gunung ini…\p"
-	.string "Oh! Kamu tidak perlu tahu sebanyak\n"
-	.string "itu.\p"
-	.string "Tapi, tidak masalah!\n"
-	.string "Aku akan memberimu pelajaran karena\l"
-	.string "ikut campur rencana besar kami!$"
+	.string "I'd heard ARCHIE bemoaning a child\n"
+	.string "who's been meddling in TEAM AQUA's\l"
+	.string "affairs.\p"
+	.string "It must be you he meant.\p"
+	.string "Humph! So you're thinking of\n"
+	.string "interfering with us, TEAM MAGMA?\p"
+	.string "Now you listen.\n"
+	.string "Long ago, living things used the\l"
+	.string "land to live and grow.\p"
+	.string "That is why land is all important!\n"
+	.string "It is the cradle of all!\p"
+	.string "That is why TEAM MAGMA is dedicated\n"
+	.string "to the expansion of the land mass.\p"
+	.string "It is for further advancement of\n"
+	.string "humankind and POKéMON!\p"
+	.string "And for that, we need the power of\n"
+	.string "what sleeps within this mountain…\p"
+	.string "Oh! There was no need for you to\n"
+	.string "learn that much.\p"
+	.string "But, no matter!\n"
+	.string "I'll teach you the consequences of\l"
+	.string "meddling in our grand design!$"
 
 MtChimney_Text_MaxieDefeat:
-	.string "Apa?!\p"
-	.string "Aku, MAXIE, lengah?!$"
+	.string "What?!\p"
+	.string "I, MAXIE, was caught off guard?!$"
 
 MtChimney_Text_MaxieYouHaventSeenLastOfMagma:
-	.string "MAXIE: Cukup.\n"
-	.string "Aku akan mundur kali ini.\p"
-	.string "Tapi jangan kira ini yang terakhir\n"
-	.string "kamu lihat dari TEAM MAGMA.\p"
+	.string "MAXIE: But, enough.\n"
+	.string "I will back off this time.\p"
+	.string "But don't think that this is the last\n"
+	.string "you've seen of TEAM MAGMA.\p"
 	.string "Fufufu…\p"
-	.string "Bahkan tanpa METEORITE, jika kami\n"
-	.string "mendapatkan ORB itu… Fufufu…$"
+	.string "Even without the METEORITE, if we\n"
+	.string "obtain that ORB… Fufufu…$"
 
 MtChimney_Text_TabithaIntro:
 	.string "Hehehe!\p"
-	.string "Jadi kamu sudah sampai sini!\p"
-	.string "Tapi kamu terlambat!\n"
-	.string "Aku sudah menyerahkan METEORITE\l"
-	.string "dari METEOR FALLS ke BOSS!$"
+	.string "So you've come all the way here!\p"
+	.string "But you're too late!\n"
+	.string "I've already delivered the METEORITE\l"
+	.string "from METEOR FALLS to the BOSS!$"
 
 MtChimney_Text_TabithaDefeat:
 	.string "Hehehe…\p"
-	.string "Meskipun aku kalah, jika pemimpin\n"
-	.string "kami membangunkan benda itu…$"
+	.string "Even though I've lost, if our leader\n"
+	.string "awakens that thing…$"
 
 MtChimney_Text_TabithaPostBattle:
-	.string "BOSS, cepat!\n"
-	.string "Berikan energi METEORITE padanya!\p"
+	.string "BOSS, hurry!\n"
+	.string "Give it the METEORITE's energy!\p"
 	.string "Hehehe…$"
 
 MtChimney_Text_Grunt2Intro:
-	.string "Kami dari TEAM MAGMA bekerja keras\n"
-	.string "demi semua orang.\p"
-	.string "Jika kekuatan benda itu membuat\n"
-	.string "lebih banyak daratan, akan ada\l"
-	.string "lebih banyak tempat tinggal.\p"
-	.string "Semua orang akan senang!$"
+	.string "We of TEAM MAGMA are working hard for\n"
+	.string "everyone's sake.\p"
+	.string "Like, if that thing's power made more\n"
+	.string "land, there'd be more places to live.\p"
+	.string "Everyone'd be happy!$"
 
 MtChimney_Text_Grunt2Defeat:
-	.string "Hah?\n"
-	.string "Apa maksudmu aku kalah?$"
+	.string "Hunh?\n"
+	.string "What do you mean I lost?$"
 
 MtChimney_Text_Grunt2PostBattle:
-	.string "BOSS kami bilang, “Ini akan membuat\n"
-	.string "semua orang senang.”\p"
-	.string "Tapi kenapa semua orang terus\n"
-	.string "menghalangi kami?$"
+	.string "Our BOSS says, “It will make everyone\n"
+	.string "happy.”\p"
+	.string "But why does everyone keep getting\n"
+	.string "in our way?$"
 
 MtChimney_Text_Grunt1Intro:
-	.string "Jika ada lebih banyak daratan, aku\n"
-	.string "bisa punya rumah besar sendiri!\p"
-	.string "Aku akan membangunnya di atas lava\n"
-	.string "yang mengeras!$"
+	.string "If there were more land, I'd be able\n"
+	.string "to get a big house of my own!\p"
+	.string "I'm going to build it on hardened lava!$"
 
 MtChimney_Text_Grunt1Defeat:
-	.string "Mimpiku punya rumah besar…$"
+	.string "My dream of a big house…$"
 
 MtChimney_Text_Grunt1PostBattle:
-	.string "Anak sepertimu, seharusnya kamu\n"
-	.string "bermain air di ombak!$"
+	.string "A kid like you, you ought to be\n"
+	.string "splashing about in the waves!$"
 
 MtChimney_Text_TeamAquaAlwaysMessingWithPlans:
-	.string "TEAM AQUA yang menyebalkan itu…\n"
-	.string "Mereka selalu mengacaukan rencana\l"
-	.string "kami!$"
+	.string "That annoying TEAM AQUA…\n"
+	.string "They always mess with our plans!$"
 
 MtChimney_Text_MeteoritesPackAmazingPower:
-	.string "METEORITE menyimpan kekuatan hebat!$"
+	.string "METEORITES pack amazing power!$"
 
 MtChimney_Text_YouBetterNotMessWithUs:
-	.string "Sebaiknya kamu jangan mengganggu\n"
-	.string "kami!\p"
-	.string "Kami mencoba membangunkan benda itu\n"
-	.string "demi kebaikan semua orang!$"
+	.string "You'd better not mess with us!\p"
+	.string "We're trying to awaken that thing\n"
+	.string "for the benefit of everyone!$"
 
 MtChimney_Text_AquasNameSimilar:
-	.string "Kami TEAM MAGMA!\p"
-	.string "Mereka TEAM AQUA!\p"
-	.string "Aku kesal sekali mereka memakai\n"
-	.string "nama yang mirip dengan kami!$"
+	.string "We're TEAM MAGMA!\p"
+	.string "They're TEAM AQUA!\p"
+	.string "It totally annoys me that they'd\n"
+	.string "use a name like ours!$"
 
 MtChimney_Text_DouseThemInFire:
-	.string "Ya!\n"
-	.string "Bakar mereka dengan api!$"
+	.string "Yeah!\n"
+	.string "Douse them in fire!$"
 
 MtChimney_Text_KeepMakingMoreLand:
-	.string "Kami akan terus memperluas daratan!$"
+	.string "We're going to keep making more land!$"
 
 MtChimney_Text_Bufoh:
 	.string "Bufoh!$"
 
 MtChimney_Text_ArchieGoStopTeamMagma:
 	.string "ARCHIE: Grr, {PLAYER}!\n"
-	.string "Aku seharusnya sudah menduga kamu\l"
-	.string "akan muncul!\p"
-	.string "Lihat sendiri apa yang dilakukan\n"
-	.string "fanatik TEAM MAGMA!\p"
-	.string "Mereka mencoba menyuntikkan kekuatan\n"
-	.string "METEORITE curian ke gunung berapi!\p"
-	.string "Melakukan hal seperti itu akan\n"
-	.string "menyebabkan letusan gunung berapi!$"
+	.string "I should've guessed you'd show up!\p"
+	.string "See for yourself what the fanatics\n"
+	.string "of TEAM MAGMA are up to!\p"
+	.string "They're trying to inject the stolen\n"
+	.string "METEORITE's power into the volcano!\p"
+	.string "Doing something like that will cause\n"
+	.string "the volcano's eruption!$"
 
 MtChimney_Text_ArchieIHaveMyHandsFull:
 	.string "ARCHIE: Grrr…\p"
-	.string "Aku ingin menghentikan MAXIE itu,\n"
-	.string "tapi aku tidak bisa!\p"
-	.string "Tidak saat aku sibuk melawan tiga\n"
-	.string "lawan sekaligus!$"
+	.string "I want to stop that MAXIE,\n"
+	.string "but I can't!\p"
+	.string "Not when I have my hands full battling\n"
+	.string "three opponents at once!$"
 
 MtChimney_Text_ArchieThankYou:
 	.string "ARCHIE: {PLAYER}!\n"
-	.string "Terima kasih!\p"
-	.string "Dengan bantuanmu, kami menggagalkan\n"
-	.string "rencana destruktif TEAM MAGMA!\p"
-	.string "Tapi… Kamu…\n"
-	.string "Kamu di pihak siapa?\p"
-	.string "Ah, tidak masalah.\p"
-	.string "Kami akan tetap waspada & terus\n"
-	.string "mengejar TEAM MAGMA.\p"
-	.string "{PLAYER}, kita akan bertemu lagi!$"
+	.string "Thank you!\p"
+	.string "With your help, we thwarted TEAM\n"
+	.string "MAGMA's destructive plan!\p"
+	.string "But… You…\n"
+	.string "Whose side are you on?\p"
+	.string "Ah, it doesn't matter.\p"
+	.string "We will remain vigilant and keep up\n"
+	.string "our pursuit of TEAM MAGMA.\p"
+	.string "{PLAYER}, we shall meet again!$"
 
 MtChimney_Text_MagmaOutnumbersUs:
-	.string "Sial… TEAM MAGMA lebih banyak dari\n"
-	.string "kami! Kami tidak bisa mengimbangi\l"
-	.string "mereka!$"
+	.string "Darn… TEAM MAGMA outnumbers us!\n"
+	.string "We can't keep up with them!$"
 
 MtChimney_Text_LessHabitatForWaterPokemon:
-	.string "Jika mereka memperluas daratan, akan\n"
-	.string "ada lebih sedikit habitat untuk\l"
-	.string "WATER POKéMON!$"
+	.string "If they expand the land, there'll be\n"
+	.string "less habitats for WATER POKéMON!$"
 
 MtChimney_Text_MagmasNameSimilar:
-	.string "Kami TEAM AQUA!\p"
-	.string "Mereka TEAM MAGMA!\p"
-	.string "Aku kesal sekali mereka memakai\n"
-	.string "nama yang membingungkan!$"
+	.string "We're TEAM AQUA!\p"
+	.string "They're TEAM MAGMA!\p"
+	.string "It burns me up that they'd use such\n"
+	.string "a confusing name!$"
 
 MtChimney_Text_Bushaa:
 	.string "Bushaa!$"
 
 MtChimney_Text_LavaCookiesJust200:
-	.string "LAVA COOKIES adalah makanan khas\n"
-	.string "MT. CHIMNEY.\p"
-	.string "Coba satu. Hanya ¥200.$"
+	.string "LAVA COOKIES are MT. CHIMNEY's local\n"
+	.string "specialty.\p"
+	.string "Try one. It's just ¥200.$"
 
 MtChimney_Text_ThankYouDear:
-	.string "Terima kasih, sayang!$"
+	.string "Thank you, dear!$"
 
 MtChimney_Text_YouveNotGotTheMoney:
-	.string "Oh, sayang. Kamu tidak bisa membeli\n"
-	.string "apa-apa jika tidak punya uang.$"
+	.string "Oh, dear. You can't buy a thing if\n"
+	.string "you've not got the money.$"
 
 MtChimney_Text_OhFineThen:
-	.string "Oh, baiklah.$"
+	.string "Oh, fine then.$"
 
-MtChimney_Text_MetoriteFittedOnMachine:
-	.string "Sebuah METEORITE terpasang pada\n"
-	.string "mesin misterius…\p"
-	.string "Mesin itu sepertinya menyimpan\n"
-	.string "energi di METEORITE.$"
+MtChimney_Text_MeteoriteFittedOnMachine:
+	.string "A METEORITE is fitted on a mysterious\n"
+	.string "machine…\p"
+	.string "The machine seems to be storing\n"
+	.string "energy in the METEORITE.$"
 
 MtChimney_Text_RemoveTheMeteorite:
-	.string "Sebuah METEORITE terpasang pada\n"
-	.string "mesin misterius…\p"
-	.string "Apakah kamu ingin melepas METEORITE?$"
+	.string "A METEORITE is fitted on a mysterious\n"
+	.string "machine…\p"
+	.string "Do you want to remove the METEORITE?$"
 
 MtChimney_Text_PlayerRemovedMeteorite:
-	.string "{PLAYER} melepas METEORITE dari\n"
-	.string "mesin misterius itu.$"
+	.string "{PLAYER} removed the METEORITE from\n"
+	.string "the mysterious machine.$"
 
 MtChimney_Text_PlayerLeftMeteorite:
-	.string "{PLAYER} meninggalkan METEORITE\n"
-	.string "di tempatnya.$"
+	.string "{PLAYER} left the METEORITE where\n"
+	.string "it was.$"
 
 MtChimney_Text_MachineMakesNoResponse:
-	.string "Mesin misterius ini…\n"
-	.string "Tidak ada respons sama sekali.$"
+	.string "This mysterious machine…\n"
+	.string "It makes no response whatsoever.$"
 
 MtChimney_Text_RouteSign:
-	.string "{DOWN_ARROW} JALUR BERBATU\n"
-	.string "KOTA LAVARIDGE DI DEPAN$"
+	.string "{DOWN_ARROW} JAGGED PATH\n"
+	.string "LAVARIDGE TOWN AHEAD$"
 
 MtChimney_Text_ShelbyIntro:
-	.string "Aku sudah ke pemandian air panas &\n"
-	.string "menyegarkan tulang-tulangku yang\l"
-	.string "lelah.\l"
-	.string "Sekarang aku merasa kuat!$"
+	.string "I've been to the hot springs and\n"
+	.string "refreshed my tired bones.\l"
+	.string "Right now I'm feeling strong!$"
 
 MtChimney_Text_ShelbyDefeat:
-	.string "Astaga.\n"
-	.string "Kamu hebat sekali!$"
+	.string "Oh, my goodness.\n"
+	.string "Now, aren't you something!$"
 
 MtChimney_Text_ShelbyPostBattle:
-	.string "Yah, yah, aku kalah. Aku tidak bisa\n"
-	.string "menyebut diriku EXPERT sekarang,\l"
-	.string "bukan?$"
+	.string "Well, well, I've lost. I can't call\n"
+	.string "myself an EXPERT now, can I?$"
 
 MtChimney_Text_ShelbyRegister:
-	.string "Terima kasih, Nak. Menyenangkan,\n"
-	.string "seolah aku melawan cucuku sendiri.\p"
-	.string "Tolong, datang lagi menemuiku untuk\n"
-	.string "pertandingan ulang.$"
+	.string "Thank you, child. It was fun, as if\n"
+	.string "I were battling my own grandchild.\p"
+	.string "Please, come see me again for\n"
+	.string "a rematch.$"
 
 MtChimney_Text_ShelbyRematchIntro:
-	.string "Jika kamu bisa menyatukan hatimu\n"
-	.string "dengan hati POKéMON-mu, kamu\l"
-	.string "seharusnya bisa mencapai hal-hal\l"
-	.string "hebat.$"
+	.string "If you can mesh your heart with those\n"
+	.string "of your POKéMON, why, you should be\l"
+	.string "able to achieve great things.$"
 
 MtChimney_Text_ShelbyRematchDefeat:
-	.string "Astaga.\n"
-	.string "Kamu hebat sekali!$"
+	.string "Oh, my goodness.\n"
+	.string "Now, aren't you something!$"
 
 MtChimney_Text_ShelbyPostRematch:
-	.string "Mungkin hatimu telah menyatu dengan\n"
-	.string "hati POKéMON-mu.$"
+	.string "Perhaps your heart has become one\n"
+	.string "with the hearts of your POKéMON.$"
 
 MtChimney_Text_MelissaIntro:
-	.string "Aku punya api di dalam diriku, sayang.\n"
-	.string "Aku tidak tahan! Aku harus bertarung!$"
+	.string "I've got the fire in me, baby.\n"
+	.string "I can't stand it! I have to battle!$"
 
 MtChimney_Text_MelissaDefeat:
-	.string "Ooh, itu pertandingan yang sangat\n"
-	.string "panas!$"
+	.string "Ooh, that was a scorching-hot match!$"
 
 MtChimney_Text_MelissaPostBattle:
-	.string "Panasnya MT. CHIMNEY menghangatkanku,\n"
-	.string "sayang!$"
+	.string "The heat of MT. CHIMNEY warms\n"
+	.string "me up, baby!$"
 
 MtChimney_Text_SheilaIntro:
-	.string "Aku akhirnya sampai di MT. CHIMNEY.\n"
-	.string "Aku ingin POKéMON-ku bertarung!$"
+	.string "I've finally made it to MT. CHIMNEY.\n"
+	.string "I want to make my POKéMON battle!$"
 
 MtChimney_Text_SheilaDefeat:
-	.string "Caramu bertarung…\n"
-	.string "Seperti letusan MT. CHIMNEY!$"
+	.string "The way you battle…\n"
+	.string "It's like a MT. CHIMNEY eruption!$"
 
 MtChimney_Text_SheilaPostBattle:
-	.string "Seperti yang kubilang, aku akhirnya\n"
-	.string "sampai di MT. CHIMNEY. Sayang sekali\l"
-	.string "jika aku hanya sedikit jalan-jalan…\p"
-	.string "Aku ingin bertarung & membeli\n"
-	.string "COOKIES sebagai suvenir.$"
+	.string "Like I said, I've finally made it to\n"
+	.string "MT. CHIMNEY. It would be a shame if\l"
+	.string "I only do a little sightseeing…\p"
+	.string "I want to get in some battles and buy\n"
+	.string "COOKIES as souvenirs.$"
 
 MtChimney_Text_ShirleyIntro:
-	.string "Sejak aku mandi di pemandian air\n"
-	.string "panas, aku merasa hebat!\l"
-	.string "Aku yakin aku akan menang!$"
+	.string "Since I bathed in the hot springs,\n"
+	.string "I've been feeling great!\l"
+	.string "I'm sure I'm going to win!$"
 
 MtChimney_Text_ShirleyDefeat:
-	.string "Aduh!\n"
-	.string "Aku merasa dingin setelah keluar\l"
-	.string "dari air.$"
+	.string "Yowch!\n"
+	.string "I'm getting a chill out of the water.$"
 
 MtChimney_Text_ShirleyPostBattle:
-	.string "Aku harus berendam lagi di pemandian\n"
-	.string "air panas. Mau ikut?\p"
-	.string "Hanya bercanda!$"
+	.string "I'll have to take another dip in the\n"
+	.string "hot springs. Want to join me?\p"
+	.string "Just joking!$"
 
 MtChimney_Text_SawyerIntro:
-	.string "Ini gunung yang indah! Banyak orang\n"
-	.string "panas di sekitar sini untuk teman!$"
+	.string "This is one fine mountain! Plenty of\n"
+	.string "hot people around for company!$"
 
 MtChimney_Text_SawyerDefeat:
-	.string "Oh, kamu juga bersemangat sekali!$"
+	.string "Oh, you're a real firebrand, too!$"
 
 MtChimney_Text_SawyerPostBattle:
-	.string "Kurasa aku perlu berendam di\n"
-	.string "LAVARIDGE HOT SPRING bersama\l"
-	.string "penduduk lokal!$"
+	.string "I think I need a dip in LAVARIDGE\n"
+	.string "HOT SPRING with the locals!$"
 
 MtChimney_Text_SawyerRegister:
-	.string "Aku suka bola api kecil sepertimu.\n"
-	.string "Biarkan aku mendaftarkanmu di\l"
-	.string "POKéNAV-ku.$"
+	.string "I like little fireballs like you.\n"
+	.string "Let me register you in my POKéNAV.$"
 
 MtChimney_Text_SawyerRematchIntro:
-	.string "Aku senang dikelilingi orang-orang\n"
-	.string "panas di sini. Aku tidak akan kalah!$"
+	.string "I'm happily surrounded by hot people\n"
+	.string "around these parts. I won't lose!$"
 
 MtChimney_Text_SawyerRematchDefeat:
-	.string "Astaga, kamu masih bersemangat\n"
-	.string "seperti sebelumnya!$"
+	.string "Gosh, you're still the same\n"
+	.string "firebrand as before!$"
 
 MtChimney_Text_SawyerPostRematch:
-	.string "Sebenarnya, di sini memang panas.\n"
-	.string "Aku salah kostum untuk tempat ini.$"
+	.string "Actually, it really is hot here.\n"
+	.string "I'm overdressed for these parts.$"
