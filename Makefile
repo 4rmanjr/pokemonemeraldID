@@ -27,7 +27,7 @@ KEEP_TEMPS  ?= 0
 
 # `File name`.gba
 FILE_NAME := poke$(BUILD_NAME)
-BASEROM ?= baserom.gba
+BASEROM ?= baserom/baserom.gba
 BASEROM_SHA1_EXPECTED := f3ae088181bf583e55daf962a92bb46f4f1d07b7
 BUILD_DIR := build
 
@@ -371,6 +371,7 @@ check: $(TESTELF)
 # Other rules
 rom: $(ROM)
 bps: $(ROM)
+	@mkdir -p patches
 	@if [ ! -f $(BASEROM) ]; then echo "Error: $(BASEROM) not found. Please obtain a clean Emerald ROM, name it $(BASEROM), and place it in the project root."; exit 1; fi
 	@BASEROM_CURRENT_SHA1=$$($(shell { command -v sha1sum || command -v shasum; } 2>/dev/null) $(BASEROM) | awk '{print $$1}'); \
 	if [ "$$BASEROM_CURRENT_SHA1" != "$(BASEROM_SHA1_EXPECTED)" ]; then \
@@ -378,7 +379,7 @@ bps: $(ROM)
 		echo "Please ensure $(BASEROM) is an unmodified Emerald ROM."; \
 		exit 1; \
 	fi
-	$(FLIPS) --create --bps $(BASEROM) $(ROM) $(ROM:.gba=.bps)
+	$(FLIPS) --create --bps $(BASEROM) $(ROM) patches/$(ROM:.gba=.bps)
 
 ifeq ($(COMPARE),1)
 	@$(SHA1) rom.sha1
@@ -403,6 +404,7 @@ tidy: tidymodern tidycheck tidydebug tidyrelease
 
 tidymodern:
 	rm -f poke*.gba poke*.elf poke*.map
+	rm -f patches/*.bps
 	rm -rf $(OBJ_DIR_NAME)
 
 tidycheck:
