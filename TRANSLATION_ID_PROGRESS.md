@@ -1,0 +1,1092 @@
+# 🇮🇩 Progres Terjemahan Inggris → Indonesia
+
+> Dibuat otomatis 2026-09-08. Acuan EN = `upstream/master` (rh-hideout/pokeemerald-expansion).
+> Status `✅ disentuh` = file sudah beda vs upstream (terjemahan dimulai, **belum tentu 100%** — perlu cek per-`.string`).
+> Status `⬜ belum` = file masih identik dengan upstream (100% Inggris).
+> Deteksi via `git diff --numstat upstream/master` (perubahan mode saja tidak dihitung).
+
+## 📊 Ringkasan
+
+| Kategori | Total file | ✅ Disentuh | ⬜ Belum | Tanpa dialog |
+|---|---|---|---|---|
+| `data/maps/*/scripts.inc` (dialog NPC per map) | 887 | 300 | 294 | 293 |
+| `data/text/*.inc` (sistem: nurse, TV, trainer, dsb) | 36 | 23 | 13 | - |
+| `data/scripts/*.inc` (script umum) | 86 | 59 | 27 | - |
+| `src/*.c` + battle/event scripts (sistem inti) | 12 | 0 | 12 | - |
+
+**Estimasi kasar:** 382/716 file dialog sudah disentuh (53%), sisa 334 file masih Inggris.
+
+### Cara pakai
+1. Ambil satu file `⬜ belum`, terjemahkan tiap baris `.string "..."` ke Indonesia.
+2. Jaga placeholder: `{PLAYER}`, `{STR_VAR_1}`, `{KUN}`, `\n`, `\l`, `\p`, `$` **jangan diubah**.
+3. Contoh pola yang sudah dipakai di repo ini: `Hunh? PROF. BIRCH?` → `Hah? PROF. BIRCH?`, `fieldwork` → `penelitian lapangan`.
+4. Setelah selesai satu file, ubah `- [ ]` jadi `- [x]` di file ini + commit.
+5. Cek cepat: `git diff upstream/master -- <path>` untuk lihat sisa Inggris.
+
+## A. `data/text/*.inc` — Teks Sistem (prioritas tinggi)
+
+- [x] ✅ `data/text/abnormal_weather.inc` — 4 baris `.string`
+- [x] ✅ `data/text/apprentice.inc` — 2198 baris `.string`
+- [x] ✅ `data/text/battle_tent.inc` — 352 baris `.string`
+- [x] ✅ `data/text/berries.inc` — 177 baris `.string`
+- [x] ✅ `data/text/birch_speech.inc` — 48 baris `.string`
+- [x] ✅ `data/text/blend_master.inc` — 64 baris `.string`
+- [ ] ⬜ `data/text/braille.inc` — 0 baris `.string` (hanya mode-change, isi masih sama)
+- [x] ✅ `data/text/cable_club.inc` — 324 baris `.string`
+- [x] ✅ `data/text/check_furniture.inc` — 13 baris `.string`
+- [ ] ⬜ `data/text/day_care_frlg.inc` — 69 baris `.string`
+- [x] ✅ `data/text/event_ticket_1.inc` — 31 baris `.string`
+- [x] ✅ `data/text/event_ticket_2.inc` — 59 baris `.string`
+- [ ] ⬜ `data/text/fame_checker_frlg.inc` — 819 baris `.string`
+- [ ] ⬜ `data/text/ingame_trade_frlg.inc` — 31 baris `.string`
+- [ ] ⬜ `data/text/lottery_corner.inc` — 48 baris `.string`
+- [ ] ⬜ `data/text/match_call.inc` — 2321 baris `.string`
+- [x] ✅ `data/text/mauville_man.inc` — 32 baris `.string`
+- [ ] ⬜ `data/text/move_relearner.inc` — 23 baris `.string`
+- [x] ✅ `data/text/move_tutors.inc` — 181 baris `.string`
+- [ ] ⬜ `data/text/new_game_intro_frlg.inc` — 114 baris `.string`
+- [ ] ⬜ `data/text/obtain_item.inc` — 26 baris `.string`
+- [ ] ⬜ `data/text/pc.inc` — 7 baris `.string`
+- [ ] ⬜ `data/text/pc_transfer.inc` — 29 baris `.string`
+- [x] ✅ `data/text/pkmn_center_nurse.inc` — 35 baris `.string`
+- [x] ✅ `data/text/pokedex_rating.inc` — 150 baris `.string`
+- [x] ✅ `data/text/pokemon_news.inc` — 160 baris `.string`
+- [x] ✅ `data/text/questionnaire.inc` — 26 baris `.string`
+- [x] ✅ `data/text/record_mix.inc` — 3 baris `.string`
+- [x] ✅ `data/text/save.inc` — 19 baris `.string`
+- [x] ✅ `data/text/secret_base_trainers.inc` — 193 baris `.string`
+- [x] ✅ `data/text/shoal_cave.inc` — 37 baris `.string`
+- [x] ✅ `data/text/surf.inc` — 5 baris `.string`
+- [ ] ⬜ `data/text/trainer_card_frlg.inc` — 108 baris `.string`
+- [x] ✅ `data/text/trainers.inc` — 2580 baris `.string`
+- [ ] ⬜ `data/text/trainers_frlg.inc` — 522 baris `.string`
+- [x] ✅ `data/text/tv.inc` — 2411 baris `.string`
+
+## B. `data/scripts/*.inc` — Script Umum
+
+<details><summary>Klik untuk buka daftar (86 file)</summary>
+
+- [x] ✅ `data/scripts/abnormal_weather.inc`
+- [ ] ⬜ `data/scripts/aide.inc`
+- [x] ✅ `data/scripts/apprentice.inc`
+- [ ] ⬜ `data/scripts/apricorn_tree.inc`
+- [ ] ⬜ `data/scripts/battle_frontier.inc`
+- [x] ✅ `data/scripts/battle_pike.inc`
+- [x] ✅ `data/scripts/berry_blender.inc`
+- [x] ✅ `data/scripts/berry_tree.inc`
+- [x] ✅ `data/scripts/cable_club.inc`
+- [ ] ⬜ `data/scripts/cable_club_frlg.inc`
+- [x] ✅ `data/scripts/cave_hole.inc`
+- [x] ✅ `data/scripts/cave_of_origin.inc`
+- [x] ✅ `data/scripts/check_furniture.inc`
+- [x] ✅ `data/scripts/config.inc`
+- [x] ✅ `data/scripts/contest_hall.inc`
+- [x] ✅ `data/scripts/day_care.inc`
+- [ ] ⬜ `data/scripts/day_care_frlg.inc`
+- [x] ✅ `data/scripts/debug.inc`
+- [x] ✅ `data/scripts/dexnav.inc`
+- [x] ✅ `data/scripts/elite_four.inc`
+- [ ] ⬜ `data/scripts/fame_checker_frlg.inc`
+- [ ] ⬜ `data/scripts/field_move_scripts.inc`
+- [x] ✅ `data/scripts/field_poison.inc`
+- [x] ✅ `data/scripts/flash.inc`
+- [ ] ⬜ `data/scripts/flavor_text.inc`
+- [x] ✅ `data/scripts/follower.inc`
+- [x] ✅ `data/scripts/gabby_and_ty.inc`
+- [x] ✅ `data/scripts/gift_altering_cave.inc`
+- [x] ✅ `data/scripts/gift_aurora_ticket.inc`
+- [x] ✅ `data/scripts/gift_battle_card.inc`
+- [x] ✅ `data/scripts/gift_mystic_ticket.inc`
+- [x] ✅ `data/scripts/gift_old_sea_map.inc`
+- [x] ✅ `data/scripts/gift_pichu.inc`
+- [x] ✅ `data/scripts/gift_stamp_card.inc`
+- [x] ✅ `data/scripts/gift_trainer.inc`
+- [x] ✅ `data/scripts/hall_of_fame.inc`
+- [ ] ⬜ `data/scripts/hall_of_fame_frlg.inc`
+- [x] ✅ `data/scripts/interview.inc`
+- [x] ✅ `data/scripts/item_ball_scripts.inc`
+- [ ] ⬜ `data/scripts/item_ball_scripts_frlg.inc`
+- [x] ✅ `data/scripts/kecleon.inc`
+- [x] ✅ `data/scripts/lilycove_lady.inc`
+- [ ] ⬜ `data/scripts/mart_clerk.inc`
+- [x] ✅ `data/scripts/mauville_man.inc`
+- [ ] ⬜ `data/scripts/move_relearner.inc`
+- [x] ✅ `data/scripts/move_tutors.inc`
+- [ ] ⬜ `data/scripts/move_tutors_frlg.inc`
+- [x] ✅ `data/scripts/movement.inc`
+- [ ] ⬜ `data/scripts/mystery_event_club.inc`
+- [x] ✅ `data/scripts/new_game.inc`
+- [x] ✅ `data/scripts/obtain_item.inc`
+- [x] ✅ `data/scripts/pc.inc`
+- [x] ✅ `data/scripts/pc_transfer.inc`
+- [x] ✅ `data/scripts/pkmn_center_nurse.inc`
+- [ ] ⬜ `data/scripts/pkmn_center_nurse_frlg.inc`
+- [x] ✅ `data/scripts/players_house.inc`
+- [ ] ⬜ `data/scripts/pokedex_rating.inc`
+- [ ] ⬜ `data/scripts/pokemon_league.inc`
+- [ ] ⬜ `data/scripts/pokemon_mansion.inc`
+- [x] ✅ `data/scripts/prof_birch.inc`
+- [x] ✅ `data/scripts/profile_man.inc`
+- [x] ✅ `data/scripts/questionnaire.inc`
+- [x] ✅ `data/scripts/record_mix.inc`
+- [x] ✅ `data/scripts/repel.inc`
+- [x] ✅ `data/scripts/rival_graphics.inc`
+- [ ] ⬜ `data/scripts/roulette.inc`
+- [ ] ⬜ `data/scripts/route23.inc`
+- [x] ✅ `data/scripts/safari_zone.inc`
+- [ ] ⬜ `data/scripts/seagallop.inc`
+- [x] ✅ `data/scripts/secret_base.inc`
+- [x] ✅ `data/scripts/secret_power_tm.inc`
+- [x] ✅ `data/scripts/set_gym_trainers.inc`
+- [x] ✅ `data/scripts/shared_secret_base.inc`
+- [ ] ⬜ `data/scripts/silphco_doors.inc`
+- [ ] ⬜ `data/scripts/static_pokemon.inc`
+- [x] ✅ `data/scripts/std_msgbox.inc`
+- [x] ✅ `data/scripts/surf.inc`
+- [x] ✅ `data/scripts/test_signpost.inc`
+- [x] ✅ `data/scripts/trainer_battle.inc`
+- [ ] ⬜ `data/scripts/trainer_card_frlg.inc`
+- [x] ✅ `data/scripts/trainer_hill.inc`
+- [x] ✅ `data/scripts/trainer_script.inc`
+- [ ] ⬜ `data/scripts/trainer_tower.inc`
+- [ ] ⬜ `data/scripts/trainers_frlg.inc`
+- [x] ✅ `data/scripts/tv.inc`
+- [ ] ⬜ `data/scripts/wild_encounter.inc`
+
+</details>
+
+## C. `src/*.c` + battle/event — String Inti (jangan diterjemahkan setengah-setengah)
+
+- [ ] ⬜ `src/strings.c`
+- [ ] ⬜ `src/battle_message.c`
+- [ ] ⬜ `src/text_input_strings.c`
+- [ ] ⬜ `src/battle_dome.c`
+- [ ] ⬜ `src/battle_factory_screen.c`
+- [ ] ⬜ `src/party_menu.c`
+- [ ] ⬜ `src/pokedex.c`
+- [ ] ⬜ `src/shop.c`
+- [ ] ⬜ `src/easy_chat.c`
+- [ ] ⬜ `data/event_scripts.s`
+- [ ] ⬜ `data/battle_scripts_1.s`
+- [ ] ⬜ `data/battle_scripts_2.s`
+
+> Catatan: `src/battle_message.c` (3981 baris) & `src/strings.c` (1118 baris) masih ⬜ — ini pesan battle/sistem. Terjemahkan paling akhir agar tidak merusak format battle.
+
+## D. `data/maps/*/scripts.inc` — Dialog NPC per Map (594 file berdialog)
+
+✅ disentuh: 300 | ⬜ belum: 294 | tanpa dialog: 293
+
+<details><summary>⬜ BELUM diterjemahkan (masih Inggris penuh — kerjakan dari sini)</summary>
+
+- [ ] `data/maps/BattleFrontier_ExchangeServiceCorner/scripts.inc`
+- [ ] `data/maps/CeladonCity_Condominiums_1F_Frlg/scripts.inc`
+- [ ] `data/maps/CeladonCity_Condominiums_2F_Frlg/scripts.inc`
+- [ ] `data/maps/CeladonCity_Condominiums_3F_Frlg/scripts.inc`
+- [ ] `data/maps/CeladonCity_Condominiums_RoofRoom_Frlg/scripts.inc`
+- [ ] `data/maps/CeladonCity_Condominiums_Roof_Frlg/scripts.inc`
+- [ ] `data/maps/CeladonCity_DepartmentStore_1F_Frlg/scripts.inc`
+- [ ] `data/maps/CeladonCity_DepartmentStore_2F_Frlg/scripts.inc`
+- [ ] `data/maps/CeladonCity_DepartmentStore_3F_Frlg/scripts.inc`
+- [ ] `data/maps/CeladonCity_DepartmentStore_4F_Frlg/scripts.inc`
+- [ ] `data/maps/CeladonCity_DepartmentStore_5F_Frlg/scripts.inc`
+- [ ] `data/maps/CeladonCity_DepartmentStore_Roof_Frlg/scripts.inc`
+- [ ] `data/maps/CeladonCity_Frlg/scripts.inc`
+- [ ] `data/maps/CeladonCity_GameCorner_Frlg/scripts.inc`
+- [ ] `data/maps/CeladonCity_GameCorner_PrizeRoom_Frlg/scripts.inc`
+- [ ] `data/maps/CeladonCity_Gym_Frlg/scripts.inc`
+- [ ] `data/maps/CeladonCity_Hotel_Frlg/scripts.inc`
+- [ ] `data/maps/CeladonCity_House1_Frlg/scripts.inc`
+- [ ] `data/maps/CeladonCity_PokemonCenter_1F_Frlg/scripts.inc`
+- [ ] `data/maps/CeladonCity_Restaurant_Frlg/scripts.inc`
+- [ ] `data/maps/CeruleanCave_B1F_Frlg/scripts.inc`
+- [ ] `data/maps/CeruleanCity_BikeShop_Frlg/scripts.inc`
+- [ ] `data/maps/CeruleanCity_Frlg/scripts.inc`
+- [ ] `data/maps/CeruleanCity_Gym_Frlg/scripts.inc`
+- [ ] `data/maps/CeruleanCity_House1_Frlg/scripts.inc`
+- [ ] `data/maps/CeruleanCity_House2_Frlg/scripts.inc`
+- [ ] `data/maps/CeruleanCity_House3_Frlg/scripts.inc`
+- [ ] `data/maps/CeruleanCity_House4_Frlg/scripts.inc`
+- [ ] `data/maps/CeruleanCity_House5_Frlg/scripts.inc`
+- [ ] `data/maps/CeruleanCity_Mart_Frlg/scripts.inc`
+- [ ] `data/maps/CeruleanCity_PokemonCenter_1F_Frlg/scripts.inc`
+- [ ] `data/maps/CinnabarIsland_Frlg/scripts.inc`
+- [ ] `data/maps/CinnabarIsland_Gym_Frlg/scripts.inc`
+- [ ] `data/maps/CinnabarIsland_Mart_Frlg/scripts.inc`
+- [ ] `data/maps/CinnabarIsland_PokemonCenter_1F_Frlg/scripts.inc`
+- [ ] `data/maps/CinnabarIsland_PokemonLab_Entrance_Frlg/scripts.inc`
+- [ ] `data/maps/CinnabarIsland_PokemonLab_ExperimentRoom_Frlg/scripts.inc`
+- [ ] `data/maps/CinnabarIsland_PokemonLab_Lounge_Frlg/scripts.inc`
+- [ ] `data/maps/CinnabarIsland_PokemonLab_ResearchRoom_Frlg/scripts.inc`
+- [ ] `data/maps/DiglettsCave_NorthEntrance_Frlg/scripts.inc`
+- [ ] `data/maps/DiglettsCave_SouthEntrance_Frlg/scripts.inc`
+- [ ] `data/maps/FiveIsland_Frlg/scripts.inc`
+- [ ] `data/maps/FiveIsland_House1_Frlg/scripts.inc`
+- [ ] `data/maps/FiveIsland_House2_Frlg/scripts.inc`
+- [ ] `data/maps/FiveIsland_LostCave_Room10_Frlg/scripts.inc`
+- [ ] `data/maps/FiveIsland_LostCave_Room1_Frlg/scripts.inc`
+- [ ] `data/maps/FiveIsland_LostCave_Room4_Frlg/scripts.inc`
+- [ ] `data/maps/FiveIsland_Meadow_Frlg/scripts.inc`
+- [ ] `data/maps/FiveIsland_MemorialPillar_Frlg/scripts.inc`
+- [ ] `data/maps/FiveIsland_PokemonCenter_1F_Frlg/scripts.inc`
+- [ ] `data/maps/FiveIsland_ResortGorgeous_Frlg/scripts.inc`
+- [ ] `data/maps/FiveIsland_ResortGorgeous_House_Frlg/scripts.inc`
+- [ ] `data/maps/FiveIsland_RocketWarehouse_Frlg/scripts.inc`
+- [ ] `data/maps/FiveIsland_WaterLabyrinth_Frlg/scripts.inc`
+- [ ] `data/maps/FourIsland_Frlg/scripts.inc`
+- [ ] `data/maps/FourIsland_House1_Frlg/scripts.inc`
+- [ ] `data/maps/FourIsland_IcefallCave_Back_Frlg/scripts.inc`
+- [ ] `data/maps/FourIsland_LoreleisHouse_Frlg/scripts.inc`
+- [ ] `data/maps/FourIsland_Mart_Frlg/scripts.inc`
+- [ ] `data/maps/FourIsland_PokemonCenter_1F_Frlg/scripts.inc`
+- [ ] `data/maps/FuchsiaCity_Frlg/scripts.inc`
+- [ ] `data/maps/FuchsiaCity_Gym_Frlg/scripts.inc`
+- [ ] `data/maps/FuchsiaCity_House1_Frlg/scripts.inc`
+- [ ] `data/maps/FuchsiaCity_House2_Frlg/scripts.inc`
+- [ ] `data/maps/FuchsiaCity_House3_Frlg/scripts.inc`
+- [ ] `data/maps/FuchsiaCity_Mart_Frlg/scripts.inc`
+- [ ] `data/maps/FuchsiaCity_PokemonCenter_1F_Frlg/scripts.inc`
+- [ ] `data/maps/FuchsiaCity_SafariZone_Entrance_Frlg/scripts.inc`
+- [ ] `data/maps/FuchsiaCity_SafariZone_Office_Frlg/scripts.inc`
+- [ ] `data/maps/FuchsiaCity_WardensHouse_Frlg/scripts.inc`
+- [ ] `data/maps/IndigoPlateau_PokemonCenter_1F_Frlg/scripts.inc`
+- [ ] `data/maps/LavenderTown_Frlg/scripts.inc`
+- [ ] `data/maps/LavenderTown_House1_Frlg/scripts.inc`
+- [ ] `data/maps/LavenderTown_House2_Frlg/scripts.inc`
+- [ ] `data/maps/LavenderTown_Mart_Frlg/scripts.inc`
+- [ ] `data/maps/LavenderTown_PokemonCenter_1F_Frlg/scripts.inc`
+- [ ] `data/maps/LavenderTown_VolunteerPokemonHouse_Frlg/scripts.inc`
+- [ ] `data/maps/LittlerootTown_BrendansHouse_2F/scripts.inc`
+- [ ] `data/maps/MtChimney/scripts.inc`
+- [ ] `data/maps/MtEmber_Exterior_Frlg/scripts.inc`
+- [ ] `data/maps/MtEmber_RubyPath_B3F_Frlg/scripts.inc`
+- [ ] `data/maps/MtMoon_1F_Frlg/scripts.inc`
+- [ ] `data/maps/MtMoon_B2F_Frlg/scripts.inc`
+- [ ] `data/maps/OneIsland_Frlg/scripts.inc`
+- [ ] `data/maps/OneIsland_House1_Frlg/scripts.inc`
+- [ ] `data/maps/OneIsland_House2_Frlg/scripts.inc`
+- [ ] `data/maps/OneIsland_KindleRoad_EmberSpa_Frlg/scripts.inc`
+- [ ] `data/maps/OneIsland_KindleRoad_Frlg/scripts.inc`
+- [ ] `data/maps/OneIsland_PokemonCenter_1F_Frlg/scripts.inc`
+- [ ] `data/maps/OneIsland_TreasureBeach_Frlg/scripts.inc`
+- [ ] `data/maps/PalletTown_Frlg/scripts.inc`
+- [ ] `data/maps/PalletTown_PlayersHouse_1F_Frlg/scripts.inc`
+- [ ] `data/maps/PalletTown_PlayersHouse_2F_Frlg/scripts.inc`
+- [ ] `data/maps/PalletTown_ProfessorOaksLab_Frlg/scripts.inc`
+- [ ] `data/maps/PalletTown_RivalsHouse_Frlg/scripts.inc`
+- [ ] `data/maps/PewterCity_Frlg/scripts.inc`
+- [ ] `data/maps/PewterCity_Gym_Frlg/scripts.inc`
+- [ ] `data/maps/PewterCity_House1_Frlg/scripts.inc`
+- [ ] `data/maps/PewterCity_House2_Frlg/scripts.inc`
+- [ ] `data/maps/PewterCity_Mart_Frlg/scripts.inc`
+- [ ] `data/maps/PewterCity_Museum_1F_Frlg/scripts.inc`
+- [ ] `data/maps/PewterCity_Museum_2F_Frlg/scripts.inc`
+- [ ] `data/maps/PewterCity_PokemonCenter_1F_Frlg/scripts.inc`
+- [ ] `data/maps/PokemonLeague_AgathasRoom_Frlg/scripts.inc`
+- [ ] `data/maps/PokemonLeague_BrunosRoom_Frlg/scripts.inc`
+- [ ] `data/maps/PokemonLeague_ChampionsRoom_Frlg/scripts.inc`
+- [ ] `data/maps/PokemonLeague_HallOfFame_Frlg/scripts.inc`
+- [ ] `data/maps/PokemonLeague_LancesRoom_Frlg/scripts.inc`
+- [ ] `data/maps/PokemonLeague_LoreleisRoom_Frlg/scripts.inc`
+- [ ] `data/maps/PokemonMansion_1F_Frlg/scripts.inc`
+- [ ] `data/maps/PokemonMansion_2F_Frlg/scripts.inc`
+- [ ] `data/maps/PokemonMansion_3F_Frlg/scripts.inc`
+- [ ] `data/maps/PokemonMansion_B1F_Frlg/scripts.inc`
+- [ ] `data/maps/PokemonTower_1F_Frlg/scripts.inc`
+- [ ] `data/maps/PokemonTower_2F_Frlg/scripts.inc`
+- [ ] `data/maps/PokemonTower_3F_Frlg/scripts.inc`
+- [ ] `data/maps/PokemonTower_4F_Frlg/scripts.inc`
+- [ ] `data/maps/PokemonTower_5F_Frlg/scripts.inc`
+- [ ] `data/maps/PokemonTower_6F_Frlg/scripts.inc`
+- [ ] `data/maps/PokemonTower_7F_Frlg/scripts.inc`
+- [ ] `data/maps/RockTunnel_1F_Frlg/scripts.inc`
+- [ ] `data/maps/RockTunnel_B1F_Frlg/scripts.inc`
+- [ ] `data/maps/RocketHideout_B1F_Frlg/scripts.inc`
+- [ ] `data/maps/RocketHideout_B2F_Frlg/scripts.inc`
+- [ ] `data/maps/RocketHideout_B3F_Frlg/scripts.inc`
+- [ ] `data/maps/RocketHideout_B4F_Frlg/scripts.inc`
+- [ ] `data/maps/RocketHideout_Elevator_Frlg/scripts.inc`
+- [ ] `data/maps/Route10_Frlg/scripts.inc`
+- [ ] `data/maps/Route10_PokemonCenter_1F_Frlg/scripts.inc`
+- [ ] `data/maps/Route11_EastEntrance_1F_Frlg/scripts.inc`
+- [ ] `data/maps/Route11_EastEntrance_2F_Frlg/scripts.inc`
+- [ ] `data/maps/Route11_Frlg/scripts.inc`
+- [ ] `data/maps/Route124_DivingTreasureHuntersHouse/scripts.inc`
+- [ ] `data/maps/Route12_FishingHouse_Frlg/scripts.inc`
+- [ ] `data/maps/Route12_Frlg/scripts.inc`
+- [ ] `data/maps/Route12_NorthEntrance_1F_Frlg/scripts.inc`
+- [ ] `data/maps/Route12_NorthEntrance_2F_Frlg/scripts.inc`
+- [ ] `data/maps/Route13_Frlg/scripts.inc`
+- [ ] `data/maps/Route14_Frlg/scripts.inc`
+- [ ] `data/maps/Route15_Frlg/scripts.inc`
+- [ ] `data/maps/Route15_WestEntrance_1F_Frlg/scripts.inc`
+- [ ] `data/maps/Route15_WestEntrance_2F_Frlg/scripts.inc`
+- [ ] `data/maps/Route16_Frlg/scripts.inc`
+- [ ] `data/maps/Route16_House_Frlg/scripts.inc`
+- [ ] `data/maps/Route16_NorthEntrance_1F_Frlg/scripts.inc`
+- [ ] `data/maps/Route16_NorthEntrance_2F_Frlg/scripts.inc`
+- [ ] `data/maps/Route17_Frlg/scripts.inc`
+- [ ] `data/maps/Route18_EastEntrance_1F_Frlg/scripts.inc`
+- [ ] `data/maps/Route18_EastEntrance_2F_Frlg/scripts.inc`
+- [ ] `data/maps/Route18_Frlg/scripts.inc`
+- [ ] `data/maps/Route19_Frlg/scripts.inc`
+- [ ] `data/maps/Route1_Frlg/scripts.inc`
+- [ ] `data/maps/Route20_Frlg/scripts.inc`
+- [ ] `data/maps/Route21_North_Frlg/scripts.inc`
+- [ ] `data/maps/Route21_South_Frlg/scripts.inc`
+- [ ] `data/maps/Route22_Frlg/scripts.inc`
+- [ ] `data/maps/Route23_Frlg/scripts.inc`
+- [ ] `data/maps/Route24_Frlg/scripts.inc`
+- [ ] `data/maps/Route25_Frlg/scripts.inc`
+- [ ] `data/maps/Route25_SeaCottage_Frlg/scripts.inc`
+- [ ] `data/maps/Route2_EastBuilding_Frlg/scripts.inc`
+- [ ] `data/maps/Route2_Frlg/scripts.inc`
+- [ ] `data/maps/Route2_House_Frlg/scripts.inc`
+- [ ] `data/maps/Route2_ViridianForest_NorthEntrance_Frlg/scripts.inc`
+- [ ] `data/maps/Route2_ViridianForest_SouthEntrance_Frlg/scripts.inc`
+- [ ] `data/maps/Route3_Frlg/scripts.inc`
+- [ ] `data/maps/Route4_Frlg/scripts.inc`
+- [ ] `data/maps/Route4_PokemonCenter_1F_Frlg/scripts.inc`
+- [ ] `data/maps/Route5_Frlg/scripts.inc`
+- [ ] `data/maps/Route5_PokemonDayCare_Frlg/scripts.inc`
+- [ ] `data/maps/Route5_SouthEntrance_Frlg/scripts.inc`
+- [ ] `data/maps/Route6_Frlg/scripts.inc`
+- [ ] `data/maps/Route6_NorthEntrance_Frlg/scripts.inc`
+- [ ] `data/maps/Route7_EastEntrance_Frlg/scripts.inc`
+- [ ] `data/maps/Route7_Frlg/scripts.inc`
+- [ ] `data/maps/Route8_Frlg/scripts.inc`
+- [ ] `data/maps/Route8_WestEntrance_Frlg/scripts.inc`
+- [ ] `data/maps/Route9_Frlg/scripts.inc`
+- [ ] `data/maps/SSAnne_1F_Corridor_Frlg/scripts.inc`
+- [ ] `data/maps/SSAnne_1F_Room1_Frlg/scripts.inc`
+- [ ] `data/maps/SSAnne_1F_Room2_Frlg/scripts.inc`
+- [ ] `data/maps/SSAnne_1F_Room3_Frlg/scripts.inc`
+- [ ] `data/maps/SSAnne_1F_Room4_Frlg/scripts.inc`
+- [ ] `data/maps/SSAnne_1F_Room5_Frlg/scripts.inc`
+- [ ] `data/maps/SSAnne_1F_Room6_Frlg/scripts.inc`
+- [ ] `data/maps/SSAnne_1F_Room7_Frlg/scripts.inc`
+- [ ] `data/maps/SSAnne_2F_Corridor_Frlg/scripts.inc`
+- [ ] `data/maps/SSAnne_2F_Room1_Frlg/scripts.inc`
+- [ ] `data/maps/SSAnne_2F_Room2_Frlg/scripts.inc`
+- [ ] `data/maps/SSAnne_2F_Room3_Frlg/scripts.inc`
+- [ ] `data/maps/SSAnne_2F_Room4_Frlg/scripts.inc`
+- [ ] `data/maps/SSAnne_2F_Room5_Frlg/scripts.inc`
+- [ ] `data/maps/SSAnne_2F_Room6_Frlg/scripts.inc`
+- [ ] `data/maps/SSAnne_3F_Corridor_Frlg/scripts.inc`
+- [ ] `data/maps/SSAnne_B1F_Room1_Frlg/scripts.inc`
+- [ ] `data/maps/SSAnne_B1F_Room2_Frlg/scripts.inc`
+- [ ] `data/maps/SSAnne_B1F_Room3_Frlg/scripts.inc`
+- [ ] `data/maps/SSAnne_B1F_Room4_Frlg/scripts.inc`
+- [ ] `data/maps/SSAnne_B1F_Room5_Frlg/scripts.inc`
+- [ ] `data/maps/SSAnne_CaptainsOffice_Frlg/scripts.inc`
+- [ ] `data/maps/SSAnne_Deck_Frlg/scripts.inc`
+- [ ] `data/maps/SSAnne_Kitchen_Frlg/scripts.inc`
+- [ ] `data/maps/SafariZone_Center_Frlg/scripts.inc`
+- [ ] `data/maps/SafariZone_Center_RestHouse_Frlg/scripts.inc`
+- [ ] `data/maps/SafariZone_East_Frlg/scripts.inc`
+- [ ] `data/maps/SafariZone_East_RestHouse_Frlg/scripts.inc`
+- [ ] `data/maps/SafariZone_North_Frlg/scripts.inc`
+- [ ] `data/maps/SafariZone_North_RestHouse_Frlg/scripts.inc`
+- [ ] `data/maps/SafariZone_SecretHouse_Frlg/scripts.inc`
+- [ ] `data/maps/SafariZone_West_Frlg/scripts.inc`
+- [ ] `data/maps/SafariZone_West_RestHouse_Frlg/scripts.inc`
+- [ ] `data/maps/SaffronCity_CopycatsHouse_1F_Frlg/scripts.inc`
+- [ ] `data/maps/SaffronCity_CopycatsHouse_2F_Frlg/scripts.inc`
+- [ ] `data/maps/SaffronCity_Dojo_Frlg/scripts.inc`
+- [ ] `data/maps/SaffronCity_Frlg/scripts.inc`
+- [ ] `data/maps/SaffronCity_Gym_Frlg/scripts.inc`
+- [ ] `data/maps/SaffronCity_House_Frlg/scripts.inc`
+- [ ] `data/maps/SaffronCity_Mart_Frlg/scripts.inc`
+- [ ] `data/maps/SaffronCity_MrPsychicsHouse_Frlg/scripts.inc`
+- [ ] `data/maps/SaffronCity_PokemonCenter_1F_Frlg/scripts.inc`
+- [ ] `data/maps/SaffronCity_PokemonTrainerFanClub_Frlg/scripts.inc`
+- [ ] `data/maps/SeafoamIslands_B4F_Frlg/scripts.inc`
+- [ ] `data/maps/SevenIsland_Frlg/scripts.inc`
+- [ ] `data/maps/SevenIsland_House_Room1_Frlg/scripts.inc`
+- [ ] `data/maps/SevenIsland_Mart_Frlg/scripts.inc`
+- [ ] `data/maps/SevenIsland_PokemonCenter_1F_Frlg/scripts.inc`
+- [ ] `data/maps/SevenIsland_SevaultCanyon_Entrance_Frlg/scripts.inc`
+- [ ] `data/maps/SevenIsland_SevaultCanyon_Frlg/scripts.inc`
+- [ ] `data/maps/SevenIsland_SevaultCanyon_House_Frlg/scripts.inc`
+- [ ] `data/maps/SevenIsland_SevaultCanyon_TanobyKey_Frlg/scripts.inc`
+- [ ] `data/maps/SevenIsland_TanobyRuins_Frlg/scripts.inc`
+- [ ] `data/maps/SevenIsland_TrainerTower_Frlg/scripts.inc`
+- [ ] `data/maps/SilphCo_10F_Frlg/scripts.inc`
+- [ ] `data/maps/SilphCo_11F_Frlg/scripts.inc`
+- [ ] `data/maps/SilphCo_1F_Frlg/scripts.inc`
+- [ ] `data/maps/SilphCo_2F_Frlg/scripts.inc`
+- [ ] `data/maps/SilphCo_3F_Frlg/scripts.inc`
+- [ ] `data/maps/SilphCo_4F_Frlg/scripts.inc`
+- [ ] `data/maps/SilphCo_5F_Frlg/scripts.inc`
+- [ ] `data/maps/SilphCo_6F_Frlg/scripts.inc`
+- [ ] `data/maps/SilphCo_7F_Frlg/scripts.inc`
+- [ ] `data/maps/SilphCo_8F_Frlg/scripts.inc`
+- [ ] `data/maps/SilphCo_9F_Frlg/scripts.inc`
+- [ ] `data/maps/SixIsland_DottedHole_SapphireRoom_Frlg/scripts.inc`
+- [ ] `data/maps/SixIsland_Frlg/scripts.inc`
+- [ ] `data/maps/SixIsland_GreenPath_Frlg/scripts.inc`
+- [ ] `data/maps/SixIsland_House_Frlg/scripts.inc`
+- [ ] `data/maps/SixIsland_Mart_Frlg/scripts.inc`
+- [ ] `data/maps/SixIsland_OutcastIsland_Frlg/scripts.inc`
+- [ ] `data/maps/SixIsland_PatternBush_Frlg/scripts.inc`
+- [ ] `data/maps/SixIsland_PokemonCenter_1F_Frlg/scripts.inc`
+- [ ] `data/maps/SixIsland_RuinValley_Frlg/scripts.inc`
+- [ ] `data/maps/SixIsland_WaterPath_Frlg/scripts.inc`
+- [ ] `data/maps/SixIsland_WaterPath_House1_Frlg/scripts.inc`
+- [ ] `data/maps/SixIsland_WaterPath_House2_Frlg/scripts.inc`
+- [ ] `data/maps/ThreeIsland_BerryForest_Frlg/scripts.inc`
+- [ ] `data/maps/ThreeIsland_BondBridge_Frlg/scripts.inc`
+- [ ] `data/maps/ThreeIsland_DunsparceTunnel_Frlg/scripts.inc`
+- [ ] `data/maps/ThreeIsland_Frlg/scripts.inc`
+- [ ] `data/maps/ThreeIsland_House1_Frlg/scripts.inc`
+- [ ] `data/maps/ThreeIsland_House2_Frlg/scripts.inc`
+- [ ] `data/maps/ThreeIsland_House3_Frlg/scripts.inc`
+- [ ] `data/maps/ThreeIsland_House4_Frlg/scripts.inc`
+- [ ] `data/maps/ThreeIsland_House5_Frlg/scripts.inc`
+- [ ] `data/maps/ThreeIsland_Mart_Frlg/scripts.inc`
+- [ ] `data/maps/ThreeIsland_PokemonCenter_1F_Frlg/scripts.inc`
+- [ ] `data/maps/ThreeIsland_Port_Frlg/scripts.inc`
+- [ ] `data/maps/TrainerTower_Lobby_Frlg/scripts.inc`
+- [ ] `data/maps/TwoIsland_CapeBrink_House_Frlg/scripts.inc`
+- [ ] `data/maps/TwoIsland_Frlg/scripts.inc`
+- [ ] `data/maps/TwoIsland_House_Frlg/scripts.inc`
+- [ ] `data/maps/TwoIsland_JoyfulGameCorner_Frlg/scripts.inc`
+- [ ] `data/maps/TwoIsland_PokemonCenter_1F_Frlg/scripts.inc`
+- [ ] `data/maps/UndergroundPath_EastEntrance_Frlg/scripts.inc`
+- [ ] `data/maps/UndergroundPath_SouthEntrance_Frlg/scripts.inc`
+- [ ] `data/maps/UndergroundPath_WestEntrance_Frlg/scripts.inc`
+- [ ] `data/maps/VermilionCity_Frlg/scripts.inc`
+- [ ] `data/maps/VermilionCity_Gym_Frlg/scripts.inc`
+- [ ] `data/maps/VermilionCity_House1_Frlg/scripts.inc`
+- [ ] `data/maps/VermilionCity_House2_Frlg/scripts.inc`
+- [ ] `data/maps/VermilionCity_House3_Frlg/scripts.inc`
+- [ ] `data/maps/VermilionCity_Mart_Frlg/scripts.inc`
+- [ ] `data/maps/VermilionCity_PokemonCenter_1F_Frlg/scripts.inc`
+- [ ] `data/maps/VermilionCity_PokemonFanClub_Frlg/scripts.inc`
+- [ ] `data/maps/VictoryRoad_1F_Frlg/scripts.inc`
+- [ ] `data/maps/VictoryRoad_2F_Frlg/scripts.inc`
+- [ ] `data/maps/VictoryRoad_3F_Frlg/scripts.inc`
+- [ ] `data/maps/ViridianCity_Frlg/scripts.inc`
+- [ ] `data/maps/ViridianCity_Gym_Frlg/scripts.inc`
+- [ ] `data/maps/ViridianCity_House_Frlg/scripts.inc`
+- [ ] `data/maps/ViridianCity_Mart_Frlg/scripts.inc`
+- [ ] `data/maps/ViridianCity_PokemonCenter_1F_Frlg/scripts.inc`
+- [ ] `data/maps/ViridianCity_School_Frlg/scripts.inc`
+- [ ] `data/maps/ViridianForest_Frlg/scripts.inc`
+
+</details>
+
+<details><summary>✅ SUDAH disentuh (perlu verifikasi sisa Inggris per baris)</summary>
+
+- [x] `data/maps/AbandonedShip_CaptainsOffice/scripts.inc`
+- [x] `data/maps/AbandonedShip_Corridors_1F/scripts.inc`
+- [x] `data/maps/AbandonedShip_Corridors_B1F/scripts.inc`
+- [x] `data/maps/AbandonedShip_HiddenFloorCorridors/scripts.inc`
+- [x] `data/maps/AbandonedShip_HiddenFloorRooms/scripts.inc`
+- [x] `data/maps/AbandonedShip_Rooms2_1F/scripts.inc`
+- [x] `data/maps/AbandonedShip_Rooms2_B1F/scripts.inc`
+- [x] `data/maps/AbandonedShip_Rooms_1F/scripts.inc`
+- [x] `data/maps/AbandonedShip_Rooms_B1F/scripts.inc`
+- [x] `data/maps/AquaHideout_1F/scripts.inc`
+- [x] `data/maps/AquaHideout_B1F/scripts.inc`
+- [x] `data/maps/AquaHideout_B2F/scripts.inc`
+- [x] `data/maps/BattleFrontier_BattleArenaBattleRoom/scripts.inc`
+- [x] `data/maps/BattleFrontier_BattleArenaCorridor/scripts.inc`
+- [x] `data/maps/BattleFrontier_BattleArenaLobby/scripts.inc`
+- [x] `data/maps/BattleFrontier_BattleDomeBattleRoom/scripts.inc`
+- [x] `data/maps/BattleFrontier_BattleDomeLobby/scripts.inc`
+- [x] `data/maps/BattleFrontier_BattleDomePreBattleRoom/scripts.inc`
+- [x] `data/maps/BattleFrontier_BattleFactoryBattleRoom/scripts.inc`
+- [x] `data/maps/BattleFrontier_BattleFactoryLobby/scripts.inc`
+- [x] `data/maps/BattleFrontier_BattleFactoryPreBattleRoom/scripts.inc`
+- [x] `data/maps/BattleFrontier_BattlePalaceBattleRoom/scripts.inc`
+- [x] `data/maps/BattleFrontier_BattlePalaceCorridor/scripts.inc`
+- [x] `data/maps/BattleFrontier_BattlePalaceLobby/scripts.inc`
+- [x] `data/maps/BattleFrontier_BattlePikeCorridor/scripts.inc`
+- [x] `data/maps/BattleFrontier_BattlePikeLobby/scripts.inc`
+- [x] `data/maps/BattleFrontier_BattlePikeRoomFinal/scripts.inc`
+- [x] `data/maps/BattleFrontier_BattlePikeRoomNormal/scripts.inc`
+- [x] `data/maps/BattleFrontier_BattlePikeThreePathRoom/scripts.inc`
+- [x] `data/maps/BattleFrontier_BattlePyramidFloor/scripts.inc`
+- [x] `data/maps/BattleFrontier_BattlePyramidLobby/scripts.inc`
+- [x] `data/maps/BattleFrontier_BattlePyramidTop/scripts.inc`
+- [x] `data/maps/BattleFrontier_BattleTowerBattleRoom/scripts.inc`
+- [x] `data/maps/BattleFrontier_BattleTowerLobby/scripts.inc`
+- [x] `data/maps/BattleFrontier_BattleTowerMultiBattleRoom/scripts.inc`
+- [x] `data/maps/BattleFrontier_BattleTowerMultiPartnerRoom/scripts.inc`
+- [x] `data/maps/BattleFrontier_Lounge1/scripts.inc`
+- [x] `data/maps/BattleFrontier_Lounge2/scripts.inc`
+- [x] `data/maps/BattleFrontier_Lounge3/scripts.inc`
+- [x] `data/maps/BattleFrontier_Lounge4/scripts.inc`
+- [x] `data/maps/BattleFrontier_Lounge5/scripts.inc`
+- [x] `data/maps/BattleFrontier_Lounge6/scripts.inc`
+- [x] `data/maps/BattleFrontier_Lounge7/scripts.inc`
+- [x] `data/maps/BattleFrontier_Lounge8/scripts.inc`
+- [x] `data/maps/BattleFrontier_Mart/scripts.inc`
+- [x] `data/maps/BattleFrontier_OutsideEast/scripts.inc`
+- [x] `data/maps/BattleFrontier_OutsideWest/scripts.inc`
+- [x] `data/maps/BattleFrontier_PokemonCenter_1F/scripts.inc`
+- [x] `data/maps/BattleFrontier_RankingHall/scripts.inc`
+- [x] `data/maps/BattleFrontier_ReceptionGate/scripts.inc`
+- [x] `data/maps/BattleFrontier_ScottsHouse/scripts.inc`
+- [x] `data/maps/CaveOfOrigin_B1F/scripts.inc`
+- [x] `data/maps/DesertUnderpass/scripts.inc`
+- [x] `data/maps/DewfordTown/scripts.inc`
+- [x] `data/maps/DewfordTown_Gym/scripts.inc`
+- [x] `data/maps/DewfordTown_Hall/scripts.inc`
+- [x] `data/maps/DewfordTown_House1/scripts.inc`
+- [x] `data/maps/DewfordTown_House2/scripts.inc`
+- [x] `data/maps/DewfordTown_PokemonCenter_1F/scripts.inc`
+- [x] `data/maps/EverGrandeCity/scripts.inc`
+- [x] `data/maps/EverGrandeCity_ChampionsRoom/scripts.inc`
+- [x] `data/maps/EverGrandeCity_DrakesRoom/scripts.inc`
+- [x] `data/maps/EverGrandeCity_GlaciasRoom/scripts.inc`
+- [x] `data/maps/EverGrandeCity_HallOfFame/scripts.inc`
+- [x] `data/maps/EverGrandeCity_PhoebesRoom/scripts.inc`
+- [x] `data/maps/EverGrandeCity_PokemonCenter_1F/scripts.inc`
+- [x] `data/maps/EverGrandeCity_PokemonLeague_1F/scripts.inc`
+- [x] `data/maps/EverGrandeCity_SidneysRoom/scripts.inc`
+- [x] `data/maps/FallarborTown/scripts.inc`
+- [x] `data/maps/FallarborTown_BattleTentCorridor/scripts.inc`
+- [x] `data/maps/FallarborTown_BattleTentLobby/scripts.inc`
+- [x] `data/maps/FallarborTown_CozmosHouse/scripts.inc`
+- [x] `data/maps/FallarborTown_Mart/scripts.inc`
+- [x] `data/maps/FallarborTown_MoveRelearnersHouse/scripts.inc`
+- [x] `data/maps/FallarborTown_PokemonCenter_1F/scripts.inc`
+- [x] `data/maps/FarawayIsland_Interior/scripts.inc`
+- [x] `data/maps/FortreeCity/scripts.inc`
+- [x] `data/maps/FortreeCity_DecorationShop/scripts.inc`
+- [x] `data/maps/FortreeCity_Gym/scripts.inc`
+- [x] `data/maps/FortreeCity_House1/scripts.inc`
+- [x] `data/maps/FortreeCity_House2/scripts.inc`
+- [x] `data/maps/FortreeCity_House3/scripts.inc`
+- [x] `data/maps/FortreeCity_House4/scripts.inc`
+- [x] `data/maps/FortreeCity_House5/scripts.inc`
+- [x] `data/maps/FortreeCity_Mart/scripts.inc`
+- [x] `data/maps/FortreeCity_PokemonCenter_1F/scripts.inc`
+- [x] `data/maps/GraniteCave_1F/scripts.inc`
+- [x] `data/maps/GraniteCave_StevensRoom/scripts.inc`
+- [x] `data/maps/InsideOfTruck/scripts.inc`
+- [x] `data/maps/JaggedPass/scripts.inc`
+- [x] `data/maps/LavaridgeTown/scripts.inc`
+- [x] `data/maps/LavaridgeTown_Gym_1F/scripts.inc`
+- [x] `data/maps/LavaridgeTown_HerbShop/scripts.inc`
+- [x] `data/maps/LavaridgeTown_House/scripts.inc`
+- [x] `data/maps/LavaridgeTown_Mart/scripts.inc`
+- [x] `data/maps/LavaridgeTown_PokemonCenter_1F/scripts.inc`
+- [x] `data/maps/LilycoveCity/scripts.inc`
+- [x] `data/maps/LilycoveCity_ContestHall/scripts.inc`
+- [x] `data/maps/LilycoveCity_ContestLobby/scripts.inc`
+- [x] `data/maps/LilycoveCity_CoveLilyMotel_1F/scripts.inc`
+- [x] `data/maps/LilycoveCity_CoveLilyMotel_2F/scripts.inc`
+- [x] `data/maps/LilycoveCity_DepartmentStoreRooftop/scripts.inc`
+- [x] `data/maps/LilycoveCity_DepartmentStore_1F/scripts.inc`
+- [x] `data/maps/LilycoveCity_DepartmentStore_2F/scripts.inc`
+- [x] `data/maps/LilycoveCity_DepartmentStore_3F/scripts.inc`
+- [x] `data/maps/LilycoveCity_DepartmentStore_4F/scripts.inc`
+- [x] `data/maps/LilycoveCity_DepartmentStore_5F/scripts.inc`
+- [x] `data/maps/LilycoveCity_Harbor/scripts.inc`
+- [x] `data/maps/LilycoveCity_House1/scripts.inc`
+- [x] `data/maps/LilycoveCity_House2/scripts.inc`
+- [x] `data/maps/LilycoveCity_House3/scripts.inc`
+- [x] `data/maps/LilycoveCity_House4/scripts.inc`
+- [x] `data/maps/LilycoveCity_LilycoveMuseum_1F/scripts.inc`
+- [x] `data/maps/LilycoveCity_LilycoveMuseum_2F/scripts.inc`
+- [x] `data/maps/LilycoveCity_MoveDeletersHouse/scripts.inc`
+- [x] `data/maps/LilycoveCity_PokemonCenter_1F/scripts.inc`
+- [x] `data/maps/LilycoveCity_PokemonTrainerFanClub/scripts.inc`
+- [x] `data/maps/LittlerootTown/scripts.inc`
+- [x] `data/maps/LittlerootTown_BrendansHouse_1F/scripts.inc`
+- [x] `data/maps/LittlerootTown_MaysHouse_1F/scripts.inc`
+- [x] `data/maps/LittlerootTown_MaysHouse_2F/scripts.inc`
+- [x] `data/maps/LittlerootTown_ProfessorBirchsLab/scripts.inc`
+- [x] `data/maps/MagmaHideout_1F/scripts.inc`
+- [x] `data/maps/MagmaHideout_2F_1R/scripts.inc`
+- [x] `data/maps/MagmaHideout_2F_2R/scripts.inc`
+- [x] `data/maps/MagmaHideout_3F_1R/scripts.inc`
+- [x] `data/maps/MagmaHideout_3F_2R/scripts.inc`
+- [x] `data/maps/MagmaHideout_4F/scripts.inc`
+- [x] `data/maps/MauvilleCity/scripts.inc`
+- [x] `data/maps/MauvilleCity_BikeShop/scripts.inc`
+- [x] `data/maps/MauvilleCity_GameCorner/scripts.inc`
+- [x] `data/maps/MauvilleCity_Gym/scripts.inc`
+- [x] `data/maps/MauvilleCity_House1/scripts.inc`
+- [x] `data/maps/MauvilleCity_House2/scripts.inc`
+- [x] `data/maps/MauvilleCity_Mart/scripts.inc`
+- [x] `data/maps/MauvilleCity_PokemonCenter_1F/scripts.inc`
+- [x] `data/maps/MauvilleCity_PokemonCenter_2F/scripts.inc`
+- [x] `data/maps/MeteorFalls_1F_1R/scripts.inc`
+- [x] `data/maps/MeteorFalls_1F_2R/scripts.inc`
+- [x] `data/maps/MeteorFalls_StevensCave/scripts.inc`
+- [x] `data/maps/MirageTower_4F/scripts.inc`
+- [x] `data/maps/MossdeepCity/scripts.inc`
+- [x] `data/maps/MossdeepCity_GameCorner_1F/scripts.inc`
+- [x] `data/maps/MossdeepCity_Gym/scripts.inc`
+- [x] `data/maps/MossdeepCity_House1/scripts.inc`
+- [x] `data/maps/MossdeepCity_House2/scripts.inc`
+- [x] `data/maps/MossdeepCity_House3/scripts.inc`
+- [x] `data/maps/MossdeepCity_House4/scripts.inc`
+- [x] `data/maps/MossdeepCity_Mart/scripts.inc`
+- [x] `data/maps/MossdeepCity_PokemonCenter_1F/scripts.inc`
+- [x] `data/maps/MossdeepCity_PokemonCenter_2F/scripts.inc`
+- [x] `data/maps/MossdeepCity_SpaceCenter_1F/scripts.inc`
+- [x] `data/maps/MossdeepCity_SpaceCenter_2F/scripts.inc`
+- [x] `data/maps/MossdeepCity_StevensHouse/scripts.inc`
+- [x] `data/maps/MtChimney_CableCarStation/scripts.inc`
+- [x] `data/maps/MtPyre_1F/scripts.inc`
+- [x] `data/maps/MtPyre_2F/scripts.inc`
+- [x] `data/maps/MtPyre_3F/scripts.inc`
+- [x] `data/maps/MtPyre_4F/scripts.inc`
+- [x] `data/maps/MtPyre_5F/scripts.inc`
+- [x] `data/maps/MtPyre_6F/scripts.inc`
+- [x] `data/maps/MtPyre_Summit/scripts.inc`
+- [x] `data/maps/NewMauville_Entrance/scripts.inc`
+- [x] `data/maps/NewMauville_Inside/scripts.inc`
+- [x] `data/maps/OldaleTown/scripts.inc`
+- [x] `data/maps/OldaleTown_House1/scripts.inc`
+- [x] `data/maps/OldaleTown_House2/scripts.inc`
+- [x] `data/maps/OldaleTown_Mart/scripts.inc`
+- [x] `data/maps/OldaleTown_PokemonCenter_1F/scripts.inc`
+- [x] `data/maps/PacifidlogTown/scripts.inc`
+- [x] `data/maps/PacifidlogTown_House1/scripts.inc`
+- [x] `data/maps/PacifidlogTown_House2/scripts.inc`
+- [x] `data/maps/PacifidlogTown_House3/scripts.inc`
+- [x] `data/maps/PacifidlogTown_House4/scripts.inc`
+- [x] `data/maps/PacifidlogTown_House5/scripts.inc`
+- [x] `data/maps/PacifidlogTown_PokemonCenter_1F/scripts.inc`
+- [x] `data/maps/PetalburgCity/scripts.inc`
+- [x] `data/maps/PetalburgCity_Gym/scripts.inc`
+- [x] `data/maps/PetalburgCity_House1/scripts.inc`
+- [x] `data/maps/PetalburgCity_House2/scripts.inc`
+- [x] `data/maps/PetalburgCity_Mart/scripts.inc`
+- [x] `data/maps/PetalburgCity_PokemonCenter_1F/scripts.inc`
+- [x] `data/maps/PetalburgCity_WallysHouse/scripts.inc`
+- [x] `data/maps/PetalburgWoods/scripts.inc`
+- [x] `data/maps/Route101/scripts.inc`
+- [x] `data/maps/Route102/scripts.inc`
+- [x] `data/maps/Route103/scripts.inc`
+- [x] `data/maps/Route104/scripts.inc`
+- [x] `data/maps/Route104_MrBrineysHouse/scripts.inc`
+- [x] `data/maps/Route105/scripts.inc`
+- [x] `data/maps/Route106/scripts.inc`
+- [x] `data/maps/Route109/scripts.inc`
+- [x] `data/maps/Route109_SeashoreHouse/scripts.inc`
+- [x] `data/maps/Route110/scripts.inc`
+- [x] `data/maps/Route110_SeasideCyclingRoadNorthEntrance/scripts.inc`
+- [x] `data/maps/Route110_SeasideCyclingRoadSouthEntrance/scripts.inc`
+- [x] `data/maps/Route110_TrickHouseEnd/scripts.inc`
+- [x] `data/maps/Route110_TrickHouseEntrance/scripts.inc`
+- [x] `data/maps/Route110_TrickHousePuzzle1/scripts.inc`
+- [x] `data/maps/Route110_TrickHousePuzzle2/scripts.inc`
+- [x] `data/maps/Route110_TrickHousePuzzle3/scripts.inc`
+- [x] `data/maps/Route110_TrickHousePuzzle4/scripts.inc`
+- [x] `data/maps/Route110_TrickHousePuzzle5/scripts.inc`
+- [x] `data/maps/Route110_TrickHousePuzzle6/scripts.inc`
+- [x] `data/maps/Route110_TrickHousePuzzle7/scripts.inc`
+- [x] `data/maps/Route110_TrickHousePuzzle8/scripts.inc`
+- [x] `data/maps/Route111/scripts.inc`
+- [x] `data/maps/Route111_OldLadysRestStop/scripts.inc`
+- [x] `data/maps/Route111_WinstrateFamilysHouse/scripts.inc`
+- [x] `data/maps/Route112/scripts.inc`
+- [x] `data/maps/Route112_CableCarStation/scripts.inc`
+- [x] `data/maps/Route113/scripts.inc`
+- [x] `data/maps/Route113_GlassWorkshop/scripts.inc`
+- [x] `data/maps/Route114/scripts.inc`
+- [x] `data/maps/Route114_FossilManiacsHouse/scripts.inc`
+- [x] `data/maps/Route114_FossilManiacsTunnel/scripts.inc`
+- [x] `data/maps/Route114_LanettesHouse/scripts.inc`
+- [x] `data/maps/Route115/scripts.inc`
+- [x] `data/maps/Route116/scripts.inc`
+- [x] `data/maps/Route116_TunnelersRestHouse/scripts.inc`
+- [x] `data/maps/Route117/scripts.inc`
+- [x] `data/maps/Route118/scripts.inc`
+- [x] `data/maps/Route119/scripts.inc`
+- [x] `data/maps/Route119_House/scripts.inc`
+- [x] `data/maps/Route119_WeatherInstitute_1F/scripts.inc`
+- [x] `data/maps/Route119_WeatherInstitute_2F/scripts.inc`
+- [x] `data/maps/Route120/scripts.inc`
+- [x] `data/maps/Route121/scripts.inc`
+- [x] `data/maps/Route123/scripts.inc`
+- [x] `data/maps/Route124/scripts.inc`
+- [x] `data/maps/Route128/scripts.inc`
+- [x] `data/maps/RustboroCity/scripts.inc`
+- [x] `data/maps/RustboroCity_CuttersHouse/scripts.inc`
+- [x] `data/maps/RustboroCity_DevonCorp_1F/scripts.inc`
+- [x] `data/maps/RustboroCity_DevonCorp_2F/scripts.inc`
+- [x] `data/maps/RustboroCity_DevonCorp_3F/scripts.inc`
+- [x] `data/maps/RustboroCity_Flat1_1F/scripts.inc`
+- [x] `data/maps/RustboroCity_Flat1_2F/scripts.inc`
+- [x] `data/maps/RustboroCity_Flat2_1F/scripts.inc`
+- [x] `data/maps/RustboroCity_Flat2_2F/scripts.inc`
+- [x] `data/maps/RustboroCity_Flat2_3F/scripts.inc`
+- [x] `data/maps/RustboroCity_Gym/scripts.inc`
+- [x] `data/maps/RustboroCity_House1/scripts.inc`
+- [x] `data/maps/RustboroCity_House2/scripts.inc`
+- [x] `data/maps/RustboroCity_House3/scripts.inc`
+- [x] `data/maps/RustboroCity_Mart/scripts.inc`
+- [x] `data/maps/RustboroCity_PokemonCenter_1F/scripts.inc`
+- [x] `data/maps/RustboroCity_PokemonSchool/scripts.inc`
+- [x] `data/maps/RusturfTunnel/scripts.inc`
+- [x] `data/maps/SSTidalCorridor/scripts.inc`
+- [x] `data/maps/SSTidalLowerDeck/scripts.inc`
+- [x] `data/maps/SSTidalRooms/scripts.inc`
+- [x] `data/maps/SeafloorCavern_Entrance/scripts.inc`
+- [x] `data/maps/SeafloorCavern_Room1/scripts.inc`
+- [x] `data/maps/SeafloorCavern_Room3/scripts.inc`
+- [x] `data/maps/SeafloorCavern_Room4/scripts.inc`
+- [x] `data/maps/SeafloorCavern_Room9/scripts.inc`
+- [x] `data/maps/ShoalCave_LowTideLowerRoom/scripts.inc`
+- [x] `data/maps/SkyPillar_Outside/scripts.inc`
+- [x] `data/maps/SkyPillar_Top/scripts.inc`
+- [x] `data/maps/SlateportCity/scripts.inc`
+- [x] `data/maps/SlateportCity_BattleTentCorridor/scripts.inc`
+- [x] `data/maps/SlateportCity_BattleTentLobby/scripts.inc`
+- [x] `data/maps/SlateportCity_Harbor/scripts.inc`
+- [x] `data/maps/SlateportCity_House/scripts.inc`
+- [x] `data/maps/SlateportCity_Mart/scripts.inc`
+- [x] `data/maps/SlateportCity_NameRatersHouse/scripts.inc`
+- [x] `data/maps/SlateportCity_OceanicMuseum_1F/scripts.inc`
+- [x] `data/maps/SlateportCity_OceanicMuseum_2F/scripts.inc`
+- [x] `data/maps/SlateportCity_PokemonCenter_1F/scripts.inc`
+- [x] `data/maps/SlateportCity_PokemonFanClub/scripts.inc`
+- [x] `data/maps/SlateportCity_SternsShipyard_1F/scripts.inc`
+- [x] `data/maps/SlateportCity_SternsShipyard_2F/scripts.inc`
+- [x] `data/maps/SootopolisCity/scripts.inc`
+- [x] `data/maps/SootopolisCity_Gym_1F/scripts.inc`
+- [x] `data/maps/SootopolisCity_Gym_B1F/scripts.inc`
+- [x] `data/maps/SootopolisCity_House1/scripts.inc`
+- [x] `data/maps/SootopolisCity_House2/scripts.inc`
+- [x] `data/maps/SootopolisCity_House3/scripts.inc`
+- [x] `data/maps/SootopolisCity_House4/scripts.inc`
+- [x] `data/maps/SootopolisCity_House5/scripts.inc`
+- [x] `data/maps/SootopolisCity_House6/scripts.inc`
+- [x] `data/maps/SootopolisCity_House7/scripts.inc`
+- [x] `data/maps/SootopolisCity_LotadAndSeedotHouse/scripts.inc`
+- [x] `data/maps/SootopolisCity_Mart/scripts.inc`
+- [x] `data/maps/SootopolisCity_MysteryEventsHouse_1F/scripts.inc`
+- [x] `data/maps/SootopolisCity_PokemonCenter_1F/scripts.inc`
+- [x] `data/maps/TrainerHill_Entrance/scripts.inc`
+- [x] `data/maps/Underwater_SeafloorCavern/scripts.inc`
+- [x] `data/maps/VerdanturfTown/scripts.inc`
+- [x] `data/maps/VerdanturfTown_BattleTentCorridor/scripts.inc`
+- [x] `data/maps/VerdanturfTown_BattleTentLobby/scripts.inc`
+- [x] `data/maps/VerdanturfTown_FriendshipRatersHouse/scripts.inc`
+- [x] `data/maps/VerdanturfTown_House/scripts.inc`
+- [x] `data/maps/VerdanturfTown_Mart/scripts.inc`
+- [x] `data/maps/VerdanturfTown_PokemonCenter_1F/scripts.inc`
+- [x] `data/maps/VerdanturfTown_WandasHouse/scripts.inc`
+- [x] `data/maps/VictoryRoad_1F/scripts.inc`
+- [x] `data/maps/VictoryRoad_B1F/scripts.inc`
+- [x] `data/maps/VictoryRoad_B2F/scripts.inc`
+
+</details>
+
+<details><summary>Tanpa dialog (tidak perlu diterjemahkan)</summary>
+
+- `data/maps/AbandonedShip_Deck/scripts.inc`
+- `data/maps/AbandonedShip_Room_B1F/scripts.inc`
+- `data/maps/AbandonedShip_Underwater1/scripts.inc`
+- `data/maps/AbandonedShip_Underwater2/scripts.inc`
+- `data/maps/AlteringCave/scripts.inc`
+- `data/maps/AncientTomb/scripts.inc`
+- `data/maps/AquaHideout_UnusedRubyMap1/scripts.inc`
+- `data/maps/AquaHideout_UnusedRubyMap2/scripts.inc`
+- `data/maps/AquaHideout_UnusedRubyMap3/scripts.inc`
+- `data/maps/ArtisanCave_1F/scripts.inc`
+- `data/maps/ArtisanCave_B1F/scripts.inc`
+- `data/maps/BattleColosseum_2P/scripts.inc`
+- `data/maps/BattleColosseum_2P_Frlg/scripts.inc`
+- `data/maps/BattleColosseum_4P/scripts.inc`
+- `data/maps/BattleColosseum_4P_Frlg/scripts.inc`
+- `data/maps/BattleFrontier_BattleDomeCorridor/scripts.inc`
+- `data/maps/BattleFrontier_BattlePikeRoomWildMons/scripts.inc`
+- `data/maps/BattleFrontier_BattleTowerCorridor/scripts.inc`
+- `data/maps/BattleFrontier_BattleTowerElevator/scripts.inc`
+- `data/maps/BattleFrontier_BattleTowerMultiCorridor/scripts.inc`
+- `data/maps/BattleFrontier_Lounge9/scripts.inc`
+- `data/maps/BattleFrontier_PokemonCenter_2F/scripts.inc`
+- `data/maps/BattlePyramidSquare01/scripts.inc`
+- `data/maps/BirthIsland_Exterior/scripts.inc`
+- `data/maps/BirthIsland_Exterior_Frlg/scripts.inc`
+- `data/maps/BirthIsland_Harbor/scripts.inc`
+- `data/maps/BirthIsland_Harbor_Frlg/scripts.inc`
+- `data/maps/CaveOfOrigin_1F/scripts.inc`
+- `data/maps/CaveOfOrigin_Entrance/scripts.inc`
+- `data/maps/CaveOfOrigin_UnusedRubySapphireMap1/scripts.inc`
+- `data/maps/CaveOfOrigin_UnusedRubySapphireMap2/scripts.inc`
+- `data/maps/CaveOfOrigin_UnusedRubySapphireMap3/scripts.inc`
+- `data/maps/CeladonCity_DepartmentStore_Elevator_Frlg/scripts.inc`
+- `data/maps/CeladonCity_PokemonCenter_2F_Frlg/scripts.inc`
+- `data/maps/CeruleanCave_1F_Frlg/scripts.inc`
+- `data/maps/CeruleanCave_2F_Frlg/scripts.inc`
+- `data/maps/CeruleanCity_PokemonCenter_2F_Frlg/scripts.inc`
+- `data/maps/CinnabarIsland_PokemonCenter_2F_Frlg/scripts.inc`
+- `data/maps/ContestHall/scripts.inc`
+- `data/maps/DesertRuins/scripts.inc`
+- `data/maps/DewfordTown_PokemonCenter_2F/scripts.inc`
+- `data/maps/DiglettsCave_B1F_Frlg/scripts.inc`
+- `data/maps/EverGrandeCity_Hall1/scripts.inc`
+- `data/maps/EverGrandeCity_Hall2/scripts.inc`
+- `data/maps/EverGrandeCity_Hall3/scripts.inc`
+- `data/maps/EverGrandeCity_Hall4/scripts.inc`
+- `data/maps/EverGrandeCity_Hall5/scripts.inc`
+- `data/maps/EverGrandeCity_PokemonCenter_2F/scripts.inc`
+- `data/maps/EverGrandeCity_PokemonLeague_2F/scripts.inc`
+- `data/maps/FallarborTown_BattleTentBattleRoom/scripts.inc`
+- `data/maps/FallarborTown_PokemonCenter_2F/scripts.inc`
+- `data/maps/FarawayIsland_Entrance/scripts.inc`
+- `data/maps/FieryPath/scripts.inc`
+- `data/maps/FiveIsland_Harbor_Frlg/scripts.inc`
+- `data/maps/FiveIsland_LostCave_Entrance_Frlg/scripts.inc`
+- `data/maps/FiveIsland_LostCave_Room11_Frlg/scripts.inc`
+- `data/maps/FiveIsland_LostCave_Room12_Frlg/scripts.inc`
+- `data/maps/FiveIsland_LostCave_Room13_Frlg/scripts.inc`
+- `data/maps/FiveIsland_LostCave_Room14_Frlg/scripts.inc`
+- `data/maps/FiveIsland_LostCave_Room2_Frlg/scripts.inc`
+- `data/maps/FiveIsland_LostCave_Room3_Frlg/scripts.inc`
+- `data/maps/FiveIsland_LostCave_Room5_Frlg/scripts.inc`
+- `data/maps/FiveIsland_LostCave_Room6_Frlg/scripts.inc`
+- `data/maps/FiveIsland_LostCave_Room7_Frlg/scripts.inc`
+- `data/maps/FiveIsland_LostCave_Room8_Frlg/scripts.inc`
+- `data/maps/FiveIsland_LostCave_Room9_Frlg/scripts.inc`
+- `data/maps/FiveIsland_PokemonCenter_2F_Frlg/scripts.inc`
+- `data/maps/FortreeCity_PokemonCenter_2F/scripts.inc`
+- `data/maps/FourIsland_Harbor_Frlg/scripts.inc`
+- `data/maps/FourIsland_House2_Frlg/scripts.inc`
+- `data/maps/FourIsland_IcefallCave_1F_Frlg/scripts.inc`
+- `data/maps/FourIsland_IcefallCave_B1F_Frlg/scripts.inc`
+- `data/maps/FourIsland_IcefallCave_Entrance_Frlg/scripts.inc`
+- `data/maps/FourIsland_PokemonCenter_2F_Frlg/scripts.inc`
+- `data/maps/FourIsland_PokemonDayCare_Frlg/scripts.inc`
+- `data/maps/FuchsiaCity_PokemonCenter_2F_Frlg/scripts.inc`
+- `data/maps/GraniteCave_B1F/scripts.inc`
+- `data/maps/GraniteCave_B2F/scripts.inc`
+- `data/maps/IndigoPlateau_Exterior_Frlg/scripts.inc`
+- `data/maps/IndigoPlateau_PokemonCenter_2F_Frlg/scripts.inc`
+- `data/maps/IslandCave/scripts.inc`
+- `data/maps/LavaridgeTown_Gym_B1F/scripts.inc`
+- `data/maps/LavaridgeTown_PokemonCenter_2F/scripts.inc`
+- `data/maps/LavenderTown_PokemonCenter_2F_Frlg/scripts.inc`
+- `data/maps/LilycoveCity_DepartmentStoreElevator/scripts.inc`
+- `data/maps/LilycoveCity_PokemonCenter_2F/scripts.inc`
+- `data/maps/LilycoveCity_UnusedMart/scripts.inc`
+- `data/maps/MagmaHideout_2F_3R/scripts.inc`
+- `data/maps/MagmaHideout_3F_3R/scripts.inc`
+- `data/maps/MarineCave_End/scripts.inc`
+- `data/maps/MarineCave_Entrance/scripts.inc`
+- `data/maps/MeteorFalls_B1F_1R/scripts.inc`
+- `data/maps/MeteorFalls_B1F_2R/scripts.inc`
+- `data/maps/MirageTower_1F/scripts.inc`
+- `data/maps/MirageTower_2F/scripts.inc`
+- `data/maps/MirageTower_3F/scripts.inc`
+- `data/maps/MossdeepCity_GameCorner_B1F/scripts.inc`
+- `data/maps/MtEmber_RubyPath_1F_Frlg/scripts.inc`
+- `data/maps/MtEmber_RubyPath_B1F_Frlg/scripts.inc`
+- `data/maps/MtEmber_RubyPath_B1F_Stairs_Frlg/scripts.inc`
+- `data/maps/MtEmber_RubyPath_B2F_Frlg/scripts.inc`
+- `data/maps/MtEmber_RubyPath_B2F_Stairs_Frlg/scripts.inc`
+- `data/maps/MtEmber_RubyPath_B4F_Frlg/scripts.inc`
+- `data/maps/MtEmber_RubyPath_B5F_Frlg/scripts.inc`
+- `data/maps/MtEmber_SummitPath_1F_Frlg/scripts.inc`
+- `data/maps/MtEmber_SummitPath_2F_Frlg/scripts.inc`
+- `data/maps/MtEmber_SummitPath_3F_Frlg/scripts.inc`
+- `data/maps/MtEmber_Summit_Frlg/scripts.inc`
+- `data/maps/MtMoon_B1F_Frlg/scripts.inc`
+- `data/maps/MtPyre_Exterior/scripts.inc`
+- `data/maps/NavelRock_1F_Frlg/scripts.inc`
+- `data/maps/NavelRock_B1F/scripts.inc`
+- `data/maps/NavelRock_B1F_Frlg/scripts.inc`
+- `data/maps/NavelRock_BasePath_B10F_Frlg/scripts.inc`
+- `data/maps/NavelRock_BasePath_B11F_Frlg/scripts.inc`
+- `data/maps/NavelRock_BasePath_B1F_Frlg/scripts.inc`
+- `data/maps/NavelRock_BasePath_B2F_Frlg/scripts.inc`
+- `data/maps/NavelRock_BasePath_B3F_Frlg/scripts.inc`
+- `data/maps/NavelRock_BasePath_B4F_Frlg/scripts.inc`
+- `data/maps/NavelRock_BasePath_B5F_Frlg/scripts.inc`
+- `data/maps/NavelRock_BasePath_B6F_Frlg/scripts.inc`
+- `data/maps/NavelRock_BasePath_B7F_Frlg/scripts.inc`
+- `data/maps/NavelRock_BasePath_B8F_Frlg/scripts.inc`
+- `data/maps/NavelRock_BasePath_B9F_Frlg/scripts.inc`
+- `data/maps/NavelRock_Base_Frlg/scripts.inc`
+- `data/maps/NavelRock_Bottom/scripts.inc`
+- `data/maps/NavelRock_Down01/scripts.inc`
+- `data/maps/NavelRock_Down02/scripts.inc`
+- `data/maps/NavelRock_Down03/scripts.inc`
+- `data/maps/NavelRock_Down04/scripts.inc`
+- `data/maps/NavelRock_Down05/scripts.inc`
+- `data/maps/NavelRock_Down06/scripts.inc`
+- `data/maps/NavelRock_Down07/scripts.inc`
+- `data/maps/NavelRock_Down08/scripts.inc`
+- `data/maps/NavelRock_Down09/scripts.inc`
+- `data/maps/NavelRock_Down10/scripts.inc`
+- `data/maps/NavelRock_Down11/scripts.inc`
+- `data/maps/NavelRock_Entrance/scripts.inc`
+- `data/maps/NavelRock_Exterior/scripts.inc`
+- `data/maps/NavelRock_Exterior_Frlg/scripts.inc`
+- `data/maps/NavelRock_Fork/scripts.inc`
+- `data/maps/NavelRock_Fork_Frlg/scripts.inc`
+- `data/maps/NavelRock_Harbor/scripts.inc`
+- `data/maps/NavelRock_Harbor_Frlg/scripts.inc`
+- `data/maps/NavelRock_SummitPath_2F_Frlg/scripts.inc`
+- `data/maps/NavelRock_SummitPath_3F_Frlg/scripts.inc`
+- `data/maps/NavelRock_SummitPath_4F_Frlg/scripts.inc`
+- `data/maps/NavelRock_SummitPath_5F_Frlg/scripts.inc`
+- `data/maps/NavelRock_Summit_Frlg/scripts.inc`
+- `data/maps/NavelRock_Top/scripts.inc`
+- `data/maps/NavelRock_Up1/scripts.inc`
+- `data/maps/NavelRock_Up2/scripts.inc`
+- `data/maps/NavelRock_Up3/scripts.inc`
+- `data/maps/NavelRock_Up4/scripts.inc`
+- `data/maps/OldaleTown_PokemonCenter_2F/scripts.inc`
+- `data/maps/OneIsland_Harbor_Frlg/scripts.inc`
+- `data/maps/OneIsland_PokemonCenter_2F_Frlg/scripts.inc`
+- `data/maps/PacifidlogTown_PokemonCenter_2F/scripts.inc`
+- `data/maps/PetalburgCity_PokemonCenter_2F/scripts.inc`
+- `data/maps/PewterCity_PokemonCenter_2F_Frlg/scripts.inc`
+- `data/maps/PowerPlant_Frlg/scripts.inc`
+- `data/maps/RecordCorner/scripts.inc`
+- `data/maps/RecordCorner_Frlg/scripts.inc`
+- `data/maps/Route104_PrettyPetalFlowerShop/scripts.inc`
+- `data/maps/Route104_Prototype/scripts.inc`
+- `data/maps/Route104_PrototypePrettyPetalFlowerShop/scripts.inc`
+- `data/maps/Route107/scripts.inc`
+- `data/maps/Route108/scripts.inc`
+- `data/maps/Route10_PokemonCenter_2F_Frlg/scripts.inc`
+- `data/maps/Route110_TrickHouseCorridor/scripts.inc`
+- `data/maps/Route117_PokemonDayCare/scripts.inc`
+- `data/maps/Route121_SafariZoneEntrance/scripts.inc`
+- `data/maps/Route122/scripts.inc`
+- `data/maps/Route123_BerryMastersHouse/scripts.inc`
+- `data/maps/Route125/scripts.inc`
+- `data/maps/Route126/scripts.inc`
+- `data/maps/Route127/scripts.inc`
+- `data/maps/Route129/scripts.inc`
+- `data/maps/Route130/scripts.inc`
+- `data/maps/Route131/scripts.inc`
+- `data/maps/Route132/scripts.inc`
+- `data/maps/Route133/scripts.inc`
+- `data/maps/Route134/scripts.inc`
+- `data/maps/Route19_UnusedHouse_Frlg/scripts.inc`
+- `data/maps/Route22_NorthEntrance_Frlg/scripts.inc`
+- `data/maps/Route4_PokemonCenter_2F_Frlg/scripts.inc`
+- `data/maps/Route6_UnusedHouse_Frlg/scripts.inc`
+- `data/maps/RustboroCity_PokemonCenter_2F/scripts.inc`
+- `data/maps/SSAnne_B1F_Corridor_Frlg/scripts.inc`
+- `data/maps/SSAnne_Exterior_Frlg/scripts.inc`
+- `data/maps/SafariZone_North/scripts.inc`
+- `data/maps/SafariZone_Northeast/scripts.inc`
+- `data/maps/SafariZone_Northwest/scripts.inc`
+- `data/maps/SafariZone_RestHouse/scripts.inc`
+- `data/maps/SafariZone_South/scripts.inc`
+- `data/maps/SafariZone_Southeast/scripts.inc`
+- `data/maps/SafariZone_Southwest/scripts.inc`
+- `data/maps/SaffronCity_Connection_Frlg/scripts.inc`
+- `data/maps/SaffronCity_PokemonCenter_2F_Frlg/scripts.inc`
+- `data/maps/ScorchedSlab/scripts.inc`
+- `data/maps/SeafloorCavern_Room2/scripts.inc`
+- `data/maps/SeafloorCavern_Room5/scripts.inc`
+- `data/maps/SeafloorCavern_Room6/scripts.inc`
+- `data/maps/SeafloorCavern_Room7/scripts.inc`
+- `data/maps/SeafloorCavern_Room8/scripts.inc`
+- `data/maps/SeafoamIslands_1F_Frlg/scripts.inc`
+- `data/maps/SeafoamIslands_B1F_Frlg/scripts.inc`
+- `data/maps/SeafoamIslands_B2F_Frlg/scripts.inc`
+- `data/maps/SeafoamIslands_B3F_Frlg/scripts.inc`
+- `data/maps/SealedChamber_InnerRoom/scripts.inc`
+- `data/maps/SealedChamber_OuterRoom/scripts.inc`
+- `data/maps/SevenIsland_Harbor_Frlg/scripts.inc`
+- `data/maps/SevenIsland_House_Room2_Frlg/scripts.inc`
+- `data/maps/SevenIsland_PokemonCenter_2F_Frlg/scripts.inc`
+- `data/maps/SevenIsland_TanobyRuins_DilfordChamber_Frlg/scripts.inc`
+- `data/maps/SevenIsland_TanobyRuins_LiptooChamber_Frlg/scripts.inc`
+- `data/maps/SevenIsland_TanobyRuins_MoneanChamber_Frlg/scripts.inc`
+- `data/maps/SevenIsland_TanobyRuins_RixyChamber_Frlg/scripts.inc`
+- `data/maps/SevenIsland_TanobyRuins_ScufibChamber_Frlg/scripts.inc`
+- `data/maps/SevenIsland_TanobyRuins_ViapoisChamber_Frlg/scripts.inc`
+- `data/maps/SevenIsland_TanobyRuins_WeepthChamber_Frlg/scripts.inc`
+- `data/maps/ShoalCave_HighTideEntranceRoom/scripts.inc`
+- `data/maps/ShoalCave_HighTideInnerRoom/scripts.inc`
+- `data/maps/ShoalCave_LowTideEntranceRoom/scripts.inc`
+- `data/maps/ShoalCave_LowTideIceRoom/scripts.inc`
+- `data/maps/ShoalCave_LowTideInnerRoom/scripts.inc`
+- `data/maps/ShoalCave_LowTideStairsRoom/scripts.inc`
+- `data/maps/SilphCo_Elevator_Frlg/scripts.inc`
+- `data/maps/SixIsland_AlteringCave_Frlg/scripts.inc`
+- `data/maps/SixIsland_DottedHole_1F_Frlg/scripts.inc`
+- `data/maps/SixIsland_DottedHole_B1F_Frlg/scripts.inc`
+- `data/maps/SixIsland_DottedHole_B2F_Frlg/scripts.inc`
+- `data/maps/SixIsland_DottedHole_B3F_Frlg/scripts.inc`
+- `data/maps/SixIsland_DottedHole_B4F_Frlg/scripts.inc`
+- `data/maps/SixIsland_Harbor_Frlg/scripts.inc`
+- `data/maps/SixIsland_PokemonCenter_2F_Frlg/scripts.inc`
+- `data/maps/SkyPillar_1F/scripts.inc`
+- `data/maps/SkyPillar_2F/scripts.inc`
+- `data/maps/SkyPillar_3F/scripts.inc`
+- `data/maps/SkyPillar_4F/scripts.inc`
+- `data/maps/SkyPillar_5F/scripts.inc`
+- `data/maps/SkyPillar_Entrance/scripts.inc`
+- `data/maps/SlateportCity_BattleTentBattleRoom/scripts.inc`
+- `data/maps/SlateportCity_PokemonCenter_2F/scripts.inc`
+- `data/maps/SootopolisCity_MysteryEventsHouse_B1F/scripts.inc`
+- `data/maps/SootopolisCity_PokemonCenter_2F/scripts.inc`
+- `data/maps/SouthernIsland_Exterior/scripts.inc`
+- `data/maps/SouthernIsland_Interior/scripts.inc`
+- `data/maps/TerraCave_End/scripts.inc`
+- `data/maps/TerraCave_Entrance/scripts.inc`
+- `data/maps/ThreeIsland_Harbor_Frlg/scripts.inc`
+- `data/maps/ThreeIsland_PokemonCenter_2F_Frlg/scripts.inc`
+- `data/maps/TradeCenter/scripts.inc`
+- `data/maps/TradeCenter_Frlg/scripts.inc`
+- `data/maps/TrainerHill_1F/scripts.inc`
+- `data/maps/TrainerHill_2F/scripts.inc`
+- `data/maps/TrainerHill_3F/scripts.inc`
+- `data/maps/TrainerHill_4F/scripts.inc`
+- `data/maps/TrainerHill_Elevator/scripts.inc`
+- `data/maps/TrainerHill_Roof/scripts.inc`
+- `data/maps/TrainerTower_1F_Frlg/scripts.inc`
+- `data/maps/TrainerTower_2F_Frlg/scripts.inc`
+- `data/maps/TrainerTower_3F_Frlg/scripts.inc`
+- `data/maps/TrainerTower_4F_Frlg/scripts.inc`
+- `data/maps/TrainerTower_5F_Frlg/scripts.inc`
+- `data/maps/TrainerTower_6F_Frlg/scripts.inc`
+- `data/maps/TrainerTower_7F_Frlg/scripts.inc`
+- `data/maps/TrainerTower_8F_Frlg/scripts.inc`
+- `data/maps/TrainerTower_Elevator_Frlg/scripts.inc`
+- `data/maps/TrainerTower_Roof_Frlg/scripts.inc`
+- `data/maps/TwoIsland_CapeBrink_Frlg/scripts.inc`
+- `data/maps/TwoIsland_Harbor_Frlg/scripts.inc`
+- `data/maps/TwoIsland_PokemonCenter_2F_Frlg/scripts.inc`
+- `data/maps/UndergroundPath_EastWestTunnel_Frlg/scripts.inc`
+- `data/maps/UndergroundPath_NorthEntrance_Frlg/scripts.inc`
+- `data/maps/UndergroundPath_NorthSouthTunnel_Frlg/scripts.inc`
+- `data/maps/Underwater_MarineCave/scripts.inc`
+- `data/maps/Underwater_Route105/scripts.inc`
+- `data/maps/Underwater_Route124/scripts.inc`
+- `data/maps/Underwater_Route125/scripts.inc`
+- `data/maps/Underwater_Route126/scripts.inc`
+- `data/maps/Underwater_Route127/scripts.inc`
+- `data/maps/Underwater_Route128/scripts.inc`
+- `data/maps/Underwater_Route129/scripts.inc`
+- `data/maps/Underwater_Route134/scripts.inc`
+- `data/maps/Underwater_SealedChamber/scripts.inc`
+- `data/maps/Underwater_SootopolisCity/scripts.inc`
+- `data/maps/UnionRoom/scripts.inc`
+- `data/maps/UnionRoom_Frlg/scripts.inc`
+- `data/maps/VerdanturfTown_BattleTentBattleRoom/scripts.inc`
+- `data/maps/VerdanturfTown_PokemonCenter_2F/scripts.inc`
+- `data/maps/VermilionCity_PokemonCenter_2F_Frlg/scripts.inc`
+- `data/maps/ViridianCity_PokemonCenter_2F_Frlg/scripts.inc`
+
+</details>
+
+## 🔍 Cara cari sisa Inggris per file
+
+```bash
+# 1. Lihat baris .string yang masih Inggris di satu file
+grep -n '\.string' data/maps/OldaleTown/scripts.inc
+
+# 2. Bandingkan dengan upstream untuk lihat yang belum diubah
+git diff upstream/master -- data/maps/OldaleTown/scripts.inc | grep '^[+-].*\.string'
+
+# 3. Cari file maps yang masih 100% sama dengan upstream (belum diterjemahkan)
+for f in $(find data/maps -name scripts.inc); do git diff --quiet upstream/master -- "$f" && echo "$f"; done
+```
